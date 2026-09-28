@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngu_phap_30_ngay=self.webpackChunkngu_phap_30_ngay||[]).push([["3017"],{37632(e,a,p){p.d(a,{createWardleyServices:()=>n.J});var n=p(9427);p(4954)}}]);
