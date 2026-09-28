@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G23",
+   "q": "'I work in a bank,' Minh said. → Minh said that he ___ in a bank.",
+   "options": {
+    "A": "to work",
+    "B": "working",
+    "C": "worked",
+    "D": "work"
+   },
+   "answer": "C",
+   "explain": "Động từ tường thuật 'said' ở quá khứ → hiện tại đơn lùi về quá khứ đơn: worked."
+  },
+  {
+   "no": 2,
+   "code": "G23",
+   "q": "She ___ me that she was moving to Da Nang.",
+   "options": {
+    "A": "talked",
+    "B": "spoke",
+    "C": "said",
+    "D": "told"
+   },
+   "answer": "D",
+   "explain": "Có tân ngữ chỉ người 'me' ngay sau → told; 'said' không đi trực tiếp với tân ngữ người."
+  },
+  {
+   "no": 3,
+   "code": "G23",
+   "q": "'Close the window, please,' the teacher said to Nam. → The teacher asked Nam ___ the window.",
+   "options": {
+    "A": "closed",
+    "B": "closing",
+    "C": "close",
+    "D": "to close"
+   },
+   "answer": "D",
+   "explain": "Tường thuật yêu cầu → ask + O + to V: to close."
+  },
+  {
+   "no": 4,
+   "code": "G23",
+   "q": "'Don't touch the oven!' Mum said to us. → Mum told us ___ the oven.",
+   "options": {
+    "A": "to not touching",
+    "B": "not touch",
+    "C": "not to touch",
+    "D": "don't touch"
+   },
+   "answer": "C",
+   "explain": "Mệnh lệnh phủ định → tell + O + not to V."
+  },
+  {
+   "no": 5,
+   "code": "G23",
+   "q": "'Are you free on Saturday?' she asked me. → She asked me ___ free on Saturday.",
+   "options": {
+    "A": "am I",
+    "B": "if I was",
+    "C": "if was I",
+    "D": "was I"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi Yes/No → asked + if + S + V (trật tự câu kể, lùi thì): if I was."
+  },
+  {
+   "no": 6,
+   "code": "G23",
+   "q": "'I will help you,' he said. → He said he ___ help me.",
+   "options": {
+    "A": "would",
+    "B": "wills",
+    "C": "is going",
+    "D": "would to"
+   },
+   "answer": "A",
+   "explain": "will → would khi tường thuật; 'would' + V nguyên mẫu."
+  },
+  {
+   "no": 7,
+   "code": "G23",
+   "q": "'I can't come to the party tonight,' Lan said. → Lan said she ___ come to the party that night.",
+   "options": {
+    "A": "isn't able",
+    "B": "doesn't can",
+    "C": "can't not",
+    "D": "couldn't"
+   },
+   "answer": "D",
+   "explain": "can't → couldn't khi lùi thì; 'tonight' đổi thành 'that night'."
+  },
+  {
+   "no": 8,
+   "code": "G23",
+   "q": "'What's your name?' the receptionist asked. → The receptionist asked me what my name ___.",
+   "options": {
+    "A": "be",
+    "B": "was",
+    "C": "were",
+    "D": "being"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi Wh- gián tiếp: từ để hỏi + S + V; 'is' lùi thì thành 'was', chủ ngữ số ít 'my name'."
+  },
+  {
+   "no": 9,
+   "code": "G23",
+   "q": "'I'm watching TV,' Tom said. → Tom said he ___ TV.",
+   "options": {
+    "A": "watching",
+    "B": "were watching",
+    "C": "was watching",
+    "D": "is watch"
+   },
+   "answer": "C",
+   "explain": "Hiện tại tiếp diễn → quá khứ tiếp diễn; chủ ngữ 'he' → was watching."
+  },
+  {
+   "no": 10,
+   "code": "G23",
+   "q": "'I lost my wallet yesterday,' Hoa told me last week. → Hoa told me she had lost her wallet ___.",
+   "options": {
+    "A": "the day before",
+    "B": "today",
+    "C": "tomorrow",
+    "D": "the next day"
+   },
+   "answer": "A",
+   "explain": "Khi tường thuật, 'yesterday' đổi thành 'the day before'."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G23",
+   "q": "I met a tourist in the street. He asked me ___.",
+   "options": {
+    "A": "where did I work",
+    "B": "where I worked",
+    "C": "where do I work",
+    "D": "where was I work"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi gián tiếp dùng trật tự câu kể (S + V), bỏ trợ động từ → where I worked; 'where did I work' giữ trật tự câu hỏi nên sai."
+  },
+  {
+   "no": 2,
+   "code": "G23",
+   "q": "She ___ to me that she had already finished the report.",
+   "options": {
+    "A": "said",
+    "B": "asked",
+    "C": "told",
+    "D": "spoke"
+   },
+   "answer": "A",
+   "explain": "Có 'to me' → say to sb that…; 'told' không cần 'to' (told me), 'spoke' không đi với mệnh đề that."
+  },
+  {
+   "no": 3,
+   "code": "G23",
+   "q": "'Have you ever been to Japan?' she asked me. → She asked me ___.",
+   "options": {
+    "A": "that I had ever been to Japan",
+    "B": "had I ever been to Japan",
+    "C": "whether had I ever been to Japan",
+    "D": "if I had ever been to Japan"
+   },
+   "answer": "D",
+   "explain": "Câu hỏi Yes/No → if/whether + S + V, lùi hiện tại hoàn thành → quá khứ hoàn thành; không đảo 'had I', và không dùng 'that' cho câu hỏi."
+  },
+  {
+   "no": 4,
+   "code": "G23",
+   "q": "'I'm leaving tomorrow,' Peter said last Monday. → Peter said he was leaving ___.",
+   "options": {
+    "A": "the day before",
+    "B": "yesterday",
+    "C": "the next day",
+    "D": "tomorrow"
+   },
+   "answer": "C",
+   "explain": "Tường thuật sau thời điểm nói → 'tomorrow' đổi thành 'the next day'; 'the day before' là cách đổi của 'yesterday'."
+  },
+  {
+   "no": 5,
+   "code": "G23",
+   "q": "'You should see a doctor,' she said to me. → She ___ me to see a doctor.",
+   "options": {
+    "A": "advised",
+    "B": "said",
+    "C": "suggested",
+    "D": "insisted"
+   },
+   "answer": "A",
+   "explain": "Lời khuyên → advise + O + to V; 'suggest' không dùng với 'O + to V'."
+  },
+  {
+   "no": 6,
+   "code": "G23",
+   "q": "'Let's go to the cinema tonight,' said Hoa. → Hoa suggested ___ to the cinema that night.",
+   "options": {
+    "A": "to go",
+    "B": "going",
+    "C": "went",
+    "D": "us to go"
+   },
+   "answer": "B",
+   "explain": "suggest + V-ing (hoặc that + S + should V); 'suggested us to go' là lỗi phổ biến."
+  },
+  {
+   "no": 7,
+   "code": "G23",
+   "q": "'I didn't take your pen!' Nam said to me. → Nam denied ___ my pen.",
+   "options": {
+    "A": "took",
+    "B": "to take",
+    "C": "take",
+    "D": "taking"
+   },
+   "answer": "D",
+   "explain": "deny + V-ing → denied taking; không dùng deny + to V."
+  },
+  {
+   "no": 8,
+   "code": "G23",
+   "q": "'I'll pay for the meal,' Linh said. → Linh offered ___ for the meal.",
+   "options": {
+    "A": "pay",
+    "B": "that she pays",
+    "C": "to pay",
+    "D": "paying"
+   },
+   "answer": "C",
+   "explain": "offer + to V → offered to pay; 'offer' không đi với V-ing."
+  },
+  {
+   "no": 9,
+   "code": "G23",
+   "q": "The manager wanted to know ___ the documents were ready.",
+   "options": {
+    "A": "that",
+    "B": "whether",
+    "C": "did",
+    "D": "what"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi Yes/No gián tiếp → whether/if; 'that' dùng cho câu kể, 'what' cần thiếu một thành phần trong mệnh đề."
+  },
+  {
+   "no": 10,
+   "code": "G23",
+   "q": "'What are you doing?' Mum asked me. → Mum asked me what ___.",
+   "options": {
+    "A": "did I do",
+    "B": "was I doing",
+    "C": "am I doing",
+    "D": "I was doing"
+   },
+   "answer": "D",
+   "explain": "Trật tự câu kể + lùi thì → I was doing; 'was I doing' vẫn đảo trợ động từ nên sai."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G23",
+   "q": "Tìm lỗi sai: She (A) asked me (B) where was the (C) nearest bus stop (D) on that street.",
+   "options": {
+    "A": "asked me",
+    "B": "where was the",
+    "C": "nearest bus stop",
+    "D": "on that street"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi gián tiếp không đảo ngữ → 'where the nearest bus stop was'."
+  },
+  {
+   "no": 2,
+   "code": "G23",
+   "q": "Tìm lỗi sai: The teacher (A) said us (B) that the test (C) would be (D) postponed.",
+   "options": {
+    "A": "said us",
+    "B": "that the test",
+    "C": "would be",
+    "D": "postponed"
+   },
+   "answer": "A",
+   "explain": "'say' không đi trực tiếp với tân ngữ người → 'told us' hoặc 'said to us'."
+  },
+  {
+   "no": 3,
+   "code": "G23",
+   "q": "Chọn câu tường thuật đúng nhất cho: 'Sorry I'm late,' she said.",
+   "options": {
+    "A": "She apologised that being late.",
+    "B": "She apologised for late.",
+    "C": "She apologised for being late.",
+    "D": "She apologised to be late."
+   },
+   "answer": "C",
+   "explain": "apologise for + V-ing → apologised for being late; 'apologise to' chỉ đi với người (apologise to sb)."
+  },
+  {
+   "no": 4,
+   "code": "G23",
+   "q": "Chọn câu tường thuật đúng nhất cho: 'You broke the window, Tom!' the neighbour said.",
+   "options": {
+    "A": "The neighbour accused Tom of breaking the window.",
+    "B": "The neighbour blamed Tom of breaking the window.",
+    "C": "The neighbour accused Tom to break the window.",
+    "D": "The neighbour accused Tom for breaking the window."
+   },
+   "answer": "A",
+   "explain": "accuse + O + of + V-ing; 'blame' đi với 'for', không đi với 'of'."
+  },
+  {
+   "no": 5,
+   "code": "G23",
+   "q": "Chọn câu tường thuật đúng nhất cho: 'Remember to lock the door,' my father said to me.",
+   "options": {
+    "A": "My father reminded me to lock the door.",
+    "B": "My father reminded me locking the door.",
+    "C": "My father remembered me to lock the door.",
+    "D": "My father reminded that me lock the door."
+   },
+   "answer": "A",
+   "explain": "Nhắc ai làm gì → remind + O + to V; 'remember' không có nghĩa 'nhắc người khác'."
+  },
+  {
+   "no": 6,
+   "code": "G23",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "He said me if I could lend him some money.",
+    "B": "He asked me if I could lend him some money.",
+    "C": "He asked me could I lend him some money?",
+    "D": "He asked me that if I could lend him some money."
+   },
+   "answer": "B",
+   "explain": "Câu hỏi tường thuật: asked + O + if + S + V, kết thúc bằng dấu chấm; không giữ trật tự và dấu hỏi, không dùng 'said me', không thêm 'that'."
+  },
+  {
+   "no": 7,
+   "code": "G23",
+   "q": "'Water boils at 100°C,' the teacher said. → The teacher told us that water ___ at 100°C.",
+   "options": {
+    "A": "is boiled",
+    "B": "boil",
+    "C": "was boiling",
+    "D": "boils"
+   },
+   "answer": "D",
+   "explain": "Sự thật hiển nhiên → không cần lùi thì: boils; 'was boiling' sai nghĩa (hành động đang diễn ra)."
+  },
+  {
+   "no": 8,
+   "code": "G23",
+   "q": "Chọn câu tường thuật đúng nhất cho: 'If I were you, I'd apologise,' she told me.",
+   "options": {
+    "A": "She advised me apologising.",
+    "B": "She warned me not to apologise.",
+    "C": "She advised me to apologise.",
+    "D": "She suggested me to apologise."
+   },
+   "answer": "C",
+   "explain": "'If I were you, I'd…' là lời khuyên → advise + O + to V; 'suggested me to' sai cấu trúc."
+  },
+  {
+   "no": 9,
+   "code": "G23",
+   "q": "Chọn câu tường thuật đúng nhất cho: 'I'll never tell anyone your secret,' Minh said to me.",
+   "options": {
+    "A": "Minh denied telling anyone my secret.",
+    "B": "Minh promised not to tell anyone my secret.",
+    "C": "Minh threatened to tell anyone my secret.",
+    "D": "Minh promised me not telling anyone my secret."
+   },
+   "answer": "B",
+   "explain": "Lời hứa → promise + (not) to V; 'deny' chối việc đã làm trong quá khứ nên sai nghĩa."
+  },
+  {
+   "no": 10,
+   "code": "G23",
+   "q": "'Shall I carry your bag?' he asked her. → He ___ her bag.",
+   "options": {
+    "A": "offered carrying",
+    "B": "insisted her carrying",
+    "C": "offered to carry",
+    "D": "suggested carrying"
+   },
+   "answer": "C",
+   "explain": "'Shall I…?' là lời đề nghị giúp → offer + to V; 'suggested carrying' là gợi ý cùng làm, không phải đề nghị giúp."
+  }
+ ]
+}

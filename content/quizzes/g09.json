@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "Watch out! That glass ___ fall off the table.",
+      "options": {
+        "A": "going to",
+        "B": "is going to",
+        "C": "are going to",
+        "D": "is go to"
+      },
+      "answer": "B",
+      "explain": "Dự đoán có bằng chứng trước mắt → be going to; chủ ngữ 'That glass' → is going to."
+    },
+    {
+      "q": "The phone is ringing. – I ___ it.",
+      "options": {
+        "A": "get",
+        "B": "got",
+        "C": "'ll get",
+        "D": "'ll getting"
+      },
+      "answer": "C",
+      "explain": "Quyết định ngay lúc nói → will + V nguyên mẫu: I'll get it."
+    },
+    {
+      "q": "According to the school calendar, the semester ___ on 20 December.",
+      "options": {
+        "A": "end",
+        "B": "ending",
+        "C": "ends",
+        "D": "is end"
+      },
+      "answer": "C",
+      "explain": "Lịch trình chính thức → hiện tại đơn; chủ ngữ số ít → ends."
+    },
+    {
+      "q": "I think Vietnam ___ the match tonight.",
+      "options": {
+        "A": "win",
+        "B": "will wins",
+        "C": "won",
+        "D": "will win"
+      },
+      "answer": "D",
+      "explain": "'I think' → dự đoán chủ quan → will + V nguyên mẫu."
+    },
+    {
+      "q": "We ___ going to paint the kitchen this weekend.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "will",
+        "D": "be"
+      },
+      "answer": "A",
+      "explain": "Chủ ngữ 'We' → are going to + V."
+    },
+    {
+      "q": "I promise I ___ tell anyone your secret.",
+      "options": {
+        "A": "am not",
+        "B": "won't",
+        "C": "not",
+        "D": "wasn't"
+      },
+      "answer": "B",
+      "explain": "Lời hứa → will; phủ định won't + V nguyên mẫu."
+    },
+    {
+      "q": "___ I carry your bag for you?",
+      "options": {
+        "A": "Do",
+        "B": "Am",
+        "C": "Shall",
+        "D": "Does"
+      },
+      "answer": "C",
+      "explain": "Đề nghị giúp đỡ với I → Shall I + V?"
+    },
+    {
+      "q": "She ___ to study abroad next year. She has already applied to three universities.",
+      "options": {
+        "A": "will",
+        "B": "going",
+        "C": "goes",
+        "D": "is going"
+      },
+      "answer": "D",
+      "explain": "Dự định đã có từ trước → is going to + V; 'will to study' sai vì sau will không có 'to'."
+    },
+    {
+      "q": "I'll call you as soon as I ___ home.",
+      "options": {
+        "A": "get",
+        "B": "will get",
+        "C": "got",
+        "D": "getting"
+      },
+      "answer": "A",
+      "explain": "Sau 'as soon as' (mệnh đề thời gian) dùng hiện tại đơn dù nghĩa là tương lai."
+    },
+    {
+      "q": "We ___ dinner with Nam's parents at 7 tonight – we booked a table last week.",
+      "options": {
+        "A": "had",
+        "B": "are having",
+        "C": "are have",
+        "D": "have had"
+      },
+      "answer": "B",
+      "explain": "Kế hoạch đã sắp xếp cụ thể (đã đặt bàn) → hiện tại tiếp diễn."
+    }
+  ],
+  "normal": [
+    {
+      "q": "Why did you buy all that paint? – I ___ my bedroom.",
+      "options": {
+        "A": "'ll paint",
+        "B": "paint",
+        "C": "'m going to paint",
+        "D": "painted"
+      },
+      "answer": "C",
+      "explain": "Mua sơn cho thấy quyết định đã có từ trước → be going to; 'will' dùng cho quyết định tức thời."
+    },
+    {
+      "q": "A: I've spilled my coffee all over the table! – B: Don't worry, I ___ a cloth.",
+      "options": {
+        "A": "get",
+        "B": "got",
+        "C": "would get",
+        "D": "'ll get"
+      },
+      "answer": "D",
+      "explain": "Phản ứng, quyết định ngay lúc nói → will; hiện tại đơn 'get' không dùng cho quyết định tức thì."
+    },
+    {
+      "q": "___ you going to apply for that job?",
+      "options": {
+        "A": "Are",
+        "B": "Will",
+        "C": "Do",
+        "D": "Have"
+      },
+      "answer": "A",
+      "explain": "Câu hỏi với be going to: Am/Is/Are + S + going to + V; 'Will you going' sai."
+    },
+    {
+      "q": "We won't start the meeting until everyone ___.",
+      "options": {
+        "A": "will arrive",
+        "B": "arrives",
+        "C": "arrive",
+        "D": "arrived"
+      },
+      "answer": "B",
+      "explain": "Sau 'until' (mệnh đề thời gian) dùng hiện tại đơn, không dùng will; 'everyone' đi với động từ số ít."
+    },
+    {
+      "q": "He ___ come to the meeting – he's still sick.",
+      "options": {
+        "A": "won't probably",
+        "B": "probably will not to",
+        "C": "probably won't",
+        "D": "not probably will"
+      },
+      "answer": "C",
+      "explain": "'probably' đứng trước won't nhưng sau will: He probably won't come."
+    },
+    {
+      "q": "I ___ my dentist at 10 a.m. tomorrow. I made the appointment last week.",
+      "options": {
+        "A": "see",
+        "B": "saw",
+        "C": "'ve seen",
+        "D": "'m seeing"
+      },
+      "answer": "D",
+      "explain": "Cuộc hẹn đã sắp xếp với người khác → hiện tại tiếp diễn; 'see' ở hiện tại đơn chỉ dùng cho lịch trình chính thức."
+    },
+    {
+      "q": "Be careful! You ___ that vase!",
+      "options": {
+        "A": "'re going to break",
+        "B": "break",
+        "C": "'ll breaking",
+        "D": "broke"
+      },
+      "answer": "A",
+      "explain": "Nhìn thấy dấu hiệu sắp xảy ra → be going to; 'll breaking' sai vì sau will là V nguyên mẫu."
+    },
+    {
+      "q": "What time ___ the film ___ tonight? – At 8:30, according to the website.",
+      "options": {
+        "A": "is / start",
+        "B": "does / start",
+        "C": "will / starting",
+        "D": "do / starts"
+      },
+      "answer": "B",
+      "explain": "Lịch chiếu phim → hiện tại đơn: What time does the film start?; 'do / starts' sai trợ động từ và dạng động từ."
+    },
+    {
+      "q": "I'll lend you the book after I ___ it.",
+      "options": {
+        "A": "'ll finish",
+        "B": "'ll have finished",
+        "C": "'ve finished",
+        "D": "had finished"
+      },
+      "answer": "C",
+      "explain": "Sau 'after' trong mệnh đề thời gian tương lai dùng hiện tại (hoàn thành), không dùng will."
+    },
+    {
+      "q": "If it ___ tomorrow, we'll cancel the picnic.",
+      "options": {
+        "A": "will rain",
+        "B": "rain",
+        "C": "rained",
+        "D": "rains"
+      },
+      "answer": "D",
+      "explain": "Sau 'if' khi nói về tương lai dùng hiện tại đơn; chủ ngữ 'it' → rains."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: When I (A) will finish (B) my exams, I (C) am going to (D) travel around Vietnam.",
+      "options": {
+        "A": "will finish",
+        "B": "my exams",
+        "C": "am going to",
+        "D": "travel"
+      },
+      "answer": "A",
+      "explain": "Sau 'when' (mệnh đề thời gian) không dùng will → sửa thành 'finish'."
+    },
+    {
+      "q": "Chọn câu ĐÚNG ngữ pháp:",
+      "options": {
+        "A": "Shall we order a pizza?",
+        "B": "I will to go to the gym later.",
+        "C": "She going to visit Hue next month.",
+        "D": "The phone is ringing. I answer it."
+      },
+      "answer": "A",
+      "explain": "Shall we + V? là lời gợi ý đúng; các câu khác sai vì 'will to', thiếu 'is', và dùng hiện tại đơn cho quyết định tức thì."
+    },
+    {
+      "q": "A: There's no milk left. – B: Really? I ___ some when I go out.",
+      "options": {
+        "A": "buy",
+        "B": "'ll buy",
+        "C": "'m buying",
+        "D": "bought"
+      },
+      "answer": "B",
+      "explain": "'Really?' cho thấy B vừa mới biết → quyết định tức thời → will; hiện tại tiếp diễn chỉ dùng cho kế hoạch đã sắp xếp."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: I've decided to learn Japanese next year.",
+      "options": {
+        "A": "I learn Japanese next year.",
+        "B": "I'd learnt Japanese by next year.",
+        "C": "I'm going to learn Japanese next year.",
+        "D": "I learned Japanese last year."
+      },
+      "answer": "C",
+      "explain": "Quyết định đã có từ trước → be going to; hiện tại đơn chỉ dùng cho lịch trình chính thức."
+    },
+    {
+      "q": "The conference ___ at 9 a.m. on Monday and finishes at 5 p.m. on Wednesday.",
+      "options": {
+        "A": "is start",
+        "B": "will starting",
+        "C": "start",
+        "D": "starts"
+      },
+      "answer": "D",
+      "explain": "Lịch trình chính thức, song song với 'finishes' → hiện tại đơn starts."
+    },
+    {
+      "q": "Chọn câu SAI:",
+      "options": {
+        "A": "I'll call you as soon as I will land.",
+        "B": "I'll text you when I arrive.",
+        "C": "Look out! You're going to hit that car!",
+        "D": "We're flying to Da Nang on Friday – I've got the tickets."
+      },
+      "answer": "A",
+      "explain": "Sau 'as soon as' không dùng will → phải là 'as soon as I land'."
+    },
+    {
+      "q": "I've tried everything, but the door ___ open. I think the lock is broken.",
+      "options": {
+        "A": "isn't going",
+        "B": "won't",
+        "C": "don't",
+        "D": "not will"
+      },
+      "answer": "B",
+      "explain": "'won't' diễn tả sự 'từ chối' của đồ vật (không chịu mở); 'isn't going' thiếu 'to', 'don't' sai với chủ ngữ số ít."
+    },
+    {
+      "q": "Tìm lỗi sai: I (A) think it (B) is going to (C) be sunny tomorrow, so we (D) will to go to the beach.",
+      "options": {
+        "A": "think",
+        "B": "is going to",
+        "C": "be sunny",
+        "D": "will to go"
+      },
+      "answer": "D",
+      "explain": "Sau will dùng V nguyên mẫu không 'to' → 'will go'."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: I'll wait here. I won't leave before you come back.",
+      "options": {
+        "A": "I'll wait here until you will come back.",
+        "B": "I'll wait here by the time you come back.",
+        "C": "I'll wait here until you come back.",
+        "D": "I wait here until you came back."
+      },
+      "answer": "C",
+      "explain": "until + hiện tại đơn trong mệnh đề thời gian; 'until you will come' sai vì dùng will, 'by the time' sai nghĩa."
+    },
+    {
+      "q": "I'm not completely sure, but I expect prices ___ again next year.",
+      "options": {
+        "A": "rise",
+        "B": "are rising",
+        "C": "rose",
+        "D": "will rise"
+      },
+      "answer": "D",
+      "explain": "'I expect' + dự đoán chủ quan → will; hiện tại tiếp diễn chỉ dùng cho kế hoạch đã sắp xếp, không cho dự đoán."
+    }
+  ]
+}

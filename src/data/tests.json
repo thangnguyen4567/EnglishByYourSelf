@@ -1,0 +1,3150 @@
+[
+  {
+    "id": "tuan-1",
+    "name": "Bài kiểm tra Tuần 1",
+    "subtitle": "Các thì cơ bản (G01–G07)",
+    "day": 7,
+    "questions": [
+      {
+        "no": 1,
+        "code": "G02",
+        "q": "She ___ to work by bus every day.",
+        "level": "basic",
+        "options": {
+          "A": "is going",
+          "B": "went",
+          "C": "goes",
+          "D": "go"
+        },
+        "answer": "C",
+        "explain": "'every day' → HTĐ; chủ ngữ 'She' (ngôi 3 số ít) → goes."
+      },
+      {
+        "no": 2,
+        "code": "G03",
+        "q": "Look! The children ___ in the garden.",
+        "level": "basic",
+        "options": {
+          "A": "play",
+          "B": "played",
+          "C": "are playing",
+          "D": "plays"
+        },
+        "answer": "C",
+        "explain": "'Look!' → hành động đang xảy ra → HTTD."
+      },
+      {
+        "no": 3,
+        "code": "G02",
+        "q": "Water ___ at 100°C.",
+        "level": "basic",
+        "options": {
+          "A": "boil",
+          "B": "boils",
+          "C": "is boiling",
+          "D": "boiled"
+        },
+        "answer": "B",
+        "explain": "Sự thật hiển nhiên → HTĐ."
+      },
+      {
+        "no": 4,
+        "code": "G03",
+        "q": "I ___ this book at the moment, so I can't lend it to you.",
+        "level": "basic",
+        "options": {
+          "A": "reads",
+          "B": "have read",
+          "C": "read",
+          "D": "am reading"
+        },
+        "answer": "D",
+        "explain": "'at the moment' → HTTD."
+      },
+      {
+        "no": 5,
+        "code": "G03",
+        "q": "This soup ___ delicious.",
+        "level": "basic",
+        "options": {
+          "A": "taste",
+          "B": "has tasting",
+          "C": "is tasting",
+          "D": "tastes"
+        },
+        "answer": "D",
+        "explain": "'taste' mang nghĩa 'có vị' là động từ trạng thái → không dùng tiếp diễn."
+      },
+      {
+        "no": 6,
+        "code": "G04",
+        "q": "We ___ to Da Nang last summer.",
+        "level": "basic",
+        "options": {
+          "A": "went",
+          "B": "have gone",
+          "C": "go",
+          "D": "were going"
+        },
+        "answer": "A",
+        "explain": "'last summer' → mốc QK xác định → QKĐ."
+      },
+      {
+        "no": 7,
+        "code": "G05",
+        "q": "When I arrived, they ___ dinner.",
+        "level": "basic",
+        "options": {
+          "A": "are having",
+          "B": "were having",
+          "C": "had",
+          "D": "have"
+        },
+        "answer": "B",
+        "explain": "Hành động đang diễn ra (QKTD) thì hành động khác xen vào (arrived)."
+      },
+      {
+        "no": 8,
+        "code": "G05",
+        "q": "While she ___ TV, the phone rang.",
+        "level": "basic",
+        "options": {
+          "A": "watched",
+          "B": "has watched",
+          "C": "was watching",
+          "D": "watches"
+        },
+        "answer": "C",
+        "explain": "'While' + hành động đang diễn ra → QKTD."
+      },
+      {
+        "no": 9,
+        "code": "G06",
+        "q": "I ___ in Hanoi since 2015.",
+        "level": "basic",
+        "options": {
+          "A": "lived",
+          "B": "live",
+          "C": "have lived",
+          "D": "am living"
+        },
+        "answer": "C",
+        "explain": "'since 2015' → kéo dài từ QK đến nay → HTHT."
+      },
+      {
+        "no": 10,
+        "code": "G06",
+        "q": "___ you ever ___ sushi?",
+        "level": "basic",
+        "options": {
+          "A": "Were / eating",
+          "B": "Have / eaten",
+          "C": "Did / eat",
+          "D": "Do / eat"
+        },
+        "answer": "B",
+        "explain": "'ever' hỏi về kinh nghiệm → HTHT."
+      },
+      {
+        "no": 11,
+        "code": "G07",
+        "q": "She ___ for three hours and she still hasn't finished.",
+        "level": "basic",
+        "options": {
+          "A": "was studied",
+          "B": "has been studying",
+          "C": "studied",
+          "D": "studies"
+        },
+        "answer": "B",
+        "explain": "Nhấn mạnh quá trình kéo dài đến hiện tại → HTHT tiếp diễn."
+      },
+      {
+        "no": 12,
+        "code": "G06",
+        "q": "He ___ his keys, so he can't open the door.",
+        "level": "basic",
+        "options": {
+          "A": "is losing",
+          "B": "has lost",
+          "C": "loses",
+          "D": "was losing"
+        },
+        "answer": "B",
+        "explain": "Hành động QK có kết quả ở hiện tại → HTHT."
+      },
+      {
+        "no": 13,
+        "code": "G04",
+        "q": "Yesterday I ___ my old friend at the supermarket.",
+        "level": "basic",
+        "options": {
+          "A": "meet",
+          "B": "was meet",
+          "C": "met",
+          "D": "have met"
+        },
+        "answer": "C",
+        "explain": "'Yesterday' → QKĐ; meet – met – met."
+      },
+      {
+        "no": 14,
+        "code": "G01",
+        "q": "Which word is an ADVERB?",
+        "level": "basic",
+        "options": {
+          "A": "quicken",
+          "B": "quickness",
+          "C": "quickly",
+          "D": "quick"
+        },
+        "answer": "C",
+        "explain": "Hậu tố -ly thường tạo trạng từ."
+      },
+      {
+        "no": 15,
+        "code": "G02",
+        "q": "Choose the correct sentence.",
+        "level": "basic",
+        "options": {
+          "A": "She not like coffee.",
+          "B": "She doesn't like coffee.",
+          "C": "She doesn't likes coffee.",
+          "D": "She don't like coffee."
+        },
+        "answer": "B",
+        "explain": "Phủ định HTĐ ngôi 3 số ít: doesn't + V nguyên mẫu."
+      },
+      {
+        "no": 16,
+        "code": "G02",
+        "q": "How often ___ he go to the gym?",
+        "level": "basic",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "is",
+          "D": "has"
+        },
+        "answer": "B",
+        "explain": "Câu hỏi HTĐ với 'he' → does + S + V."
+      },
+      {
+        "no": 17,
+        "code": "G04",
+        "q": "I ___ him yesterday, but he didn't answer.",
+        "level": "basic",
+        "options": {
+          "A": "call",
+          "B": "called",
+          "C": "have called",
+          "D": "am calling"
+        },
+        "answer": "B",
+        "explain": "'yesterday' → QKĐ."
+      },
+      {
+        "no": 18,
+        "code": "G06",
+        "q": "They have worked here ___ five years.",
+        "level": "basic",
+        "options": {
+          "A": "for",
+          "B": "ago",
+          "C": "in",
+          "D": "since"
+        },
+        "answer": "A",
+        "explain": "for + khoảng thời gian; since + mốc thời gian."
+      },
+      {
+        "no": 19,
+        "code": "G04",
+        "q": "My brother ___ a new car two weeks ago.",
+        "level": "basic",
+        "options": {
+          "A": "is buying",
+          "B": "bought",
+          "C": "buys",
+          "D": "has bought"
+        },
+        "answer": "B",
+        "explain": "'... ago' → QKĐ."
+      },
+      {
+        "no": 20,
+        "code": "G07",
+        "q": "Why are you so tired? – I ___ all day.",
+        "level": "basic",
+        "options": {
+          "A": "run",
+          "B": "have been running",
+          "C": "ran",
+          "D": "am run"
+        },
+        "answer": "B",
+        "explain": "Giải thích kết quả hiện tại bằng quá trình kéo dài ('all day') → HTHTTD."
+      },
+      {
+        "no": 21,
+        "code": "G03",
+        "q": "Can you turn the radio down, please? I ___ to concentrate on this report.",
+        "level": "normal",
+        "options": {
+          "A": "try",
+          "B": "tried",
+          "C": "tries",
+          "D": "am trying"
+        },
+        "answer": "D",
+        "explain": "Hành động đang diễn ra ngay lúc nói (vì thế mới nhờ vặn nhỏ radio) → HTTD 'am trying'. 'try' là HTĐ, chỉ thói quen/sự thật, không hợp với tình huống tạm thời lúc này."
+      },
+      {
+        "no": 22,
+        "code": "G03",
+        "q": "___ this umbrella ___ to you? Someone left it on my desk.",
+        "level": "normal",
+        "options": {
+          "A": "Is / belonging",
+          "B": "Does / belong",
+          "C": "Did / belonged",
+          "D": "Has / belonged"
+        },
+        "answer": "B",
+        "explain": "'belong' là động từ trạng thái (sở hữu) → không dùng tiếp diễn, dùng HTĐ: 'Does ... belong'. 'Is ... belonging' sai vì stative verb không chia -ing; 'Did ... belonged' sai vì sau 'did' phải là động từ nguyên mẫu."
+      },
+      {
+        "no": 23,
+        "code": "G04",
+        "q": "The children ___ their vegetables, so they got no dessert.",
+        "level": "normal",
+        "options": {
+          "A": "didn't ate",
+          "B": "not ate",
+          "C": "didn't eat",
+          "D": "weren't eat"
+        },
+        "answer": "C",
+        "explain": "Phủ định QKĐ: didn't + V nguyên mẫu → 'didn't eat'. 'didn't ate' là lỗi phổ biến: đã có 'did' thì động từ chính không chia quá khứ nữa."
+      },
+      {
+        "no": 24,
+        "code": "G05",
+        "q": "Why ___ attention when the teacher explained the homework? Now you don't know what to do.",
+        "level": "normal",
+        "options": {
+          "A": "weren't you paying",
+          "B": "didn't you paying",
+          "C": "aren't you paying",
+          "D": "haven't you paid"
+        },
+        "answer": "A",
+        "explain": "Hỏi về việc đang (không) diễn ra tại thời điểm trong quá khứ khi thầy giảng bài → QKTD dạng câu hỏi phủ định 'weren't you paying'. 'didn't you paying' sai cấu trúc (did + V nguyên mẫu); 'haven't you paid' không hợp vì việc giảng bài đã kết thúc trong quá khứ."
+      },
+      {
+        "no": 25,
+        "code": "G06",
+        "q": "Mai ___ her driving licence since she was eighteen, but she still hates driving on the motorway.",
+        "level": "normal",
+        "options": {
+          "A": "had",
+          "B": "has",
+          "C": "is having",
+          "D": "has had"
+        },
+        "answer": "D",
+        "explain": "'since she was eighteen' → trạng thái kéo dài từ quá khứ đến hiện tại → HTHT 'has had'. 'had' (QKĐ) không đi với 'since' để nói việc còn kéo dài; 'has' (HTĐ) không đi với 'since'; 'have' sở hữu là stative nên không dùng 'is having'."
+      },
+      {
+        "no": 26,
+        "code": "G07",
+        "q": "Sorry about the mess in the kitchen – I ___ a cake, and it isn't finished yet.",
+        "level": "normal",
+        "options": {
+          "A": "have baked",
+          "B": "have been baking",
+          "C": "baked",
+          "D": "had been baking"
+        },
+        "answer": "B",
+        "explain": "Hoạt động kéo dài đến hiện tại, chưa xong ('isn't finished yet') và để lại dấu vết (bếp bừa bộn) → HTHTTD 'have been baking'. 'have baked' nhấn mạnh việc đã hoàn thành, mâu thuẫn với 'chưa xong'; 'had been baking' là thì quá khứ, không hợp ngữ cảnh hiện tại."
+      },
+      {
+        "no": 27,
+        "code": "G01",
+        "q": "The ___ of the tap water in this area is a big concern for local families.",
+        "level": "normal",
+        "options": {
+          "A": "pure",
+          "B": "purely",
+          "C": "purity",
+          "D": "purify"
+        },
+        "answer": "C",
+        "explain": "Sau 'The' và trước 'of' cần danh từ → 'purity' (đuôi -ity là hậu tố danh từ). 'pure' là tính từ, 'purely' là trạng từ, 'purify' là động từ."
+      },
+      {
+        "no": 28,
+        "code": "G02",
+        "q": "How much ___ to fly from Hanoi to Hue?",
+        "level": "normal",
+        "options": {
+          "A": "does it cost",
+          "B": "it costs",
+          "C": "is it costing",
+          "D": "do it cost"
+        },
+        "answer": "A",
+        "explain": "Câu hỏi về giá (sự thật chung) → HTĐ, đảo trợ động từ: 'How much does it cost ...?'. 'it costs' thiếu đảo ngữ trong câu hỏi; 'do it cost' sai vì chủ ngữ 'it' ngôi 3 số ít phải dùng 'does'."
+      },
+      {
+        "no": 29,
+        "code": "G04",
+        "q": "Last winter the lake ___ so hard that people walked across it.",
+        "level": "normal",
+        "options": {
+          "A": "freezed",
+          "B": "frozen",
+          "C": "freezes",
+          "D": "froze"
+        },
+        "answer": "D",
+        "explain": "'freeze' là động từ bất quy tắc: freeze – froze – frozen. Mốc 'Last winter' → QKĐ 'froze'. 'freezed' là lỗi chia theo quy tắc; 'frozen' là V3, không đứng một mình làm động từ chính."
+      },
+      {
+        "no": 30,
+        "code": "G03",
+        "q": "Quang is a doctor, but this month he ___ as a volunteer in a mountain village, so he isn't at the hospital.",
+        "level": "normal",
+        "options": {
+          "A": "works",
+          "B": "is working",
+          "C": "worked",
+          "D": "work"
+        },
+        "answer": "B",
+        "explain": "Công việc tạm thời trong giai đoạn hiện tại ('this month', 'isn't at the hospital') → HTTD 'is working'. 'works' (HTĐ) dùng cho công việc cố định, như 'is a doctor'; 'worked' sai vì tháng này vẫn đang diễn ra."
+      },
+      {
+        "no": 31,
+        "code": "G06",
+        "q": "Tìm lỗi sai: I (A) have met my husband when we (B) were studying in Hue, and we (C) have been married (D) since 2015.",
+        "level": "hard",
+        "options": {
+          "A": "have met",
+          "B": "were studying",
+          "C": "have been married",
+          "D": "since 2015"
+        },
+        "answer": "A",
+        "explain": "Việc gặp nhau xảy ra tại thời điểm xác định trong quá khứ ('when we were studying...') → phải dùng QKĐ 'met', không dùng HTHT. 'have been married since 2015' đúng vì trạng thái kéo dài đến nay."
+      },
+      {
+        "no": 32,
+        "code": "G06",
+        "q": "Chọn câu gần nghĩa nhất với: 'The last time it rained here was in March.'",
+        "level": "hard",
+        "options": {
+          "A": "It didn't rain here in March.",
+          "B": "It has been raining here since March.",
+          "C": "It hasn't rained here since March.",
+          "D": "It has rained here since March."
+        },
+        "answer": "C",
+        "explain": "'Lần cuối trời mưa là tháng Ba' = từ tháng Ba đến nay không mưa → 'It hasn't rained here since March.' B và D mang nghĩa ngược lại (mưa suốt/có mưa từ tháng Ba); A mâu thuẫn vì tháng Ba có mưa."
+      },
+      {
+        "no": 33,
+        "code": "G07",
+        "q": "Chọn câu ĐÚNG ngữ pháp:",
+        "level": "hard",
+        "options": {
+          "A": "I've been knowing about the problem for weeks.",
+          "B": "He has been breaking his leg, so he can't walk.",
+          "C": "We've been finishing the project, so now we can relax.",
+          "D": "They've been arguing all morning, and they still haven't agreed."
+        },
+        "answer": "D",
+        "explain": "D đúng: hoạt động kéo dài suốt buổi sáng đến hiện tại → HTHTTD. A sai vì 'know' là stative → 'have known'. B và C sai vì gãy chân/hoàn thành dự án là kết quả, hành động tức thời → 'has broken', 'have finished'."
+      },
+      {
+        "no": 34,
+        "code": "G07",
+        "q": "Nam's eyes are red and swollen. Either he ___ or he's allergic to something.",
+        "level": "hard",
+        "options": {
+          "A": "has cried",
+          "B": "has been crying",
+          "C": "cried",
+          "D": "was crying"
+        },
+        "answer": "B",
+        "explain": "Dấu hiệu nhìn thấy ở hiện tại (mắt đỏ, sưng) là hệ quả của một hoạt động kéo dài vừa diễn ra → HTHTTD 'has been crying'. 'has cried' nhấn mạnh kết quả/số lần, không dùng để giải thích dấu vết; 'cried'/'was crying' là quá khứ, tách rời hiện tại."
+      },
+      {
+        "no": 35,
+        "code": "G05",
+        "q": "Tìm lỗi sai: When the teacher (A) walked in, most of the students (B) were chatting, some (C) were playing games, and she (D) was getting angry at once.",
+        "level": "hard",
+        "options": {
+          "A": "walked",
+          "B": "were chatting",
+          "C": "were playing",
+          "D": "was getting angry"
+        },
+        "answer": "D",
+        "explain": "Phản ứng tức thì ('at once') ngay sau khi bước vào là hành động ngắn, nối tiếp → QKĐ 'got angry'. 'were chatting', 'were playing' đúng vì là bối cảnh đang diễn ra lúc cô giáo bước vào."
+      },
+      {
+        "no": 36,
+        "code": "G05",
+        "q": "Chọn câu SAI:",
+        "level": "hard",
+        "options": {
+          "A": "I was knowing the answer, but I was too shy to say it.",
+          "B": "The sun was setting when we reached the top.",
+          "C": "Were you still working when I phoned?",
+          "D": "She wasn't feeling well, so she went home early."
+        },
+        "answer": "A",
+        "explain": "'know' là động từ trạng thái → không dùng QKTD, phải là 'I knew the answer'. D đúng vì 'feel' (cảm thấy về sức khỏe) có thể dùng tiếp diễn; B, C là QKTD làm bối cảnh cho hành động QKĐ."
+      },
+      {
+        "no": 37,
+        "code": "G01",
+        "q": "Tìm lỗi sai: The new (A) employee (B) seems very (C) nervously about (D) giving her first presentation.",
+        "level": "hard",
+        "options": {
+          "A": "employee",
+          "B": "seems",
+          "C": "nervously",
+          "D": "giving"
+        },
+        "answer": "C",
+        "explain": "'seem' là linking verb → theo sau là tính từ: 'seems very nervous'. 'nervously' là trạng từ, không làm bổ ngữ cho chủ ngữ. 'giving' đúng vì sau giới từ 'about' dùng V-ing."
+      },
+      {
+        "no": 38,
+        "code": "G03",
+        "q": "Chọn câu ĐÚNG ngữ pháp (chú ý động từ trạng thái):",
+        "level": "hard",
+        "options": {
+          "A": "We're thinking of moving to Da Nang next year.",
+          "B": "This bag is weighing a lot, so can you help me?",
+          "C": "Who is this car belonging to?",
+          "D": "She is owning a small bakery in town."
+        },
+        "answer": "A",
+        "explain": "'think of/about' nghĩa là 'cân nhắc' là hành động → dùng tiếp diễn được. B sai: 'weigh' nghĩa 'nặng' là stative → 'This bag weighs a lot'; C, D sai vì 'belong', 'own' chỉ sở hữu → 'belongs', 'owns'."
+      },
+      {
+        "no": 39,
+        "code": "G02",
+        "q": "Chọn câu gần nghĩa nhất với: 'Minh is a vegetarian.'",
+        "level": "hard",
+        "options": {
+          "A": "Minh isn't eating meat today.",
+          "B": "Minh doesn't eat meat.",
+          "C": "Minh didn't eat meat.",
+          "D": "Minh hasn't eaten meat yet."
+        },
+        "answer": "B",
+        "explain": "Người ăn chay → thói quen/sự thật lâu dài → HTĐ 'doesn't eat meat'. A chỉ việc tạm thời hôm nay (HTTD); C nói về quá khứ; D ngụ ý sắp ăn thịt, đều không tương đương."
+      },
+      {
+        "no": 40,
+        "code": "G04",
+        "q": "Chọn câu SAI (chú ý động từ bất quy tắc):",
+        "level": "hard",
+        "options": {
+          "A": "She led the team for five years before she retired.",
+          "B": "The price of rice rose sharply last year.",
+          "C": "He laid on the sofa all afternoon.",
+          "D": "They fed the ducks in the park."
+        },
+        "answer": "C",
+        "explain": "'lie' (nằm) – lay – lain → 'He lay on the sofa'. 'laid' là quá khứ của 'lay' (đặt, để), cần tân ngữ. A (lead – led), B (rise – rose), D (feed – fed) đều đúng."
+      }
+    ]
+  },
+  {
+    "id": "tuan-2",
+    "name": "Bài kiểm tra Tuần 2",
+    "subtitle": "Thì nâng cao, Modal, V-ing/to V (G08–G13)",
+    "day": 14,
+    "questions": [
+      {
+        "no": 1,
+        "code": "G08",
+        "q": "By the time we got to the cinema, the film ___.",
+        "level": "basic",
+        "options": {
+          "A": "has started",
+          "B": "had started",
+          "C": "started",
+          "D": "starts"
+        },
+        "answer": "B",
+        "explain": "Hành động xảy ra trước 1 mốc QK ('by the time we got') → QKHT."
+      },
+      {
+        "no": 2,
+        "code": "G08",
+        "q": "She was tired because she ___ all night.",
+        "level": "basic",
+        "options": {
+          "A": "had been working",
+          "B": "has worked",
+          "C": "works",
+          "D": "is working"
+        },
+        "answer": "A",
+        "explain": "Quá trình kéo dài trước 1 thời điểm QK → QKHT tiếp diễn."
+      },
+      {
+        "no": 3,
+        "code": "G09",
+        "q": "Look at those dark clouds! It ___ rain.",
+        "level": "basic",
+        "options": {
+          "A": "will",
+          "B": "is going to",
+          "C": "rains",
+          "D": "is raining"
+        },
+        "answer": "B",
+        "explain": "Dự đoán có căn cứ (thấy mây đen) → be going to."
+      },
+      {
+        "no": 4,
+        "code": "G09",
+        "q": "I'm hungry. – OK, I ___ you a sandwich.",
+        "level": "basic",
+        "options": {
+          "A": "make",
+          "B": "am going to make",
+          "C": "made",
+          "D": "will make"
+        },
+        "answer": "D",
+        "explain": "Quyết định tức thời tại lúc nói → will."
+      },
+      {
+        "no": 5,
+        "code": "G10",
+        "q": "This time tomorrow, I ___ on the beach.",
+        "level": "basic",
+        "options": {
+          "A": "will lie",
+          "B": "lie",
+          "C": "will be lying",
+          "D": "am lie"
+        },
+        "answer": "C",
+        "explain": "'This time tomorrow' → TL tiếp diễn."
+      },
+      {
+        "no": 6,
+        "code": "G10",
+        "q": "By 2030, they ___ the new bridge.",
+        "level": "basic",
+        "options": {
+          "A": "are finishing",
+          "B": "will finish",
+          "C": "will have finished",
+          "D": "finish"
+        },
+        "answer": "C",
+        "explain": "'By + mốc TL' → TL hoàn thành."
+      },
+      {
+        "no": 7,
+        "code": "G11",
+        "q": "You ___ smoke here. It's forbidden.",
+        "level": "basic",
+        "options": {
+          "A": "needn't",
+          "B": "don't have to",
+          "C": "may",
+          "D": "mustn't"
+        },
+        "answer": "D",
+        "explain": "'forbidden' = cấm → mustn't."
+      },
+      {
+        "no": 8,
+        "code": "G11",
+        "q": "You ___ bring your passport; an ID card is enough.",
+        "level": "basic",
+        "options": {
+          "A": "can't",
+          "B": "mustn't",
+          "C": "don't have to",
+          "D": "shouldn't"
+        },
+        "answer": "C",
+        "explain": "Không cần thiết (không bắt buộc) → don't have to."
+      },
+      {
+        "no": 9,
+        "code": "G11",
+        "q": "___ I borrow your pen, please?",
+        "level": "basic",
+        "options": {
+          "A": "May",
+          "B": "Must",
+          "C": "Would have",
+          "D": "Should have"
+        },
+        "answer": "A",
+        "explain": "Xin phép lịch sự → May/Can/Could I...?"
+      },
+      {
+        "no": 10,
+        "code": "G11",
+        "q": "He isn't answering the phone. He ___ be asleep.",
+        "level": "basic",
+        "options": {
+          "A": "must",
+          "B": "mustn't",
+          "C": "has to",
+          "D": "should have"
+        },
+        "answer": "A",
+        "explain": "Suy luận chắc chắn ở hiện tại → must + V."
+      },
+      {
+        "no": 11,
+        "code": "G12",
+        "q": "She looks upset. She ___ have heard the bad news.",
+        "level": "basic",
+        "options": {
+          "A": "can't",
+          "B": "must",
+          "C": "shouldn't",
+          "D": "needn't"
+        },
+        "answer": "B",
+        "explain": "Suy luận chắc chắn về QK → must have V3."
+      },
+      {
+        "no": 12,
+        "code": "G12",
+        "q": "You failed the test. You ___ harder.",
+        "level": "basic",
+        "options": {
+          "A": "should study",
+          "B": "must have studied",
+          "C": "should have studied",
+          "D": "must study"
+        },
+        "answer": "C",
+        "explain": "Lẽ ra nên làm nhưng đã không làm → should have V3."
+      },
+      {
+        "no": 13,
+        "code": "G13",
+        "q": "I enjoy ___ to music.",
+        "level": "basic",
+        "options": {
+          "A": "listened",
+          "B": "listening",
+          "C": "to listen",
+          "D": "listen"
+        },
+        "answer": "B",
+        "explain": "enjoy + V-ing."
+      },
+      {
+        "no": 14,
+        "code": "G13",
+        "q": "She decided ___ a new job.",
+        "level": "basic",
+        "options": {
+          "A": "looking for",
+          "B": "to look for",
+          "C": "look for",
+          "D": "looked for"
+        },
+        "answer": "B",
+        "explain": "decide + to V."
+      },
+      {
+        "no": 15,
+        "code": "G13",
+        "q": "On my way home, I stopped ___ a coffee. (= dừng lại để mua)",
+        "level": "basic",
+        "options": {
+          "A": "buy",
+          "B": "to buy",
+          "C": "buying",
+          "D": "bought"
+        },
+        "answer": "B",
+        "explain": "stop to V = dừng lại để làm gì; stop V-ing = bỏ hẳn việc gì."
+      },
+      {
+        "no": 16,
+        "code": "G13",
+        "q": "Remember ___ the door when you leave.",
+        "level": "basic",
+        "options": {
+          "A": "to lock",
+          "B": "lock",
+          "C": "locking",
+          "D": "locked"
+        },
+        "answer": "A",
+        "explain": "remember to V = nhớ sẽ phải làm (việc chưa làm)."
+      },
+      {
+        "no": 17,
+        "code": "G13",
+        "q": "Would you mind ___ the window?",
+        "level": "basic",
+        "options": {
+          "A": "close",
+          "B": "closed",
+          "C": "closing",
+          "D": "to close"
+        },
+        "answer": "C",
+        "explain": "mind + V-ing."
+      },
+      {
+        "no": 18,
+        "code": "G09",
+        "q": "The train ___ at 7:00 tomorrow morning (theo lịch tàu).",
+        "level": "basic",
+        "options": {
+          "A": "will leaving",
+          "B": "leaves",
+          "C": "left",
+          "D": "is leaving"
+        },
+        "answer": "B",
+        "explain": "Lịch trình cố định → HTĐ mang nghĩa tương lai."
+      },
+      {
+        "no": 19,
+        "code": "G08",
+        "q": "When I arrived at the station, the train ___ already ___.",
+        "level": "basic",
+        "options": {
+          "A": "was / leaving",
+          "B": "had / left",
+          "C": "did / leave",
+          "D": "has / left"
+        },
+        "answer": "B",
+        "explain": "Tàu rời đi trước khi tôi đến → QKHT."
+      },
+      {
+        "no": 20,
+        "code": "G11",
+        "q": "I ___ swim when I was five.",
+        "level": "basic",
+        "options": {
+          "A": "could",
+          "B": "must",
+          "C": "may",
+          "D": "can"
+        },
+        "answer": "A",
+        "explain": "Khả năng trong QK → could."
+      },
+      {
+        "no": 21,
+        "code": "G08",
+        "q": "Nam didn't recognise his hometown at first. It ___ a lot since his last visit.",
+        "level": "normal",
+        "options": {
+          "A": "changed",
+          "B": "has changed",
+          "C": "had changed",
+          "D": "was changing"
+        },
+        "answer": "C",
+        "explain": "Sự thay đổi diễn ra TRƯỚC thời điểm QK 'didn't recognise' và kéo dài 'since his last visit' → QKHT 'had changed'. 'has changed' là HTHT, không khớp mạch kể ở quá khứ."
+      },
+      {
+        "no": 22,
+        "code": "G08",
+        "q": "The children were soaking wet. How long ___ in the rain before you found them?",
+        "level": "normal",
+        "options": {
+          "A": "have they been playing",
+          "B": "had they been playing",
+          "C": "had they being playing",
+          "D": "they had been playing"
+        },
+        "answer": "B",
+        "explain": "Hỏi độ dài một quá trình kéo dài trước mốc QK 'before you found them' (còn để lại hậu quả: ướt sũng) → QKHT tiếp diễn, câu hỏi đảo 'had' lên trước chủ ngữ. D sai trật tự câu hỏi; A là HTHT tiếp diễn, sai mốc thời gian."
+      },
+      {
+        "no": 23,
+        "code": "G09",
+        "q": "Why are you wearing your running shoes? – I ___ for a run.",
+        "level": "normal",
+        "options": {
+          "A": "'m going to go",
+          "B": "'ll go",
+          "C": "go",
+          "D": "went"
+        },
+        "answer": "A",
+        "explain": "Người nói đã mang giày chạy → kế hoạch đã định từ trước → be going to. 'will' dùng cho quyết định tức thời lúc nói, không hợp khi việc chuẩn bị đã xong."
+      },
+      {
+        "no": 24,
+        "code": "G09",
+        "q": "We'll miss the last bus unless we ___ now.",
+        "level": "normal",
+        "options": {
+          "A": "will leave",
+          "B": "would leave",
+          "C": "had left",
+          "D": "leave"
+        },
+        "answer": "D",
+        "explain": "Sau liên từ điều kiện/thời gian (unless, if, when...) chỉ tương lai dùng HTĐ → 'leave'. 'will leave' là lỗi phổ biến: không dùng will trong mệnh đề unless."
+      },
+      {
+        "no": 25,
+        "code": "G10",
+        "q": "Don't phone Lan at six – she ___ home from work yet.",
+        "level": "normal",
+        "options": {
+          "A": "won't get",
+          "B": "won't have got",
+          "C": "won't be got",
+          "D": "doesn't get"
+        },
+        "answer": "B",
+        "explain": "Đến mốc TL 'at six' việc về nhà CHƯA hoàn thành (có 'yet') → TL hoàn thành phủ định 'won't have got'. 'won't get' không đi với 'yet' để nói tình trạng tại một mốc."
+      },
+      {
+        "no": 26,
+        "code": "G10",
+        "q": "___ Hanoi next week? If so, could you bring me some green rice flakes?",
+        "level": "normal",
+        "options": {
+          "A": "Will you be visiting",
+          "B": "Will you have visited",
+          "C": "Are you visit",
+          "D": "Do you going to visit"
+        },
+        "answer": "A",
+        "explain": "Hỏi lịch trình/dự định của người khác một cách lịch sự trước khi nhờ vả → TL tiếp diễn 'Will you be visiting'. 'Will you have visited' nhấn hoàn thành trước một mốc, không hợp; C, D sai cấu trúc."
+      },
+      {
+        "no": 27,
+        "code": "G11",
+        "q": "Entry to the museum was free, so we ___ pay for tickets.",
+        "level": "normal",
+        "options": {
+          "A": "mustn't",
+          "B": "couldn't",
+          "C": "didn't have to",
+          "D": "hadn't to"
+        },
+        "answer": "C",
+        "explain": "Không cần thiết trong QK → didn't have to. 'mustn't' là cấm đoán (và không có dạng QK); 'hadn't to' sai cấu trúc."
+      },
+      {
+        "no": 28,
+        "code": "G11",
+        "q": "The roads are icy this morning. You ___ drive too fast.",
+        "level": "normal",
+        "options": {
+          "A": "'d not better",
+          "B": "better not to",
+          "C": "haven't better",
+          "D": "'d better not"
+        },
+        "answer": "D",
+        "explain": "Lời khuyên mạnh dạng phủ định: had better NOT + V nguyên mẫu → 'd better not drive'. 'not' đứng sau 'better', không dùng 'to'."
+      },
+      {
+        "no": 29,
+        "code": "G12",
+        "q": "Thank you for the flowers, but you really ___ them – a card would have been enough!",
+        "level": "normal",
+        "options": {
+          "A": "needn't have bought",
+          "B": "mustn't have bought",
+          "C": "can't have bought",
+          "D": "needn't buy"
+        },
+        "answer": "A",
+        "explain": "Người kia ĐÃ mua nhưng việc đó không cần thiết → needn't have V3. 'can't have bought' là suy luận 'chắc chắn không mua', mâu thuẫn vì hoa đang ở đây; 'needn't buy' nói về hiện tại/tương lai."
+      },
+      {
+        "no": 30,
+        "code": "G13",
+        "q": "I'm sorry, I don't remember ___ you before. Where did we meet?",
+        "level": "normal",
+        "options": {
+          "A": "to meet",
+          "B": "meet",
+          "C": "to have meet",
+          "D": "meeting"
+        },
+        "answer": "D",
+        "explain": "remember + V-ing = nhớ lại việc ĐÃ xảy ra (gặp nhau trước đây). 'remember to V' = nhớ để làm việc chưa làm, sai nghĩa ở đây."
+      },
+      {
+        "no": 31,
+        "code": "G08",
+        "q": "Tìm lỗi sai: Before she moved to Hue, she (A) has lived (B) in Hanoi (C) for (D) ten years.",
+        "level": "hard",
+        "options": {
+          "A": "has lived",
+          "B": "in Hanoi",
+          "C": "for",
+          "D": "ten years"
+        },
+        "answer": "A",
+        "explain": "Việc sống ở Hà Nội kéo dài đến trước một hành động QK 'moved' → phải dùng QKHT 'had lived'. HTHT 'has lived' chỉ nối với hiện tại, không đứng trước mốc QK."
+      },
+      {
+        "no": 32,
+        "code": "G09",
+        "q": "A: Don't forget it's Mum's birthday on Sunday! – B: Of course not! I ___ her a cake – I've already bought all the ingredients.",
+        "level": "hard",
+        "options": {
+          "A": "'ll make",
+          "B": "make",
+          "C": "'m going to make",
+          "D": "'d make"
+        },
+        "answer": "C",
+        "explain": "Đã mua sẵn nguyên liệu → dự định có từ trước → be going to. 'will' là bẫy vì B đáp lại ngay, nhưng quyết định không phải vừa mới đưa ra lúc nói."
+      },
+      {
+        "no": 33,
+        "code": "G09",
+        "q": "Chọn câu ĐÚNG ngữ pháp:",
+        "level": "hard",
+        "options": {
+          "A": "Look at those black clouds! It rains soon.",
+          "B": "I'm not sure what to do this weekend. Maybe I visit my grandma.",
+          "C": "The bus to the airport is leaving at 6 every morning.",
+          "D": "We're flying to Da Lat on Friday – Dad has booked the tickets."
+        },
+        "answer": "D",
+        "explain": "Kế hoạch cá nhân đã sắp xếp (đã đặt vé) → HTTD mang nghĩa tương lai. A: dự đoán có căn cứ ở hiện tại (mây đen) → 'It's going to rain soon', không dùng HTĐ; B: phỏng đoán chưa chắc → 'Maybe I'll visit'; C: lịch cố định lặp lại 'every morning' → HTĐ 'leaves'."
+      },
+      {
+        "no": 34,
+        "code": "G10",
+        "q": "Don't worry about the washing-up. By the time you get back from the gym, I ___ it.",
+        "level": "hard",
+        "options": {
+          "A": "will be doing",
+          "B": "will have done",
+          "C": "am doing",
+          "D": "will have been done"
+        },
+        "answer": "B",
+        "explain": "'By the time + mốc TL' và ý 'đừng lo, sẽ xong' → việc hoàn tất trước mốc → TL hoàn thành 'will have done'. 'will be doing' nghĩa là lúc bạn về tôi vẫn đang rửa, trái với lời trấn an; D là bị động, sai vì chủ ngữ 'I' tự làm."
+      },
+      {
+        "no": 35,
+        "code": "G10",
+        "q": "Tìm lỗi sai: This time next week, we (A) will have lain (B) on a beach (C) in Phu Quoc, (D) drinking coconut juice.",
+        "level": "hard",
+        "options": {
+          "A": "will have lain",
+          "B": "on a beach",
+          "C": "in Phu Quoc",
+          "D": "drinking"
+        },
+        "answer": "A",
+        "explain": "'This time next week' → hành động ĐANG diễn ra tại mốc TL → TL tiếp diễn 'will be lying'. TL hoàn thành chỉ dùng cho việc đã xong trước mốc."
+      },
+      {
+        "no": 36,
+        "code": "G11",
+        "q": "Lan's phone is off and she isn't at her desk. Her boss thinks she ___ be in a meeting, but he isn't sure.",
+        "level": "hard",
+        "options": {
+          "A": "must",
+          "B": "can",
+          "C": "might",
+          "D": "has to"
+        },
+        "answer": "C",
+        "explain": "Phỏng đoán KHÔNG chắc chắn về hiện tại → might. 'must' là suy luận chắc chắn, mâu thuẫn với 'isn't sure'; 'can' khẳng định không dùng để phỏng đoán một tình huống cụ thể; 'has to' là bắt buộc."
+      },
+      {
+        "no": 37,
+        "code": "G12",
+        "q": "Chọn câu gần nghĩa nhất với: \"I'm sure Hoa was very upset when she heard the news.\"",
+        "level": "hard",
+        "options": {
+          "A": "Hoa must be very upset when she heard the news.",
+          "B": "Hoa must have been very upset when she heard the news.",
+          "C": "Hoa should have been very upset when she heard the news.",
+          "D": "Hoa had to be very upset when she heard the news."
+        },
+        "answer": "B",
+        "explain": "Suy luận chắc chắn về QK → must have V3. A dùng 'must be' (hiện tại) sai mốc; C 'should have' = lẽ ra nên; D 'had to' = bắt buộc phải, sai nghĩa."
+      },
+      {
+        "no": 38,
+        "code": "G12",
+        "q": "Luckily nobody was hurt, but the driver was going far too fast. Someone ___ killed.",
+        "level": "hard",
+        "options": {
+          "A": "must have been",
+          "B": "should have been",
+          "C": "can't have been",
+          "D": "could have been"
+        },
+        "answer": "D",
+        "explain": "Điều CÓ THỂ đã xảy ra nhưng thực tế không xảy ra (không ai bị thương) → could have V3. 'must have been' là suy luận chắc chắn đã xảy ra, mâu thuẫn với 'nobody was hurt'; 'should have been' = lẽ ra nên, vô lý."
+      },
+      {
+        "no": 39,
+        "code": "G13",
+        "q": "I regret ___ to my sister like that. I wish I had apologised straight away.",
+        "level": "hard",
+        "options": {
+          "A": "to speak",
+          "B": "speaking",
+          "C": "speak",
+          "D": "to have speak"
+        },
+        "answer": "B",
+        "explain": "regret + V-ing = hối tiếc về việc ĐÃ làm. 'regret to V' chỉ dùng khi thông báo tin không vui ('We regret to inform you...'), không hợp ở đây."
+      },
+      {
+        "no": 40,
+        "code": "G13",
+        "q": "Chọn câu SAI ngữ pháp:",
+        "level": "hard",
+        "options": {
+          "A": "I couldn't help laughing when he fell into the pool.",
+          "B": "He admitted taking the money from the drawer.",
+          "C": "She avoided to answer my question about her salary.",
+          "D": "We're considering moving to Hue next year."
+        },
+        "answer": "C",
+        "explain": "avoid + V-ing → 'avoided answering'. can't help, admit, consider đều đi với V-ing nên A, B, D đúng."
+      }
+    ]
+  },
+  {
+    "id": "tuan-3",
+    "name": "Bài kiểm tra Tuần 3",
+    "subtitle": "Danh từ, Tính từ, So sánh, Giới từ, Bị động (G14–G19)",
+    "day": 21,
+    "questions": [
+      {
+        "no": 1,
+        "code": "G14",
+        "q": "She is ___ honest woman.",
+        "level": "basic",
+        "options": {
+          "A": "Ø (không cần)",
+          "B": "the",
+          "C": "a",
+          "D": "an"
+        },
+        "answer": "D",
+        "explain": "'honest' bắt đầu bằng âm nguyên âm /ɒ/ (h câm) → an."
+      },
+      {
+        "no": 2,
+        "code": "G14",
+        "q": "___ sun rises in the east.",
+        "level": "basic",
+        "options": {
+          "A": "A",
+          "B": "An",
+          "C": "Ø (không cần)",
+          "D": "The"
+        },
+        "answer": "D",
+        "explain": "Vật duy nhất → the."
+      },
+      {
+        "no": 3,
+        "code": "G15",
+        "q": "I don't have ___ money left.",
+        "level": "basic",
+        "options": {
+          "A": "few",
+          "B": "a few",
+          "C": "many",
+          "D": "much"
+        },
+        "answer": "D",
+        "explain": "money không đếm được → much."
+      },
+      {
+        "no": 4,
+        "code": "G15",
+        "q": "There are ___ apples in the fridge, so we don't need to buy any.",
+        "level": "basic",
+        "options": {
+          "A": "much",
+          "B": "a little",
+          "C": "a few",
+          "D": "little"
+        },
+        "answer": "C",
+        "explain": "apples đếm được số nhiều; nghĩa 'một ít, đủ' → a few."
+      },
+      {
+        "no": 5,
+        "code": "G15",
+        "q": "He has ___ friends, so he often feels lonely.",
+        "level": "basic",
+        "options": {
+          "A": "little",
+          "B": "few",
+          "C": "a little",
+          "D": "a few"
+        },
+        "answer": "B",
+        "explain": "Nghĩa tiêu cực 'rất ít' + N đếm được → few."
+      },
+      {
+        "no": 6,
+        "code": "G15",
+        "q": "She hurt ___ while cooking.",
+        "level": "basic",
+        "options": {
+          "A": "she",
+          "B": "herself",
+          "C": "her",
+          "D": "hers"
+        },
+        "answer": "B",
+        "explain": "Chủ ngữ và tân ngữ là cùng một người → đại từ phản thân."
+      },
+      {
+        "no": 7,
+        "code": "G16",
+        "q": "The film was so ___ that I fell asleep.",
+        "level": "basic",
+        "options": {
+          "A": "bore",
+          "B": "boredom",
+          "C": "bored",
+          "D": "boring"
+        },
+        "answer": "D",
+        "explain": "Tính chất của sự vật gây ra cảm xúc → -ing."
+      },
+      {
+        "no": 8,
+        "code": "G16",
+        "q": "He drives very ___.",
+        "level": "basic",
+        "options": {
+          "A": "care",
+          "B": "careful",
+          "C": "carefully",
+          "D": "carefulness"
+        },
+        "answer": "C",
+        "explain": "Bổ nghĩa cho động từ 'drives' → trạng từ."
+      },
+      {
+        "no": 9,
+        "code": "G16",
+        "q": "She bought a ___ table.",
+        "level": "basic",
+        "options": {
+          "A": "round beautiful wooden",
+          "B": "wooden beautiful round",
+          "C": "wooden round beautiful",
+          "D": "beautiful round wooden"
+        },
+        "answer": "D",
+        "explain": "OSASCOMP: Opinion (beautiful) – Shape (round) – Material (wooden)."
+      },
+      {
+        "no": 10,
+        "code": "G17",
+        "q": "This test is ___ than the last one.",
+        "level": "basic",
+        "options": {
+          "A": "more easy",
+          "B": "easiest",
+          "C": "easier",
+          "D": "easy"
+        },
+        "answer": "C",
+        "explain": "Tính từ 2 âm tiết tận cùng -y → easier."
+      },
+      {
+        "no": 11,
+        "code": "G17",
+        "q": "He is ___ student in the class.",
+        "level": "basic",
+        "options": {
+          "A": "the more intelligent",
+          "B": "most intelligent",
+          "C": "more intelligent",
+          "D": "the most intelligent"
+        },
+        "answer": "D",
+        "explain": "So sánh nhất tính từ dài: the most + adj."
+      },
+      {
+        "no": 12,
+        "code": "G17",
+        "q": "The more you practise, ___ you become.",
+        "level": "basic",
+        "options": {
+          "A": "the best",
+          "B": "better",
+          "C": "best",
+          "D": "the better"
+        },
+        "answer": "D",
+        "explain": "So sánh kép: The + so sánh hơn..., the + so sánh hơn..."
+      },
+      {
+        "no": 13,
+        "code": "G17",
+        "q": "My house is not as big ___ yours.",
+        "level": "basic",
+        "options": {
+          "A": "than",
+          "B": "as",
+          "C": "so",
+          "D": "like"
+        },
+        "answer": "B",
+        "explain": "So sánh bằng: (not) as + adj + as."
+      },
+      {
+        "no": 14,
+        "code": "G18",
+        "q": "The meeting is ___ Monday ___ 9 a.m.",
+        "level": "basic",
+        "options": {
+          "A": "at / on",
+          "B": "in / at",
+          "C": "on / at",
+          "D": "on / in"
+        },
+        "answer": "C",
+        "explain": "on + thứ; at + giờ."
+      },
+      {
+        "no": 15,
+        "code": "G18",
+        "q": "I was born ___ 1998.",
+        "level": "basic",
+        "options": {
+          "A": "in",
+          "B": "on",
+          "C": "at",
+          "D": "by"
+        },
+        "answer": "A",
+        "explain": "in + năm."
+      },
+      {
+        "no": 16,
+        "code": "G19",
+        "q": "This bridge ___ in 1990.",
+        "level": "basic",
+        "options": {
+          "A": "has built",
+          "B": "built",
+          "C": "is building",
+          "D": "was built"
+        },
+        "answer": "D",
+        "explain": "Cây cầu 'được xây' → bị động QKĐ (in 1990)."
+      },
+      {
+        "no": 17,
+        "code": "G19",
+        "q": "English ___ all over the world.",
+        "level": "basic",
+        "options": {
+          "A": "speaks",
+          "B": "is spoken",
+          "C": "is speaking",
+          "D": "spoke"
+        },
+        "answer": "B",
+        "explain": "Tiếng Anh 'được nói' → bị động HTĐ."
+      },
+      {
+        "no": 18,
+        "code": "G19",
+        "q": "The report must ___ by Friday.",
+        "level": "basic",
+        "options": {
+          "A": "be finished",
+          "B": "finish",
+          "C": "finished",
+          "D": "be finishing"
+        },
+        "answer": "A",
+        "explain": "Bị động với modal: must + be + V3."
+      },
+      {
+        "no": 19,
+        "code": "G19",
+        "q": "My car ___ at the moment.",
+        "level": "basic",
+        "options": {
+          "A": "has repaired",
+          "B": "is being repaired",
+          "C": "repairs",
+          "D": "is repairing"
+        },
+        "answer": "B",
+        "explain": "Bị động HTTD: is being + V3."
+      },
+      {
+        "no": 20,
+        "code": "G18",
+        "q": "She is interested ___ learning English.",
+        "level": "basic",
+        "options": {
+          "A": "at",
+          "B": "in",
+          "C": "with",
+          "D": "on"
+        },
+        "answer": "B",
+        "explain": "interested in."
+      },
+      {
+        "no": 21,
+        "code": "G14",
+        "q": "The police ___ looking for a man in a red jacket.",
+        "level": "normal",
+        "options": {
+          "A": "is",
+          "B": "has",
+          "C": "was",
+          "D": "are"
+        },
+        "answer": "D",
+        "explain": "'police' là danh từ tập hợp luôn đi với động từ số nhiều → 'are'. 'is/was' sai vì 'police' không bao giờ dùng như số ít."
+      },
+      {
+        "no": 22,
+        "code": "G15",
+        "q": "Nam and I have known ___ since primary school.",
+        "level": "normal",
+        "options": {
+          "A": "ourselves",
+          "B": "each other",
+          "C": "us",
+          "D": "ours"
+        },
+        "answer": "B",
+        "explain": "Hai người biết nhau (hành động qua lại) → 'each other'. 'ourselves' nghĩa là mỗi người tự biết chính mình, sai nghĩa."
+      },
+      {
+        "no": 23,
+        "code": "G16",
+        "q": "She sang ___ that everyone in the room stopped talking.",
+        "level": "normal",
+        "options": {
+          "A": "so beautiful",
+          "B": "such beautifully",
+          "C": "so beautifully",
+          "D": "such beautiful"
+        },
+        "answer": "C",
+        "explain": "Bổ nghĩa cho động từ 'sang' → trạng từ 'beautifully'; trước trạng từ dùng 'so'. 'so beautiful' sai vì tính từ không bổ nghĩa cho động từ thường."
+      },
+      {
+        "no": 24,
+        "code": "G17",
+        "q": "Mai has become much ___ since she started running every morning.",
+        "level": "normal",
+        "options": {
+          "A": "thiner",
+          "B": "more thin",
+          "C": "thinnest",
+          "D": "thinner"
+        },
+        "answer": "D",
+        "explain": "Tính từ 1 âm tiết tận cùng phụ âm-nguyên âm-phụ âm → gấp đôi phụ âm: thin → thinner. 'thiner' sai chính tả; 'more thin' sai vì tính từ ngắn dùng -er."
+      },
+      {
+        "no": 25,
+        "code": "G17",
+        "q": "The exam was ___ I had expected, so I finished early.",
+        "level": "normal",
+        "options": {
+          "A": "easier than",
+          "B": "more easy than",
+          "C": "as easier as",
+          "D": "easiest than"
+        },
+        "answer": "A",
+        "explain": "So sánh hơn của 'easy' (tận cùng -y) → easier + than. 'more easy' sai vì tính từ 2 âm tiết tận cùng -y dùng -ier; 'as easier as' trộn lẫn hai cấu trúc."
+      },
+      {
+        "no": 26,
+        "code": "G18",
+        "q": "My family always has a big dinner ___ Christmas Day.",
+        "level": "normal",
+        "options": {
+          "A": "in",
+          "B": "at",
+          "C": "on",
+          "D": "by"
+        },
+        "answer": "C",
+        "explain": "Một ngày cụ thể (Christmas Day) → 'on'. 'at' chỉ dùng với 'at Christmas' (cả dịp lễ), không dùng với 'Christmas Day'."
+      },
+      {
+        "no": 27,
+        "code": "G18",
+        "q": "Hanoi is famous ___ its street food.",
+        "level": "normal",
+        "options": {
+          "A": "of",
+          "B": "with",
+          "C": "about",
+          "D": "for"
+        },
+        "answer": "D",
+        "explain": "Cụm cố định: famous for (nổi tiếng về). 'famous of' là lỗi dịch từ tiếng Việt 'nổi tiếng của'."
+      },
+      {
+        "no": 28,
+        "code": "G19",
+        "q": "The letters ___ yet, so they won't arrive before Monday.",
+        "level": "normal",
+        "options": {
+          "A": "haven't been posted",
+          "B": "haven't posted",
+          "C": "hasn't been posted",
+          "D": "aren't posting"
+        },
+        "answer": "A",
+        "explain": "Thư 'chưa được gửi' + 'yet' → bị động HTHT số nhiều: haven't been + V3. 'hasn't been posted' sai hòa hợp vì 'letters' số nhiều; 'haven't posted' là chủ động, sai nghĩa."
+      },
+      {
+        "no": 29,
+        "code": "G19",
+        "q": "Your order ___ within three working days.",
+        "level": "normal",
+        "options": {
+          "A": "will deliver",
+          "B": "will be delivered",
+          "C": "will been delivered",
+          "D": "is delivering"
+        },
+        "answer": "B",
+        "explain": "Đơn hàng 'sẽ được giao' → bị động tương lai: will be + V3. 'will deliver' là chủ động (đơn hàng tự giao), sai nghĩa; 'will been' sai cấu trúc."
+      },
+      {
+        "no": 30,
+        "code": "G14",
+        "q": "We need to buy some new ___ for the office.",
+        "level": "normal",
+        "options": {
+          "A": "equipment",
+          "B": "equipments",
+          "C": "an equipment",
+          "D": "pieces equipment"
+        },
+        "answer": "A",
+        "explain": "'equipment' là danh từ không đếm được → không thêm -s, không dùng a/an. 'equipments' là lỗi thường gặp; muốn đếm phải nói 'pieces of equipment'."
+      },
+      {
+        "no": 31,
+        "code": "G14",
+        "q": "Tìm lỗi sai: My parents gave me (A) some (B) good advices before I moved (C) to (D) the city.",
+        "level": "hard",
+        "options": {
+          "A": "some",
+          "B": "good advices",
+          "C": "to",
+          "D": "the city"
+        },
+        "answer": "B",
+        "explain": "'advice' không đếm được → không có dạng 'advices'; sửa: 'some good advice'. 'some' (A) đúng vì dùng được với danh từ không đếm được."
+      },
+      {
+        "no": 32,
+        "code": "G14",
+        "q": "Chọn câu dùng a/an ĐÚNG:",
+        "level": "hard",
+        "options": {
+          "A": "He is an European citizen.",
+          "B": "It was a honour to meet you.",
+          "C": "I waited for a hour at the bank.",
+          "D": "She has an MBA from a university in the UK."
+        },
+        "answer": "D",
+        "explain": "Xét theo âm: MBA đọc /em/ → an; university đọc /juː/ → a. A sai vì European đọc /jʊə/ → a; B, C sai vì h câm (honour, hour) → an."
+      },
+      {
+        "no": 33,
+        "code": "G15",
+        "q": "Tìm lỗi sai: I (A) have (B) a few money this month, so I can't (C) afford to (D) lend you any.",
+        "level": "hard",
+        "options": {
+          "A": "have",
+          "B": "a few money",
+          "C": "afford to",
+          "D": "lend you any"
+        },
+        "answer": "B",
+        "explain": "'money' không đếm được → dùng 'little/a little', không dùng 'a few'; ngữ cảnh tiêu cực nên sửa thành 'little money'. 'any' (D) đúng vì câu phủ định."
+      },
+      {
+        "no": 34,
+        "code": "G15",
+        "q": "___ of the students in my class passed the exam, so the teacher was very disappointed.",
+        "level": "hard",
+        "options": {
+          "A": "No",
+          "B": "Any",
+          "C": "Every",
+          "D": "None"
+        },
+        "answer": "D",
+        "explain": "'None of + the + N' = không ai trong số; hợp với nghĩa thất vọng. 'No' và 'Every' không đi với 'of'; 'Any of...' trong câu khẳng định không mang nghĩa phủ định."
+      },
+      {
+        "no": 35,
+        "code": "G16",
+        "q": "Chọn câu SAI ngữ pháp:",
+        "level": "hard",
+        "options": {
+          "A": "The team worked hard all season.",
+          "B": "She arrived late for the interview.",
+          "C": "He spoke to me very friendly.",
+          "D": "The plan sounds good to me."
+        },
+        "answer": "C",
+        "explain": "'friendly' là tính từ (đuôi -ly nhưng không phải trạng từ), không bổ nghĩa cho 'spoke'; sửa: 'in a very friendly way'. D đúng vì 'sound' là động từ nối, theo sau là tính từ 'good'."
+      },
+      {
+        "no": 36,
+        "code": "G16",
+        "q": "The fish tasted ___, so nobody wanted to eat it.",
+        "level": "hard",
+        "options": {
+          "A": "strange",
+          "B": "strangely",
+          "C": "strangeness",
+          "D": "more strangely"
+        },
+        "answer": "A",
+        "explain": "'taste' (có vị) là động từ nối → theo sau là tính từ: tasted strange. 'strangely' là bẫy vì đứng sau động từ nhưng động từ nối không đi với trạng từ."
+      },
+      {
+        "no": 37,
+        "code": "G17",
+        "q": "Chọn câu gần nghĩa nhất với: \"I have never read such an interesting book.\"",
+        "level": "hard",
+        "options": {
+          "A": "I have read more interesting books than this.",
+          "B": "This book is less interesting than the others I have read.",
+          "C": "This is more interesting book than I have read.",
+          "D": "This is the most interesting book I have ever read."
+        },
+        "answer": "D",
+        "explain": "'never ... such an interesting book' = so sánh nhất 'the most interesting ... I have ever read'. A và B sai vì ngược nghĩa (đã đọc sách hay hơn / cuốn này kém hay hơn); C sai ngữ pháp (thiếu mạo từ, không phải cấu trúc so sánh nhất)."
+      },
+      {
+        "no": 38,
+        "code": "G17",
+        "q": "Tìm lỗi sai: Of all the hotels (A) we stayed in, (B) this one was (C) the more (D) comfortable.",
+        "level": "hard",
+        "options": {
+          "A": "we stayed in",
+          "B": "this one was",
+          "C": "the more",
+          "D": "comfortable"
+        },
+        "answer": "C",
+        "explain": "'Of all the hotels' (so sánh trong nhóm từ 3 trở lên) → so sánh nhất: 'the most comfortable'. 'the more' chỉ dùng khi so sánh giữa hai đối tượng."
+      },
+      {
+        "no": 39,
+        "code": "G18",
+        "q": "Chọn câu dùng giới từ SAI:",
+        "level": "hard",
+        "options": {
+          "A": "We got to the airport two hours early.",
+          "B": "The concert starts at 8 p.m. on Saturday.",
+          "C": "They arrived to Paris late last night.",
+          "D": "My cousin works in a bank in Da Nang."
+        },
+        "answer": "C",
+        "explain": "'arrive' không đi với 'to': arrive in + thành phố/quốc gia → 'arrived in Paris'. A đúng vì 'get to' + nơi chốn là cụm chuẩn."
+      },
+      {
+        "no": 40,
+        "code": "G19",
+        "q": "Chọn câu gần nghĩa nhất với: \"Someone has told the manager about the problem.\"",
+        "level": "hard",
+        "options": {
+          "A": "The manager has told about the problem.",
+          "B": "The manager has been told about the problem.",
+          "C": "The manager was being told about the problem.",
+          "D": "The problem has told the manager."
+        },
+        "answer": "B",
+        "explain": "Chủ động HTHT (has told) → bị động HTHT: has been + V3, tân ngữ 'the manager' làm chủ ngữ. A thiếu 'been' nên thành chủ động; C sai thì."
+      }
+    ]
+  },
+  {
+    "id": "tuan-4",
+    "name": "Bài kiểm tra Tuần 4",
+    "subtitle": "Câu phức & cấu trúc nâng cao (G20–G29)",
+    "day": 29,
+    "questions": [
+      {
+        "no": 1,
+        "code": "G20",
+        "q": "If you heat ice, it ___.",
+        "level": "basic",
+        "options": {
+          "A": "will melted",
+          "B": "would melt",
+          "C": "melted",
+          "D": "melts"
+        },
+        "answer": "D",
+        "explain": "Sự thật khoa học → ĐK loại 0: If + HTĐ, HTĐ."
+      },
+      {
+        "no": 2,
+        "code": "G20",
+        "q": "If it rains tomorrow, we ___ at home.",
+        "level": "basic",
+        "options": {
+          "A": "will stay",
+          "B": "stay",
+          "C": "would stay",
+          "D": "stayed"
+        },
+        "answer": "A",
+        "explain": "Có thể xảy ra ở tương lai → loại 1: will + V."
+      },
+      {
+        "no": 3,
+        "code": "G20",
+        "q": "If I ___ rich, I would travel around the world.",
+        "level": "basic",
+        "options": {
+          "A": "were",
+          "B": "am",
+          "C": "had been",
+          "D": "will be"
+        },
+        "answer": "A",
+        "explain": "Loại 2 (không có thật ở hiện tại): If + QKĐ, 'were' cho mọi ngôi."
+      },
+      {
+        "no": 4,
+        "code": "G21",
+        "q": "If she had studied harder, she ___ the exam.",
+        "level": "basic",
+        "options": {
+          "A": "passed",
+          "B": "would pass",
+          "C": "would have passed",
+          "D": "will pass"
+        },
+        "answer": "C",
+        "explain": "Trái với QK → loại 3: would have V3."
+      },
+      {
+        "no": 5,
+        "code": "G21",
+        "q": "I wish I ___ taller.",
+        "level": "basic",
+        "options": {
+          "A": "have been",
+          "B": "will be",
+          "C": "am",
+          "D": "were"
+        },
+        "answer": "D",
+        "explain": "Ước trái hiện tại → wish + QKĐ."
+      },
+      {
+        "no": 6,
+        "code": "G21",
+        "q": "I wish I ___ to the party last night.",
+        "level": "basic",
+        "options": {
+          "A": "went",
+          "B": "had gone",
+          "C": "go",
+          "D": "would go"
+        },
+        "answer": "B",
+        "explain": "Ước trái QK ('last night') → wish + had V3."
+      },
+      {
+        "no": 7,
+        "code": "G22",
+        "q": "The man ___ lives next door is a doctor.",
+        "level": "basic",
+        "options": {
+          "A": "whom",
+          "B": "who",
+          "C": "which",
+          "D": "whose"
+        },
+        "answer": "B",
+        "explain": "Chỉ người, làm chủ ngữ trong MĐQH → who."
+      },
+      {
+        "no": 8,
+        "code": "G22",
+        "q": "That's the girl ___ father is a famous singer.",
+        "level": "basic",
+        "options": {
+          "A": "which",
+          "B": "whom",
+          "C": "who",
+          "D": "whose"
+        },
+        "answer": "D",
+        "explain": "Sở hữu (father của cô gái) → whose + N."
+      },
+      {
+        "no": 9,
+        "code": "G22",
+        "q": "Hanoi, ___ is the capital of Vietnam, has many lakes.",
+        "level": "basic",
+        "options": {
+          "A": "that",
+          "B": "where",
+          "C": "who",
+          "D": "which"
+        },
+        "answer": "D",
+        "explain": "MĐ không xác định (có dấu phẩy), chỉ vật, làm S → which (không dùng that)."
+      },
+      {
+        "no": 10,
+        "code": "G22",
+        "q": "This is the house ___ I was born.",
+        "level": "basic",
+        "options": {
+          "A": "which",
+          "B": "when",
+          "C": "where",
+          "D": "who"
+        },
+        "answer": "C",
+        "explain": "Nơi chốn + mệnh đề đầy đủ → where (= in which)."
+      },
+      {
+        "no": 11,
+        "code": "G23",
+        "q": "She said that she ___ tired.",
+        "level": "basic",
+        "options": {
+          "A": "has been",
+          "B": "was",
+          "C": "is",
+          "D": "will be"
+        },
+        "answer": "B",
+        "explain": "Tường thuật: lùi thì HTĐ → QKĐ."
+      },
+      {
+        "no": 12,
+        "code": "G23",
+        "q": "He asked me where I ___.",
+        "level": "basic",
+        "options": {
+          "A": "do live",
+          "B": "live",
+          "C": "lived",
+          "D": "did I live"
+        },
+        "answer": "C",
+        "explain": "Câu hỏi gián tiếp: không đảo ngữ + lùi thì."
+      },
+      {
+        "no": 13,
+        "code": "G23",
+        "q": "'I will call you tomorrow,' he said. → He said he would call me ___.",
+        "level": "basic",
+        "options": {
+          "A": "the next day",
+          "B": "today",
+          "C": "tomorrow",
+          "D": "yesterday"
+        },
+        "answer": "A",
+        "explain": "tomorrow → the next day / the following day."
+      },
+      {
+        "no": 14,
+        "code": "G24",
+        "q": "___ it was raining, they went out.",
+        "level": "basic",
+        "options": {
+          "A": "However",
+          "B": "Despite",
+          "C": "Because",
+          "D": "Although"
+        },
+        "answer": "D",
+        "explain": "Tương phản + mệnh đề (it was raining) → Although."
+      },
+      {
+        "no": 15,
+        "code": "G24",
+        "q": "___ the heavy rain, the match continued.",
+        "level": "basic",
+        "options": {
+          "A": "Although",
+          "B": "Despite",
+          "C": "Because",
+          "D": "So"
+        },
+        "answer": "B",
+        "explain": "Tương phản + cụm danh từ → Despite / In spite of."
+      },
+      {
+        "no": 16,
+        "code": "G24",
+        "q": "It was ___ a good film that I watched it twice.",
+        "level": "basic",
+        "options": {
+          "A": "such",
+          "B": "so",
+          "C": "too",
+          "D": "very"
+        },
+        "answer": "A",
+        "explain": "such + a + adj + N + that."
+      },
+      {
+        "no": 17,
+        "code": "G25",
+        "q": "She's a teacher, ___?",
+        "level": "basic",
+        "options": {
+          "A": "doesn't she",
+          "B": "wasn't she",
+          "C": "isn't she",
+          "D": "is she"
+        },
+        "answer": "C",
+        "explain": "Câu khẳng định với 'is' → đuôi 'isn't she'."
+      },
+      {
+        "no": 18,
+        "code": "G25",
+        "q": "Can you tell me where ___?",
+        "level": "basic",
+        "options": {
+          "A": "is the station",
+          "B": "the station is",
+          "C": "does the station",
+          "D": "the station does"
+        },
+        "answer": "B",
+        "explain": "Câu hỏi gián tiếp: từ để hỏi + S + V (không đảo)."
+      },
+      {
+        "no": 19,
+        "code": "G26",
+        "q": "I ___ play football when I was a kid, but now I don't.",
+        "level": "basic",
+        "options": {
+          "A": "get used to",
+          "B": "used to",
+          "C": "am used to",
+          "D": "use to"
+        },
+        "answer": "B",
+        "explain": "Thói quen trong QK, nay không còn → used to + V."
+      },
+      {
+        "no": 20,
+        "code": "G27",
+        "q": "I had my hair ___ yesterday.",
+        "level": "basic",
+        "options": {
+          "A": "cut",
+          "B": "cuts",
+          "C": "cutting",
+          "D": "to cut"
+        },
+        "answer": "A",
+        "explain": "Sai khiến: have + sth + V3 (cut – cut – cut)."
+      },
+      {
+        "no": 21,
+        "code": "G28",
+        "q": "Never ___ such a beautiful place.",
+        "level": "basic",
+        "options": {
+          "A": "have I seen",
+          "B": "I have seen",
+          "C": "saw I",
+          "D": "I saw"
+        },
+        "answer": "A",
+        "explain": "Đảo ngữ với Never: Never + trợ ĐT + S + V."
+      },
+      {
+        "no": 22,
+        "code": "G28",
+        "q": "Not only ___ English, but she also speaks French.",
+        "level": "basic",
+        "options": {
+          "A": "she does speak",
+          "B": "speaks she",
+          "C": "does she speak",
+          "D": "she speaks"
+        },
+        "answer": "C",
+        "explain": "Not only + trợ ĐT + S + V."
+      },
+      {
+        "no": 23,
+        "code": "G20",
+        "q": "He drinks five cups of coffee a day. If he ___ so much coffee, he would sleep better.",
+        "level": "normal",
+        "options": {
+          "A": "doesn't drink",
+          "B": "didn't drink",
+          "C": "hadn't drunk",
+          "D": "won't drink"
+        },
+        "answer": "B",
+        "explain": "Giả định trái với thực tế hiện tại (anh ấy vẫn uống 5 cốc/ngày) + mệnh đề chính 'would sleep' → ĐK loại 2: If + QKĐ → 'didn't drink'. 'doesn't drink' là loại 1, không đi với 'would'; 'hadn't drunk' là loại 3 (quá khứ)."
+      },
+      {
+        "no": 24,
+        "code": "G21",
+        "q": "She turned down a job offer in Singapore last year and now regrets it. She wishes she ___ it.",
+        "level": "normal",
+        "options": {
+          "A": "accepted",
+          "B": "would accept",
+          "C": "had accepted",
+          "D": "has accepted"
+        },
+        "answer": "C",
+        "explain": "Tiếc nuối về việc đã xảy ra trong quá khứ ('last year') → wish + QKHT: 'had accepted'. 'accepted' (QKĐ) dùng cho điều ước trái hiện tại, không phải quá khứ."
+      },
+      {
+        "no": 25,
+        "code": "G22",
+        "q": "This is the village ___ my grandparents grew up in.",
+        "level": "normal",
+        "options": {
+          "A": "where",
+          "B": "which",
+          "C": "in which",
+          "D": "when"
+        },
+        "answer": "B",
+        "explain": "Giới từ 'in' đã đứng cuối mệnh đề → cần đại từ làm tân ngữ của giới từ: 'which'. 'where' đã bao hàm nghĩa 'in which' nên thừa 'in'; 'in which ... in' bị lặp giới từ."
+      },
+      {
+        "no": 26,
+        "code": "G23",
+        "q": "'Did you enjoy the concert last night?' she asked me. → She asked me ___.",
+        "level": "normal",
+        "options": {
+          "A": "did I enjoy the concert the night before",
+          "B": "that I had enjoyed the concert the night before",
+          "C": "whether had I enjoyed the concert the night before",
+          "D": "whether I had enjoyed the concert the night before"
+        },
+        "answer": "D",
+        "explain": "Câu hỏi Yes/No tường thuật: asked + whether/if + S + V (không đảo ngữ), lùi thì và đổi 'last night' → 'the night before'. C sai vì vẫn đảo 'had I'; B dùng 'that' cho câu hỏi là sai."
+      },
+      {
+        "no": 27,
+        "code": "G24",
+        "q": "The tickets were extremely expensive. ___, we decided to go to the show.",
+        "level": "normal",
+        "options": {
+          "A": "Nevertheless",
+          "B": "Therefore",
+          "C": "Although",
+          "D": "Despite"
+        },
+        "answer": "A",
+        "explain": "Hai câu tương phản (vé đắt nhưng vẫn đi), đứng đầu câu sau dấu chấm và có dấu phẩy → trạng từ liên kết 'Nevertheless'. 'Therefore' chỉ kết quả, sai nghĩa; 'Although' và 'Despite' không đứng một mình trước dấu phẩy như vậy."
+      },
+      {
+        "no": 28,
+        "code": "G25",
+        "q": "He used to live in Hue, ___?",
+        "level": "normal",
+        "options": {
+          "A": "wasn't he",
+          "B": "doesn't he",
+          "C": "didn't he",
+          "D": "hadn't he"
+        },
+        "answer": "C",
+        "explain": "'used to' là động từ thường ở quá khứ → câu hỏi đuôi dùng trợ động từ 'did': 'didn't he'. 'hadn't he' sai vì câu không có 'had' làm trợ động từ."
+      },
+      {
+        "no": 29,
+        "code": "G26",
+        "q": "When I first moved to the city, the noise kept me awake, but I soon ___ it.",
+        "level": "normal",
+        "options": {
+          "A": "used to",
+          "B": "was used",
+          "C": "use to",
+          "D": "got used to"
+        },
+        "answer": "D",
+        "explain": "Quá trình dần quen với điều gì → get used to + N/V-ing; 'soon' nhấn mạnh sự thay đổi → 'got used to'. 'used to' + V chỉ thói quen quá khứ, không đi với danh từ 'it'."
+      },
+      {
+        "no": 30,
+        "code": "G27",
+        "q": "The boss had us ___ until 9 p.m. to finish the report.",
+        "level": "normal",
+        "options": {
+          "A": "to stay",
+          "B": "stay",
+          "C": "stayed",
+          "D": "to staying"
+        },
+        "answer": "B",
+        "explain": "Thể sai khiến chủ động: have + người + V nguyên mẫu → 'had us stay'. 'to stay' là cấu trúc của 'get sb to do', không dùng với 'have'."
+      },
+      {
+        "no": 31,
+        "code": "G28",
+        "q": "Only when the rain stopped ___ out for a walk.",
+        "level": "normal",
+        "options": {
+          "A": "did we go",
+          "B": "we went",
+          "C": "went we",
+          "D": "we did go"
+        },
+        "answer": "A",
+        "explain": "'Only when + mệnh đề' đứng đầu câu → đảo ngữ ở mệnh đề chính: trợ động từ + S + V → 'did we go'. 'we went' không đảo; 'went we' đảo sai (không đảo động từ thường)."
+      },
+      {
+        "no": 32,
+        "code": "G29",
+        "q": "The number of cars in the city ___ increased sharply over the last decade.",
+        "level": "normal",
+        "options": {
+          "A": "have",
+          "B": "are",
+          "C": "has",
+          "D": "were"
+        },
+        "answer": "C",
+        "explain": "'The number of + N số nhiều' → chủ ngữ là 'the number' (số ít) → 'has'. Dễ nhầm với 'A number of' (= nhiều) đi với động từ số nhiều 'have'."
+      },
+      {
+        "no": 33,
+        "code": "G20",
+        "q": "Chọn câu gần nghĩa nhất với: You can stay in the library only if you keep quiet.",
+        "level": "hard",
+        "options": {
+          "A": "You can stay in the library unless you keep quiet.",
+          "B": "You can stay in the library even if you don't keep quiet.",
+          "C": "You can't stay in the library if you keep quiet.",
+          "D": "You can stay in the library as long as you keep quiet."
+        },
+        "answer": "D",
+        "explain": "'only if' = 'as long as / provided that' (với điều kiện là). A sai vì 'unless' = 'if ... not', đảo ngược điều kiện; B và C mâu thuẫn hoàn toàn với câu gốc."
+      },
+      {
+        "no": 34,
+        "code": "G21",
+        "q": "Chọn câu gần nghĩa nhất với: I regret not taking the scholarship to Australia.",
+        "level": "hard",
+        "options": {
+          "A": "I wish I took the scholarship to Australia.",
+          "B": "I wish I had taken the scholarship to Australia.",
+          "C": "I wish I hadn't taken the scholarship to Australia.",
+          "D": "If only I would take the scholarship to Australia."
+        },
+        "answer": "B",
+        "explain": "'regret not taking' = tiếc vì đã KHÔNG nhận (quá khứ) → wish + QKHT khẳng định: 'had taken'. A dùng QKĐ (ước trái hiện tại); C đảo ngược nghĩa (tiếc vì ĐÃ nhận)."
+      },
+      {
+        "no": 35,
+        "code": "G22",
+        "q": "Tìm lỗi sai: The students, (A) most of them come from (B) rural areas, (C) received (D) scholarships from the city.",
+        "level": "hard",
+        "options": {
+          "A": "most of them come from",
+          "B": "rural areas",
+          "C": "received",
+          "D": "scholarships"
+        },
+        "answer": "A",
+        "explain": "Mệnh đề chen giữa hai dấu phẩy cần đại từ quan hệ để nối: 'most of whom'. Dùng 'them' + động từ chia tạo ra hai mệnh đề độc lập ghép sai; sửa: 'most of whom come from' (hoặc 'most of them coming from'). 'come' ở hiện tại vẫn hợp lý vì họ vẫn đến từ nông thôn."
+      },
+      {
+        "no": 36,
+        "code": "G23",
+        "q": "Chọn câu tường thuật đúng nhất cho: 'Why don't we take a taxi?' said Lan.",
+        "level": "hard",
+        "options": {
+          "A": "Lan suggested us to take a taxi.",
+          "B": "Lan suggested to take a taxi.",
+          "C": "Lan suggested taking a taxi.",
+          "D": "Lan suggested we taking a taxi."
+        },
+        "answer": "C",
+        "explain": "'Why don't we ...?' là lời gợi ý → suggest + V-ing (hoặc suggest that we (should) V). A và B sai vì 'suggest' không đi với 'to V' hay 'sb to V'; D sai vì sau 'we' phải là động từ chia, không phải V-ing."
+      },
+      {
+        "no": 37,
+        "code": "G24",
+        "q": "Tìm lỗi sai: (A) In spite of she had (B) little time, she (C) managed to finish the project (D) on schedule.",
+        "level": "hard",
+        "options": {
+          "A": "In spite of she had",
+          "B": "little",
+          "C": "managed to finish",
+          "D": "on schedule"
+        },
+        "answer": "A",
+        "explain": "'In spite of' chỉ đi với danh từ/V-ing, không đi với mệnh đề → sửa thành 'Although she had' hoặc 'In spite of having'. 'little time' (ít thời gian) đúng nghĩa tương phản với 'managed to'."
+      },
+      {
+        "no": 38,
+        "code": "G25",
+        "q": "Few people came to the meeting, ___?",
+        "level": "hard",
+        "options": {
+          "A": "didn't they",
+          "B": "did it",
+          "C": "didn't it",
+          "D": "did they"
+        },
+        "answer": "D",
+        "explain": "'Few' mang nghĩa phủ định (hầu như không ai) → câu hỏi đuôi khẳng định; chủ ngữ 'people' → 'did they'. Bẫy: thấy câu không có 'not' nên chọn đuôi phủ định 'didn't they'."
+      },
+      {
+        "no": 39,
+        "code": "G26",
+        "q": "Chọn câu gần nghĩa nhất với: I'm finding it hard to adapt to wearing a uniform at my new school.",
+        "level": "hard",
+        "options": {
+          "A": "I've got used to wearing a uniform now.",
+          "B": "I'm not used to wearing a uniform yet.",
+          "C": "I used to wear a uniform at my new school.",
+          "D": "I'm not used to wear a uniform yet."
+        },
+        "answer": "B",
+        "explain": "Thấy khó thích nghi = chưa quen → be not used to + V-ing: 'I'm not used to wearing'. D sai ngữ pháp ('to' là giới từ, cần V-ing); A nghĩa ngược lại; C nói về thói quen trong quá khứ."
+      },
+      {
+        "no": 40,
+        "code": "G27",
+        "q": "Tìm lỗi sai: We (A) are having (B) a new kitchen (C) install (D) next month.",
+        "level": "hard",
+        "options": {
+          "A": "are having",
+          "B": "a new kitchen",
+          "C": "install",
+          "D": "next month"
+        },
+        "answer": "C",
+        "explain": "Sai khiến bị động: have + vật + V3 → 'having a new kitchen installed'. 'are having ... next month' (HTTD chỉ kế hoạch tương lai) hoàn toàn đúng."
+      },
+      {
+        "no": 41,
+        "code": "G28",
+        "q": "Such ___ the noise from the building site that nobody in the street could sleep.",
+        "level": "hard",
+        "options": {
+          "A": "it was",
+          "B": "were",
+          "C": "did it",
+          "D": "was"
+        },
+        "answer": "D",
+        "explain": "Đảo ngữ với 'Such': Such + be + N + that ... Chủ ngữ 'the noise' số ít → 'Such was the noise'. 'were' sai hòa hợp; 'it was' không đảo ngữ và thừa chủ ngữ."
+      },
+      {
+        "no": 42,
+        "code": "G29",
+        "q": "Tìm lỗi sai: Each of the candidates (A) were asked (B) to give (C) a short presentation (D) about their experience.",
+        "level": "hard",
+        "options": {
+          "A": "were asked",
+          "B": "to give",
+          "C": "a short presentation",
+          "D": "about their experience"
+        },
+        "answer": "A",
+        "explain": "'Each of + N số nhiều' → chủ ngữ là 'each' (số ít) → 'was asked'. 'their' dùng thay cho người không rõ giới tính sau 'each' là chuẩn, không phải lỗi."
+      }
+    ]
+  },
+  {
+    "id": "cuoi-khoa",
+    "name": "Bài kiểm tra Cuối Khóa",
+    "subtitle": "Tổng hợp toàn bộ ngữ pháp (G01–G29)",
+    "day": 30,
+    "questions": [
+      {
+        "no": 1,
+        "code": "G02",
+        "q": "My father usually ___ coffee in the morning.",
+        "level": "basic",
+        "options": {
+          "A": "drinks",
+          "B": "is drinking",
+          "C": "drink",
+          "D": "drank"
+        },
+        "answer": "A",
+        "explain": "'usually' → HTĐ, ngôi 3 số ít."
+      },
+      {
+        "no": 2,
+        "code": "G06",
+        "q": "I ___ my homework yet.",
+        "level": "basic",
+        "options": {
+          "A": "don't finish",
+          "B": "hadn't finished",
+          "C": "haven't finished",
+          "D": "didn't finish"
+        },
+        "answer": "C",
+        "explain": "'yet' → HTHT."
+      },
+      {
+        "no": 3,
+        "code": "G05",
+        "q": "She ___ when the teacher came in.",
+        "level": "basic",
+        "options": {
+          "A": "has talked",
+          "B": "was talking",
+          "C": "talks",
+          "D": "talked"
+        },
+        "answer": "B",
+        "explain": "Đang diễn ra thì có hành động xen vào → QKTD."
+      },
+      {
+        "no": 4,
+        "code": "G08",
+        "q": "After he ___ his work, he went home.",
+        "level": "basic",
+        "options": {
+          "A": "had finished",
+          "B": "finishes",
+          "C": "was finishing",
+          "D": "has finished"
+        },
+        "answer": "A",
+        "explain": "Hành động xảy ra trước 'went' → QKHT."
+      },
+      {
+        "no": 5,
+        "code": "G09",
+        "q": "I think it ___ tomorrow.",
+        "level": "basic",
+        "options": {
+          "A": "rained",
+          "B": "rains",
+          "C": "will rain",
+          "D": "is raining"
+        },
+        "answer": "C",
+        "explain": "Dự đoán chủ quan (I think) → will."
+      },
+      {
+        "no": 6,
+        "code": "G07",
+        "q": "We ___ here for 2 hours. Where is she?",
+        "level": "basic",
+        "options": {
+          "A": "wait",
+          "B": "are waiting",
+          "C": "have been waiting",
+          "D": "waited"
+        },
+        "answer": "C",
+        "explain": "Quá trình kéo dài đến hiện tại ('for 2 hours') → HTHTTD."
+      },
+      {
+        "no": 7,
+        "code": "G11",
+        "q": "You look pale. You ___ see a doctor.",
+        "level": "basic",
+        "options": {
+          "A": "would",
+          "B": "needn't",
+          "C": "mustn't",
+          "D": "should"
+        },
+        "answer": "D",
+        "explain": "Lời khuyên → should."
+      },
+      {
+        "no": 8,
+        "code": "G12",
+        "q": "Her car is in the garage. She ___ have taken the bus.",
+        "level": "basic",
+        "options": {
+          "A": "can't",
+          "B": "shouldn't",
+          "C": "must",
+          "D": "needn't"
+        },
+        "answer": "C",
+        "explain": "Suy luận chắc chắn về QK → must have V3."
+      },
+      {
+        "no": 9,
+        "code": "G13",
+        "q": "He avoided ___ the question.",
+        "level": "basic",
+        "options": {
+          "A": "to answer",
+          "B": "answering",
+          "C": "answered",
+          "D": "answer"
+        },
+        "answer": "B",
+        "explain": "avoid + V-ing."
+      },
+      {
+        "no": 10,
+        "code": "G13",
+        "q": "I'd like ___ you to dinner.",
+        "level": "basic",
+        "options": {
+          "A": "to invite",
+          "B": "invited",
+          "C": "invite",
+          "D": "inviting"
+        },
+        "answer": "A",
+        "explain": "would like + to V."
+      },
+      {
+        "no": 11,
+        "code": "G14",
+        "q": "Can you pass me ___ salt, please?",
+        "level": "basic",
+        "options": {
+          "A": "a",
+          "B": "Ø (không cần)",
+          "C": "an",
+          "D": "the"
+        },
+        "answer": "D",
+        "explain": "Lọ muối cụ thể trên bàn, cả 2 người đều biết → the."
+      },
+      {
+        "no": 12,
+        "code": "G15",
+        "q": "How ___ people came to the party?",
+        "level": "basic",
+        "options": {
+          "A": "a lot",
+          "B": "little",
+          "C": "many",
+          "D": "much"
+        },
+        "answer": "C",
+        "explain": "people là danh từ số nhiều → many."
+      },
+      {
+        "no": 13,
+        "code": "G15",
+        "q": "Is there ___ milk in the fridge?",
+        "level": "basic",
+        "options": {
+          "A": "any",
+          "B": "few",
+          "C": "a few",
+          "D": "many"
+        },
+        "answer": "A",
+        "explain": "Câu hỏi + N không đếm được → any."
+      },
+      {
+        "no": 14,
+        "code": "G16",
+        "q": "She speaks English ___.",
+        "level": "basic",
+        "options": {
+          "A": "fluently",
+          "B": "fluent",
+          "C": "fluency",
+          "D": "more fluent"
+        },
+        "answer": "A",
+        "explain": "Bổ nghĩa cho động từ → trạng từ."
+      },
+      {
+        "no": 15,
+        "code": "G16",
+        "q": "I was ___ with the result.",
+        "level": "basic",
+        "options": {
+          "A": "disappointing",
+          "B": "disappointed",
+          "C": "disappointment",
+          "D": "disappoint"
+        },
+        "answer": "B",
+        "explain": "Cảm xúc của người → -ed."
+      },
+      {
+        "no": 16,
+        "code": "G17",
+        "q": "This is ___ interesting book I have ever read.",
+        "level": "basic",
+        "options": {
+          "A": "the most",
+          "B": "most",
+          "C": "more",
+          "D": "the more"
+        },
+        "answer": "A",
+        "explain": "So sánh nhất tính từ dài → the most."
+      },
+      {
+        "no": 17,
+        "code": "G17",
+        "q": "Tom runs ___ than his brother.",
+        "level": "basic",
+        "options": {
+          "A": "more fast",
+          "B": "faster",
+          "C": "fastest",
+          "D": "fast"
+        },
+        "answer": "B",
+        "explain": "fast → faster (1 âm tiết)."
+      },
+      {
+        "no": 18,
+        "code": "G18",
+        "q": "We arrived ___ the airport late.",
+        "level": "basic",
+        "options": {
+          "A": "on",
+          "B": "at",
+          "C": "in",
+          "D": "to"
+        },
+        "answer": "B",
+        "explain": "arrive at + điểm cụ thể (airport, station); arrive in + thành phố/quốc gia."
+      },
+      {
+        "no": 19,
+        "code": "G19",
+        "q": "The letter ___ yesterday.",
+        "level": "basic",
+        "options": {
+          "A": "sent",
+          "B": "was sent",
+          "C": "has sent",
+          "D": "is sent"
+        },
+        "answer": "B",
+        "explain": "Bị động QKĐ ('yesterday')."
+      },
+      {
+        "no": 20,
+        "code": "G19",
+        "q": "A new hospital ___ in our city now.",
+        "level": "basic",
+        "options": {
+          "A": "is building",
+          "B": "built",
+          "C": "is being built",
+          "D": "builds"
+        },
+        "answer": "C",
+        "explain": "Bị động HTTD ('now')."
+      },
+      {
+        "no": 21,
+        "code": "G19",
+        "q": "People say that he is rich. → He ___ rich.",
+        "level": "basic",
+        "options": {
+          "A": "said being",
+          "B": "is said to be",
+          "C": "is saying",
+          "D": "says to be"
+        },
+        "answer": "B",
+        "explain": "Bị động đặc biệt: S + is said + to V."
+      },
+      {
+        "no": 22,
+        "code": "G20",
+        "q": "If I see him, I ___ him the news.",
+        "level": "basic",
+        "options": {
+          "A": "told",
+          "B": "tell",
+          "C": "would tell",
+          "D": "will tell"
+        },
+        "answer": "D",
+        "explain": "ĐK loại 1."
+      },
+      {
+        "no": 23,
+        "code": "G20",
+        "q": "If I were you, I ___ that job.",
+        "level": "basic",
+        "options": {
+          "A": "will take",
+          "B": "would take",
+          "C": "took",
+          "D": "take"
+        },
+        "answer": "B",
+        "explain": "ĐK loại 2 (lời khuyên): would + V."
+      },
+      {
+        "no": 24,
+        "code": "G21",
+        "q": "If we had left earlier, we ___ the train.",
+        "level": "basic",
+        "options": {
+          "A": "won't miss",
+          "B": "wouldn't have missed",
+          "C": "didn't miss",
+          "D": "wouldn't miss"
+        },
+        "answer": "B",
+        "explain": "ĐK loại 3."
+      },
+      {
+        "no": 25,
+        "code": "G21",
+        "q": "If I had studied medicine, I ___ a doctor now.",
+        "level": "basic",
+        "options": {
+          "A": "am",
+          "B": "would be",
+          "C": "will be",
+          "D": "would have been"
+        },
+        "answer": "B",
+        "explain": "ĐK hỗn hợp: điều kiện QK (had V3) → kết quả hiện tại ('now') → would + V."
+      },
+      {
+        "no": 26,
+        "code": "G21",
+        "q": "I wish you ___ so much noise.",
+        "level": "basic",
+        "options": {
+          "A": "won't make",
+          "B": "haven't made",
+          "C": "wouldn't make",
+          "D": "don't make"
+        },
+        "answer": "C",
+        "explain": "Wish + would để phàn nàn/mong người khác thay đổi."
+      },
+      {
+        "no": 27,
+        "code": "G22",
+        "q": "The book ___ I bought yesterday is great.",
+        "level": "basic",
+        "options": {
+          "A": "who",
+          "B": "whose",
+          "C": "which",
+          "D": "whom"
+        },
+        "answer": "C",
+        "explain": "Chỉ vật, làm tân ngữ → which/that."
+      },
+      {
+        "no": 28,
+        "code": "G22",
+        "q": "My sister, ___ lives in London, is a nurse.",
+        "level": "basic",
+        "options": {
+          "A": "which",
+          "B": "who",
+          "C": "that",
+          "D": "whom"
+        },
+        "answer": "B",
+        "explain": "MĐ không xác định, chỉ người, làm S → who."
+      },
+      {
+        "no": 29,
+        "code": "G23",
+        "q": "She told me ___ late again.",
+        "level": "basic",
+        "options": {
+          "A": "to be not",
+          "B": "not being",
+          "C": "don't be",
+          "D": "not to be"
+        },
+        "answer": "D",
+        "explain": "Mệnh lệnh phủ định gián tiếp: told sb not to V."
+      },
+      {
+        "no": 30,
+        "code": "G23",
+        "q": "He asked me ___ I liked pizza.",
+        "level": "basic",
+        "options": {
+          "A": "which",
+          "B": "that",
+          "C": "what",
+          "D": "if"
+        },
+        "answer": "D",
+        "explain": "Câu hỏi Yes/No gián tiếp → if/whether."
+      },
+      {
+        "no": 31,
+        "code": "G24",
+        "q": "___ being tired, she kept working.",
+        "level": "basic",
+        "options": {
+          "A": "In spite of",
+          "B": "Even",
+          "C": "Although",
+          "D": "Because"
+        },
+        "answer": "A",
+        "explain": "In spite of + V-ing/N."
+      },
+      {
+        "no": 32,
+        "code": "G24",
+        "q": "He studied hard ___ he could pass the exam.",
+        "level": "basic",
+        "options": {
+          "A": "because of",
+          "B": "although",
+          "C": "despite",
+          "D": "so that"
+        },
+        "answer": "D",
+        "explain": "Chỉ mục đích + mệnh đề → so that."
+      },
+      {
+        "no": 33,
+        "code": "G25",
+        "q": "You haven't seen him, ___?",
+        "level": "basic",
+        "options": {
+          "A": "have you",
+          "B": "did you",
+          "C": "haven't you",
+          "D": "do you"
+        },
+        "answer": "A",
+        "explain": "Câu phủ định (haven't) → đuôi khẳng định (have you)."
+      },
+      {
+        "no": 34,
+        "code": "G25",
+        "q": "I don't know what time ___.",
+        "level": "basic",
+        "options": {
+          "A": "the film starts",
+          "B": "is the film start",
+          "C": "does the film start",
+          "D": "starts the film"
+        },
+        "answer": "A",
+        "explain": "Câu hỏi gián tiếp: S + V (không đảo)."
+      },
+      {
+        "no": 35,
+        "code": "G26",
+        "q": "She is used to ___ in a big city.",
+        "level": "basic",
+        "options": {
+          "A": "lives",
+          "B": "live",
+          "C": "lived",
+          "D": "living"
+        },
+        "answer": "D",
+        "explain": "be used to + V-ing (đã quen)."
+      },
+      {
+        "no": 36,
+        "code": "G27",
+        "q": "I'm going to get my car ___ tomorrow.",
+        "level": "basic",
+        "options": {
+          "A": "wash",
+          "B": "to wash",
+          "C": "washing",
+          "D": "washed"
+        },
+        "answer": "D",
+        "explain": "Sai khiến: get + sth + V3."
+      },
+      {
+        "no": 37,
+        "code": "G28",
+        "q": "Hardly ___ home when it started to rain.",
+        "level": "basic",
+        "options": {
+          "A": "had I got",
+          "B": "did I got",
+          "C": "I got",
+          "D": "I had got"
+        },
+        "answer": "A",
+        "explain": "Hardly + had + S + V3 + when..."
+      },
+      {
+        "no": 38,
+        "code": "G21",
+        "q": "It's time we ___ home.",
+        "level": "basic",
+        "options": {
+          "A": "will go",
+          "B": "go",
+          "C": "going",
+          "D": "went"
+        },
+        "answer": "D",
+        "explain": "It's time + S + V2 (QKĐ)."
+      },
+      {
+        "no": 39,
+        "code": "G29",
+        "q": "Choose the correct sentence.",
+        "level": "basic",
+        "options": {
+          "A": "Everyone be here.",
+          "B": "Everyone are here.",
+          "C": "Everyone were here.",
+          "D": "Everyone is here."
+        },
+        "answer": "D",
+        "explain": "everyone + động từ số ít."
+      },
+      {
+        "no": 40,
+        "code": "G29",
+        "q": "The number of students ___ increasing.",
+        "level": "basic",
+        "options": {
+          "A": "are",
+          "B": "is",
+          "C": "were",
+          "D": "have"
+        },
+        "answer": "B",
+        "explain": "The number of + N → động từ số ít."
+      },
+      {
+        "no": 41,
+        "code": "G04",
+        "q": "I ___ him two days ago, but he hasn't called me back yet.",
+        "level": "normal",
+        "options": {
+          "A": "have emailed",
+          "B": "had emailed",
+          "C": "emailed",
+          "D": "was emailing"
+        },
+        "answer": "C",
+        "explain": "'two days ago' là mốc quá khứ xác định → QKĐ 'emailed'. 'have emailed' (HTHT) không dùng với 'ago'; 'had emailed' cần một mốc quá khứ khác làm mốc."
+      },
+      {
+        "no": 42,
+        "code": "G06",
+        "q": "She ___ in Hanoi since she graduated in 2019.",
+        "level": "normal",
+        "options": {
+          "A": "lives",
+          "B": "has lived",
+          "C": "lived",
+          "D": "had lived"
+        },
+        "answer": "B",
+        "explain": "'since + mốc quá khứ' → hành động kéo dài đến hiện tại → HTHT 'has lived'. 'lived' (QKĐ) cho biết việc đã chấm dứt, mâu thuẫn với 'since'; 'had lived' không có mốc quá khứ để so sánh."
+      },
+      {
+        "no": 43,
+        "code": "G09",
+        "q": "I ___ my grandparents this weekend – I've already bought the bus ticket.",
+        "level": "normal",
+        "options": {
+          "A": "visit",
+          "B": "visited",
+          "C": "would visit",
+          "D": "am visiting"
+        },
+        "answer": "D",
+        "explain": "Kế hoạch đã sắp xếp chắc chắn (đã mua vé) → HTTD mang nghĩa tương lai 'am visiting'. HTĐ 'visit' chỉ dùng cho lịch trình cố định (tàu, xe, giờ học), không dùng cho kế hoạch cá nhân."
+      },
+      {
+        "no": 44,
+        "code": "G13",
+        "q": "The doctor advised him ___ smoking immediately.",
+        "level": "normal",
+        "options": {
+          "A": "to stop",
+          "B": "stopping",
+          "C": "stop",
+          "D": "stopped"
+        },
+        "answer": "A",
+        "explain": "advise + sb + to V → 'advised him to stop'. Dạng advise + V-ing chỉ dùng khi không có tân ngữ chỉ người (advised stopping), nên 'stopping' sai ở đây."
+      },
+      {
+        "no": 45,
+        "code": "G14",
+        "q": "Her brother was sent to ___ prison for five years, and she visits ___ prison every month to see him.",
+        "level": "normal",
+        "options": {
+          "A": "the / Ø",
+          "B": "a / Ø",
+          "C": "Ø / the",
+          "D": "the / a"
+        },
+        "answer": "C",
+        "explain": "go/be sent to prison (Ø) = đi tù, đúng mục đích chính của nơi đó; người nhà đến thăm → đến tòa nhà cụ thể → 'the prison'. Phương án A đảo ngược hai cách dùng này."
+      },
+      {
+        "no": 46,
+        "code": "G16",
+        "q": "The soup smells ___. What did you put in it?",
+        "level": "normal",
+        "options": {
+          "A": "wonderfully",
+          "B": "wonderful",
+          "C": "wonder",
+          "D": "wonderingly"
+        },
+        "answer": "B",
+        "explain": "'smell' ở đây là động từ nối (linking verb) → theo sau là tính từ 'wonderful'. 'wonderfully' là trạng từ, dễ gây nhầm vì đứng sau động từ."
+      },
+      {
+        "no": 47,
+        "code": "G17",
+        "q": "The more books you read, ___ your vocabulary becomes.",
+        "level": "normal",
+        "options": {
+          "A": "the most rich",
+          "B": "richer",
+          "C": "the more richer",
+          "D": "the richer"
+        },
+        "answer": "D",
+        "explain": "So sánh kép 'The + so sánh hơn..., the + so sánh hơn...' → 'the richer'. 'richer' thiếu 'the'; 'the more richer' dùng thừa 'more' với tính từ ngắn."
+      },
+      {
+        "no": 48,
+        "code": "G18",
+        "q": "The price of petrol has risen ___ 10% this month, and many drivers are complaining ___ it.",
+        "level": "normal",
+        "options": {
+          "A": "by / about",
+          "B": "at / for",
+          "C": "with / on",
+          "D": "in / of"
+        },
+        "answer": "A",
+        "explain": "rise by + mức chênh lệch (tăng thêm 10%); complain about sth = phàn nàn về điều gì. 'complain of' dùng cho triệu chứng bệnh (complain of a headache), không hợp ở đây."
+      },
+      {
+        "no": 49,
+        "code": "G20",
+        "q": "If the weather ___ fine tomorrow, we'll have lunch in the garden.",
+        "level": "normal",
+        "options": {
+          "A": "will be",
+          "B": "would be",
+          "C": "is",
+          "D": "were"
+        },
+        "answer": "C",
+        "explain": "ĐK loại 1: If + HTĐ, S + will V → 'is'. Không dùng 'will' trong mệnh đề if dù nói về tương lai; 'were' thuộc ĐK loại 2, không khớp với 'we'll' ở mệnh đề chính."
+      },
+      {
+        "no": 50,
+        "code": "G26",
+        "q": "When I was a child, I ___ play football in the street every afternoon.",
+        "level": "normal",
+        "options": {
+          "A": "was used to",
+          "B": "got used to",
+          "C": "am used to",
+          "D": "used to"
+        },
+        "answer": "D",
+        "explain": "Thói quen trong quá khứ, nay không còn → used to + V nguyên mẫu. 'was used to / got used to / am used to' mang nghĩa quen với, phải theo sau là V-ing, không đi với 'play'."
+      },
+      {
+        "no": 51,
+        "code": "G10",
+        "q": "Tìm lỗi sai: (A) By the time the new airport (B) opens, the city (C) will spend over two billion dollars (D) on it.",
+        "level": "hard",
+        "options": {
+          "A": "By the time",
+          "B": "opens",
+          "C": "will spend",
+          "D": "on it"
+        },
+        "answer": "C",
+        "explain": "'By the time + mốc tương lai' → hành động hoàn tất trước mốc → TLHT 'will have spent'. 'opens' (B) đúng vì mệnh đề thời gian không dùng will."
+      },
+      {
+        "no": 52,
+        "code": "G07",
+        "q": "How many pages of the report ___ so far? The deadline is at five.",
+        "level": "hard",
+        "options": {
+          "A": "have you translated",
+          "B": "have you been translating",
+          "C": "are you translating",
+          "D": "had you translated"
+        },
+        "answer": "A",
+        "explain": "Hỏi về số lượng/kết quả đạt được (How many... so far) → HTHT 'have you translated'. HTHTTD nhấn mạnh quá trình, không dùng khi hỏi số lượng cụ thể."
+      },
+      {
+        "no": 53,
+        "code": "G08",
+        "q": "Tìm lỗi sai: When the firefighters (A) arrived, the old house (B) has already burned down, so there (C) was nothing they (D) could do.",
+        "level": "hard",
+        "options": {
+          "A": "arrived",
+          "B": "has already burned",
+          "C": "was",
+          "D": "could do"
+        },
+        "answer": "B",
+        "explain": "Ngôi nhà cháy xong TRƯỚC khi lính cứu hỏa đến (QK) → QKHT 'had already burned'. HTHT 'has' không dùng trong câu kể chuyện quá khứ; các phần còn lại đều ở QKĐ, đúng."
+      },
+      {
+        "no": 54,
+        "code": "G12",
+        "q": "Chọn câu gần nghĩa nhất với: I'm sure she didn't see my message; she never replied.",
+        "level": "hard",
+        "options": {
+          "A": "She may not see my message.",
+          "B": "She shouldn't have seen my message.",
+          "C": "She needn't have seen my message.",
+          "D": "She can't have seen my message."
+        },
+        "answer": "D",
+        "explain": "Chắc chắn điều gì KHÔNG xảy ra trong quá khứ → can't have + V3. 'shouldn't have seen' = lẽ ra không nên thấy (trách móc), 'needn't have' = đã làm nhưng không cần, đều sai nghĩa."
+      },
+      {
+        "no": 55,
+        "code": "G19",
+        "q": "Chọn câu gần nghĩa nhất với: Someone must have stolen the documents from the safe.",
+        "level": "hard",
+        "options": {
+          "A": "The documents must have been stolen from the safe.",
+          "B": "The documents must be stolen from the safe.",
+          "C": "The documents must have stolen from the safe.",
+          "D": "The documents must have being stolen from the safe."
+        },
+        "answer": "A",
+        "explain": "Bị động của modal hoàn thành: modal + have been + V3 → 'must have been stolen'. B mất nghĩa quá khứ; C là chủ động (tài liệu tự lấy cắp); D sai dạng 'being'."
+      },
+      {
+        "no": 56,
+        "code": "G21",
+        "q": "Chọn câu gần nghĩa nhất với: It's a pity I didn't take your advice last year.",
+        "level": "hard",
+        "options": {
+          "A": "If only I took your advice last year.",
+          "B": "If only I had taken your advice last year.",
+          "C": "If only I would have taken your advice last year.",
+          "D": "If only I have taken your advice last year."
+        },
+        "answer": "B",
+        "explain": "Tiếc nuối về quá khứ ('last year') → If only/wish + QKHT 'had taken'. 'took' (QKĐ) chỉ dùng cho điều ước ở hiện tại; 'would have taken' không dùng sau If only."
+      },
+      {
+        "no": 57,
+        "code": "G22",
+        "q": "Tìm lỗi sai: The manager, (A) to whom I spoke yesterday, told me (B) that the report (C) was missing the data (D) which I had added it.",
+        "level": "hard",
+        "options": {
+          "A": "to whom I spoke",
+          "B": "that",
+          "C": "was missing",
+          "D": "which I had added it"
+        },
+        "answer": "D",
+        "explain": "Đại từ quan hệ 'which' đã làm tân ngữ của 'added' → phải bỏ 'it': 'which I had added'. A đúng: giới từ đặt trước đại từ quan hệ thì dùng 'whom'."
+      },
+      {
+        "no": 58,
+        "code": "G23",
+        "q": "Chọn câu gần nghĩa nhất với: 'Where did you park the car?' Tom asked me.",
+        "level": "hard",
+        "options": {
+          "A": "Tom asked me where I had parked the car.",
+          "B": "Tom asked me where had I parked the car.",
+          "C": "Tom asked me where did I park the car.",
+          "D": "Tom asked me that where I had parked the car."
+        },
+        "answer": "A",
+        "explain": "Câu hỏi gián tiếp: từ để hỏi + S + V (không đảo ngữ, bỏ 'did') và lùi thì → 'where I had parked'. B, C giữ trật tự câu hỏi; D thừa 'that'."
+      },
+      {
+        "no": 59,
+        "code": "G24",
+        "q": "Chọn câu gần nghĩa nhất với: Although the tickets were very expensive, the concert was sold out.",
+        "level": "hard",
+        "options": {
+          "A": "Despite the tickets were very expensive, the concert was sold out.",
+          "B": "Because of the very expensive tickets, the concert was sold out.",
+          "C": "In spite of the very expensive tickets, the concert was sold out.",
+          "D": "However the tickets were very expensive, the concert was sold out."
+        },
+        "answer": "C",
+        "explain": "In spite of/Despite + cụm danh từ → 'In spite of the very expensive tickets'. A sai vì Despite không đi với mệnh đề; B đổi nghĩa thành nguyên nhân; D sai cấu trúc (phải là 'However expensive the tickets were')."
+      },
+      {
+        "no": 60,
+        "code": "G28",
+        "q": "Chọn câu gần nghĩa nhất với: He had never seen such a beautiful sunset before.",
+        "level": "hard",
+        "options": {
+          "A": "Never before he had seen such a beautiful sunset.",
+          "B": "Never before had he seen such a beautiful sunset.",
+          "C": "Never before saw he such a beautiful sunset.",
+          "D": "Never before has he seen such a beautiful sunset."
+        },
+        "answer": "B",
+        "explain": "Trạng từ phủ định 'Never before' đứng đầu câu → đảo trợ động từ: had + S + V3, giữ nguyên thì QKHT. A không đảo ngữ; C đảo động từ thường (sai); D đổi sang HTHT, sai thì."
+      }
+    ]
+  }
+]

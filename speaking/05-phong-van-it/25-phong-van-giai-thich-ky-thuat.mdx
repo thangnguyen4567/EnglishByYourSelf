@@ -1,0 +1,199 @@
+---
+title: "Phỏng vấn: Giải thích kỹ thuật cho người không chuyên"
+sidebar_label: "25 · Giải thích kỹ thuật cho người không chuyên"
+sidebar_position: 9
+slug: /phong-van-giai-thich-ky-thuat
+description: "Giải thích caching, API, database index cho người không biết code bằng phép so sánh đơn giản: từ vựng, mẫu câu, câu trả lời mẫu có âm thanh."
+---
+
+# Phỏng vấn: Giải thích kỹ thuật cho người không chuyên
+
+<SkillMeta id="noi-25" />
+
+:::info[Mục tiêu]
+*"How would you explain … to someone who isn't technical?"* thường gặp ở **vòng Behavioural / culture fit** với manager, hoặc vòng với **HR / product owner**.
+Người phỏng vấn đánh giá **kỹ năng giao tiếp**: bạn có hiểu khái niệm đủ sâu để nói **đơn giản** không, có biết **tránh thuật ngữ**,
+dùng **phép so sánh (analogy)** hợp lý, và **nói theo góc nhìn của người nghe** (lợi ích, rủi ro, chi phí) không.
+Sau bài này bạn giải thích được 3 khái niệm – caching, API, database index – trong 60–90 giây mỗi khái niệm.
+Ngữ pháp chính: **so sánh** (*It's **faster than**…, It works **like**…*) – [G17](/docs/ngu-phap/g17-so-sanh);
+**câu điều kiện loại 0, 1, 2** (*If you **ask** twice, you **get** the answer instantly*) – [G20](/docs/ngu-phap/g20-cau-dieu-kien-loai-0-1-2);
+**từ nối** để dẫn dắt người nghe (*so, however, in other words*) – [G24](/docs/ngu-phap/g24-lien-tu-tu-noi).
+:::
+
+## 1. Từ vựng chủ đề
+
+### Nói đơn giản
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| in simple terms | /ɪn ˈsɪmpl tɜːmz/ | nói một cách đơn giản | In simple terms, an API is a menu for other programs. |
+| in plain English | /ɪn ˌpleɪn ˈɪŋɡlɪʃ/ | bằng lời dễ hiểu | Let me put that in plain English. |
+| analogy | /əˈnælədʒi/ | phép so sánh, ví von | I often use a library analogy to explain indexes. |
+| jargon | /ˈdʒɑːɡən/ | thuật ngữ chuyên ngành khó hiểu | I try to avoid jargon when I talk to the HR team. |
+| break down | /ˌbreɪk ˈdaʊn/ | chia nhỏ ra để giải thích | Let me break it down into three steps. |
+| think of it as | /ˈθɪŋk əv ɪt əz/ | hãy hình dung nó như | Think of it as a shortcut to the answer. |
+| the big picture | /ðə bɪɡ ˈpɪktʃə/ | bức tranh tổng thể | First, let me give you the big picture. |
+| a real-life example | /ə ˌrɪəl ˈlaɪf ɪɡˈzɑːmpl/ | ví dụ đời thực | A real-life example makes it much easier to remember. |
+
+</VocabList>
+
+### Khái niệm kỹ thuật
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| under the hood | /ˌʌndə ðə ˈhʊd/ | bên trong, phía sau hậu trường | Under the hood, the system sends a request to the server. |
+| bottleneck | /ˈbɒtlnek/ | điểm nghẽn | The database was the bottleneck – like a single cashier in a busy shop. |
+| cache | /kæʃ/ | bộ nhớ đệm | A cache keeps a copy of answers we need often. |
+| index | /ˈɪndeks/ | chỉ mục | An index works like the index at the back of a book. |
+| request | /rɪˈkwest/ | yêu cầu (gửi tới server) | Every click sends a request to our server. |
+| server | /ˈsɜːvə/ | máy chủ | The server does the calculation and sends back the result. |
+| outdated data | /ˌaʊtˈdeɪtɪd ˈdeɪtə/ | dữ liệu cũ, chưa cập nhật | The risk of caching is showing outdated data. |
+| integration | /ˌɪntɪˈɡreɪʃn/ | tích hợp giữa các hệ thống | The integration sends new employees to the accounting system automatically. |
+| load | /ləʊd/ | tải, lượng truy cập | On payday, the load on the system is five times higher. |
+
+</VocabList>
+
+### Lợi ích, rủi ro & đánh đổi
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| trade-off | /ˈtreɪd ɒf/ | sự đánh đổi | The trade-off is speed versus how fresh the data is. |
+| the downside | /ðə ˈdaʊnsaɪd/ | mặt trái, nhược điểm | The downside is that it uses more storage. |
+| the upside | /ði ˈʌpsaɪd/ | mặt lợi | The upside is that users wait much less. |
+| from the user's point of view | /frəm ðə ˈjuːzəz ˌpɔɪnt əv ˈvjuː/ | từ góc nhìn người dùng | From the user's point of view, the page just opens instantly. |
+| cost-effective | /ˌkɒst ɪˈfektɪv/ | tiết kiệm chi phí, hiệu quả | Adding an index is far more cost-effective than buying a bigger server. |
+| in the long run | /ɪn ðə ˈlɒŋ rʌn/ | về lâu dài | In the long run, this saves us a lot of support time. |
+| does that make sense | /dʌz ðæt meɪk ˈsens/ | như vậy có dễ hiểu không | Does that make sense so far? |
+| bottom line | /ˌbɒtəm ˈlaɪn/ | điểm mấu chốt | The bottom line is: reports load in two seconds instead of twenty. |
+
+</VocabList>
+
+## 2. Cụm từ & mẫu câu hữu ích
+
+| Mục đích | Mẫu câu | Ví dụ |
+|---|---|---|
+| Kiểm tra mức hiểu của người nghe | *Before I start – have you heard of … before?* | Before I start – have you heard the word "API" before? |
+| Nêu ý chính trước | *In one sentence, … is …* | In one sentence, a cache is a quick-access copy of data we use a lot. |
+| Dùng phép so sánh | *It's a bit like …* / *Think of it as …* | It's a bit like keeping your most-used files on your desk instead of in the archive. |
+| So sánh hơn | *It's much faster / cheaper than …* | Reading from the cache is about a hundred times faster than asking the database. |
+| Điều kiện loại 0 (luôn đúng) | *If …, the system …* | If the data is already in the cache, the system returns it immediately. |
+| Điều kiện loại 1 (kết quả thực tế) | *If we …, users will …* | If we add this index, managers will get their reports in seconds. |
+| Điều kiện loại 2 (giả định) | *If we didn't …, we would …* | If we didn't have an API, every system would need direct access to our database. |
+| Diễn đạt lại | *In other words, …* / *What this means for you is …* | In other words, you get the same result, just much faster. |
+| Nêu đánh đổi | *The upside is …; however, the downside is …* | The upside is speed; however, the downside is the data can be a few minutes old. |
+| Kiểm tra lại | *Does that make sense? Should I go into more detail?* | Does that make sense, or should I give another example? |
+
+:::tip[Công thức 4 bước giải thích cho người không chuyên]
+1. **Ý chính trong 1 câu** – không thuật ngữ.
+2. **Analogy đời thường** với **so sánh**: *It's **like** a book index… It's **much faster than** reading every page.*
+3. **Ví dụ từ hệ thống thật** + **điều kiện**: *If a manager **opens** the payroll report, the system **checks** the cache first.*
+4. **Lợi ích / đánh đổi** với **từ nối**: *So… However… In the long run…* → rồi hỏi *Does that make sense?*
+
+Xem lại: [G17 · So sánh](/docs/ngu-phap/g17-so-sanh) · [G20 · Câu điều kiện loại 0, 1, 2](/docs/ngu-phap/g20-cau-dieu-kien-loai-0-1-2) · [G24 · Liên từ & từ nối](/docs/ngu-phap/g24-lien-tu-tu-noi)
+:::
+
+## 3. Câu hỏi phỏng vấn thường gặp
+
+### Câu hỏi chính
+
+1. How would you explain what an API is to someone who isn't technical?
+2. Can you explain caching to our HR manager?
+3. How would you explain why a database index makes a report faster?
+4. Imagine the CEO asks why the system is slow on payday. What would you say?
+5. How would you explain technical debt to a product owner who wants more features?
+6. How do you explain a delay to a business stakeholder?
+7. Explain the difference between the frontend and the backend to a new HR colleague.
+8. How do you make sure a non-technical person has really understood you?
+9. Tell me about a time you had to explain a technical problem to a client.
+
+### Câu hỏi đào sâu (follow-up)
+
+- What if the person still doesn't understand your analogy?
+- Can you explain the same thing again in thirty seconds?
+- What are the risks of your solution, in business terms?
+
+## 4. Câu trả lời mẫu
+
+<SpeakText title="Can you explain caching to our HR manager? (≈ 100 giây)">
+
+Sure. In one sentence, caching means keeping a ready-made copy of information we need often, so we don't have to calculate it again every time.
+
+Think of it like this. Imagine an employee comes to your desk and asks how many days of annual leave they have left. The first time, you have to open their file, check every leave request this year and do the maths. That takes a few minutes. But if you write the answer on a sticky note, the next time they ask, you just read the note. That's much faster than going through the whole file again.
+
+Our system works the same way. If a manager opens the leave dashboard, the server first checks the "sticky notes" – that's the cache. If the answer is there, the page opens in under a second instead of five or six seconds.
+
+However, there's a trade-off. If someone approves a new leave request, the note is suddenly out of date. So we have a simple rule: whenever the data changes, we throw away the old note and create a new one. In other words, you get speed, but we have to be careful about when to refresh.
+
+For you, the bottom line is faster pages on busy days, like the end of the month, without buying a bigger server. Does that make sense so far?
+
+<details>
+<summary>Bản dịch</summary>
+
+Vâng. Nói trong một câu, caching là giữ sẵn một bản sao của thông tin mà chúng ta hay cần, để không phải tính lại mỗi lần.
+
+Hãy hình dung thế này. Một nhân viên đến bàn chị và hỏi họ còn bao nhiêu ngày phép năm. Lần đầu, chị phải mở hồ sơ của họ, kiểm tra từng đơn nghỉ phép trong năm và tính toán. Việc đó mất vài phút. Nhưng nếu chị ghi câu trả lời lên một tờ giấy nhớ, lần sau họ hỏi, chị chỉ cần đọc tờ giấy. Việc đó nhanh hơn nhiều so với lật lại toàn bộ hồ sơ.
+
+Hệ thống của chúng tôi hoạt động y như vậy. Khi một quản lý mở bảng tổng quan nghỉ phép, máy chủ kiểm tra "giấy nhớ" trước – đó chính là cache. Nếu có sẵn câu trả lời, trang mở ra trong chưa tới một giây thay vì năm, sáu giây.
+
+Tuy nhiên, có một sự đánh đổi. Nếu ai đó duyệt một đơn nghỉ phép mới, tờ giấy nhớ bỗng trở nên lỗi thời. Vì vậy chúng tôi có một quy tắc đơn giản: mỗi khi dữ liệu thay đổi, chúng tôi bỏ tờ giấy cũ và tạo tờ mới. Nói cách khác, chị được tốc độ, nhưng chúng tôi phải cẩn thận về thời điểm làm mới.
+
+Với chị, điểm mấu chốt là các trang nhanh hơn vào những ngày bận rộn như cuối tháng, mà không cần mua máy chủ lớn hơn. Đến đây chị thấy có dễ hiểu không?
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="How would you explain what an API is to someone who isn't technical?">
+
+I'd compare it to a waiter in a restaurant. You don't walk into the kitchen and cook your own meal – you look at the menu, tell the waiter what you want, and the waiter brings it back. An API is the waiter between two systems. For example, when our HR system needs to send salary data to the accounting software, it doesn't go into their database. It sends a request through their API, and gets a clear answer back. So each system stays safe, and they can still work together.
+
+<details>
+<summary>Bản dịch</summary>
+
+Tôi sẽ so sánh nó với người phục vụ trong nhà hàng. Bạn không vào bếp tự nấu món ăn – bạn xem thực đơn, nói với người phục vụ bạn muốn gì, và họ mang món ra. API chính là người phục vụ giữa hai hệ thống. Ví dụ, khi hệ thống nhân sự của chúng tôi cần gửi dữ liệu lương sang phần mềm kế toán, nó không vào thẳng cơ sở dữ liệu của họ. Nó gửi yêu cầu qua API của họ và nhận lại câu trả lời rõ ràng. Nhờ vậy mỗi hệ thống vẫn an toàn mà vẫn làm việc cùng nhau được.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="How would you explain why a database index makes a report faster?">
+
+Think of a thick book with no index at the back. If you wanted to find every page that mentions "overtime", you would have to read the whole book. A database index is like that list at the back of the book: it tells the system exactly where to look. Last year, our monthly attendance report took about thirty seconds, because the database was reading millions of rows. After we added one index, it took less than two seconds. The main downside is that saving new data becomes slightly slower, but for reports it's clearly worth it.
+
+<details>
+<summary>Bản dịch</summary>
+
+Hãy nghĩ đến một cuốn sách dày không có bảng tra cứu (index) ở cuối. Nếu muốn tìm mọi trang nhắc đến "làm thêm giờ", bạn sẽ phải đọc cả cuốn. Chỉ mục trong cơ sở dữ liệu giống như danh sách tra cứu ở cuối sách: nó chỉ cho hệ thống chính xác chỗ cần tìm. Năm ngoái, báo cáo chấm công hằng tháng của chúng tôi mất khoảng ba mươi giây vì cơ sở dữ liệu phải đọc hàng triệu dòng. Sau khi thêm một chỉ mục, nó chỉ còn chưa tới hai giây. Nhược điểm chính là việc lưu dữ liệu mới chậm hơn một chút, nhưng với báo cáo thì rõ ràng là đáng.
+
+</details>
+
+</SpeakText>
+
+:::note[Phân tích bài mẫu]
+- **Đúng công thức 4 bước:** 1 câu định nghĩa → analogy quen thuộc với người làm nhân sự (tra số ngày phép) → nối vào hệ thống thật (leave dashboard) → đánh đổi và lợi ích cho người nghe → hỏi lại *Does that make sense?*
+- **Chọn analogy từ thế giới của người nghe:** với HR manager, "hồ sơ nhân viên" và "giấy nhớ" dễ hiểu hơn nhiều so với "RAM" hay "Redis".
+- **Ngữ pháp:** so sánh (*much faster than, like a waiter*), điều kiện loại 0/1 (*If the answer is there, the page opens…*), loại 2 (*If you wanted to find…, you would have to…*), từ nối (*However, So, In other words*).
+- **Không nên:** nói *"It's easy, it's just a key-value store in memory"* – vừa dùng thuật ngữ vừa có thể khiến người nghe thấy bị coi thường.
+:::
+
+## 5. Bài tập tự luyện
+
+1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý phát âm *analogy, jargon, cache, index*.
+2. **Ngày 1:** Chọn 3 khái niệm bạn dùng hằng ngày (ví dụ: EF Core migration, Angular component, pull request). Với mỗi khái niệm, viết **1 câu định nghĩa không thuật ngữ** + **1 analogy** lấy từ công việc nhân sự (hồ sơ, bảng lương, đơn nghỉ phép).
+3. **Ngày 1:** Viết lời giải thích đầy đủ cho 1 khái niệm theo công thức 4 bước (120–160 từ), có ít nhất 1 câu so sánh, 1 câu điều kiện và 3 từ nối.
+4. **Ngày 2:** Giải thích 3 khái niệm cho **một người thân không làm IT**, mỗi khái niệm 60–90 giây. Hỏi họ nhắc lại ý chính – nếu họ không nhắc lại được, đổi analogy.
+5. **Ngày 2:** Luyện phiên bản **30 giây** của từng câu trả lời (follow-up *"Can you explain it again in thirty seconds?"*). Ghi âm cả hai phiên bản và so sánh.
+
+## 6. Tự đánh giá
+
+- [ ] Mỗi lời giải thích bắt đầu bằng 1 câu ý chính, không có thuật ngữ.
+- [ ] Có analogy lấy từ thế giới của người nghe (nhân sự, văn phòng, đời sống).
+- [ ] Nêu được ít nhất 1 đánh đổi (trade-off) bằng lời đơn giản.
+- [ ] Dùng đúng so sánh hơn, câu điều kiện loại 0/1/2 và từ nối *however, so, in other words*.
+- [ ] Kết thúc bằng câu kiểm tra *Does that make sense?* và có sẵn phiên bản 30 giây.

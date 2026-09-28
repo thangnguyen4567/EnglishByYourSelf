@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G15",
+   "q": "How ___ brothers and sisters do you have?",
+   "options": {
+    "A": "much",
+    "B": "little",
+    "C": "many",
+    "D": "a little"
+   },
+   "answer": "C",
+   "explain": "How many + danh từ đếm được số nhiều (brothers, sisters)."
+  },
+  {
+   "no": 2,
+   "code": "G15",
+   "q": "I don't have ___ money left this month.",
+   "options": {
+    "A": "much",
+    "B": "many",
+    "C": "few",
+    "D": "a few"
+   },
+   "answer": "A",
+   "explain": "Money không đếm được → much (hay dùng trong câu phủ định)."
+  },
+  {
+   "no": 3,
+   "code": "G15",
+   "q": "She cut ___ while she was cooking dinner.",
+   "options": {
+    "A": "her",
+    "B": "herself",
+    "C": "hers",
+    "D": "she"
+   },
+   "answer": "B",
+   "explain": "Chủ ngữ và tân ngữ là cùng một người → đại từ phản thân herself."
+  },
+  {
+   "no": 4,
+   "code": "G15",
+   "q": "A: Is this bag ___? B: Yes, it's mine.",
+   "options": {
+    "A": "your",
+    "B": "you",
+    "C": "your's",
+    "D": "yours"
+   },
+   "answer": "D",
+   "explain": "Đứng một mình thay cho 'your bag' → đại từ sở hữu yours (không có dấu phẩy trên)."
+  },
+  {
+   "no": 5,
+   "code": "G15",
+   "q": "___ student in our class has a laptop.",
+   "options": {
+    "A": "Every",
+    "B": "All",
+    "C": "Many",
+    "D": "Both"
+   },
+   "answer": "A",
+   "explain": "Every + danh từ số ít + động từ số ít (has). All/Many/Both cần danh từ số nhiều."
+  },
+  {
+   "no": 6,
+   "code": "G15",
+   "q": "Would you like ___ tea?",
+   "options": {
+    "A": "any",
+    "B": "many",
+    "C": "some",
+    "D": "a few"
+   },
+   "answer": "C",
+   "explain": "Lời mời → dùng some dù là câu hỏi; tea không đếm được nên không dùng many/a few."
+  },
+  {
+   "no": 7,
+   "code": "G15",
+   "q": "There aren't ___ eggs in the fridge.",
+   "options": {
+    "A": "some",
+    "B": "any",
+    "C": "much",
+    "D": "a little"
+   },
+   "answer": "B",
+   "explain": "Câu phủ định → any; eggs đếm được nên không dùng much/a little."
+  },
+  {
+   "no": 8,
+   "code": "G15",
+   "q": "The company changed ___ logo last year.",
+   "options": {
+    "A": "it's",
+    "B": "it",
+    "C": "its'",
+    "D": "its"
+   },
+   "answer": "D",
+   "explain": "Tính từ sở hữu của it là its (không có dấu phẩy trên); it's = it is/it has."
+  },
+  {
+   "no": 9,
+   "code": "G15",
+   "q": "We really enjoyed ___ at the party last night.",
+   "options": {
+    "A": "ourselves",
+    "B": "ourself",
+    "C": "us",
+    "D": "our"
+   },
+   "answer": "A",
+   "explain": "Enjoy + đại từ phản thân; chủ ngữ we → ourselves (số nhiều dùng -selves)."
+  },
+  {
+   "no": 10,
+   "code": "G15",
+   "q": "He speaks ___ Vietnamese, so he can order food in a restaurant.",
+   "options": {
+    "A": "a few",
+    "B": "few",
+    "C": "a little",
+    "D": "many"
+   },
+   "answer": "C",
+   "explain": "Vietnamese (ngôn ngữ) không đếm được; nghĩa tích cực 'một chút, đủ dùng' → a little."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G15",
+   "q": "I'm never lonely here because I have ___ good friends.",
+   "options": {
+    "A": "few",
+    "B": "a few",
+    "C": "a little",
+    "D": "little"
+   },
+   "answer": "B",
+   "explain": "Nghĩa tích cực (không cô đơn) + danh từ đếm được → a few. Few mang nghĩa tiêu cực 'hầu như không có'."
+  },
+  {
+   "no": 2,
+   "code": "G15",
+   "q": "___ people came to the meeting, so it was cancelled.",
+   "options": {
+    "A": "A few",
+    "B": "Little",
+    "C": "A little",
+    "D": "Few"
+   },
+   "answer": "D",
+   "explain": "Cuộc họp bị hủy → nghĩa tiêu cực 'rất ít người' → Few. A few mang nghĩa tích cực; little/a little dùng với danh từ không đếm được."
+  },
+  {
+   "no": 3,
+   "code": "G15",
+   "q": "Both restaurants are good. You can choose ___ one.",
+   "options": {
+    "A": "either",
+    "B": "neither",
+    "C": "both",
+    "D": "all"
+   },
+   "answer": "A",
+   "explain": "Một trong hai, cái nào cũng được → either + N số ít. Both/all cần danh từ số nhiều; neither mâu thuẫn với 'both are good'."
+  },
+  {
+   "no": 4,
+   "code": "G15",
+   "q": "___ of my two brothers lives nearby, so I rarely see them.",
+   "options": {
+    "A": "Either",
+    "B": "None",
+    "C": "Neither",
+    "D": "Both"
+   },
+   "answer": "C",
+   "explain": "Không ai trong hai người → Neither of. None dùng cho từ ba trở lên; Both cần động từ số nhiều (live)."
+  },
+  {
+   "no": 5,
+   "code": "G15",
+   "q": "Since his wife died, he has lived by ___ in a small flat.",
+   "options": {
+    "A": "hisself",
+    "B": "himself",
+    "C": "him",
+    "D": "his"
+   },
+   "answer": "B",
+   "explain": "By + đại từ phản thân = một mình → by himself. 'Hisself' không tồn tại."
+  },
+  {
+   "no": 6,
+   "code": "G15",
+   "q": "Between you and ___, I don't like the new manager.",
+   "options": {
+    "A": "me",
+    "B": "I",
+    "C": "myself",
+    "D": "mine"
+   },
+   "answer": "A",
+   "explain": "Sau giới từ (between) dùng đại từ tân ngữ → between you and me."
+  },
+  {
+   "no": 7,
+   "code": "G15",
+   "q": "Every student in my class ___ a smartphone.",
+   "options": {
+    "A": "have",
+    "B": "are having",
+    "C": "have got",
+    "D": "has"
+   },
+   "answer": "D",
+   "explain": "Every + danh từ số ít → động từ số ít: has."
+  },
+  {
+   "no": 8,
+   "code": "G15",
+   "q": "Hurry up! We have ___ time before the train leaves.",
+   "options": {
+    "A": "a little",
+    "B": "few",
+    "C": "little",
+    "D": "many"
+   },
+   "answer": "C",
+   "explain": "'Hurry up' → nghĩa tiêu cực 'còn rất ít thời gian' → little. A little mang nghĩa 'đủ dùng', không hợp với việc giục giã."
+  },
+  {
+   "no": 9,
+   "code": "G15",
+   "q": "Is there ___ sugar left in the cupboard?",
+   "options": {
+    "A": "many",
+    "B": "any",
+    "C": "a few",
+    "D": "few"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi + danh từ không đếm được (sugar) → any. Many/a few/few chỉ dùng với danh từ đếm được."
+  },
+  {
+   "no": 10,
+   "code": "G15",
+   "q": "Tom and Lan sent ___ messages every day while Lan was studying abroad.",
+   "options": {
+    "A": "themselves",
+    "B": "ourselves",
+    "C": "theirselves",
+    "D": "each other"
+   },
+   "answer": "D",
+   "explain": "Người này làm với người kia → each other (lẫn nhau). Themselves nghĩa là mỗi người tự gửi cho chính mình – sai nghĩa."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G15",
+   "q": "Tìm lỗi sai: (A) Each of the (B) students (C) have (D) their own locker.",
+   "options": {
+    "A": "Each of the",
+    "B": "students",
+    "C": "have",
+    "D": "their own"
+   },
+   "answer": "C",
+   "explain": "Each of + N số nhiều nhưng chủ ngữ là 'each' → động từ số ít: has."
+  },
+  {
+   "no": 2,
+   "code": "G15",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "None of us knew the answer.",
+    "B": "I need many informations.",
+    "C": "Every of them passed the test.",
+    "D": "She bought a few bread."
+   },
+   "answer": "A",
+   "explain": "None of us đúng. Sai: information không đếm được (much information), every không đi với of (every one of them), bread không đếm được (a little bread)."
+  },
+  {
+   "no": 3,
+   "code": "G15",
+   "q": "Chọn câu gần nghĩa nhất với: \"Hardly anyone understood his speech.\"",
+   "options": {
+    "A": "A few people understood his speech.",
+    "B": "Few people understood his speech.",
+    "C": "Little people understood his speech.",
+    "D": "A little people understood his speech."
+   },
+   "answer": "B",
+   "explain": "'Hardly anyone' = gần như không ai → few (tiêu cực). A few mang nghĩa tích cực 'một vài'; little/a little không dùng với people."
+  },
+  {
+   "no": 4,
+   "code": "G15",
+   "q": "A: How much sugar do you want in your coffee? B: ___, thanks. I don't take sugar.",
+   "options": {
+    "A": "No one",
+    "B": "Neither",
+    "C": "Any",
+    "D": "None"
+   },
+   "answer": "D",
+   "explain": "Đứng một mình, không có danh từ theo sau → None (không chút nào). No one chỉ dùng cho người; neither chỉ dùng cho hai người/vật; any không đứng một mình làm câu trả lời phủ định."
+  },
+  {
+   "no": 5,
+   "code": "G15",
+   "q": "Tìm lỗi sai: The children (A) dressed (B) theirselves and (C) went to school (D) by themselves.",
+   "options": {
+    "A": "dressed",
+    "B": "theirselves",
+    "C": "went to school",
+    "D": "by themselves"
+   },
+   "answer": "B",
+   "explain": "Đại từ phản thân của they là themselves; 'theirselves' không tồn tại."
+  },
+  {
+   "no": 6,
+   "code": "G15",
+   "q": "Parking is allowed on both sides here, so you can park on ___ side of the street.",
+   "options": {
+    "A": "either",
+    "B": "neither",
+    "C": "both",
+    "D": "every"
+   },
+   "answer": "A",
+   "explain": "Một trong hai bên, bên nào cũng được → either + N số ít. Both cần danh từ số nhiều (both sides); neither trái nghĩa."
+  },
+  {
+   "no": 7,
+   "code": "G15",
+   "q": "Chọn câu SAI ngữ pháp:",
+   "options": {
+    "A": "She put the bag next to her.",
+    "B": "I got dressed quickly.",
+    "C": "Help yourself to some cake.",
+    "D": "I feel myself tired today."
+   },
+   "answer": "D",
+   "explain": "Feel dùng không có phản thân khi nói về cảm giác → I feel tired. Sau giới từ chỉ vị trí dùng tân ngữ (next to her); got dressed và help yourself đều đúng."
+  },
+  {
+   "no": 8,
+   "code": "G15",
+   "q": "A: Is that your car or your parents'? B: It's ___. I don't have a car.",
+   "options": {
+    "A": "their",
+    "B": "their's",
+    "C": "theirs",
+    "D": "them"
+   },
+   "answer": "C",
+   "explain": "Đứng một mình thay cho 'their car' → đại từ sở hữu theirs (không có dấu phẩy trên)."
+  },
+  {
+   "no": 9,
+   "code": "G15",
+   "q": "___ of the twins has a bike of his own.",
+   "options": {
+    "A": "Each",
+    "B": "Every",
+    "C": "All",
+    "D": "Both"
+   },
+   "answer": "A",
+   "explain": "Each of + N số nhiều + động từ số ít (has), dùng được cho hai người. Every không đi với of; All/Both cần động từ số nhiều (have)."
+  },
+  {
+   "no": 10,
+   "code": "G15",
+   "q": "Chọn câu gần nghĩa nhất với: \"There isn't much milk left, but it's enough for your coffee.\"",
+   "options": {
+    "A": "There's little milk left.",
+    "B": "There's a little milk left.",
+    "C": "There are a few milk left.",
+    "D": "There's few milk left."
+   },
+   "answer": "B",
+   "explain": "Ít nhưng đủ dùng (tích cực) + danh từ không đếm được → a little. Little mang nghĩa tiêu cực 'gần như hết'; few/a few không dùng với milk."
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G25",
+   "q": "You are a new student, ___?",
+   "options": {
+    "A": "are you",
+    "B": "isn't it",
+    "C": "aren't you",
+    "D": "don't you"
+   },
+   "answer": "C",
+   "explain": "Câu khẳng định với 'are' → đuôi phủ định aren't you."
+  },
+  {
+   "no": 2,
+   "code": "G25",
+   "q": "He plays tennis every weekend, ___?",
+   "options": {
+    "A": "doesn't he",
+    "B": "does he",
+    "C": "isn't he",
+    "D": "didn't he"
+   },
+   "answer": "A",
+   "explain": "Động từ thường, hiện tại đơn, chủ ngữ 'he' → doesn't he."
+  },
+  {
+   "no": 3,
+   "code": "G25",
+   "q": "They went to the concert last night, ___?",
+   "options": {
+    "A": "did they",
+    "B": "weren't they",
+    "C": "didn't they",
+    "D": "don't they"
+   },
+   "answer": "C",
+   "explain": "Quá khứ đơn, câu khẳng định → didn't they."
+  },
+  {
+   "no": 4,
+   "code": "G25",
+   "q": "Let's have lunch together, ___?",
+   "options": {
+    "A": "let's we",
+    "B": "shall we",
+    "C": "don't we",
+    "D": "will we"
+   },
+   "answer": "B",
+   "explain": "Câu bắt đầu bằng Let's → đuôi shall we."
+  },
+  {
+   "no": 5,
+   "code": "G25",
+   "q": "Do you know what time the bank ___?",
+   "options": {
+    "A": "opens",
+    "B": "opening",
+    "C": "does open",
+    "D": "open"
+   },
+   "answer": "A",
+   "explain": "Câu hỏi gián tiếp dùng trật tự câu kể, bỏ 'does' → the bank opens."
+  },
+  {
+   "no": 6,
+   "code": "G25",
+   "q": "___ broke the window? – Nam did.",
+   "options": {
+    "A": "Whom",
+    "B": "Who did",
+    "C": "Who does",
+    "D": "Who"
+   },
+   "answer": "D",
+   "explain": "Hỏi chủ ngữ (người làm vỡ) → Who + V, không dùng trợ động từ."
+  },
+  {
+   "no": 7,
+   "code": "G25",
+   "q": "You can swim, ___?",
+   "options": {
+    "A": "can you",
+    "B": "can't you",
+    "C": "don't you",
+    "D": "aren't you"
+   },
+   "answer": "B",
+   "explain": "Có động từ khuyết thiếu 'can' → đuôi dùng lại can: can't you."
+  },
+  {
+   "no": 8,
+   "code": "G25",
+   "q": "She has finished her homework, ___?",
+   "options": {
+    "A": "doesn't she",
+    "B": "has she",
+    "C": "isn't she",
+    "D": "hasn't she"
+   },
+   "answer": "D",
+   "explain": "Hiện tại hoàn thành 'has finished' → đuôi hasn't she."
+  },
+  {
+   "no": 9,
+   "code": "G25",
+   "q": "I wonder ___ he is coming to the party.",
+   "options": {
+    "A": "if",
+    "B": "that",
+    "C": "what",
+    "D": "does"
+   },
+   "answer": "A",
+   "explain": "Câu hỏi Yes/No gián tiếp → if/whether + S + V."
+  },
+  {
+   "no": 10,
+   "code": "G25",
+   "q": "What ___ at the meeting yesterday?",
+   "options": {
+    "A": "happen",
+    "B": "was happened",
+    "C": "happened",
+    "D": "did happened"
+   },
+   "answer": "C",
+   "explain": "'What' là chủ ngữ → câu hỏi chủ ngữ, động từ chia quá khứ, không dùng trợ động từ: happened."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G25",
+   "q": "I'm late again, ___?",
+   "options": {
+    "A": "aren't I",
+    "B": "am I",
+    "C": "isn't I",
+    "D": "amn't I"
+   },
+   "answer": "A",
+   "explain": "Trường hợp đặc biệt: I am → aren't I; 'amn't I' không dùng trong tiếng Anh chuẩn."
+  },
+  {
+   "no": 2,
+   "code": "G25",
+   "q": "He never eats meat, ___?",
+   "options": {
+    "A": "is he",
+    "B": "does he",
+    "C": "doesn't he",
+    "D": "did he"
+   },
+   "answer": "B",
+   "explain": "'never' làm câu mang nghĩa phủ định → đuôi khẳng định does he."
+  },
+  {
+   "no": 3,
+   "code": "G25",
+   "q": "Nobody called while I was out, ___?",
+   "options": {
+    "A": "does it",
+    "B": "did he",
+    "C": "did they",
+    "D": "didn't they"
+   },
+   "answer": "C",
+   "explain": "Nobody → đại từ 'they', câu mang nghĩa phủ định → đuôi khẳng định did they."
+  },
+  {
+   "no": 4,
+   "code": "G25",
+   "q": "There's a problem with the printer, ___?",
+   "options": {
+    "A": "isn't it",
+    "B": "doesn't there",
+    "C": "is there",
+    "D": "isn't there"
+   },
+   "answer": "D",
+   "explain": "There is → đuôi dùng lại 'there': isn't there; 'isn't it' sai đại từ."
+  },
+  {
+   "no": 5,
+   "code": "G25",
+   "q": "Can you tell me how much ___?",
+   "options": {
+    "A": "does this jacket cost",
+    "B": "costs this jacket",
+    "C": "this jacket costs",
+    "D": "is this jacket cost"
+   },
+   "answer": "C",
+   "explain": "Câu hỏi gián tiếp: từ để hỏi + S + V, bỏ 'does' → this jacket costs."
+  },
+  {
+   "no": 6,
+   "code": "G25",
+   "q": "Who ___ you about the new schedule? – Ms Lan told me.",
+   "options": {
+    "A": "did tell",
+    "B": "did told",
+    "C": "tell",
+    "D": "told"
+   },
+   "answer": "D",
+   "explain": "'Who' là chủ ngữ (Ms Lan told) → câu hỏi chủ ngữ: Who told; không thêm trợ động từ."
+  },
+  {
+   "no": 7,
+   "code": "G25",
+   "q": "Who ___ at the party last night? – I saw Minh and Hoa.",
+   "options": {
+    "A": "did see you",
+    "B": "did you see",
+    "C": "you saw",
+    "D": "saw you"
+   },
+   "answer": "B",
+   "explain": "Hỏi tân ngữ (người được nhìn thấy) → Who + did + S + V; 'Who saw you' lại hỏi ai đã nhìn thấy bạn."
+  },
+  {
+   "no": 8,
+   "code": "G25",
+   "q": "Don't forget to call me, ___?",
+   "options": {
+    "A": "will you",
+    "B": "don't you",
+    "C": "are you",
+    "D": "do you"
+   },
+   "answer": "A",
+   "explain": "Câu mệnh lệnh phủ định → đuôi will you."
+  },
+  {
+   "no": 9,
+   "code": "G25",
+   "q": "She'd rather stay at home tonight, ___?",
+   "options": {
+    "A": "hadn't she",
+    "B": "didn't she",
+    "C": "wouldn't she",
+    "D": "shouldn't she"
+   },
+   "answer": "C",
+   "explain": "'d rather = would rather → đuôi wouldn't she; 'hadn't she' chỉ dùng khi 'd là had (had better)."
+  },
+  {
+   "no": 10,
+   "code": "G25",
+   "q": "Could you tell me ___ the museum is open on Mondays?",
+   "options": {
+    "A": "that",
+    "B": "whether",
+    "C": "which",
+    "D": "what"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi Yes/No gián tiếp → whether/if + S + V; 'what' cần một thành phần bị thiếu trong mệnh đề."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G25",
+   "q": "Tìm lỗi sai: Do you know (A) where (B) does she (C) live (D) now?",
+   "options": {
+    "A": "where",
+    "B": "does she",
+    "C": "live",
+    "D": "now"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi gián tiếp bỏ trợ động từ, dùng trật tự câu kể → where she lives now."
+  },
+  {
+   "no": 2,
+   "code": "G25",
+   "q": "Tìm lỗi sai: He'd (A) better see (B) a doctor (C) soon, (D) wouldn't he?",
+   "options": {
+    "A": "better see",
+    "B": "a doctor",
+    "C": "soon",
+    "D": "wouldn't he"
+   },
+   "answer": "D",
+   "explain": "He'd better = He had better → đuôi phải là hadn't he, không phải wouldn't he."
+  },
+  {
+   "no": 3,
+   "code": "G25",
+   "q": "Everyone enjoyed the show, ___?",
+   "options": {
+    "A": "wasn't it",
+    "B": "did they",
+    "C": "didn't he",
+    "D": "didn't they"
+   },
+   "answer": "D",
+   "explain": "Everyone → đại từ 'they' ở đuôi; câu khẳng định quá khứ → didn't they."
+  },
+  {
+   "no": 4,
+   "code": "G25",
+   "q": "I think you're right, ___?",
+   "options": {
+    "A": "aren't you",
+    "B": "aren't I",
+    "C": "do I",
+    "D": "don't I"
+   },
+   "answer": "A",
+   "explain": "Với 'I think + mệnh đề', đuôi theo mệnh đề sau 'you're right' → aren't you; không lấy 'I think' làm căn cứ."
+  },
+  {
+   "no": 5,
+   "code": "G25",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "Whom won the competition?",
+    "B": "Who wins did the competition?",
+    "C": "Who won the competition?",
+    "D": "Who does won the competition?"
+   },
+   "answer": "C",
+   "explain": "Câu hỏi chủ ngữ → Who + V (quá khứ), không trợ động từ; 'Whom' chỉ làm tân ngữ."
+  },
+  {
+   "no": 6,
+   "code": "G25",
+   "q": "She hardly ever complains, ___?",
+   "options": {
+    "A": "does she",
+    "B": "hasn't she",
+    "C": "is she",
+    "D": "doesn't she"
+   },
+   "answer": "A",
+   "explain": "'hardly ever' mang nghĩa phủ định → đuôi khẳng định does she; 'doesn't she' là bẫy khi chỉ nhìn động từ khẳng định."
+  },
+  {
+   "no": 7,
+   "code": "G25",
+   "q": "Nothing can stop us now, ___?",
+   "options": {
+    "A": "can't they",
+    "B": "can it",
+    "C": "can they",
+    "D": "can't it"
+   },
+   "answer": "B",
+   "explain": "Nothing → đại từ 'it' và mang nghĩa phủ định → đuôi khẳng định can it."
+  },
+  {
+   "no": 8,
+   "code": "G25",
+   "q": "Chọn cách hỏi lịch sự đúng cho: Where did Linh buy that dress?",
+   "options": {
+    "A": "Do you know where Linh buys that dress?",
+    "B": "Do you know where did Linh buy that dress?",
+    "C": "Do you know where Linh did buy that dress?",
+    "D": "Do you know where Linh bought that dress?"
+   },
+   "answer": "D",
+   "explain": "Câu hỏi gián tiếp: bỏ 'did', chia động từ chính về quá khứ → Linh bought; 'buys' sai thì so với câu gốc."
+  },
+  {
+   "no": 9,
+   "code": "G25",
+   "q": "Chọn câu hỏi đúng để hỏi cho từ viết hoa: MAI invited Tuan to the party.",
+   "options": {
+    "A": "Who invited Tuan to the party?",
+    "B": "Who did Mai invite to the party?",
+    "C": "Who Tuan invited to the party?",
+    "D": "Whom did Tuan invite to the party?"
+   },
+   "answer": "A",
+   "explain": "MAI là chủ ngữ → câu hỏi chủ ngữ Who + V: Who invited Tuan; 'Who did Mai invite' hỏi cho tân ngữ (Tuan)."
+  },
+  {
+   "no": 10,
+   "code": "G25",
+   "q": "These are your keys, ___?",
+   "options": {
+    "A": "don't they",
+    "B": "isn't it",
+    "C": "aren't they",
+    "D": "aren't these"
+   },
+   "answer": "C",
+   "explain": "These/Those → đại từ 'they' ở đuôi → aren't they; đuôi không lặp lại 'these'."
+  }
+ ]
+}

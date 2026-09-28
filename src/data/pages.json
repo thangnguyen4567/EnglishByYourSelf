@@ -1,0 +1,182 @@
+[
+  {
+    "code": "G01",
+    "label": "G01a",
+    "short": "Từ loại",
+    "path": "/docs/ngu-phap/g01-tu-loai"
+  },
+  {
+    "code": "G01",
+    "label": "G01b",
+    "short": "Cấu trúc câu cơ bản",
+    "path": "/docs/ngu-phap/g01-cau-truc-cau-co-ban"
+  },
+  {
+    "code": "G02",
+    "label": "G02",
+    "short": "Hiện tại đơn",
+    "path": "/docs/ngu-phap/g02-hien-tai-don"
+  },
+  {
+    "code": "G03",
+    "label": "G03",
+    "short": "Hiện tại tiếp diễn",
+    "path": "/docs/ngu-phap/g03-hien-tai-tiep-dien"
+  },
+  {
+    "code": "G04",
+    "label": "G04",
+    "short": "Quá khứ đơn",
+    "path": "/docs/ngu-phap/g04-qua-khu-don"
+  },
+  {
+    "code": "G05",
+    "label": "G05",
+    "short": "Quá khứ tiếp diễn",
+    "path": "/docs/ngu-phap/g05-qua-khu-tiep-dien"
+  },
+  {
+    "code": "G06",
+    "label": "G06",
+    "short": "Hiện tại hoàn thành",
+    "path": "/docs/ngu-phap/g06-hien-tai-hoan-thanh"
+  },
+  {
+    "code": "G07",
+    "label": "G07",
+    "short": "Hiện tại hoàn thành tiếp diễn",
+    "path": "/docs/ngu-phap/g07-hien-tai-hoan-thanh-tiep-dien"
+  },
+  {
+    "code": "G08",
+    "label": "G08",
+    "short": "Quá khứ hoàn thành",
+    "path": "/docs/ngu-phap/g08-qua-khu-hoan-thanh"
+  },
+  {
+    "code": "G09",
+    "label": "G09",
+    "short": "Tương lai: will / be going to / HTTD",
+    "path": "/docs/ngu-phap/g09-tuong-lai-will-be-going-to-httd"
+  },
+  {
+    "code": "G10",
+    "label": "G10",
+    "short": "Tương lai tiếp diễn & Tương lai hoàn thành",
+    "path": "/docs/ngu-phap/g10-tuong-lai-tiep-dien-tuong-lai-hoan-thanh"
+  },
+  {
+    "code": "G11",
+    "label": "G11",
+    "short": "Động từ khuyết thiếu",
+    "path": "/docs/ngu-phap/g11-dong-tu-khuyet-thieu"
+  },
+  {
+    "code": "G12",
+    "label": "G12",
+    "short": "Modal hoàn thành",
+    "path": "/docs/ngu-phap/g12-modal-hoan-thanh"
+  },
+  {
+    "code": "G13",
+    "label": "G13",
+    "short": "Danh động từ & Động từ nguyên mẫu",
+    "path": "/docs/ngu-phap/g13-danh-dong-tu-dong-tu-nguyen-mau"
+  },
+  {
+    "code": "G14",
+    "label": "G14",
+    "short": "Danh từ đếm được/không đếm được & Mạo từ",
+    "path": "/docs/ngu-phap/g14-danh-tu-dem-duoc-khong-dem-duoc-mao-tu"
+  },
+  {
+    "code": "G15",
+    "label": "G15",
+    "short": "Lượng từ & Đại từ",
+    "path": "/docs/ngu-phap/g15-luong-tu-dai-tu"
+  },
+  {
+    "code": "G16",
+    "label": "G16",
+    "short": "Tính từ & Trạng từ",
+    "path": "/docs/ngu-phap/g16-tinh-tu-trang-tu"
+  },
+  {
+    "code": "G17",
+    "label": "G17",
+    "short": "So sánh",
+    "path": "/docs/ngu-phap/g17-so-sanh"
+  },
+  {
+    "code": "G18",
+    "label": "G18",
+    "short": "Giới từ (thời gian, nơi chốn) & Adj + Prep",
+    "path": "/docs/ngu-phap/g18-gioi-tu-adj-prep"
+  },
+  {
+    "code": "G19",
+    "label": "G19",
+    "short": "Câu bị động",
+    "path": "/docs/ngu-phap/g19-cau-bi-dong"
+  },
+  {
+    "code": "G20",
+    "label": "G20",
+    "short": "Câu điều kiện loại 0, 1, 2",
+    "path": "/docs/ngu-phap/g20-cau-dieu-kien-loai-0-1-2"
+  },
+  {
+    "code": "G21",
+    "label": "G21",
+    "short": "Điều kiện loại 3, hỗn hợp & Câu ước",
+    "path": "/docs/ngu-phap/g21-dieu-kien-loai-3-hon-hop-cau-uoc"
+  },
+  {
+    "code": "G22",
+    "label": "G22",
+    "short": "Mệnh đề quan hệ",
+    "path": "/docs/ngu-phap/g22-menh-de-quan-he"
+  },
+  {
+    "code": "G23",
+    "label": "G23",
+    "short": "Câu tường thuật",
+    "path": "/docs/ngu-phap/g23-cau-tuong-thuat"
+  },
+  {
+    "code": "G24",
+    "label": "G24",
+    "short": "Liên từ & Từ nối",
+    "path": "/docs/ngu-phap/g24-lien-tu-tu-noi"
+  },
+  {
+    "code": "G25",
+    "label": "G25",
+    "short": "Câu hỏi: đuôi, gián tiếp, chủ ngữ",
+    "path": "/docs/ngu-phap/g25-cau-hoi-duoi-gian-tiep-chu-ngu"
+  },
+  {
+    "code": "G26",
+    "label": "G26",
+    "short": "Used to / Be used to / Get used to",
+    "path": "/docs/ngu-phap/g26-used-to-be-used-to-get-used-to"
+  },
+  {
+    "code": "G27",
+    "label": "G27",
+    "short": "Thể sai khiến",
+    "path": "/docs/ngu-phap/g27-the-sai-khien"
+  },
+  {
+    "code": "G28",
+    "label": "G28",
+    "short": "Đảo ngữ",
+    "path": "/docs/ngu-phap/g28-dao-ngu"
+  },
+  {
+    "code": "G29",
+    "label": "G29",
+    "short": "Hòa hợp chủ ngữ – động từ",
+    "path": "/docs/ngu-phap/g29-hoa-hop-chu-ngu-dong-tu"
+  }
+]

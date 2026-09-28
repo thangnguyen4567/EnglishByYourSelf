@@ -1,0 +1,194 @@
+---
+title: "Phỏng vấn kiến thức Frontend (Frontend development)"
+sidebar_label: "19 · Kiến thức Frontend"
+sidebar_position: 3
+slug: /phong-van-frontend
+description: "Trả lời câu hỏi phỏng vấn frontend bằng tiếng Anh: Angular, change detection, lazy loading, state management, hiệu năng, accessibility – từ vựng, mẫu câu, câu trả lời mẫu có âm thanh."
+---
+
+# Phỏng vấn kiến thức Frontend (Frontend development)
+
+<SkillMeta id="noi-19" />
+
+:::info[Mục tiêu]
+Phần frontend nằm trong **vòng technical interview** (45–90 phút) với tech lead hoặc senior frontend developer.
+Người phỏng vấn đánh giá: bạn **hiểu cơ chế bên trong** framework (không chỉ biết dùng), biết **tối ưu hiệu năng**, tổ chức code
+cho ứng dụng lớn (Nx monorepo, micro-frontend) và **giải thích rõ ràng bằng lời** mà không cần viết code. Sau bài này bạn giải thích được
+5–6 khái niệm frontend cốt lõi, mỗi khái niệm trong 60–90 giây. Ngữ pháp chính: **hiện tại đơn** để mô tả cách mọi thứ hoạt động
+(*Angular checks…, the browser downloads…*), **bị động** (*the module is loaded only when…*) và **mệnh đề quan hệ**
+để định nghĩa (*a component that…, a library which…*).
+:::
+
+## 1. Từ vựng chủ đề
+
+### Framework & cơ chế hoạt động
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| change detection | /tʃeɪndʒ dɪˈtekʃn/ | cơ chế phát hiện thay đổi | Change detection keeps the view in sync with the data. |
+| component tree | /kəmˈpəʊnənt triː/ | cây component | Angular walks the component tree from top to bottom. |
+| data binding | /ˈdeɪtə ˈbaɪndɪŋ/ | ràng buộc dữ liệu | Two-way data binding is handy for simple forms. |
+| lifecycle hook | /ˈlaɪfsaɪkl hʊk/ | hàm vòng đời | I use the ngOnDestroy lifecycle hook to clean up resources. |
+| dependency injection | /dɪˈpendənsi ɪnˈdʒekʃn/ | tiêm phụ thuộc | Angular's dependency injection makes services easy to mock. |
+| reactive programming | /riˈæktɪv ˈprəʊɡræmɪŋ/ | lập trình phản ứng | We use RxJS for reactive programming with HTTP calls. |
+| subscription | /səbˈskrɪpʃn/ | đăng ký nhận dữ liệu | A forgotten subscription can cause a memory leak. |
+| signal | /ˈsɪɡnəl/ | signal (giá trị phản ứng) | We've started using signals for local component state. |
+| state management | /steɪt ˈmænɪdʒmənt/ | quản lý trạng thái | For state management, we use NgRx in the bigger modules. |
+
+</VocabList>
+
+### Hiệu năng & tối ưu
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| lazy loading | /ˈleɪzi ˈləʊdɪŋ/ | tải khi cần | Lazy loading keeps the initial download small. |
+| bundle size | /ˈbʌndl saɪz/ | kích thước gói | We cut the main bundle size by 40%. |
+| tree shaking | /ˈtriː ʃeɪkɪŋ/ | loại bỏ code không dùng | Tree shaking removes code that is never used. |
+| virtual scrolling | /ˈvɜːtʃuəl ˈskrəʊlɪŋ/ | cuộn ảo | Virtual scrolling renders only the rows that are visible. |
+| memory leak | /ˈmeməri liːk/ | rò rỉ bộ nhớ | The memory leak came from an event listener. |
+| render | /ˈrendə/ | hiển thị, vẽ ra | The table rendered five thousand rows at once. |
+| debounce | /diːˈbaʊns/ | trì hoãn đến khi ngừng gõ | We debounce the search box by 300 milliseconds. |
+| caching strategy | /ˈkæʃɪŋ ˈstrætədʒi/ | chiến lược bộ nhớ đệm | Our caching strategy avoids reloading the department list. |
+
+</VocabList>
+
+### Kiến trúc, UX & chất lượng
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| monorepo | /ˈmɒnəʊriːpəʊ/ | kho code chung | All our apps and libraries live in one Nx monorepo. |
+| shared library | /ʃeəd ˈlaɪbrəri/ | thư viện dùng chung | The date picker is in a shared library. |
+| micro-frontend | /ˌmaɪkrəʊ ˈfrʌntend/ | micro-frontend | Each HR module is deployed as a micro-frontend. |
+| reusable component | /riːˈjuːzəbl kəmˈpəʊnənt/ | component tái sử dụng | We built a reusable component for employee search. |
+| responsive design | /rɪˈspɒnsɪv dɪˈzaɪn/ | thiết kế đáp ứng | Managers approve leave on their phones, so responsive design matters. |
+| accessibility | /əkˌsesəˈbɪləti/ | khả năng tiếp cận | We check accessibility with a screen reader. |
+| cross-browser | /ˌkrɒs ˈbraʊzə/ | tương thích nhiều trình duyệt | We run cross-browser tests on Chrome, Edge and Safari. |
+| end-to-end test | /ˌend tə ˈend test/ | kiểm thử đầu cuối | Our end-to-end tests cover the leave approval flow. |
+
+</VocabList>
+
+## 2. Cụm từ & mẫu câu hữu ích
+
+| Mục đích | Mẫu câu | Ví dụ |
+|---|---|---|
+| Định nghĩa ngắn | *In simple terms, … is a … that …* | In simple terms, lazy loading is a technique that loads code only when it's needed. |
+| Giải thích cơ chế | *Under the hood, …* | Under the hood, Angular compares the old and new values of each binding. |
+| Nêu lý do | *The main reason we use … is …* | The main reason we use OnPush is to reduce unnecessary checks. |
+| So sánh 2 lựa chọn | *Compared to …, … is more … but less …* | Compared to NgRx, a simple service with signals is lighter but less structured. |
+| Khi nào dùng | *I'd use … when …, but not when …* | I'd use NgRx when many screens share the same data, but not for a simple form. |
+| Đánh đổi | *The trade-off is that …* | The trade-off is that you write more boilerplate code. |
+| Ví dụ thực tế | *In our HR system, for example, …* | In our HR system, for example, the employee list has twenty thousand rows. |
+| Câu hỏi khó – câu giờ | *That's a good question – let me think about it for a second.* | That's a good question – let me think about it for a second. |
+| Không biết chắc | *I haven't used … in production, but my understanding is that …* | I haven't used zoneless Angular in production, but my understanding is that it relies on signals. |
+| Kiểm tra ý người hỏi | *Are you asking about … or …?* | Are you asking about page load time or runtime performance? |
+
+:::tip[Hiện tại đơn + bị động + mệnh đề quan hệ = giải thích kỹ thuật chuẩn]
+- Mô tả cách hoạt động (sự thật chung) → hiện tại đơn: *Angular **runs** change detection after every event.*
+- Không cần nói ai làm → bị động: *The chunk **is downloaded** only when the user **opens** the route.*
+- Định nghĩa gọn → mệnh đề quan hệ: *A pipe is a function **that** transforms data in the template.*
+
+Xem lại: [G02 · Hiện tại đơn](/docs/ngu-phap/g02-hien-tai-don) · [G19 · Câu bị động](/docs/ngu-phap/g19-cau-bi-dong) · [G22 · Mệnh đề quan hệ](/docs/ngu-phap/g22-menh-de-quan-he)
+:::
+
+## 3. Câu hỏi phỏng vấn thường gặp
+
+### Câu hỏi chính
+
+1. How does change detection work in Angular, and what does OnPush change?
+2. A page in your app is slow. How would you investigate and fix it?
+3. What is lazy loading, and how do you set it up?
+4. How do you manage state in a large Angular application?
+5. What's the difference between an Observable and a Promise?
+6. How do you prevent memory leaks with RxJS subscriptions?
+7. Why did your team choose an Nx monorepo, and how do you structure the libraries?
+8. What are micro-frontends, and when are they worth the extra complexity?
+9. How do you make a web application accessible?
+10. How do you test your frontend code?
+
+### Câu hỏi đào sâu (follow-up)
+
+- You mentioned signals – how are they different from RxJS?
+- How do you stop one team's library from importing another team's internal code?
+- What would you check first if the production bundle suddenly grew by 1 MB?
+
+## 4. Câu trả lời mẫu
+
+<SpeakText title="A page in your app is slow. How would you fix it? (≈ 2 phút)">
+
+First, I'd find out what kind of slow it is, because the fixes are very different. Is the page slow to load, or slow when the user interacts with it?
+
+For load time, I'd open Chrome DevTools, check the Network tab and run a Lighthouse report. In our HR system, the employee module was taking about six seconds to load. The main reason was that everything, including the charts library, was in one big bundle. We split the module into lazy-loaded routes and deferred the dashboard charts, so the initial bundle went from about 2.5 MB to under 1 MB, and the page now loads in under two seconds.
+
+For runtime performance, I'd record a session in the Performance tab to see which components take the most time. A common problem is a large table where every keystroke triggers change detection across the whole tree. Our employee list had around twenty thousand rows, so we did three things. We switched the table components to OnPush, added a trackBy function so Angular doesn't recreate rows that haven't changed, and used virtual scrolling from the CDK, which renders only the thirty or so rows that are visible. We also debounced the search input and moved filtering to the API with pagination.
+
+Finally, I'd add a performance budget to the build, so if the bundle grows past a limit, the pipeline fails. That way the problem doesn't quietly come back.
+
+<details>
+<summary>Bản dịch</summary>
+
+Trước hết, tôi sẽ xác định nó chậm theo kiểu nào, vì cách sửa rất khác nhau. Trang chậm khi tải, hay chậm khi người dùng thao tác?
+
+Với thời gian tải, tôi mở Chrome DevTools, xem tab Network và chạy báo cáo Lighthouse. Trong hệ thống nhân sự của chúng tôi, module nhân viên từng mất khoảng sáu giây để tải. Lý do chính là mọi thứ, kể cả thư viện biểu đồ, đều nằm trong một bundle lớn. Chúng tôi tách module thành các route lazy-load và trì hoãn tải biểu đồ trên dashboard, nhờ vậy bundle ban đầu giảm từ khoảng 2,5 MB xuống dưới 1 MB, và trang giờ tải dưới hai giây.
+
+Với hiệu năng khi chạy, tôi ghi lại một phiên trong tab Performance để xem component nào tốn nhiều thời gian nhất. Một vấn đề thường gặp là bảng lớn mà mỗi lần gõ phím lại kích hoạt change detection trên toàn bộ cây. Danh sách nhân viên của chúng tôi có khoảng hai mươi nghìn dòng, nên chúng tôi làm ba việc. Chuyển các component bảng sang OnPush, thêm hàm trackBy để Angular không tạo lại những dòng không thay đổi, và dùng virtual scrolling của CDK, chỉ hiển thị khoảng ba mươi dòng đang nhìn thấy. Chúng tôi cũng debounce ô tìm kiếm và chuyển việc lọc sang API có phân trang.
+
+Cuối cùng, tôi thêm ngân sách hiệu năng (performance budget) vào bước build, để nếu bundle vượt quá giới hạn thì pipeline sẽ báo lỗi. Như vậy vấn đề không âm thầm quay lại.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="How does OnPush change detection work?">
+
+By default, Angular checks every component in the tree whenever something happens – a click, a timer or an HTTP response. With OnPush, a component is only checked when one of its inputs gets a new object reference, when an event is fired inside it, when an async pipe in its template emits a new value, or when you call markForCheck. The benefit is that large parts of the tree are skipped, which really helps on data-heavy screens. The trade-off is that you have to treat data as immutable. If you change a property inside an existing object, the view won't update, and that's a bug junior developers often run into.
+
+<details>
+<summary>Bản dịch</summary>
+
+Mặc định, Angular kiểm tra mọi component trong cây mỗi khi có điều gì xảy ra – một cú click, một bộ hẹn giờ hay một phản hồi HTTP. Với OnPush, component chỉ được kiểm tra khi một input nhận tham chiếu object mới, khi có sự kiện phát sinh bên trong nó, khi async pipe trong template phát ra giá trị mới, hoặc khi bạn gọi markForCheck. Lợi ích là phần lớn cây được bỏ qua, rất có ích với những màn hình nhiều dữ liệu. Đánh đổi là bạn phải coi dữ liệu là bất biến. Nếu bạn sửa một thuộc tính bên trong object có sẵn, giao diện sẽ không cập nhật – đó là lỗi mà lập trình viên junior hay gặp.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="Why did your team choose an Nx monorepo?">
+
+We have five Angular applications – employee self-service, payroll, appraisal, recruitment and an admin portal – and they share a lot: the design system, authentication, and API clients. Before Nx, each app had its own copy, so a fix in one place had to be repeated four times. Now shared code lives in libraries that every app imports. Nx also gives us the affected command, which only builds and tests the projects that a change actually touches, so our CI time dropped from about forty minutes to twelve. And we use module boundary rules with tags, so a feature library can't import another team's internal code.
+
+<details>
+<summary>Bản dịch</summary>
+
+Chúng tôi có năm ứng dụng Angular – cổng tự phục vụ cho nhân viên, tính lương, đánh giá, tuyển dụng và trang quản trị – và chúng dùng chung rất nhiều thứ: design system, xác thực và các API client. Trước khi có Nx, mỗi app có bản sao riêng, nên sửa một chỗ phải làm lại bốn lần. Giờ code dùng chung nằm trong các thư viện mà mọi app đều import. Nx còn có lệnh affected, chỉ build và test những project thực sự bị thay đổi ảnh hưởng, nên thời gian CI giảm từ khoảng bốn mươi phút xuống mười hai phút. Chúng tôi cũng dùng quy tắc ranh giới module bằng tag, để một thư viện tính năng không thể import code nội bộ của đội khác.
+
+</details>
+
+</SpeakText>
+
+:::note[Phân tích bài mẫu]
+- **Câu hỏi mở (trang chậm):** mở bằng câu **làm rõ vấn đề** (*load or interaction?*) → quy trình đo trước, sửa sau → ví dụ thật có số liệu → biện pháp phòng ngừa (*performance budget*). Cấu trúc *First… For load time… For runtime… Finally…* giúp người nghe theo kịp.
+- **Câu hỏi khái niệm (OnPush):** mặc định → điều khác biệt → lợi ích → **trade-off** → lỗi hay gặp. Đây là khung dùng được cho hầu hết câu "How does X work?".
+- **Ngữ pháp:** hiện tại đơn (*Angular checks…*), bị động (*a component is only checked…, parts of the tree are skipped*), mệnh đề quan hệ (*which renders only…, a bug junior developers often run into*).
+- **Không nên:** đọc định nghĩa như sách giáo khoa mà không có ví dụ từ dự án của bạn.
+:::
+
+## 5. Bài tập tự luyện
+
+1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý phát âm *accessibility, debounce, micro-frontend*.
+2. **Ngày 1:** Chọn 5 câu hỏi chính, viết dàn ý 4 dòng cho mỗi câu: *định nghĩa → cơ chế → ví dụ từ dự án của bạn → trade-off*. Thay số liệu bằng dự án của bạn.
+3. **Ngày 2:** Shadowing bài mẫu "slow page" 2 lần, rồi tự nói phiên bản của bạn trong 2 phút, không nhìn giấy.
+4. **Ngày 2:** Giải thích OnPush, lazy loading và Observable vs Promise **cho người không dùng Angular** (ví dụ dev React) – mỗi câu 60 giây, ghi âm.
+5. **Nâng cao:** Nhờ bạn hỏi 3 câu follow-up ngẫu nhiên; luyện dùng *"That's a good question – let me think…"* và *"I haven't used … in production, but…"* khi chưa chắc.
+
+## 6. Tự đánh giá
+
+- [ ] Giải thích được change detection và OnPush trong 60–90 giây, có nêu trade-off.
+- [ ] Trả lời câu "trang chậm" theo quy trình **đo → tìm nguyên nhân → sửa → phòng ngừa**, có số liệu.
+- [ ] Dùng hiện tại đơn và bị động tự nhiên khi mô tả cách framework hoạt động.
+- [ ] Phát âm đúng *accessibility, cache, render, monorepo*.
+- [ ] Biết cách thừa nhận khi chưa dùng một công nghệ mà vẫn thể hiện hiểu biết.

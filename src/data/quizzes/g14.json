@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G14",
+   "q": "My sister is ___ engineer.",
+   "options": {
+    "A": "a",
+    "B": "an",
+    "C": "some",
+    "D": "much"
+   },
+   "answer": "B",
+   "explain": "Nghề nghiệp dùng a/an; 'engineer' bắt đầu bằng âm nguyên âm → an."
+  },
+  {
+   "no": 2,
+   "code": "G14",
+   "q": "We waited for ___ hour at the station.",
+   "options": {
+    "A": "an",
+    "B": "a",
+    "C": "much",
+    "D": "few"
+   },
+   "answer": "A",
+   "explain": "'Hour' có h câm, bắt đầu bằng âm nguyên âm → an hour."
+  },
+  {
+   "no": 3,
+   "code": "G14",
+   "q": "___ moon goes around the Earth.",
+   "options": {
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "Some"
+   },
+   "answer": "C",
+   "explain": "Vật duy nhất → dùng the."
+  },
+  {
+   "no": 4,
+   "code": "G14",
+   "q": "Can I give you ___ advice about your CV?",
+   "options": {
+    "A": "an",
+    "B": "a",
+    "C": "many",
+    "D": "some"
+   },
+   "answer": "D",
+   "explain": "Advice là danh từ không đếm được → không dùng a/an hay many; dùng some (hoặc a piece of)."
+  },
+  {
+   "no": 5,
+   "code": "G14",
+   "q": "There isn't much ___ in this room – just a bed and a desk.",
+   "options": {
+    "A": "furniture",
+    "B": "furnitures",
+    "C": "chair",
+    "D": "chairs"
+   },
+   "answer": "A",
+   "explain": "Much đi với danh từ không đếm được; furniture không đếm được và không có dạng số nhiều."
+  },
+  {
+   "no": 6,
+   "code": "G14",
+   "q": "He studies at ___ university in Hanoi.",
+   "options": {
+    "A": "an",
+    "B": "a",
+    "C": "much",
+    "D": "few"
+   },
+   "answer": "B",
+   "explain": "'University' bắt đầu bằng âm /j/ (phụ âm) → a university, dù chữ đầu là nguyên âm."
+  },
+  {
+   "no": 7,
+   "code": "G14",
+   "q": "I need some ___ about the train times.",
+   "options": {
+    "A": "informations",
+    "B": "an information",
+    "C": "information",
+    "D": "information's"
+   },
+   "answer": "C",
+   "explain": "Information là danh từ không đếm được → không thêm -s, không dùng an."
+  },
+  {
+   "no": 8,
+   "code": "G14",
+   "q": "We usually have ___ lunch at 12 o'clock.",
+   "options": {
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "Ø (không mạo từ)"
+   },
+   "answer": "D",
+   "explain": "Bữa ăn nói chung (breakfast, lunch, dinner) không dùng mạo từ."
+  },
+  {
+   "no": 9,
+   "code": "G14",
+   "q": "She plays ___ piano beautifully.",
+   "options": {
+    "A": "a",
+    "B": "the",
+    "C": "an",
+    "D": "some"
+   },
+   "answer": "B",
+   "explain": "Chơi nhạc cụ → play the + nhạc cụ."
+  },
+  {
+   "no": 10,
+   "code": "G14",
+   "q": "The news ___ very good today.",
+   "options": {
+    "A": "is",
+    "B": "are",
+    "C": "were",
+    "D": "have been"
+   },
+   "answer": "A",
+   "explain": "News tận cùng bằng -s nhưng là danh từ không đếm được → động từ số ít: is."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G14",
+   "q": "I saw a cat in our garden this morning. ___ cat was black and white.",
+   "options": {
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "Ø (không mạo từ)"
+   },
+   "answer": "C",
+   "explain": "Lần đầu nhắc dùng a, lần sau nhắc lại vật đã xác định → the cat."
+  },
+  {
+   "no": 2,
+   "code": "G14",
+   "q": "My son is seven. He goes to ___ school from Monday to Friday to study.",
+   "options": {
+    "A": "Ø (không mạo từ)",
+    "B": "the",
+    "C": "a",
+    "D": "an"
+   },
+   "answer": "A",
+   "explain": "Đến trường đúng mục đích (đi học) → go to school, không mạo từ. 'The school' chỉ dùng khi đến tòa nhà vì lý do khác."
+  },
+  {
+   "no": 3,
+   "code": "G14",
+   "q": "___ life is too short to worry about small things.",
+   "options": {
+    "A": "The",
+    "B": "A",
+    "C": "An",
+    "D": "Ø (không mạo từ)"
+   },
+   "answer": "D",
+   "explain": "Nói chung chung về danh từ không đếm được → không dùng mạo từ: Life is short. 'The life' là lỗi hay gặp."
+  },
+  {
+   "no": 4,
+   "code": "G14",
+   "q": "How ___ luggage are you taking on the trip?",
+   "options": {
+    "A": "many",
+    "B": "much",
+    "C": "a few",
+    "D": "few"
+   },
+   "answer": "B",
+   "explain": "Luggage là danh từ không đếm được → How much. Many/a few/few chỉ đi với danh từ đếm được số nhiều."
+  },
+  {
+   "no": 5,
+   "code": "G14",
+   "q": "Could you buy two ___ of bread on your way home?",
+   "options": {
+    "A": "breads",
+    "B": "loafs",
+    "C": "loaves",
+    "D": "bread"
+   },
+   "answer": "C",
+   "explain": "Bread không đếm được → đếm bằng đơn vị: a loaf of bread, số nhiều là loaves (không phải loafs)."
+  },
+  {
+   "no": 6,
+   "code": "G14",
+   "q": "___ Mekong River flows through six countries.",
+   "options": {
+    "A": "Ø (không mạo từ)",
+    "B": "A",
+    "C": "An",
+    "D": "The"
+   },
+   "answer": "D",
+   "explain": "Tên sông dùng the: the Mekong, the Red River."
+  },
+  {
+   "no": 7,
+   "code": "G14",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "I live in the Vietnam.",
+    "B": "I'd like a glass of water, please.",
+    "C": "She is teacher at my school.",
+    "D": "He gave me an useful tip."
+   },
+   "answer": "B",
+   "explain": "A glass of water đúng. Sai: tên nước không có the (Vietnam), nghề nghiệp cần a (a teacher), useful bắt đầu bằng âm /j/ → a useful tip."
+  },
+  {
+   "no": 8,
+   "code": "G14",
+   "q": "The rich should do more to help ___ poor.",
+   "options": {
+    "A": "the",
+    "B": "a",
+    "C": "Ø (không mạo từ)",
+    "D": "some"
+   },
+   "answer": "A",
+   "explain": "The + tính từ chỉ một nhóm người: the rich, the poor."
+  },
+  {
+   "no": 9,
+   "code": "G14",
+   "q": "Our new classmate is ___ European student from Spain.",
+   "options": {
+    "A": "an",
+    "B": "much",
+    "C": "Ø (không mạo từ)",
+    "D": "a"
+   },
+   "answer": "D",
+   "explain": "'European' bắt đầu bằng âm /j/ (phụ âm) → a European. Danh từ đếm được số ít không đứng một mình nên không bỏ mạo từ."
+  },
+  {
+   "no": 10,
+   "code": "G14",
+   "q": "What ___ lovely weather we're having today!",
+   "options": {
+    "A": "a",
+    "B": "an",
+    "C": "Ø (không mạo từ)",
+    "D": "the"
+   },
+   "answer": "C",
+   "explain": "Weather không đếm được → câu cảm thán dùng What + N không đếm được, không có a: What lovely weather! 'What a lovely weather' là lỗi phổ biến."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G14",
+   "q": "Tìm lỗi sai: (A) The information (B) you gave me (C) were very (D) useful.",
+   "options": {
+    "A": "The information",
+    "B": "you gave me",
+    "C": "were",
+    "D": "useful"
+   },
+   "answer": "C",
+   "explain": "Information không đếm được → động từ số ít: was very useful."
+  },
+  {
+   "no": 2,
+   "code": "G14",
+   "q": "Chọn câu SAI ngữ pháp:",
+   "options": {
+    "A": "He's an honest man.",
+    "B": "She has an MBA from Harvard.",
+    "C": "It's a one-way street.",
+    "D": "I bought an uniform for my new job."
+   },
+   "answer": "D",
+   "explain": "'Uniform' bắt đầu bằng âm /j/ → a uniform. Các câu kia đúng vì xét theo âm: honest (h câm), MBA /em/, one /w/."
+  },
+  {
+   "no": 3,
+   "code": "G14",
+   "q": "I went to ___ school yesterday to meet my son's teacher.",
+   "options": {
+    "A": "the",
+    "B": "Ø (không mạo từ)",
+    "C": "a",
+    "D": "an"
+   },
+   "answer": "A",
+   "explain": "Đến tòa nhà trường học vì lý do khác (gặp giáo viên), không phải để học → go to the school."
+  },
+  {
+   "no": 4,
+   "code": "G14",
+   "q": "Tìm lỗi sai: We (A) had (B) the breakfast at 7 and then (C) played (D) the guitar together.",
+   "options": {
+    "A": "had",
+    "B": "the breakfast",
+    "C": "played",
+    "D": "the guitar"
+   },
+   "answer": "B",
+   "explain": "Bữa ăn nói chung không dùng mạo từ → had breakfast. Play the guitar là đúng vì nhạc cụ đi với the."
+  },
+  {
+   "no": 5,
+   "code": "G14",
+   "q": "___ Mount Everest is the highest mountain in the world.",
+   "options": {
+    "A": "The",
+    "B": "A",
+    "C": "Ø (không mạo từ)",
+    "D": "An"
+   },
+   "answer": "C",
+   "explain": "Núi đơn lẻ không dùng mạo từ (Mount Everest, Fansipan); chỉ dãy núi mới dùng the (the Alps)."
+  },
+  {
+   "no": 6,
+   "code": "G14",
+   "q": "Chọn câu dùng mạo từ ĐÚNG với tên địa lý:",
+   "options": {
+    "A": "The Hoan Kiem Lake is in the city centre.",
+    "B": "They travelled across the Sahara by camel.",
+    "C": "She lives in the Hanoi.",
+    "D": "We climbed the Fansipan last summer."
+   },
+   "answer": "B",
+   "explain": "Sa mạc dùng the (the Sahara). Hồ đơn lẻ, thành phố, núi đơn lẻ không dùng mạo từ."
+  },
+  {
+   "no": 7,
+   "code": "G14",
+   "q": "Physics ___ my favourite subject at school.",
+   "options": {
+    "A": "is",
+    "B": "are",
+    "C": "were",
+    "D": "have been"
+   },
+   "answer": "A",
+   "explain": "Tên môn học tận cùng -s (physics, mathematics) là danh từ không đếm được → động từ số ít."
+  },
+  {
+   "no": 8,
+   "code": "G14",
+   "q": "Chọn câu gần nghĩa nhất với: \"She gave me two useful suggestions.\"",
+   "options": {
+    "A": "She gave me two useful advices.",
+    "B": "She gave me two useful advice.",
+    "C": "She gave me a useful advices.",
+    "D": "She gave me two pieces of useful advice."
+   },
+   "answer": "D",
+   "explain": "Advice không đếm được → không thêm -s, không đi trực tiếp với số đếm; phải dùng pieces of advice."
+  },
+  {
+   "no": 9,
+   "code": "G14",
+   "q": "On the motorway, they drove at 100 kilometres ___ hour.",
+   "options": {
+    "A": "a",
+    "B": "the",
+    "C": "an",
+    "D": "per the"
+   },
+   "answer": "C",
+   "explain": "Tốc độ, tần suất dùng a/an (= mỗi): 100 km an hour; hour có h câm → an."
+  },
+  {
+   "no": 10,
+   "code": "G14",
+   "q": "Excuse me, can I ask ___ question about ___ homework you gave us yesterday?",
+   "options": {
+    "A": "the / a",
+    "B": "an / Ø",
+    "C": "a / a",
+    "D": "a / the"
+   },
+   "answer": "D",
+   "explain": "Câu hỏi bất kỳ, lần đầu nhắc → a question; bài tập đã được xác định bởi mệnh đề 'you gave us' → the homework (homework không đếm được nên không dùng a)."
+  }
+ ]
+}

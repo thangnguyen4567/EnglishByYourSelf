@@ -1,0 +1,24 @@
+.wrap td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.btn {
+  border: 0;
+  background: none;
+  cursor: pointer;
+  padding: 0 0.3rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.75;
+  vertical-align: baseline;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+@media (max-width: 600px) {
+  .wrap td:first-child {
+    white-space: normal;
+  }
+}

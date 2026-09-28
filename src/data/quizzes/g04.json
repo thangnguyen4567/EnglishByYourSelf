@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G04",
+   "q": "We ___ pizza for dinner last night.",
+   "options": {
+    "A": "eat",
+    "B": "ate",
+    "C": "eaten",
+    "D": "eats"
+   },
+   "answer": "B",
+   "explain": "'last night' → quá khứ đơn; eat là động từ bất quy tắc → ate."
+  },
+  {
+   "no": 2,
+   "code": "G04",
+   "q": "She ___ from university in 2021.",
+   "options": {
+    "A": "graduate",
+    "B": "graduates",
+    "C": "graduated",
+    "D": "graduating"
+   },
+   "answer": "C",
+   "explain": "'in 2021' → thời điểm xác định trong quá khứ; graduate tận cùng -e → chỉ thêm -d → graduated."
+  },
+  {
+   "no": 3,
+   "code": "G04",
+   "q": "They ___ at home yesterday evening.",
+   "options": {
+    "A": "was",
+    "B": "were",
+    "C": "are",
+    "D": "be"
+   },
+   "answer": "B",
+   "explain": "'yesterday evening' → quá khứ; chủ ngữ 'They' → were."
+  },
+  {
+   "no": 4,
+   "code": "G04",
+   "q": "I ___ my keys two days ago.",
+   "options": {
+    "A": "lost",
+    "B": "lose",
+    "C": "losed",
+    "D": "loses"
+   },
+   "answer": "A",
+   "explain": "'two days ago' → quá khứ đơn; lose là động từ bất quy tắc → lost (không thêm -ed)."
+  },
+  {
+   "no": 5,
+   "code": "G04",
+   "q": "Mozart ___ his first symphony when he was eight.",
+   "options": {
+    "A": "writes",
+    "B": "written",
+    "C": "wrote",
+    "D": "writed"
+   },
+   "answer": "C",
+   "explain": "Sự kiện lịch sử đã kết thúc → quá khứ đơn; write → wrote (V2)."
+  },
+  {
+   "no": 6,
+   "code": "G04",
+   "q": "My parents ___ a new house in 2019.",
+   "options": {
+    "A": "buy",
+    "B": "buyed",
+    "C": "buys",
+    "D": "bought"
+   },
+   "answer": "D",
+   "explain": "'in 2019' → quá khứ đơn; buy là động từ bất quy tắc → bought."
+  },
+  {
+   "no": 7,
+   "code": "G04",
+   "q": "The weather ___ terrible last weekend.",
+   "options": {
+    "A": "is",
+    "B": "were",
+    "C": "was",
+    "D": "be"
+   },
+   "answer": "C",
+   "explain": "'last weekend' → quá khứ; 'The weather' số ít → was."
+  },
+  {
+   "no": 8,
+   "code": "G04",
+   "q": "He ___ the bus this morning and arrived late.",
+   "options": {
+    "A": "missed",
+    "B": "misses",
+    "C": "miss",
+    "D": "missing"
+   },
+   "answer": "A",
+   "explain": "Việc đã xảy ra sáng nay (đã kết thúc, đi cùng 'arrived') → quá khứ đơn → missed."
+  },
+  {
+   "no": 9,
+   "code": "G04",
+   "q": "My sister ___ me a postcard from Paris last month.",
+   "options": {
+    "A": "send",
+    "B": "sends",
+    "C": "sent",
+    "D": "sended"
+   },
+   "answer": "C",
+   "explain": "'last month' → quá khứ đơn; send là động từ bất quy tắc → sent."
+  },
+  {
+   "no": 10,
+   "code": "G04",
+   "q": "The meeting ___ at 9 and finished at 11.",
+   "options": {
+    "A": "start",
+    "B": "started",
+    "C": "starts",
+    "D": "starting"
+   },
+   "answer": "B",
+   "explain": "Đi cùng 'finished' → chuỗi việc đã xong trong quá khứ → started."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G04",
+   "q": "___ you ___ the sales report yesterday?",
+   "options": {
+    "A": "Did / finish",
+    "B": "Did / finished",
+    "C": "Do / finished",
+    "D": "Were / finish"
+   },
+   "answer": "A",
+   "explain": "Câu hỏi quá khứ đơn: Did + S + V nguyên mẫu. B sai vì đã có 'Did' thì động từ không chia quá khứ nữa."
+  },
+  {
+   "no": 2,
+   "code": "G04",
+   "q": "She ___ to the party because she was ill.",
+   "options": {
+    "A": "didn't came",
+    "B": "wasn't come",
+    "C": "didn't come",
+    "D": "not came"
+   },
+   "answer": "C",
+   "explain": "Phủ định quá khứ đơn: didn't + V nguyên mẫu → didn't come. A sai vì chia quá khứ hai lần."
+  },
+  {
+   "no": 3,
+   "code": "G04",
+   "q": "___ you tired after the long trip?",
+   "options": {
+    "A": "Did",
+    "B": "Was",
+    "C": "Do",
+    "D": "Were"
+   },
+   "answer": "D",
+   "explain": "'tired' là tính từ → dùng to be; chủ ngữ 'you' → Were. A sai vì không dùng 'did' với to be."
+  },
+  {
+   "no": 4,
+   "code": "G04",
+   "q": "Chọn dạng quá khứ đúng của 'plan':",
+   "options": {
+    "A": "planned",
+    "B": "planed",
+    "C": "planied",
+    "D": "plant"
+   },
+   "answer": "A",
+   "explain": "Động từ 1 âm tiết, tận cùng 1 nguyên âm + 1 phụ âm → gấp đôi phụ âm cuối → planned. 'planed' là quá khứ của 'plane' (bào gỗ)."
+  },
+  {
+   "no": 5,
+   "code": "G04",
+   "q": "Chọn dạng quá khứ đúng của 'carry':",
+   "options": {
+    "A": "carryed",
+    "B": "carried",
+    "C": "caried",
+    "D": "carred"
+   },
+   "answer": "B",
+   "explain": "Phụ âm + y → bỏ y, thêm -ied → carried. A sai vì chỉ giữ y khi trước nó là nguyên âm (play → played)."
+  },
+  {
+   "no": 6,
+   "code": "G04",
+   "q": "Where ___ you go on holiday last year?",
+   "options": {
+    "A": "do",
+    "B": "were",
+    "C": "did",
+    "D": "have"
+   },
+   "answer": "C",
+   "explain": "'last year' + động từ thường 'go' → câu hỏi quá khứ đơn với did. B sai vì 'were' không đi với động từ nguyên mẫu."
+  },
+  {
+   "no": 7,
+   "code": "G04",
+   "q": "Trong từ nào đuôi -ed được đọc là /ɪd/?",
+   "options": {
+    "A": "worked",
+    "B": "played",
+    "C": "decided",
+    "D": "stopped"
+   },
+   "answer": "C",
+   "explain": "-ed đọc /ɪd/ sau âm /t/, /d/ → decided. worked, stopped đọc /t/; played đọc /d/."
+  },
+  {
+   "no": 8,
+   "code": "G04",
+   "q": "I ___ in Japan for three years, but now I live in Vietnam.",
+   "options": {
+    "A": "lived",
+    "B": "live",
+    "C": "have lived",
+    "D": "am living"
+   },
+   "answer": "A",
+   "explain": "Giai đoạn đã kết thúc (giờ sống ở Việt Nam) → quá khứ đơn. C sai vì hiện tại hoàn thành ngụ ý vẫn còn sống ở Nhật."
+  },
+  {
+   "no": 9,
+   "code": "G04",
+   "q": "Tom ___ his wallet, paid for the coffee and left.",
+   "options": {
+    "A": "takes out",
+    "B": "took out",
+    "C": "take out",
+    "D": "taken out"
+   },
+   "answer": "B",
+   "explain": "Chuỗi hành động nối tiếp trong quá khứ (paid, left) → cùng dùng quá khứ đơn → took out. D là V3, không đứng một mình."
+  },
+  {
+   "no": 10,
+   "code": "G04",
+   "q": "We ___ any photos because the museum didn't allow it.",
+   "options": {
+    "A": "don't took",
+    "B": "didn't took",
+    "C": "not take",
+    "D": "didn't take"
+   },
+   "answer": "D",
+   "explain": "Phủ định quá khứ đơn: didn't + V nguyên mẫu → didn't take. B sai vì chia quá khứ hai lần."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G04",
+   "q": "Tìm lỗi sai: Last night I (A) didn't (B) went to bed until (C) midnight because I (D) was watching a film.",
+   "options": {
+    "A": "didn't",
+    "B": "went",
+    "C": "midnight",
+    "D": "was watching"
+   },
+   "answer": "B",
+   "explain": "Sau 'didn't' động từ về nguyên mẫu → didn't go. 'was watching' đúng vì là hành động kéo dài làm nền."
+  },
+  {
+   "no": 2,
+   "code": "G04",
+   "q": "Tìm lỗi sai: When I was a child, my grandmother (A) teached me (B) how to cook (C) and (D) sew.",
+   "options": {
+    "A": "teached",
+    "B": "how to cook",
+    "C": "and",
+    "D": "sew"
+   },
+   "answer": "A",
+   "explain": "'teach' là động từ bất quy tắc → taught, không thêm -ed. 'sew' đúng vì song song với 'cook' sau 'how to'."
+  },
+  {
+   "no": 3,
+   "code": "G04",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "I seen him at the station yesterday.",
+    "B": "I did saw him at the station yesterday.",
+    "C": "I have seen him at the station yesterday.",
+    "D": "I saw him at the station yesterday."
+   },
+   "answer": "D",
+   "explain": "'yesterday' → quá khứ đơn với V2 saw. A dùng V3 không có have; C sai vì hiện tại hoàn thành không đi với 'yesterday'."
+  },
+  {
+   "no": 4,
+   "code": "G04",
+   "q": "Chọn câu ĐÚNG ngữ pháp với động từ to be:",
+   "options": {
+    "A": "Did you be at home last night?",
+    "B": "Was you at home last night?",
+    "C": "Were you at home last night?",
+    "D": "Are you at home last night?"
+   },
+   "answer": "C",
+   "explain": "Câu hỏi với to be ở quá khứ: Were + you. A sai vì không dùng 'did' với to be; B sai vì 'you' đi với were."
+  },
+  {
+   "no": 5,
+   "code": "G04",
+   "q": "Chọn câu gần nghĩa nhất với: 'She left the company three years ago.'",
+   "options": {
+    "A": "She has worked at the company for three years.",
+    "B": "She stopped working at the company three years ago.",
+    "C": "She is leaving the company in three years.",
+    "D": "She left the company for three years."
+   },
+   "answer": "B",
+   "explain": "'left three years ago' = đã nghỉ việc cách đây 3 năm → B. D sai nghĩa vì 'for three years' chỉ khoảng thời gian vắng mặt, không phải thời điểm."
+  },
+  {
+   "no": 6,
+   "code": "G04",
+   "q": "We arrived at the hotel late, and the receptionist ___ us our keys immediately.",
+   "options": {
+    "A": "gives",
+    "B": "give",
+    "C": "given",
+    "D": "gave"
+   },
+   "answer": "D",
+   "explain": "Kể chuỗi sự việc trong quá khứ (arrived → gave), không cần dấu hiệu thời gian → gave. C là V3, không làm động từ chính một mình."
+  },
+  {
+   "no": 7,
+   "code": "G04",
+   "q": "If I ___ more free time, I would learn to play the guitar.",
+   "options": {
+    "A": "had",
+    "B": "have",
+    "C": "has",
+    "D": "having"
+   },
+   "answer": "A",
+   "explain": "Câu điều kiện loại 2 (giả định ở hiện tại) → mệnh đề if dùng quá khứ đơn → had. B sai vì mệnh đề chính dùng 'would'."
+  },
+  {
+   "no": 8,
+   "code": "G04",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "She paid the bill and left.",
+    "B": "They buyed a new car last week.",
+    "C": "He caught the last train home.",
+    "D": "I thought you were right."
+   },
+   "answer": "B",
+   "explain": "'buy' là động từ bất quy tắc → bought, không có dạng 'buyed'. paid, caught, thought đều là V2 đúng."
+  },
+  {
+   "no": 9,
+   "code": "G04",
+   "q": "A: ___ the concert last night? B: Yes, it was amazing!",
+   "options": {
+    "A": "Do you enjoy",
+    "B": "Did you enjoyed",
+    "C": "Did you enjoy",
+    "D": "Were you enjoy"
+   },
+   "answer": "C",
+   "explain": "'last night' → câu hỏi quá khứ đơn: Did + S + V nguyên mẫu → Did you enjoy. B chia quá khứ hai lần; D trộn to be với động từ nguyên mẫu."
+  },
+  {
+   "no": 10,
+   "code": "G04",
+   "q": "Trong từ nào đuôi -ed được đọc là /t/?",
+   "options": {
+    "A": "needed",
+    "B": "cleaned",
+    "C": "wanted",
+    "D": "laughed"
+   },
+   "answer": "D",
+   "explain": "laugh tận cùng âm vô thanh /f/ → -ed đọc /t/. needed, wanted đọc /ɪd/; cleaned đọc /d/."
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G08",
+   "q": "When we arrived, the film ___ already ___.",
+   "options": {
+    "A": "has / started",
+    "B": "had / started",
+    "C": "was / starting",
+    "D": "did / start"
+   },
+   "answer": "B",
+   "explain": "Phim bắt đầu trước khi chúng tôi đến (QK) → had + already + V3."
+  },
+  {
+   "no": 2,
+   "code": "G08",
+   "q": "She ___ her homework before her parents came home.",
+   "options": {
+    "A": "has finished",
+    "B": "finishes",
+    "C": "had finished",
+    "D": "had finish"
+   },
+   "answer": "C",
+   "explain": "Việc xảy ra trước một việc khác trong quá khứ → had + V3."
+  },
+  {
+   "no": 3,
+   "code": "G08",
+   "q": "By the time the police arrived, the thief ___.",
+   "options": {
+    "A": "has escaped",
+    "B": "escapes",
+    "C": "had escape",
+    "D": "had escaped"
+   },
+   "answer": "D",
+   "explain": "By the time + quá khứ đơn → mệnh đề chính dùng quá khứ hoàn thành."
+  },
+  {
+   "no": 4,
+   "code": "G08",
+   "q": "I had never ___ snow until I went to Korea.",
+   "options": {
+    "A": "saw",
+    "B": "see",
+    "C": "seeing",
+    "D": "seen"
+   },
+   "answer": "D",
+   "explain": "had + V3; V3 của see là seen."
+  },
+  {
+   "no": 5,
+   "code": "G08",
+   "q": "They ___ been waiting for an hour when the bus finally came.",
+   "options": {
+    "A": "have",
+    "B": "had",
+    "C": "were",
+    "D": "has"
+   },
+   "answer": "B",
+   "explain": "Quá khứ hoàn thành tiếp diễn: had been + V-ing, kéo dài trước mốc quá khứ (when the bus came)."
+  },
+  {
+   "no": 6,
+   "code": "G08",
+   "q": "He was upset because he ___ the exam.",
+   "options": {
+    "A": "has failed",
+    "B": "fails",
+    "C": "had failed",
+    "D": "had fail"
+   },
+   "answer": "C",
+   "explain": "Nguyên nhân xảy ra trước trạng thái quá khứ (was upset) → had + V3."
+  },
+  {
+   "no": 7,
+   "code": "G08",
+   "q": "After she ___ the report, she sent it to her manager.",
+   "options": {
+    "A": "has checked",
+    "B": "had check",
+    "C": "had checked",
+    "D": "checks"
+   },
+   "answer": "C",
+   "explain": "after + quá khứ hoàn thành (việc trước), mệnh đề chính quá khứ đơn (việc sau)."
+  },
+  {
+   "no": 8,
+   "code": "G08",
+   "q": "It was the best meal I had ever ___.",
+   "options": {
+    "A": "ate",
+    "B": "eat",
+    "C": "eating",
+    "D": "eaten"
+   },
+   "answer": "D",
+   "explain": "had ever + V3; V3 của eat là eaten."
+  },
+  {
+   "no": 9,
+   "code": "G08",
+   "q": "She was tired because she had been ___ all night.",
+   "options": {
+    "A": "working",
+    "B": "work",
+    "C": "worked",
+    "D": "works"
+   },
+   "answer": "A",
+   "explain": "had been + V-ing → working."
+  },
+  {
+   "no": 10,
+   "code": "G08",
+   "q": "By 2020, he ___ for three different companies.",
+   "options": {
+    "A": "has worked",
+    "B": "had worked",
+    "C": "works",
+    "D": "had work"
+   },
+   "answer": "B",
+   "explain": "'By 2020' là mốc quá khứ → had + V3."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G08",
+   "q": "___ you met him before the party last night?",
+   "options": {
+    "A": "Have",
+    "B": "Were",
+    "C": "Had",
+    "D": "Has"
+   },
+   "answer": "C",
+   "explain": "Hỏi về việc trước một mốc quá khứ (the party last night) → Had + S + V3; 'Have' không đi với mốc quá khứ đã qua."
+  },
+  {
+   "no": 2,
+   "code": "G08",
+   "q": "She ___ anything since breakfast, so she was very hungry by 3 p.m.",
+   "options": {
+    "A": "hasn't eaten",
+    "B": "didn't eat",
+    "C": "wasn't eating",
+    "D": "hadn't eaten"
+   },
+   "answer": "D",
+   "explain": "Mốc so sánh là 3 p.m. trong quá khứ → quá khứ hoàn thành; 'hasn't eaten' lấy mốc là bây giờ nên không hợp với 'was'."
+  },
+  {
+   "no": 3,
+   "code": "G08",
+   "q": "When I called Minh at 11 p.m., he ___ to bed, so his wife answered.",
+   "options": {
+    "A": "had already gone",
+    "B": "has already gone",
+    "C": "already goes",
+    "D": "had already went"
+   },
+   "answer": "A",
+   "explain": "Đi ngủ xảy ra trước cuộc gọi → had + V3 (gone); 'went' là V2, không dùng sau had."
+  },
+  {
+   "no": 4,
+   "code": "G08",
+   "q": "They ___ for six hours before they finally stopped for lunch.",
+   "options": {
+    "A": "have been driving",
+    "B": "had been driving",
+    "C": "are driving",
+    "D": "had been drove"
+   },
+   "answer": "B",
+   "explain": "Quá trình kéo dài trước một việc trong quá khứ (stopped) → had been + V-ing; 'have been driving' lấy mốc hiện tại."
+  },
+  {
+   "no": 5,
+   "code": "G08",
+   "q": "How long ___ there when she got promoted?",
+   "options": {
+    "A": "has she been working",
+    "B": "had she been worked",
+    "C": "had she been working",
+    "D": "she had been working"
+   },
+   "answer": "C",
+   "explain": "Thời lượng trước mốc quá khứ (got promoted) → Had + S + been + V-ing; 'she had been working' sai trật tự câu hỏi."
+  },
+  {
+   "no": 6,
+   "code": "G08",
+   "q": "I couldn't get into the house because I ___ my keys.",
+   "options": {
+    "A": "have lost",
+    "B": "was losing",
+    "C": "had lose",
+    "D": "had lost"
+   },
+   "answer": "D",
+   "explain": "Mất chìa khóa xảy ra trước việc không vào được (QK) → had lost; 'have lost' không hợp với câu kể ở quá khứ."
+  },
+  {
+   "no": 7,
+   "code": "G08",
+   "q": "When I arrived at the party, Lan ___, so I didn't get a chance to talk to her.",
+   "options": {
+    "A": "had already left",
+    "B": "has already left",
+    "C": "already leaves",
+    "D": "is already leaving"
+   },
+   "answer": "A",
+   "explain": "Lan đi trước khi tôi đến → quá khứ hoàn thành; 'has already left' lấy mốc hiện tại, không hợp với mạch kể quá khứ."
+  },
+  {
+   "no": 8,
+   "code": "G08",
+   "q": "By the end of last year, she ___ three chapters of her novel.",
+   "options": {
+    "A": "had been writing",
+    "B": "had written",
+    "C": "has written",
+    "D": "was writing"
+   },
+   "answer": "B",
+   "explain": "Có số lượng cụ thể (three chapters) trước mốc quá khứ → had written; dạng tiếp diễn không dùng với số lượng đếm được."
+  },
+  {
+   "no": 9,
+   "code": "G08",
+   "q": "His hands were covered in oil because he ___ his motorbike.",
+   "options": {
+    "A": "has been fixing",
+    "B": "has fixed",
+    "C": "had been fixing",
+    "D": "fixes"
+   },
+   "answer": "C",
+   "explain": "Dấu vết trong quá khứ (tay dính dầu) do quá trình trước đó → had been fixing; 'has been fixing' chỉ dùng với hiện tại."
+  },
+  {
+   "no": 10,
+   "code": "G08",
+   "q": "I ___ her until last year, but now we're close friends.",
+   "options": {
+    "A": "haven't met",
+    "B": "don't meet",
+    "C": "hadn't meeting",
+    "D": "hadn't met"
+   },
+   "answer": "D",
+   "explain": "QKHT phủ định + until + mốc quá khứ → hadn't met; 'haven't met' mâu thuẫn với việc giờ đã là bạn thân."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G08",
+   "q": "Tìm lỗi sai: She (A) had went (B) home (C) before (D) the storm started.",
+   "options": {
+    "A": "had went",
+    "B": "home",
+    "C": "before",
+    "D": "the storm started"
+   },
+   "answer": "A",
+   "explain": "Sau had phải là V3: 'had gone', không dùng V2 'went'."
+  },
+  {
+   "no": 2,
+   "code": "G08",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "By the time we got there, the concert had started.",
+    "B": "I had visited Hue last year.",
+    "C": "After he had finished, he has left.",
+    "D": "She had been knowing him for years."
+   },
+   "answer": "A",
+   "explain": "By the time + QKĐ, mệnh đề chính QKHT là đúng; câu B có 'last year' mà không có mốc QK nào khác nên phải dùng QKĐ 'visited', câu C trộn 'has left', câu D dùng động từ trạng thái ở tiếp diễn."
+  },
+  {
+   "no": 3,
+   "code": "G08",
+   "q": "Chọn câu gần nghĩa nhất với: The guests left. Then we arrived.",
+   "options": {
+    "A": "When we arrived, the guests left.",
+    "B": "When we arrived, the guests had left.",
+    "C": "The guests had left after we arrived.",
+    "D": "When the guests had left, we were arriving."
+   },
+   "answer": "B",
+   "explain": "Khách đi trước, chúng tôi đến sau → When + QKĐ, mệnh đề chính QKHT; 'the guests left' nghĩa là khách đi ngay khi chúng tôi đến."
+  },
+  {
+   "no": 4,
+   "code": "G08",
+   "q": "When the manager walked in, everyone ___ talking at once. (= mọi người im bặt ngay lúc quản lý bước vào)",
+   "options": {
+    "A": "had stopped",
+    "B": "has stopped",
+    "C": "stopped",
+    "D": "had been stopping"
+   },
+   "answer": "C",
+   "explain": "Hai việc nối tiếp nhau (bước vào → ngừng nói) → quá khứ đơn; 'had stopped' nghĩa là đã ngừng từ trước khi quản lý vào."
+  },
+  {
+   "no": 5,
+   "code": "G08",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "I'd gone home before it rained.",
+    "B": "I'd go if I had time.",
+    "C": "I'd been working all day.",
+    "D": "I'd went there twice before."
+   },
+   "answer": "D",
+   "explain": "'d + V3 là had, 'd + nguyên mẫu là would; 'I'd went' sai vì sau had phải là V3 'gone'."
+  },
+  {
+   "no": 6,
+   "code": "G08",
+   "q": "By the time I finally found a parking space, the meeting ___ for twenty minutes.",
+   "options": {
+    "A": "had been going on",
+    "B": "has been going on",
+    "C": "is going on",
+    "D": "had been gone on"
+   },
+   "answer": "A",
+   "explain": "Quá trình kéo dài (for twenty minutes) trước mốc quá khứ → had been going on; 'has been' lấy mốc hiện tại."
+  },
+  {
+   "no": 7,
+   "code": "G08",
+   "q": "He said he ___ the film, so he didn't want to watch it again.",
+   "options": {
+    "A": "sees",
+    "B": "had seen",
+    "C": "had saw",
+    "D": "was seeing"
+   },
+   "answer": "B",
+   "explain": "Câu tường thuật, việc xem phim xảy ra trước lúc nói → had + V3; 'had saw' sai dạng V3."
+  },
+  {
+   "no": 8,
+   "code": "G08",
+   "q": "Tìm lỗi sai: I (A) had been knowing Hoa (B) for ten years (C) before we (D) became business partners.",
+   "options": {
+    "A": "had been knowing",
+    "B": "for ten years",
+    "C": "before",
+    "D": "became"
+   },
+   "answer": "A",
+   "explain": "'know' là động từ trạng thái → không dùng tiếp diễn; sửa thành 'had known'."
+  },
+  {
+   "no": 9,
+   "code": "G08",
+   "q": "Chọn câu gần nghĩa nhất với: That trip was my first trip abroad.",
+   "options": {
+    "A": "I have never been abroad.",
+    "B": "I had been abroad before that trip.",
+    "C": "I had never been abroad before that trip.",
+    "D": "I never go abroad."
+   },
+   "answer": "C",
+   "explain": "Chuyến đó là lần đầu → trước chuyến đó chưa từng ra nước ngoài → had never been … before; 'have never been' sai vì giờ đã đi rồi."
+  },
+  {
+   "no": 10,
+   "code": "G08",
+   "q": "Nam ___ for the company for only two months when he was offered a promotion.",
+   "options": {
+    "A": "has been working",
+    "B": "worked",
+    "C": "is working",
+    "D": "had been working"
+   },
+   "answer": "D",
+   "explain": "Thời lượng làm việc trước một mốc quá khứ (was offered) → had been working; 'worked' không thể hiện việc kéo dài đến mốc đó."
+  }
+ ]
+}

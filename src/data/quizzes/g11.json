@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G11",
+   "q": "At my school, all students ___ wear a uniform. It's a rule.",
+   "options": {
+    "A": "have to",
+    "B": "has to",
+    "C": "having to",
+    "D": "doesn't have to"
+   },
+   "answer": "A",
+   "explain": "Quy định bên ngoài ('It's a rule') → have to; chủ ngữ 'all students' số nhiều nên dùng have to, không dùng has to."
+  },
+  {
+   "no": 2,
+   "code": "G11",
+   "q": "The sign says 'No smoking'. You ___ smoke here.",
+   "options": {
+    "A": "don't have to",
+    "B": "mustn't",
+    "C": "needn't",
+    "D": "can"
+   },
+   "answer": "B",
+   "explain": "Biển cấm → mustn't (không được phép). Don't have to / needn't chỉ có nghĩa 'không cần'."
+  },
+  {
+   "no": 3,
+   "code": "G11",
+   "q": "You have a bad cough. You ___ see a doctor.",
+   "options": {
+    "A": "mustn't",
+    "B": "needn't",
+    "C": "should",
+    "D": "couldn't"
+   },
+   "answer": "C",
+   "explain": "Đưa ra lời khuyên → should + V nguyên mẫu."
+  },
+  {
+   "no": 4,
+   "code": "G11",
+   "q": "___ I open the window? It's very hot in here.",
+   "options": {
+    "A": "Am",
+    "B": "Does",
+    "C": "Have",
+    "D": "May"
+   },
+   "answer": "D",
+   "explain": "Xin phép lịch sự → May I + V? Các trợ động từ Am/Does/Have không đi với 'I open' theo cách này."
+  },
+  {
+   "no": 5,
+   "code": "G11",
+   "q": "When I was six, I ___ ride a bike.",
+   "options": {
+    "A": "could",
+    "B": "can",
+    "C": "must",
+    "D": "should"
+   },
+   "answer": "A",
+   "explain": "Khả năng chung trong quá khứ ('When I was six') → could."
+  },
+  {
+   "no": 6,
+   "code": "G11",
+   "q": "My aunt ___ speak three languages.",
+   "options": {
+    "A": "cans",
+    "B": "can to",
+    "C": "can",
+    "D": "is can"
+   },
+   "answer": "C",
+   "explain": "Modal không thêm -s, không có 'to' phía sau và không đi với 'be' → can speak."
+  },
+  {
+   "no": 7,
+   "code": "G11",
+   "q": "Tomorrow is Sunday, so I ___ get up early.",
+   "options": {
+    "A": "have to",
+    "B": "must",
+    "C": "mustn't",
+    "D": "don't have to"
+   },
+   "answer": "D",
+   "explain": "Chủ nhật được nghỉ → không bắt buộc dậy sớm → don't have to."
+  },
+  {
+   "no": 8,
+   "code": "G11",
+   "q": "You've been working for twelve hours. You ___ be very tired.",
+   "options": {
+    "A": "can't",
+    "B": "must",
+    "C": "mustn't",
+    "D": "needn't"
+   },
+   "answer": "B",
+   "explain": "Suy luận gần như chắc chắn dựa vào bằng chứng (làm 12 tiếng) → must be."
+  },
+  {
+   "no": 9,
+   "code": "G11",
+   "q": "Yesterday I ___ stay at the office until 9 p.m.",
+   "options": {
+    "A": "must",
+    "B": "have to",
+    "C": "had to",
+    "D": "musted"
+   },
+   "answer": "C",
+   "explain": "'Yesterday' → quá khứ; must không có dạng quá khứ nên dùng had to."
+  },
+  {
+   "no": 10,
+   "code": "G11",
+   "q": "Take an umbrella. It ___ rain this afternoon.",
+   "options": {
+    "A": "mustn't",
+    "B": "needn't",
+    "C": "can't",
+    "D": "might"
+   },
+   "answer": "D",
+   "explain": "Khả năng có thể xảy ra (không chắc) → might rain; vì vậy nên mang ô."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G11",
+   "q": "You ___ bring any food to the picnic – lunch is provided.",
+   "options": {
+    "A": "mustn't",
+    "B": "don't have to",
+    "C": "have to",
+    "D": "must"
+   },
+   "answer": "B",
+   "explain": "Bữa trưa đã có sẵn → không cần mang → don't have to. Mustn't sai vì nghĩa là 'cấm mang'."
+  },
+  {
+   "no": 2,
+   "code": "G11",
+   "q": "___ your brother have to work on Saturdays?",
+   "options": {
+    "A": "Does",
+    "B": "Do",
+    "C": "Is",
+    "D": "Has"
+   },
+   "answer": "A",
+   "explain": "Have to là bán khuyết thiếu, câu hỏi cần trợ động từ do/does; chủ ngữ 'your brother' số ít → Does. 'Has your brother to…' không dùng trong tiếng Anh hiện đại."
+  },
+  {
+   "no": 3,
+   "code": "G11",
+   "q": "Mai has just eaten a huge lunch. She ___ be hungry already.",
+   "options": {
+    "A": "mustn't",
+    "B": "must",
+    "C": "can't",
+    "D": "should"
+   },
+   "answer": "C",
+   "explain": "Suy luận 'chắc chắn không' → can't be. Mustn't chỉ mang nghĩa cấm, không dùng để suy luận phủ định."
+  },
+  {
+   "no": 4,
+   "code": "G11",
+   "q": "The fire spread quickly, but all the guests ___ escape.",
+   "options": {
+    "A": "could",
+    "B": "can",
+    "C": "must",
+    "D": "were able to"
+   },
+   "answer": "D",
+   "explain": "Một lần làm được cụ thể trong quá khứ → was/were able to. Could chỉ dùng cho khả năng chung, không dùng cho một thành công cụ thể ở câu khẳng định."
+  },
+  {
+   "no": 5,
+   "code": "G11",
+   "q": "I've broken my leg, so I ___ play football next month.",
+   "options": {
+    "A": "won't be able to",
+    "B": "won't can",
+    "C": "can't to",
+    "D": "don't can"
+   },
+   "answer": "A",
+   "explain": "Tương lai của 'can' → will be able to; không ghép hai modal (won't can) và không thêm 'to' sau can."
+  },
+  {
+   "no": 6,
+   "code": "G11",
+   "q": "Visitors ___ touch the paintings. They are very old and fragile.",
+   "options": {
+    "A": "don't have to",
+    "B": "needn't",
+    "C": "can",
+    "D": "mustn't"
+   },
+   "answer": "D",
+   "explain": "Tranh cổ, dễ hỏng → điều bị cấm → mustn't. Don't have to / needn't nghĩa là 'không cần', sai ngữ cảnh."
+  },
+  {
+   "no": 7,
+   "code": "G11",
+   "q": "You look exhausted. You'd better ___ a break.",
+   "options": {
+    "A": "to take",
+    "B": "take",
+    "C": "taking",
+    "D": "took"
+   },
+   "answer": "B",
+   "explain": "Had better + V nguyên mẫu không 'to' → 'd better take."
+  },
+  {
+   "no": 8,
+   "code": "G11",
+   "q": "A: Must I finish the report today? B: No, you ___. Friday is fine.",
+   "options": {
+    "A": "mustn't",
+    "B": "can't",
+    "C": "needn't",
+    "D": "shouldn't"
+   },
+   "answer": "C",
+   "explain": "Trả lời 'không cần' cho câu hỏi với must → No, you needn't (hoặc don't have to). No, you mustn't lại có nghĩa là 'cấm làm'."
+  },
+  {
+   "no": 9,
+   "code": "G11",
+   "q": "Someone is knocking at the door. It ___ be the postman, but I'm not sure – he usually comes later.",
+   "options": {
+    "A": "may",
+    "B": "must",
+    "C": "can't",
+    "D": "mustn't"
+   },
+   "answer": "A",
+   "explain": "'I'm not sure' → khả năng khoảng 50% → may be. Must quá chắc chắn, can't phủ định hoàn toàn, trái với ngữ cảnh."
+  },
+  {
+   "no": 10,
+   "code": "G11",
+   "q": "In Vietnam, you ___ wear a helmet when you ride a motorbike – it's the law.",
+   "options": {
+    "A": "don't have to",
+    "B": "needn't",
+    "C": "have to",
+    "D": "may"
+   },
+   "answer": "C",
+   "explain": "Luật lệ bên ngoài → have to. May chỉ là cho phép/khả năng, không diễn tả nghĩa vụ."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G11",
+   "q": "Tìm lỗi sai: She (A) can (B) speaks English (C) very (D) fluently.",
+   "options": {
+    "A": "can",
+    "B": "speaks",
+    "C": "very",
+    "D": "fluently"
+   },
+   "answer": "B",
+   "explain": "Sau modal 'can' động từ phải ở dạng nguyên mẫu → can speak, không phải speaks."
+  },
+  {
+   "no": 2,
+   "code": "G11",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "I will can help you tomorrow.",
+    "B": "He musts leave now.",
+    "C": "You don't have to pay – it's free.",
+    "D": "She can to drive a truck."
+   },
+   "answer": "C",
+   "explain": "Don't have to + V là đúng. Các câu còn lại sai: ghép hai modal (will can), thêm -s vào modal (musts), thêm 'to' sau can."
+  },
+  {
+   "no": 3,
+   "code": "G11",
+   "q": "Chọn câu gần nghĩa nhất với: \"It isn't necessary for you to call me before you come.\"",
+   "options": {
+    "A": "You mustn't call me before you come.",
+    "B": "You can't call me before you come.",
+    "C": "You should call me before you come.",
+    "D": "You needn't call me before you come."
+   },
+   "answer": "D",
+   "explain": "'Not necessary' = needn't / don't have to. Mustn't và can't mang nghĩa cấm; should là lời khuyên – đều sai nghĩa."
+  },
+  {
+   "no": 4,
+   "code": "G11",
+   "q": "Tom is in London all this week. The man you saw at the café yesterday ___ be Tom.",
+   "options": {
+    "A": "can't",
+    "B": "mustn't",
+    "C": "must",
+    "D": "might"
+   },
+   "answer": "A",
+   "explain": "Có bằng chứng Tom ở London → chắc chắn không phải → can't be. Mustn't không dùng cho suy luận; must/might mâu thuẫn với bằng chứng."
+  },
+  {
+   "no": 5,
+   "code": "G11",
+   "q": "Tìm lỗi sai: I was tired, but last night I (A) must (B) finish my essay before I (C) could (D) go to bed.",
+   "options": {
+    "A": "must",
+    "B": "finish",
+    "C": "could",
+    "D": "go"
+   },
+   "answer": "A",
+   "explain": "'Last night' là quá khứ, must không có dạng quá khứ → phải dùng had to finish."
+  },
+  {
+   "no": 6,
+   "code": "G11",
+   "q": "Chọn câu SAI ngữ pháp:",
+   "options": {
+    "A": "Did you have to wait long?",
+    "B": "She will have to leave early.",
+    "C": "Do I must wear a tie?",
+    "D": "You'd better not be late."
+   },
+   "answer": "C",
+   "explain": "Must là modal, tự làm trợ động từ, không đi với do → Must I wear a tie? hoặc Do I have to wear a tie?"
+  },
+  {
+   "no": 7,
+   "code": "G11",
+   "q": "Library rules: Students ___ use their phones in the reading room.",
+   "options": {
+    "A": "needn't",
+    "B": "don't have to",
+    "C": "might not",
+    "D": "may not"
+   },
+   "answer": "D",
+   "explain": "Nội quy trang trọng mang nghĩa cấm → may not. Might not chỉ diễn tả khả năng; needn't/don't have to nghĩa là 'không cần'."
+  },
+  {
+   "no": 8,
+   "code": "G11",
+   "q": "Chọn câu gần nghĩa nhất với: \"I'm sure he isn't at home – his car isn't there.\"",
+   "options": {
+    "A": "He mustn't be at home.",
+    "B": "He can't be at home.",
+    "C": "He needn't be at home.",
+    "D": "He shouldn't be at home."
+   },
+   "answer": "B",
+   "explain": "'I'm sure … isn't' = suy luận phủ định chắc chắn → can't be. Mustn't be là lỗi hay gặp: mustn't chỉ mang nghĩa cấm."
+  },
+  {
+   "no": 9,
+   "code": "G11",
+   "q": "A: Could I borrow your laptop for a minute? B: Yes, of course you ___.",
+   "options": {
+    "A": "can",
+    "B": "could",
+    "C": "must",
+    "D": "may to"
+   },
+   "answer": "A",
+   "explain": "Could trong câu xin phép chỉ để lịch sự; khi trả lời cho phép dùng can (hoặc may), không trả lời 'Yes, you could'."
+  },
+  {
+   "no": 10,
+   "code": "G11",
+   "q": "You ___ tell anyone about the surprise party – it's a secret!",
+   "options": {
+    "A": "don't have to",
+    "B": "needn't",
+    "C": "mustn't",
+    "D": "have to"
+   },
+   "answer": "C",
+   "explain": "Bí mật → không được nói → mustn't (cấm). Don't have to / needn't chỉ là 'không cần', không diễn tả sự cấm đoán."
+  }
+ ]
+}

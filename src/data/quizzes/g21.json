@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G21",
+   "q": "If I had known your phone number, I ___ you last night.",
+   "options": {
+    "A": "would call",
+    "B": "had called",
+    "C": "would have called",
+    "D": "will call"
+   },
+   "answer": "C",
+   "explain": "Mệnh đề if 'had known' + 'last night' → điều kiện loại 3 → would have + V3."
+  },
+  {
+   "no": 2,
+   "code": "G21",
+   "q": "If she ___ the early bus, she wouldn't have been late for the meeting.",
+   "options": {
+    "A": "caught",
+    "B": "has caught",
+    "C": "would catch",
+    "D": "had caught"
+   },
+   "answer": "D",
+   "explain": "Mệnh đề chính 'wouldn't have been' → loại 3 → mệnh đề if dùng had + V3."
+  },
+  {
+   "no": 3,
+   "code": "G21",
+   "q": "I wish I ___ a bigger flat. This one is far too small.",
+   "options": {
+    "A": "having",
+    "B": "had",
+    "C": "will have",
+    "D": "have"
+   },
+   "answer": "B",
+   "explain": "Ước điều trái với hiện tại → wish + quá khứ đơn: had."
+  },
+  {
+   "no": 4,
+   "code": "G21",
+   "q": "I wish I ___ that email to my boss yesterday. It was a big mistake.",
+   "options": {
+    "A": "won't send",
+    "B": "didn't send",
+    "C": "don't send",
+    "D": "hadn't sent"
+   },
+   "answer": "D",
+   "explain": "Tiếc nuối về quá khứ ('yesterday') → wish + had V3: hadn't sent."
+  },
+  {
+   "no": 5,
+   "code": "G21",
+   "q": "Come on, kids! It's time you ___ to bed.",
+   "options": {
+    "A": "go",
+    "B": "going",
+    "C": "went",
+    "D": "gone"
+   },
+   "answer": "C",
+   "explain": "It's time + S + V2 (quá khứ đơn nhưng nghĩa hiện tại) → went."
+  },
+  {
+   "no": 6,
+   "code": "G21",
+   "q": "If only I ___ how to fix this laptop!",
+   "options": {
+    "A": "knew",
+    "B": "known",
+    "C": "know",
+    "D": "will know"
+   },
+   "answer": "A",
+   "explain": "If only + ước trái hiện tại → quá khứ đơn: knew."
+  },
+  {
+   "no": 7,
+   "code": "G21",
+   "q": "If they had trained harder, they ___ the match last Sunday.",
+   "options": {
+    "A": "would have won",
+    "B": "won",
+    "C": "would win",
+    "D": "will win"
+   },
+   "answer": "A",
+   "explain": "'had trained' + 'last Sunday' → loại 3 → would have won."
+  },
+  {
+   "no": 8,
+   "code": "G21",
+   "q": "I'd rather you ___ smoke in my car.",
+   "options": {
+    "A": "doesn't",
+    "B": "didn't",
+    "C": "won't",
+    "D": "don't"
+   },
+   "answer": "B",
+   "explain": "S1 + would rather + S2 + V2 → muốn người khác (không) làm gì ở hiện tại: didn't."
+  },
+  {
+   "no": 9,
+   "code": "G21",
+   "q": "If we ___ a map with us, we wouldn't have got lost in the forest.",
+   "options": {
+    "A": "had",
+    "B": "would have",
+    "C": "had had",
+    "D": "have"
+   },
+   "answer": "C",
+   "explain": "Loại 3 → mệnh đề if dùng had + V3; V3 của 'have' là 'had' → had had."
+  },
+  {
+   "no": 10,
+   "code": "G21",
+   "q": "She wishes she ___ play the piano like her sister.",
+   "options": {
+    "A": "is able",
+    "B": "can",
+    "C": "will",
+    "D": "could"
+   },
+   "answer": "D",
+   "explain": "Ước về khả năng ở hiện tại → wish + could + V."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G21",
+   "q": "If I had accepted that job in Singapore, I ___ in a big apartment now.",
+   "options": {
+    "A": "had lived",
+    "B": "would have lived",
+    "C": "would live",
+    "D": "will live"
+   },
+   "answer": "C",
+   "explain": "Quá khứ ('had accepted') ảnh hưởng hiện tại ('now') → hỗn hợp: would + V; 'would have lived' là loại 3, không hợp với 'now'."
+  },
+  {
+   "no": 2,
+   "code": "G21",
+   "q": "If I ___ afraid of flying, I would have flown to Sydney with you last summer.",
+   "options": {
+    "A": "won't be",
+    "B": "wouldn't be",
+    "C": "am not",
+    "D": "weren't"
+   },
+   "answer": "D",
+   "explain": "Đặc điểm luôn đúng ở hiện tại (sợ bay) giải thích việc quá khứ → hỗn hợp 2→3: If + V2/were; 'wouldn't be' sai vì would không đứng trong mệnh đề if."
+  },
+  {
+   "no": 3,
+   "code": "G21",
+   "q": "I wish my brother ___ borrowing my clothes without asking. It drives me mad!",
+   "options": {
+    "A": "has stopped",
+    "B": "would stop",
+    "C": "will stop",
+    "D": "stops"
+   },
+   "answer": "B",
+   "explain": "Phàn nàn về thói quen gây khó chịu của người khác → wish + S + would + V; 'stops' không lùi thì nên sai sau wish."
+  },
+  {
+   "no": 4,
+   "code": "G21",
+   "q": "I didn't bring my umbrella, so I got soaked. → If I ___ my umbrella, I wouldn't have got soaked.",
+   "options": {
+    "A": "had brought",
+    "B": "brought",
+    "C": "would bring",
+    "D": "have brought"
+   },
+   "answer": "A",
+   "explain": "Viết lại sự thật quá khứ → loại 3: If + had V3; 'brought' là quá khứ đơn, chỉ dùng cho loại 2."
+  },
+  {
+   "no": 5,
+   "code": "G21",
+   "q": "I ___ you pass your driving test tomorrow. Good luck!",
+   "options": {
+    "A": "hope",
+    "B": "if only",
+    "C": "would rather",
+    "D": "wish"
+   },
+   "answer": "A",
+   "explain": "Điều có thể xảy ra trong tương lai → hope + thì bình thường; 'wish' chỉ dùng cho điều không thật và phải lùi thì."
+  },
+  {
+   "no": 6,
+   "code": "G21",
+   "q": "It's high time the city council ___ something about the traffic jams.",
+   "options": {
+    "A": "will do",
+    "B": "has done",
+    "C": "did",
+    "D": "does"
+   },
+   "answer": "C",
+   "explain": "It's high time + S + V2 → did; 'does' là lỗi thường gặp vì nghĩa là hiện tại nhưng động từ phải ở quá khứ."
+  },
+  {
+   "no": 7,
+   "code": "G21",
+   "q": "If only I ___ to my parents' advice when I was younger!",
+   "options": {
+    "A": "would listen",
+    "B": "have listened",
+    "C": "listened",
+    "D": "had listened"
+   },
+   "answer": "D",
+   "explain": "'when I was younger' → tiếc nuối quá khứ → If only + had V3; 'listened' chỉ dùng cho ước ở hiện tại."
+  },
+  {
+   "no": 8,
+   "code": "G21",
+   "q": "If you hadn't reminded me, I ___ my mother's birthday.",
+   "options": {
+    "A": "wouldn't forget",
+    "B": "would have forgotten",
+    "C": "would forget",
+    "D": "wouldn't have forgotten"
+   },
+   "answer": "B",
+   "explain": "Thực tế: bạn đã nhắc nên tôi không quên → nếu không nhắc thì đã quên → would have forgotten; dạng phủ định sai nghĩa."
+  },
+  {
+   "no": 9,
+   "code": "G21",
+   "q": "Where ___ you be living now if you hadn't moved to Hanoi?",
+   "options": {
+    "A": "would",
+    "B": "will",
+    "C": "had",
+    "D": "did"
+   },
+   "answer": "A",
+   "explain": "Mệnh đề if quá khứ ('hadn't moved') + 'now' → hỗn hợp 3→2: would + be living; 'will' không dùng cho điều trái thực tế."
+  },
+  {
+   "no": 10,
+   "code": "G21",
+   "q": "I'd rather you ___ my sister about the party yesterday. Now she's upset.",
+   "options": {
+    "A": "won't tell",
+    "B": "don't tell",
+    "C": "hadn't told",
+    "D": "didn't tell"
+   },
+   "answer": "C",
+   "explain": "would rather + S + had V3 → mong người khác đã làm khác trong quá khứ ('yesterday'); 'didn't tell' chỉ dùng cho hiện tại/tương lai."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G21",
+   "q": "Tìm lỗi sai: If I (A) would have known about the strike, I (B) would have taken (C) a taxi to (D) the airport.",
+   "options": {
+    "A": "would have known",
+    "B": "would have taken",
+    "C": "a taxi",
+    "D": "the airport"
+   },
+   "answer": "A",
+   "explain": "Mệnh đề if của loại 3 dùng had + V3 → 'had known'; 'would have' chỉ nằm ở mệnh đề chính nên phần còn lại đúng."
+  },
+  {
+   "no": 2,
+   "code": "G21",
+   "q": "Chọn câu gần nghĩa nhất với: I didn't study law, so I'm not a lawyer now.",
+   "options": {
+    "A": "If I didn't study law, I wouldn't be a lawyer now.",
+    "B": "If I had studied law, I would have been a lawyer now.",
+    "C": "If I studied law, I would be a lawyer now.",
+    "D": "If I had studied law, I would be a lawyer now."
+   },
+   "answer": "D",
+   "explain": "Nguyên nhân quá khứ, kết quả hiện tại ('now') → hỗn hợp: If + had V3, would + V; 'would have been … now' là loại 3, không hợp với 'now'."
+  },
+  {
+   "no": 3,
+   "code": "G21",
+   "q": "___ the truth, I would never have signed the contract.",
+   "options": {
+    "A": "Did I know",
+    "B": "Had I known",
+    "C": "Have I known",
+    "D": "If I knew"
+   },
+   "answer": "B",
+   "explain": "Đảo ngữ loại 3: bỏ if, đưa had lên đầu → Had I known; 'If I knew' là loại 2, không hợp với 'would have signed'."
+  },
+  {
+   "no": 4,
+   "code": "G21",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "I'd rather you don't tell anyone.",
+    "B": "It's time we leave now.",
+    "C": "If only I hadn't lost my temper yesterday.",
+    "D": "I wish I would pass the exam next week."
+   },
+   "answer": "C",
+   "explain": "If only + had V3 cho quá khứ là đúng; 'I wish I would' sai (không dùng wish + would với chính mình), sau It's time và would rather + S phải dùng V2."
+  },
+  {
+   "no": 5,
+   "code": "G21",
+   "q": "Chọn câu gần nghĩa nhất với: Tom isn't very organised, so he missed the deadline last week.",
+   "options": {
+    "A": "If Tom were more organised, he wouldn't have missed the deadline.",
+    "B": "If Tom had been more organised, he wouldn't miss the deadline.",
+    "C": "If Tom was more organised, he won't have missed the deadline.",
+    "D": "If Tom were more organised, he wouldn't miss the deadline last week."
+   },
+   "answer": "A",
+   "explain": "Tính cách hiện tại gây ra việc quá khứ → hỗn hợp 2→3: If + were, would have V3; các câu còn lại chia sai vế kết quả ('wouldn't miss … last week', 'won't have')."
+  },
+  {
+   "no": 6,
+   "code": "G21",
+   "q": "In the sentence 'If you'd asked me, I'd have helped you', the two contractions 'd mean:",
+   "options": {
+    "A": "had – had",
+    "B": "would – had",
+    "C": "would – would",
+    "D": "had – would"
+   },
+   "answer": "D",
+   "explain": "'d sau if trong loại 3 là had (had asked); 'd trước 'have + V3' ở mệnh đề chính là would (would have helped)."
+  },
+  {
+   "no": 7,
+   "code": "G21",
+   "q": "Chọn câu gần nghĩa nhất với: It's a pity I can't come to your wedding next month.",
+   "options": {
+    "A": "I wish I would come to your wedding next month.",
+    "B": "I wish I could come to your wedding next month.",
+    "C": "I wish I can come to your wedding next month.",
+    "D": "I wish I had come to your wedding next month."
+   },
+   "answer": "B",
+   "explain": "Tiếc về khả năng ở hiện tại/tương lai → wish + could + V; 'had come' dùng cho quá khứ nên không hợp với 'next month'."
+  },
+  {
+   "no": 8,
+   "code": "G21",
+   "q": "Tìm lỗi sai: It's (A) high time the government (B) takes serious (C) action (D) against air pollution.",
+   "options": {
+    "A": "high time",
+    "B": "takes",
+    "C": "action",
+    "D": "against"
+   },
+   "answer": "B",
+   "explain": "Sau It's high time + S phải dùng quá khứ đơn → 'took'; 'takes' là lỗi vì nghĩ câu mang nghĩa hiện tại."
+  },
+  {
+   "no": 9,
+   "code": "G21",
+   "q": "Chọn câu gần nghĩa nhất với: Had it not been for your help, I would have failed the course.",
+   "options": {
+    "A": "If you hadn't helped me, I would have failed the course.",
+    "B": "Unless you had helped me, I wouldn't have failed the course.",
+    "C": "If you didn't help me, I would fail the course.",
+    "D": "If you had helped me, I wouldn't have failed the course."
+   },
+   "answer": "A",
+   "explain": "'Had it not been for…' = If … hadn't … (loại 3, đảo ngữ); câu 'If you didn't help me' là loại 2, sai về thời gian, còn hai câu kia đảo ngược nghĩa."
+  },
+  {
+   "no": 10,
+   "code": "G21",
+   "q": "Chọn câu gần nghĩa nhất với: I'm sorry you told Mai my secret.",
+   "options": {
+    "A": "I'd rather you didn't tell Mai my secret.",
+    "B": "I'd rather not you told Mai my secret.",
+    "C": "I'd rather you hadn't told Mai my secret.",
+    "D": "I'd rather you don't tell Mai my secret."
+   },
+   "answer": "C",
+   "explain": "Việc đã xảy ra → would rather + S + had V3; 'didn't tell' là mong muốn cho hiện tại/tương lai nên không cùng nghĩa."
+  }
+ ]
+}

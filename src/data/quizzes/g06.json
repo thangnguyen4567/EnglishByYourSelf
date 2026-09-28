@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G06",
+   "q": "My parents ___ in this house since 1995.",
+   "options": {
+    "A": "live",
+    "B": "have lived",
+    "C": "lived",
+    "D": "are living"
+   },
+   "answer": "B",
+   "explain": "'since 1995' → hành động kéo dài từ quá khứ đến nay → hiện tại hoàn thành: have lived."
+  },
+  {
+   "no": 2,
+   "code": "G06",
+   "q": "She ___ never eaten durian.",
+   "options": {
+    "A": "have",
+    "B": "is",
+    "C": "did",
+    "D": "has"
+   },
+   "answer": "D",
+   "explain": "Hiện tại hoàn thành: has/have + V3; chủ ngữ 'She' ngôi 3 số ít → has."
+  },
+  {
+   "no": 3,
+   "code": "G06",
+   "q": "___ you ever been to Japan?",
+   "options": {
+    "A": "Did",
+    "B": "Are",
+    "C": "Have",
+    "D": "Has"
+   },
+   "answer": "C",
+   "explain": "Câu hỏi kinh nghiệm với 'ever' + V3 'been' → Have + you + V3."
+  },
+  {
+   "no": 4,
+   "code": "G06",
+   "q": "They have ___ their new flat already.",
+   "options": {
+    "A": "paint",
+    "B": "painting",
+    "C": "paints",
+    "D": "painted"
+   },
+   "answer": "D",
+   "explain": "Sau have/has phải là V3 → painted."
+  },
+  {
+   "no": 5,
+   "code": "G06",
+   "q": "I have known Minh ___ ten years.",
+   "options": {
+    "A": "for",
+    "B": "since",
+    "C": "ago",
+    "D": "in"
+   },
+   "answer": "A",
+   "explain": "'ten years' là khoảng thời gian → dùng for."
+  },
+  {
+   "no": 6,
+   "code": "G06",
+   "q": "We haven't seen each other ___ last Christmas.",
+   "options": {
+    "A": "for",
+    "B": "since",
+    "C": "ago",
+    "D": "before"
+   },
+   "answer": "B",
+   "explain": "'last Christmas' là mốc thời gian bắt đầu → dùng since."
+  },
+  {
+   "no": 7,
+   "code": "G06",
+   "q": "Tom has ___ his wallet, so he can't pay for lunch.",
+   "options": {
+    "A": "losing",
+    "B": "lose",
+    "C": "lost",
+    "D": "loses"
+   },
+   "answer": "C",
+   "explain": "Kết quả còn ở hiện tại (không trả tiền được) → has + V3: lost."
+  },
+  {
+   "no": 8,
+   "code": "G06",
+   "q": "The film has ___ started. Hurry up!",
+   "options": {
+    "A": "yet",
+    "B": "ever",
+    "C": "since",
+    "D": "just"
+   },
+   "answer": "D",
+   "explain": "'just' (vừa mới) đứng giữa has và V3 trong câu khẳng định."
+  },
+  {
+   "no": 9,
+   "code": "G06",
+   "q": "I have ___ this novel twice.",
+   "options": {
+    "A": "read",
+    "B": "reading",
+    "C": "reads",
+    "D": "to read"
+   },
+   "answer": "A",
+   "explain": "have + V3; V3 của read là read (đọc là /red/)."
+  },
+  {
+   "no": 10,
+   "code": "G06",
+   "q": "Prices ___ gone up a lot this year.",
+   "options": {
+    "A": "has",
+    "B": "have",
+    "C": "having",
+    "D": "is"
+   },
+   "answer": "B",
+   "explain": "Chủ ngữ 'Prices' số nhiều → have + V3 (gone)."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G06",
+   "q": "I ___ a word from him since he moved to Canada.",
+   "options": {
+    "A": "didn't hear",
+    "B": "don't hear",
+    "C": "haven't heard",
+    "D": "wasn't hearing"
+   },
+   "answer": "C",
+   "explain": "'since he moved…' → kéo dài đến nay → hiện tại hoàn thành phủ định; 'didn't hear' là quá khứ đơn, không đi với since + mốc đến hiện tại."
+  },
+  {
+   "no": 2,
+   "code": "G06",
+   "q": "How long ___ you had this laptop?",
+   "options": {
+    "A": "did",
+    "B": "are",
+    "C": "were",
+    "D": "have"
+   },
+   "answer": "D",
+   "explain": "How long + have + S + V3 hỏi thời lượng đến nay; 'did' sai vì sau did phải là nguyên mẫu (have), không phải 'had'."
+  },
+  {
+   "no": 3,
+   "code": "G06",
+   "q": "I ___ Da Lat last spring, and I loved it.",
+   "options": {
+    "A": "visited",
+    "B": "have visited",
+    "C": "have been visiting",
+    "D": "visit"
+   },
+   "answer": "A",
+   "explain": "'last spring' là thời điểm xác định trong quá khứ → quá khứ đơn; không dùng hiện tại hoàn thành với last…"
+  },
+  {
+   "no": 4,
+   "code": "G06",
+   "q": "This is the most exciting match I ___.",
+   "options": {
+    "A": "ever watch",
+    "B": "have ever watched",
+    "C": "had ever watched",
+    "D": "am ever watching"
+   },
+   "answer": "B",
+   "explain": "Sau so sánh nhất 'the most…' ở hiện tại → have ever + V3; 'had ever watched' sai vì câu đang ở hiện tại (This is)."
+  },
+  {
+   "no": 5,
+   "code": "G06",
+   "q": "Where's Nam? – He ___ to the bank. He'll be back in ten minutes.",
+   "options": {
+    "A": "has been",
+    "B": "had gone",
+    "C": "has gone",
+    "D": "goes"
+   },
+   "answer": "C",
+   "explain": "'has gone' = đã đi và hiện chưa về (sẽ quay lại sau 10 phút); 'has been' nghĩa là đã từng đến và đã quay về."
+  },
+  {
+   "no": 6,
+   "code": "G06",
+   "q": "Nam ___ to Paris twice, so he can show us around the city.",
+   "options": {
+    "A": "has gone",
+    "B": "is going",
+    "C": "goes",
+    "D": "has been"
+   },
+   "answer": "D",
+   "explain": "Kinh nghiệm đã từng đến (và đã về) → has been; 'has gone' nghĩa là đang ở đó, không đi với 'twice'."
+  },
+  {
+   "no": 7,
+   "code": "G06",
+   "q": "Oh no! I ___ my password again, so I can't log in.",
+   "options": {
+    "A": "'ve forgotten",
+    "B": "forget",
+    "C": "'m forgetting",
+    "D": "'d forgotten"
+   },
+   "answer": "A",
+   "explain": "Kết quả còn ở hiện tại (không đăng nhập được) → hiện tại hoàn thành; 'd forgotten' là quá khứ hoàn thành, cần một mốc quá khứ."
+  },
+  {
+   "no": 8,
+   "code": "G06",
+   "q": "She hasn't called me ___ two weeks.",
+   "options": {
+    "A": "since",
+    "B": "for",
+    "C": "ago",
+    "D": "until"
+   },
+   "answer": "B",
+   "explain": "'two weeks' là khoảng thời gian → for; since chỉ đi với mốc (since Monday)."
+  },
+  {
+   "no": 9,
+   "code": "G06",
+   "q": "It's three years since I ___ my grandparents.",
+   "options": {
+    "A": "see",
+    "B": "have last seen",
+    "C": "last saw",
+    "D": "was seeing"
+   },
+   "answer": "C",
+   "explain": "Cấu trúc It's + khoảng thời gian + since + quá khứ đơn → last saw; 'see' (hiện tại đơn) sai thì, 'have last seen' sai vì 'last' + mốc đã qua đi với quá khứ đơn, 'was seeing' dùng tiếp diễn cho động từ trạng thái."
+  },
+  {
+   "no": 10,
+   "code": "G06",
+   "q": "___ your brother ever ___ abroad?",
+   "options": {
+    "A": "Did / worked",
+    "B": "Has / work",
+    "C": "Have / worked",
+    "D": "Has / worked"
+   },
+   "answer": "D",
+   "explain": "'your brother' số ít → Has + S + V3 (worked); 'Did' phải đi với nguyên mẫu, 'Have' không hợp với chủ ngữ số ít."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G06",
+   "q": "Tìm lỗi sai: Lan (A) has worked (B) as a nurse (C) since (D) five years.",
+   "options": {
+    "A": "has worked",
+    "B": "as a nurse",
+    "C": "since",
+    "D": "five years"
+   },
+   "answer": "C",
+   "explain": "'five years' là khoảng thời gian → phải dùng for, không dùng since."
+  },
+  {
+   "no": 2,
+   "code": "G06",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "She has written two novels so far.",
+    "B": "When have you arrived in Hanoi?",
+    "C": "I've lived here since three years.",
+    "D": "He has went home already."
+   },
+   "answer": "A",
+   "explain": "'so far' + has written là đúng; câu hỏi When phải dùng quá khứ đơn, 'since three years' phải là 'for', 'went' phải là V3 'gone'."
+  },
+  {
+   "no": 3,
+   "code": "G06",
+   "q": "Chọn câu gần nghĩa nhất với: I haven't seen Lan for a month.",
+   "options": {
+    "A": "I saw Lan for a month.",
+    "B": "The last time I saw Lan was a month ago.",
+    "C": "I didn't see Lan a month ago.",
+    "D": "I have seen Lan for a month."
+   },
+   "answer": "B",
+   "explain": "Chưa gặp Lan một tháng nay = lần cuối gặp là một tháng trước; các câu còn lại sai nghĩa hoặc sai cấu trúc."
+  },
+  {
+   "no": 4,
+   "code": "G06",
+   "q": "Chọn câu gần nghĩa nhất với: This is the first time I have eaten sushi.",
+   "options": {
+    "A": "I have eaten sushi many times.",
+    "B": "I ate sushi for the first time last year.",
+    "C": "I have never eaten sushi before.",
+    "D": "I have eaten sushi once before."
+   },
+   "answer": "C",
+   "explain": "'the first time' = trước đây chưa bao giờ ăn → have never eaten … before; 'last year' làm sai thời điểm (lần đầu là bây giờ)."
+  },
+  {
+   "no": 5,
+   "code": "G06",
+   "q": "Mozart ___ more than 600 pieces of music.",
+   "options": {
+    "A": "has written",
+    "B": "has been writing",
+    "C": "writes",
+    "D": "wrote"
+   },
+   "answer": "D",
+   "explain": "Mozart đã mất, giai đoạn sáng tác đã kết thúc → quá khứ đơn; hiện tại hoàn thành chỉ dùng cho người còn sống, còn khả năng lặp lại."
+  },
+  {
+   "no": 6,
+   "code": "G06",
+   "q": "Tìm lỗi sai: My sister (A) has bought (B) a new laptop (C) two weeks (D) ago, and she loves it.",
+   "options": {
+    "A": "has bought",
+    "B": "a new laptop",
+    "C": "two weeks",
+    "D": "ago"
+   },
+   "answer": "A",
+   "explain": "'two weeks ago' là thời điểm xác định → phải dùng quá khứ đơn 'bought', không dùng has bought."
+  },
+  {
+   "no": 7,
+   "code": "G06",
+   "q": "So far this year, the company ___ three new branches, and it plans to open another one in December.",
+   "options": {
+    "A": "has opened",
+    "B": "opened",
+    "C": "had opened",
+    "D": "was opening"
+   },
+   "answer": "A",
+   "explain": "'So far this year' = tính đến nay, khoảng thời gian chưa kết thúc → hiện tại hoàn thành; 'had opened' cần mốc quá khứ."
+  },
+  {
+   "no": 8,
+   "code": "G06",
+   "q": "A: Have you seen the new Marvel film? – B: Yes, I ___ it on Saturday with my cousins.",
+   "options": {
+    "A": "have seen",
+    "B": "saw",
+    "C": "had seen",
+    "D": "see"
+   },
+   "answer": "B",
+   "explain": "Câu trả lời nêu thời điểm cụ thể 'on Saturday' → quá khứ đơn; câu hỏi dùng HTHT vì chưa nói thời điểm."
+  },
+  {
+   "no": 9,
+   "code": "G06",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "He's gone to the gym, so he isn't home.",
+    "B": "I've known her since we were at school.",
+    "C": "She has finished the report two hours ago.",
+    "D": "How long have you had this car?"
+   },
+   "answer": "C",
+   "explain": "'two hours ago' là thời điểm xác định → phải dùng quá khứ đơn 'finished'; ba câu kia đều đúng."
+  },
+  {
+   "no": 10,
+   "code": "G06",
+   "q": "It's the second time you ___ late this week!",
+   "options": {
+    "A": "were",
+    "B": "are",
+    "C": "had been",
+    "D": "have been"
+   },
+   "answer": "D",
+   "explain": "Sau 'It's the first/second time' dùng hiện tại hoàn thành → have been; 'had been' chỉ dùng khi câu ở quá khứ (It was…)."
+  }
+ ]
+}

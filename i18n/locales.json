@@ -1,0 +1,7 @@
+{
+  "defaultLocale": "vi",
+  "locales": {
+    "vi": {"label": "Tiếng Việt", "htmlLang": "vi-VN"},
+    "en": {"label": "English", "htmlLang": "en-US"}
+  }
+}

@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G24",
+   "q": "___ it was cold, she didn't wear a coat.",
+   "options": {
+    "A": "So",
+    "B": "Despite",
+    "C": "Because of",
+    "D": "Although"
+   },
+   "answer": "D",
+   "explain": "Hai vế trái ngược, sau chỗ trống là mệnh đề 'it was cold' → Although."
+  },
+  {
+   "no": 2,
+   "code": "G24",
+   "q": "The flight was cancelled ___ the storm.",
+   "options": {
+    "A": "so",
+    "B": "although",
+    "C": "because of",
+    "D": "because"
+   },
+   "answer": "C",
+   "explain": "Sau chỗ trống là cụm danh từ 'the storm' → because of."
+  },
+  {
+   "no": 3,
+   "code": "G24",
+   "q": "He was hungry, ___ he made a sandwich.",
+   "options": {
+    "A": "although",
+    "B": "because",
+    "C": "but",
+    "D": "so"
+   },
+   "answer": "D",
+   "explain": "Vế sau là kết quả của vế trước → so."
+  },
+  {
+   "no": 4,
+   "code": "G24",
+   "q": "She is saving money ___ buy a new phone.",
+   "options": {
+    "A": "in order to",
+    "B": "so that",
+    "C": "despite",
+    "D": "because"
+   },
+   "answer": "A",
+   "explain": "Chỉ mục đích, sau chỗ trống là động từ nguyên mẫu 'buy' → in order to."
+  },
+  {
+   "no": 5,
+   "code": "G24",
+   "q": "The soup was ___ hot that I couldn't eat it.",
+   "options": {
+    "A": "too",
+    "B": "so",
+    "C": "such",
+    "D": "very"
+   },
+   "answer": "B",
+   "explain": "so + tính từ + that → so hot that."
+  },
+  {
+   "no": 6,
+   "code": "G24",
+   "q": "They are ___ friendly people that everyone likes them.",
+   "options": {
+    "A": "so",
+    "B": "too",
+    "C": "such",
+    "D": "such a"
+   },
+   "answer": "C",
+   "explain": "such + (adj) + danh từ số nhiều 'people' + that → such (không có 'a')."
+  },
+  {
+   "no": 7,
+   "code": "G24",
+   "q": "___ the traffic jam, we arrived on time.",
+   "options": {
+    "A": "Although",
+    "B": "In spite of",
+    "C": "However",
+    "D": "Because"
+   },
+   "answer": "B",
+   "explain": "Sau chỗ trống là cụm danh từ 'the traffic jam', ý tương phản → In spite of."
+  },
+  {
+   "no": 8,
+   "code": "G24",
+   "q": "I stayed at home yesterday ___ I was ill.",
+   "options": {
+    "A": "because",
+    "B": "because of",
+    "C": "so",
+    "D": "despite"
+   },
+   "answer": "A",
+   "explain": "Sau chỗ trống là mệnh đề 'I was ill', chỉ lý do → because."
+  },
+  {
+   "no": 9,
+   "code": "G24",
+   "q": "The hotel was cheap. ___, it was close to the beach.",
+   "options": {
+    "A": "Therefore",
+    "B": "Although",
+    "C": "However",
+    "D": "Moreover"
+   },
+   "answer": "D",
+   "explain": "Hai ý đều là ưu điểm → bổ sung thông tin → Moreover."
+  },
+  {
+   "no": 10,
+   "code": "G24",
+   "q": "Take an umbrella ___ it rains.",
+   "options": {
+    "A": "so",
+    "B": "although",
+    "C": "in case",
+    "D": "unless"
+   },
+   "answer": "C",
+   "explain": "Phòng khi điều gì xảy ra → in case."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G24",
+   "q": "___ the fact that he was injured, he finished the race.",
+   "options": {
+    "A": "Although",
+    "B": "Even though",
+    "C": "Because of",
+    "D": "Despite"
+   },
+   "answer": "D",
+   "explain": "Sau chỗ trống là 'the fact that…' (cụm danh từ) → Despite; 'Although' phải đi trực tiếp với mệnh đề."
+  },
+  {
+   "no": 2,
+   "code": "G24",
+   "q": "She speaks quietly ___ she won't wake the baby.",
+   "options": {
+    "A": "so that",
+    "B": "in order to",
+    "C": "because of",
+    "D": "such that"
+   },
+   "answer": "A",
+   "explain": "Chỉ mục đích, sau chỗ trống là mệnh đề 'she won't wake' → so that; 'in order to' phải đi với V nguyên mẫu."
+  },
+  {
+   "no": 3,
+   "code": "G24",
+   "q": "It rained heavily all morning; ___, the football match was postponed.",
+   "options": {
+    "A": "however",
+    "B": "therefore",
+    "C": "although",
+    "D": "despite"
+   },
+   "answer": "B",
+   "explain": "Vế sau là kết quả, có dấu chấm phẩy trước và dấu phẩy sau → trạng từ liên kết therefore; 'however' chỉ tương phản."
+  },
+  {
+   "no": 4,
+   "code": "G24",
+   "q": "___ his lack of experience, he got the job.",
+   "options": {
+    "A": "Because",
+    "B": "In spite",
+    "C": "In spite of",
+    "D": "Even though"
+   },
+   "answer": "C",
+   "explain": "Cụm danh từ 'his lack of experience' + ý tương phản → In spite of; 'In spite' thiếu 'of'."
+  },
+  {
+   "no": 5,
+   "code": "G24",
+   "q": "My brother loves action films, ___ I prefer comedies.",
+   "options": {
+    "A": "despite",
+    "B": "so",
+    "C": "whereas",
+    "D": "because"
+   },
+   "answer": "C",
+   "explain": "So sánh hai sự việc đối lập → whereas; 'despite' không đi với mệnh đề."
+  },
+  {
+   "no": 6,
+   "code": "G24",
+   "q": "Neither my parents nor my sister ___ coffee.",
+   "options": {
+    "A": "are liking",
+    "B": "like",
+    "C": "liking",
+    "D": "likes"
+   },
+   "answer": "D",
+   "explain": "neither A nor B → động từ chia theo B 'my sister' (số ít) → likes."
+  },
+  {
+   "no": 7,
+   "code": "G24",
+   "q": "The test was ___ difficult for most students to finish on time.",
+   "options": {
+    "A": "too",
+    "B": "enough",
+    "C": "so",
+    "D": "such"
+   },
+   "answer": "A",
+   "explain": "too + adj + for sb + to V → quá … đến nỗi không thể; 'so' cần đi với 'that'."
+  },
+  {
+   "no": 8,
+   "code": "G24",
+   "q": "He left home early ___ miss the train.",
+   "options": {
+    "A": "for not to",
+    "B": "in order not to",
+    "C": "so that not",
+    "D": "not to in order"
+   },
+   "answer": "B",
+   "explain": "Mục đích phủ định → in order not to + V; 'so that' phải đi với mệnh đề (so that he wouldn't miss)."
+  },
+  {
+   "no": 9,
+   "code": "G24",
+   "q": "We couldn't go out ___ the heavy snow.",
+   "options": {
+    "A": "due to",
+    "B": "because",
+    "C": "although",
+    "D": "since"
+   },
+   "answer": "A",
+   "explain": "Sau chỗ trống là cụm danh từ 'the heavy snow' → due to; 'because' và 'since' cần mệnh đề."
+  },
+  {
+   "no": 10,
+   "code": "G24",
+   "q": "___ he is very rich, he lives in a small house.",
+   "options": {
+    "A": "However",
+    "B": "Because",
+    "C": "Despite",
+    "D": "Even though"
+   },
+   "answer": "D",
+   "explain": "Tương phản, sau chỗ trống là mệnh đề → Even though; 'Despite' không đi với mệnh đề, 'However' không nối mệnh đề phụ."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G24",
+   "q": "Tìm lỗi sai: Although she was (A) exhausted, (B) but she (C) kept working (D) until midnight.",
+   "options": {
+    "A": "exhausted",
+    "B": "but",
+    "C": "kept working",
+    "D": "until midnight"
+   },
+   "answer": "B",
+   "explain": "Although và but không dùng cùng lúc trong một câu → bỏ 'but' (Although she was exhausted, she kept working…)."
+  },
+  {
+   "no": 2,
+   "code": "G24",
+   "q": "Tìm lỗi sai: (A) Despite of the bad weather, the concert (B) went ahead (C) as (D) planned.",
+   "options": {
+    "A": "Despite of",
+    "B": "went ahead",
+    "C": "as",
+    "D": "planned"
+   },
+   "answer": "A",
+   "explain": "'Despite' không có 'of' → Despite the bad weather (hoặc In spite of)."
+  },
+  {
+   "no": 3,
+   "code": "G24",
+   "q": "Chọn câu gần nghĩa nhất với: Although the room was small, it was comfortable.",
+   "options": {
+    "A": "Despite small room, it was comfortable.",
+    "B": "Despite its small size, the room was comfortable.",
+    "C": "In spite of the room was small, it was comfortable.",
+    "D": "Because of the room was small, it was comfortable."
+   },
+   "answer": "B",
+   "explain": "Although + mệnh đề ↔ Despite + cụm danh từ 'its small size'; 'In spite of' không đi với mệnh đề."
+  },
+  {
+   "no": 4,
+   "code": "G24",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "However it was late, we continued working.",
+    "B": "It was late, however we continued working.",
+    "C": "It was late. However, we continued working.",
+    "D": "It was late, however, we continued working."
+   },
+   "answer": "C",
+   "explain": "However là trạng từ liên kết: đứng đầu câu mới (hoặc sau dấu chấm phẩy) và có dấu phẩy sau; không nối hai mệnh đề bằng dấu phẩy."
+  },
+  {
+   "no": 5,
+   "code": "G24",
+   "q": "Chọn câu gần nghĩa nhất với: The box was so heavy that I couldn't lift it.",
+   "options": {
+    "A": "It was so a heavy box that I couldn't lift it.",
+    "B": "The box was too heavy for me to lift it.",
+    "C": "The box wasn't heavy enough for me to lift.",
+    "D": "It was such a heavy box that I couldn't lift it."
+   },
+   "answer": "D",
+   "explain": "such + a + adj + N + that giữ nguyên nghĩa; 'too heavy for me to lift it' thừa 'it' vì chủ ngữ đã là 'the box'."
+  },
+  {
+   "no": 6,
+   "code": "G24",
+   "q": "Not only ___ the exam, but she also got the highest score in her class.",
+   "options": {
+    "A": "passed she",
+    "B": "she passed",
+    "C": "did she pass",
+    "D": "she did pass"
+   },
+   "answer": "C",
+   "explain": "Not only đứng đầu câu → đảo trợ động từ: did she pass."
+  },
+  {
+   "no": 7,
+   "code": "G24",
+   "q": "He studied very hard; ___, he didn't pass the final exam.",
+   "options": {
+    "A": "nevertheless",
+    "B": "moreover",
+    "C": "therefore",
+    "D": "as a result"
+   },
+   "answer": "A",
+   "explain": "Hai vế trái ngược (học chăm nhưng vẫn trượt) → nevertheless; 'therefore / as a result' chỉ kết quả nên sai nghĩa."
+  },
+  {
+   "no": 8,
+   "code": "G24",
+   "q": "Chọn câu gần nghĩa nhất với: He was ill. He still went to work.",
+   "options": {
+    "A": "Despite he was ill, he went to work.",
+    "B": "In spite of being ill, he went to work.",
+    "C": "He was ill, so he went to work.",
+    "D": "Because of being ill, he went to work."
+   },
+   "answer": "B",
+   "explain": "Ý tương phản → In spite of + V-ing; 'Despite he was ill' sai vì despite không đi với mệnh đề."
+  },
+  {
+   "no": 9,
+   "code": "G24",
+   "q": "You can borrow my car ___ you drive carefully.",
+   "options": {
+    "A": "in case",
+    "B": "as long as",
+    "C": "even though",
+    "D": "unless"
+   },
+   "answer": "B",
+   "explain": "Điều kiện 'miễn là' → as long as; 'unless' (trừ khi) làm ngược nghĩa."
+  },
+  {
+   "no": 10,
+   "code": "G24",
+   "q": "Chọn câu gần nghĩa nhất với: The match was cancelled because it rained heavily.",
+   "options": {
+    "A": "The match was cancelled because the heavy rain.",
+    "B": "The match was cancelled because of it rained heavily.",
+    "C": "The match was cancelled due to it rained heavily.",
+    "D": "The match was cancelled because of the heavy rain."
+   },
+   "answer": "D",
+   "explain": "because + mệnh đề ↔ because of + cụm danh từ 'the heavy rain'; 'due to / because of' không đi với mệnh đề."
+  }
+ ]
+}

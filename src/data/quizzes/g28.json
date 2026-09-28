@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G28",
+   "q": "Rarely ___ on weekends.",
+   "options": {
+    "A": "does he work",
+    "B": "he works",
+    "C": "he does work",
+    "D": "works he"
+   },
+   "answer": "A",
+   "explain": "Rarely đứng đầu câu → đảo ngữ, câu gốc không có trợ động từ nên mượn does: Rarely does he work."
+  },
+  {
+   "no": 2,
+   "code": "G28",
+   "q": "Seldom ___ such delicious food.",
+   "options": {
+    "A": "I have tasted",
+    "B": "I tasted",
+    "C": "tasted I",
+    "D": "have I tasted"
+   },
+   "answer": "D",
+   "explain": "Seldom đầu câu → trợ động từ đứng trước chủ ngữ: Seldom have I tasted."
+  },
+  {
+   "no": 3,
+   "code": "G28",
+   "q": "No sooner had we arrived ___ it started to snow.",
+   "options": {
+    "A": "when",
+    "B": "then",
+    "C": "than",
+    "D": "that"
+   },
+   "answer": "C",
+   "explain": "Cặp cố định: No sooner … than."
+  },
+  {
+   "no": 4,
+   "code": "G28",
+   "q": "Hardly had the film started ___ the lights went out.",
+   "options": {
+    "A": "than",
+    "B": "then",
+    "C": "so",
+    "D": "when"
+   },
+   "answer": "D",
+   "explain": "Cặp cố định: Hardly … when."
+  },
+  {
+   "no": 5,
+   "code": "G28",
+   "q": "___ I you, I would apologise to her.",
+   "options": {
+    "A": "Were",
+    "B": "Was",
+    "C": "Am",
+    "D": "Had"
+   },
+   "answer": "A",
+   "explain": "Đảo ngữ điều kiện loại 2 với be → Were I you = If I were you."
+  },
+  {
+   "no": 6,
+   "code": "G28",
+   "q": "Under no circumstances ___ open this door.",
+   "options": {
+    "A": "you should",
+    "B": "should you",
+    "C": "you do",
+    "D": "do you should"
+   },
+   "answer": "B",
+   "explain": "Under no circumstances đầu câu → đảo trợ động từ: should you open."
+  },
+  {
+   "no": 7,
+   "code": "G28",
+   "q": "___ I known about the problem, I would have helped.",
+   "options": {
+    "A": "Have",
+    "B": "If had",
+    "C": "Had",
+    "D": "Did"
+   },
+   "answer": "C",
+   "explain": "Điều kiện loại 3 đảo ngữ: Had + S + V3 = If I had known."
+  },
+  {
+   "no": 8,
+   "code": "G28",
+   "q": "Little ___ that his life was about to change.",
+   "options": {
+    "A": "he knew",
+    "B": "he did know",
+    "C": "knew he",
+    "D": "did he know"
+   },
+   "answer": "D",
+   "explain": "Little đầu câu → đảo, mượn did + V nguyên mẫu: Little did he know."
+  },
+  {
+   "no": 9,
+   "code": "G28",
+   "q": "I don't eat seafood. – Neither ___ I.",
+   "options": {
+    "A": "do",
+    "B": "am",
+    "C": "does",
+    "D": "don't"
+   },
+   "answer": "A",
+   "explain": "Câu trước dùng 'don't eat' (hiện tại đơn) → Neither do I."
+  },
+  {
+   "no": 10,
+   "code": "G28",
+   "q": "Not only ___ beautiful, but she is also very kind.",
+   "options": {
+    "A": "she is",
+    "B": "is she",
+    "C": "does she",
+    "D": "she does"
+   },
+   "answer": "B",
+   "explain": "Not only đầu câu → đảo be lên trước chủ ngữ: is she."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G28",
+   "q": "Not until I got home ___ that my keys were missing.",
+   "options": {
+    "A": "I realised",
+    "B": "I did realise",
+    "C": "did I realise",
+    "D": "realised I"
+   },
+   "answer": "C",
+   "explain": "Not until + mệnh đề: chỉ mệnh đề chính đảo → did I realise. 'I realised' giữ trật tự thường nên sai."
+  },
+  {
+   "no": 2,
+   "code": "G28",
+   "q": "Only after the meeting ___ the new plan to us.",
+   "options": {
+    "A": "the manager explained",
+    "B": "explained the manager",
+    "C": "the manager did explain",
+    "D": "did the manager explain"
+   },
+   "answer": "D",
+   "explain": "Only after + cụm từ đầu câu → đảo trợ động từ: did the manager explain. Không đảo động từ chính như 'explained the manager'."
+  },
+  {
+   "no": 3,
+   "code": "G28",
+   "q": "No sooner ___ the phone than it rang again.",
+   "options": {
+    "A": "had I put down",
+    "B": "I had put down",
+    "C": "I put down",
+    "D": "put I down"
+   },
+   "answer": "A",
+   "explain": "No sooner + had + S + V3 + than. 'I had put down' quên đảo trợ động từ."
+  },
+  {
+   "no": 4,
+   "code": "G28",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "Only does John know the answer.",
+    "B": "Only John knows the answer.",
+    "C": "Never I have seen such a mess.",
+    "D": "Rarely he goes out at night."
+   },
+   "answer": "B",
+   "explain": "Only đi với chủ ngữ thì không đảo → Only John knows. Hai câu Never/Rarely thiếu đảo ngữ."
+  },
+  {
+   "no": 5,
+   "code": "G28",
+   "q": "Not only ___ late, but he also forgot his laptop.",
+   "options": {
+    "A": "he arrived",
+    "B": "arrived he",
+    "C": "did he arrive",
+    "D": "he did arrive"
+   },
+   "answer": "C",
+   "explain": "Not only đầu câu + động từ thường ở quá khứ → mượn did: did he arrive."
+  },
+  {
+   "no": 6,
+   "code": "G28",
+   "q": "___ it rain tomorrow, the match will be postponed.",
+   "options": {
+    "A": "Did",
+    "B": "Had",
+    "C": "Would",
+    "D": "Should"
+   },
+   "answer": "D",
+   "explain": "Đảo ngữ điều kiện loại 1: Should + S + V = If it rains. 'Had/Did' sai vì theo sau là V nguyên mẫu và mệnh đề chính dùng 'will'."
+  },
+  {
+   "no": 7,
+   "code": "G28",
+   "q": "Scarcely ___ the house when it began to pour.",
+   "options": {
+    "A": "had we left",
+    "B": "we had left",
+    "C": "we left",
+    "D": "left we"
+   },
+   "answer": "A",
+   "explain": "Scarcely + had + S + V3 + when. 'we had left' không đảo nên sai."
+  },
+  {
+   "no": 8,
+   "code": "G28",
+   "q": "Tìm lỗi sai: (A) Rarely (B) we have seen (C) such a talented (D) young player.",
+   "options": {
+    "A": "Rarely",
+    "B": "we have seen",
+    "C": "such a talented",
+    "D": "young player"
+   },
+   "answer": "B",
+   "explain": "Rarely đầu câu phải đảo → have we seen."
+  },
+  {
+   "no": 9,
+   "code": "G28",
+   "q": "Chọn câu gần nghĩa nhất với: 'If he had listened to my advice, he wouldn't have lost his money.'",
+   "options": {
+    "A": "Had he listen to my advice, he wouldn't have lost his money.",
+    "B": "Had he listened to my advice, he wouldn't have lost his money.",
+    "C": "Did he listen to my advice, he wouldn't have lost his money.",
+    "D": "If had he listened to my advice, he wouldn't have lost his money."
+   },
+   "answer": "B",
+   "explain": "Điều kiện loại 3 đảo ngữ: bỏ if, Had + S + V3. Không giữ 'if' khi đã đảo, và không dùng 'Did'."
+  },
+  {
+   "no": 10,
+   "code": "G28",
+   "q": "She has already finished the course. – So ___ I.",
+   "options": {
+    "A": "do",
+    "B": "am",
+    "C": "have",
+    "D": "did"
+   },
+   "answer": "C",
+   "explain": "Câu trước dùng 'has finished' (trợ động từ have) → So have I. 'So do I' sai vì không khớp trợ động từ."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G28",
+   "q": "Tìm lỗi sai: No sooner (A) had the guests (B) arrived (C) when the (D) power went out.",
+   "options": {
+    "A": "had the guests",
+    "B": "arrived",
+    "C": "when",
+    "D": "power went out"
+   },
+   "answer": "C",
+   "explain": "No sooner đi với than, không đi với when → 'than the power went out'. 'when' chỉ dùng với Hardly/Scarcely."
+  },
+  {
+   "no": 2,
+   "code": "G28",
+   "q": "Chọn câu gần nghĩa nhất với: 'I only realised how important my family was when I moved abroad.'",
+   "options": {
+    "A": "Only when did I move abroad I realised how important my family was.",
+    "B": "Only when I moved abroad I realised how important my family was.",
+    "C": "Not until did I move abroad I realised how important my family was.",
+    "D": "Only when I moved abroad did I realise how important my family was."
+   },
+   "answer": "D",
+   "explain": "Only when + mệnh đề: mệnh đề phụ giữ nguyên, chỉ mệnh đề chính đảo → did I realise. Đảo ở mệnh đề phụ là sai."
+  },
+  {
+   "no": 3,
+   "code": "G28",
+   "q": "Chọn câu SAI ngữ pháp:",
+   "options": {
+    "A": "Hadn't I seen it myself, I wouldn't have believed it.",
+    "B": "Had I not seen it myself, I wouldn't have believed it.",
+    "C": "Were she to find out, she would be furious.",
+    "D": "Should you change your mind, let me know."
+   },
+   "answer": "A",
+   "explain": "Đảo ngữ điều kiện không viết tắt phủ định → phải là 'Had I not seen'. Các câu còn lại là đảo ngữ đúng."
+  },
+  {
+   "no": 4,
+   "code": "G28",
+   "q": "Chọn câu gần nghĩa nhất với: 'As soon as she sat down, the phone rang.'",
+   "options": {
+    "A": "Hardly had she sat down than the phone rang.",
+    "B": "Hardly had she sat down when the phone rang.",
+    "C": "No sooner she had sat down than the phone rang.",
+    "D": "Hardly did she sat down when the phone rang."
+   },
+   "answer": "B",
+   "explain": "Hardly + had + S + V3 + when. Hardly không đi với than; 'No sooner she had' quên đảo; 'did she sat' sai dạng V."
+  },
+  {
+   "no": 5,
+   "code": "G28",
+   "q": "So difficult ___ that only a few students passed.",
+   "options": {
+    "A": "the exam was",
+    "B": "did the exam",
+    "C": "was the exam",
+    "D": "the exam did"
+   },
+   "answer": "C",
+   "explain": "So + adj + be + S + that → So difficult was the exam. Tính từ đi với be, không mượn did."
+  },
+  {
+   "no": 6,
+   "code": "G28",
+   "q": "At no time ___ that the company was in financial trouble.",
+   "options": {
+    "A": "the employees were told",
+    "B": "did the employees told",
+    "C": "were told the employees",
+    "D": "were the employees told"
+   },
+   "answer": "D",
+   "explain": "At no time đầu câu → đảo trợ động từ 'were' lên trước chủ ngữ: were the employees told. 'did … told' sai vì sau did phải là V nguyên mẫu."
+  },
+  {
+   "no": 7,
+   "code": "G28",
+   "q": "Only by saving regularly ___ enough money for a house.",
+   "options": {
+    "A": "can you collect",
+    "B": "you can collect",
+    "C": "you collect",
+    "D": "can collect you"
+   },
+   "answer": "A",
+   "explain": "Only by + V-ing đầu câu → đảo ở mệnh đề chính: can you collect."
+  },
+  {
+   "no": 8,
+   "code": "G28",
+   "q": "Tìm lỗi sai: Little (A) did she (B) knew (C) that her friends (D) were planning a surprise party.",
+   "options": {
+    "A": "did she",
+    "B": "knew",
+    "C": "that her friends",
+    "D": "were planning"
+   },
+   "answer": "B",
+   "explain": "Sau did phải dùng V nguyên mẫu → did she know. Đảo 'did she' là đúng."
+  },
+  {
+   "no": 9,
+   "code": "G28",
+   "q": "Chọn câu gần nghĩa nhất với: 'If you should see Mai, please give her this letter.'",
+   "options": {
+    "A": "Should you saw Mai, please give her this letter.",
+    "B": "Should you see Mai, please give her this letter.",
+    "C": "Were you see Mai, please give her this letter.",
+    "D": "Had you see Mai, please give her this letter."
+   },
+   "answer": "B",
+   "explain": "If you should + V → Should you + V nguyên mẫu. Were/Had không đi với V nguyên mẫu 'see'."
+  },
+  {
+   "no": 10,
+   "code": "G28",
+   "q": "Câu nào dưới đây ĐÚNG ngữ pháp?",
+   "options": {
+    "A": "Not only she won the race, but she also broke the record.",
+    "B": "Not only did she won the race, but she also broke the record.",
+    "C": "Not only did she win the race, but she also broke the record.",
+    "D": "Not only won she the race, but she also broke the record."
+   },
+   "answer": "C",
+   "explain": "Not only + did + S + V nguyên mẫu → did she win. Các phương án khác quên đảo, sai dạng V sau did, hoặc đảo động từ chính."
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "I'm going to have my car ___ this weekend.",
+      "options": {
+        "A": "serviced",
+        "B": "service",
+        "C": "servicing",
+        "D": "to service"
+      },
+      "answer": "A",
+      "explain": "have + vật + V3 → have my car serviced (đem xe đi bảo dưỡng)."
+    },
+    {
+      "q": "My mother made me ___ my room before going out.",
+      "options": {
+        "A": "to tidy",
+        "B": "tidied",
+        "C": "tidy",
+        "D": "tidying"
+      },
+      "answer": "C",
+      "explain": "make + sb + V nguyên mẫu (không to) → made me tidy."
+    },
+    {
+      "q": "I got my brother ___ me with my homework.",
+      "options": {
+        "A": "help",
+        "B": "helped",
+        "C": "helping",
+        "D": "to help"
+      },
+      "answer": "D",
+      "explain": "get + sb + to V → got my brother to help."
+    },
+    {
+      "q": "Our teacher let us ___ home early on Friday.",
+      "options": {
+        "A": "to go",
+        "B": "going",
+        "C": "went",
+        "D": "go"
+      },
+      "answer": "D",
+      "explain": "let + sb + V nguyên mẫu → let us go."
+    },
+    {
+      "q": "She had her nails ___ at a salon for the wedding.",
+      "options": {
+        "A": "done",
+        "B": "do",
+        "C": "doing",
+        "D": "to do"
+      },
+      "answer": "A",
+      "explain": "have + vật + V3 → had her nails done (đi làm móng)."
+    },
+    {
+      "q": "The manager had his secretary ___ the meeting room.",
+      "options": {
+        "A": "to book",
+        "B": "booked",
+        "C": "book",
+        "D": "booking"
+      },
+      "answer": "C",
+      "explain": "have + người + V nguyên mẫu → had his secretary book."
+    },
+    {
+      "q": "Where do you usually ___ your hair cut?",
+      "options": {
+        "A": "make",
+        "B": "let",
+        "C": "have",
+        "D": "do"
+      },
+      "answer": "C",
+      "explain": "have + sth + V3 (dịch vụ) → have your hair cut; make/let không đi với vật + V3."
+    },
+    {
+      "q": "He had his wallet ___ on the crowded bus.",
+      "options": {
+        "A": "steal",
+        "B": "stole",
+        "C": "stealing",
+        "D": "stolen"
+      },
+      "answer": "D",
+      "explain": "Chuyện không may: have + sth + V3 → had his wallet stolen."
+    },
+    {
+      "q": "Onions always make my eyes ___.",
+      "options": {
+        "A": "water",
+        "B": "to water",
+        "C": "watering",
+        "D": "watered"
+      },
+      "answer": "A",
+      "explain": "make + O + V nguyên mẫu → make my eyes water."
+    },
+    {
+      "q": "We're ___ our house painted next week.",
+      "options": {
+        "A": "making",
+        "B": "having",
+        "C": "letting",
+        "D": "doing"
+      },
+      "answer": "B",
+      "explain": "have sth done ở hiện tại tiếp diễn (kế hoạch) → We're having our house painted."
+    }
+  ],
+  "normal": [
+    {
+      "q": "I didn't cut my hair myself. I ___ it cut at a barber's.",
+      "options": {
+        "A": "made",
+        "B": "let",
+        "C": "had",
+        "D": "was"
+      },
+      "answer": "C",
+      "explain": "Nhờ thợ làm (dịch vụ) → had it cut. 'made/let' đi với người + V, không đi với vật + V3."
+    },
+    {
+      "q": "Could you get the receptionist ___ a taxi for me?",
+      "options": {
+        "A": "order",
+        "B": "ordered",
+        "C": "ordering",
+        "D": "to order"
+      },
+      "answer": "D",
+      "explain": "get + người + to V → get the receptionist to order. 'order' (không to) chỉ đúng sau have/make/let."
+    },
+    {
+      "q": "The students were made ___ the whole essay again.",
+      "options": {
+        "A": "to rewrite",
+        "B": "rewrite",
+        "C": "rewriting",
+        "D": "rewritten"
+      },
+      "answer": "A",
+      "explain": "Bị động của make: be made + to V → were made to rewrite. Ở chủ động mới bỏ 'to'."
+    },
+    {
+      "q": "I was ___ to leave the office early because I felt sick.",
+      "options": {
+        "A": "let",
+        "B": "allowed",
+        "C": "got",
+        "D": "had"
+      },
+      "answer": "B",
+      "explain": "let không dùng ở bị động → be allowed to V. 'was let to leave' là lỗi thường gặp."
+    },
+    {
+      "q": "Have you ___ your eyes tested recently?",
+      "options": {
+        "A": "made",
+        "B": "let",
+        "C": "had",
+        "D": "got to"
+      },
+      "answer": "C",
+      "explain": "Hiện tại hoàn thành của have sth done → Have you had your eyes tested? 'got to' thừa 'to' nên sai."
+    },
+    {
+      "q": "Chọn câu ĐÚNG ngữ pháp:",
+      "options": {
+        "A": "My boss made me to work overtime last night.",
+        "B": "My boss let me to leave early last night.",
+        "C": "I got my friend lend me his bike last night.",
+        "D": "My boss made me work overtime last night."
+      },
+      "answer": "D",
+      "explain": "make + sb + V nguyên mẫu → made me work. Thêm 'to' sau make/let là sai; get thì lại cần 'to'."
+    },
+    {
+      "q": "Tìm lỗi sai: I (A) had the plumber (B) to fix (C) the leaking pipe (D) yesterday.",
+      "options": {
+        "A": "had the plumber",
+        "B": "to fix",
+        "C": "the leaking pipe",
+        "D": "yesterday"
+      },
+      "answer": "B",
+      "explain": "have + người + V nguyên mẫu → had the plumber fix. Chỉ get mới đi với 'to V'."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'A mechanic repaired my car last week.'",
+      "options": {
+        "A": "I had my car repaired last week.",
+        "B": "I repaired my car last week.",
+        "C": "I had repaired my car last week.",
+        "D": "I had a mechanic repaired my car last week."
+      },
+      "answer": "A",
+      "explain": "Nhờ thợ sửa → have + vật + V3: had my car repaired. 'I had repaired' là quá khứ hoàn thành (tự sửa); 'had a mechanic repaired' sai vì sau người phải là V nguyên mẫu."
+    },
+    {
+      "q": "The dentist ___ me rinse my mouth before the check-up.",
+      "options": {
+        "A": "got",
+        "B": "had",
+        "C": "asked",
+        "D": "told"
+      },
+      "answer": "B",
+      "explain": "Theo sau là V nguyên mẫu 'rinse' → have + sb + V. get/ask/tell đều cần 'to V'."
+    },
+    {
+      "q": "I need to get this report ___ before the meeting starts.",
+      "options": {
+        "A": "finish",
+        "B": "finishing",
+        "C": "finished",
+        "D": "to finish"
+      },
+      "answer": "C",
+      "explain": "get + vật + V3 (làm cho xong) → get this report finished. Báo cáo không tự hoàn thành nên không dùng 'to finish'."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: She (A) had her passport (B) stole while she (C) was travelling (D) in Europe.",
+      "options": {
+        "A": "had her passport",
+        "B": "stole",
+        "C": "was travelling",
+        "D": "in Europe"
+      },
+      "answer": "B",
+      "explain": "Chuyện không may: have + sth + V3 → stolen, không dùng quá khứ đơn 'stole'."
+    },
+    {
+      "q": "Chọn câu SAI ngữ pháp:",
+      "options": {
+        "A": "I'll have the porter carry your bags.",
+        "B": "She got her sister to babysit on Friday.",
+        "C": "We had the windows cleaned yesterday.",
+        "D": "They let their kids to stay up late on Saturdays."
+      },
+      "answer": "D",
+      "explain": "let + sb + V nguyên mẫu → let their kids stay up. Các câu còn lại đúng: have sb do, get sb to do, have sth done."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'The police forced him to open his suitcase.'",
+      "options": {
+        "A": "The police made him open his suitcase.",
+        "B": "The police let him open his suitcase.",
+        "C": "The police had his suitcase opening.",
+        "D": "He was made open his suitcase by the police."
+      },
+      "answer": "A",
+      "explain": "'forced' → make + sb + V. 'let' là cho phép (khác nghĩa); bị động phải là 'was made to open'."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'I persuaded my father to buy me a new laptop.'",
+      "options": {
+        "A": "I had my father bought me a new laptop.",
+        "B": "I got my father to buy me a new laptop.",
+        "C": "I made my father buying me a new laptop.",
+        "D": "I let my father to buy me a new laptop."
+      },
+      "answer": "B",
+      "explain": "Thuyết phục ai làm → get + sb + to V. Các phương án khác sai dạng động từ (bought, buying, to buy sau let)."
+    },
+    {
+      "q": "Someone broke into our house last night. We ___.",
+      "options": {
+        "A": "had stolen our TV",
+        "B": "stole our TV",
+        "C": "had our TV stolen",
+        "D": "got our TV steal"
+      },
+      "answer": "C",
+      "explain": "Kể chuyện không may xảy ra với mình → have + sth + V3: had our TV stolen. 'had stolen our TV' nghĩa là chính chúng tôi đã lấy trộm."
+    },
+    {
+      "q": "The boys were made ___ for the window they had broken.",
+      "options": {
+        "A": "pay",
+        "B": "paying",
+        "C": "paid",
+        "D": "to pay"
+      },
+      "answer": "D",
+      "explain": "Bị động của make → be made to V: were made to pay. Bỏ 'to' chỉ đúng ở câu chủ động (made them pay)."
+    },
+    {
+      "q": "Câu nào dưới đây ĐÚNG ngữ pháp?",
+      "options": {
+        "A": "You should get that cough checked by a doctor.",
+        "B": "You should get that cough check by a doctor.",
+        "C": "You should have a doctor to check that cough.",
+        "D": "You should make that cough checked by a doctor."
+      },
+      "answer": "A",
+      "explain": "get + vật + V3 → get that cough checked. 'have a doctor to check' thừa 'to'; make không dùng với vật + V3."
+    },
+    {
+      "q": "Our landlord ___ the heating repaired yet, so the flat is freezing.",
+      "options": {
+        "A": "hasn't made",
+        "B": "hasn't had",
+        "C": "didn't have had",
+        "D": "hasn't let"
+      },
+      "answer": "B",
+      "explain": "'yet' → hiện tại hoàn thành; have sth done → hasn't had the heating repaired. make/let không đi với vật + V3."
+    },
+    {
+      "q": "Tìm lỗi sai: My parents never (A) let me (B) to go (C) out after dark (D) when I was young.",
+      "options": {
+        "A": "let me",
+        "B": "to go",
+        "C": "out after dark",
+        "D": "when I was young"
+      },
+      "answer": "B",
+      "explain": "let + sb + V nguyên mẫu → let me go, không có 'to'."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'My parents didn't allow me to have a phone until I was 15.'",
+      "options": {
+        "A": "My parents didn't let me to have a phone until I was 15.",
+        "B": "My parents didn't make me have a phone until I was 15.",
+        "C": "My parents didn't let me have a phone until I was 15.",
+        "D": "I wasn't let to have a phone until I was 15."
+      },
+      "answer": "C",
+      "explain": "allow sb to V = let sb V → didn't let me have. 'make' là ép buộc (khác nghĩa); let không dùng bị động 'wasn't let to'."
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "The streets are wet. It ___ rained last night.",
+      "options": {
+        "A": "must have",
+        "B": "must",
+        "C": "must has",
+        "D": "mustn't have"
+      },
+      "answer": "A",
+      "explain": "Suy luận chắc chắn về quá khứ dựa vào bằng chứng hiện tại → must have + V3."
+    },
+    {
+      "q": "I failed the exam. I ___ studied harder.",
+      "options": {
+        "A": "should",
+        "B": "should have",
+        "C": "should has",
+        "D": "shouldn't have"
+      },
+      "answer": "B",
+      "explain": "Tiếc nuối điều lẽ ra nên làm nhưng đã không làm → should have + V3."
+    },
+    {
+      "q": "Her coat isn't here. She ___ have left early.",
+      "options": {
+        "A": "can't",
+        "B": "mustn't",
+        "C": "must",
+        "D": "needn't"
+      },
+      "answer": "C",
+      "explain": "Áo khoác không còn → chắc hẳn cô ấy đã về sớm → must have left."
+    },
+    {
+      "q": "You should have ___ me the truth.",
+      "options": {
+        "A": "tell",
+        "B": "telling",
+        "C": "tells",
+        "D": "told"
+      },
+      "answer": "D",
+      "explain": "Sau modal + have phải là V3 (quá khứ phân từ): tell → told."
+    },
+    {
+      "q": "He can't have ___ my email – he had no internet all day.",
+      "options": {
+        "A": "seen",
+        "B": "saw",
+        "C": "see",
+        "D": "seeing"
+      },
+      "answer": "A",
+      "explain": "Modal hoàn thành: can't have + V3; V3 của see là seen, không phải saw (V2)."
+    },
+    {
+      "q": "I can't find my wallet. I ___ left it at the restaurant, but I'm not sure.",
+      "options": {
+        "A": "must have",
+        "B": "can't have",
+        "C": "might have",
+        "D": "should have"
+      },
+      "answer": "C",
+      "explain": "'I'm not sure' → phỏng đoán không chắc chắn → might have + V3."
+    },
+    {
+      "q": "You ___ brought an umbrella – it didn't rain at all.",
+      "options": {
+        "A": "must have",
+        "B": "needn't have",
+        "C": "should have",
+        "D": "can't have"
+      },
+      "answer": "B",
+      "explain": "Đã mang ô nhưng hóa ra không cần → needn't have + V3."
+    },
+    {
+      "q": "I ___ eaten so much cake. Now I feel sick.",
+      "options": {
+        "A": "should have",
+        "B": "must have",
+        "C": "needn't",
+        "D": "shouldn't have"
+      },
+      "answer": "D",
+      "explain": "Tiếc vì đã làm điều không nên làm → shouldn't have + V3."
+    },
+    {
+      "q": "Minh got full marks in the test. He ___ have studied very hard.",
+      "options": {
+        "A": "must",
+        "B": "can't",
+        "C": "shouldn't",
+        "D": "needn't"
+      },
+      "answer": "A",
+      "explain": "Điểm tuyệt đối là bằng chứng → chắc hẳn đã học chăm → must have studied."
+    },
+    {
+      "q": "Chọn cách viết đúng: I ___ called you, but I forgot.",
+      "options": {
+        "A": "should of",
+        "B": "should has",
+        "C": "should have",
+        "D": "should had"
+      },
+      "answer": "C",
+      "explain": "Luôn viết should have + V3; 'should of' là lỗi chính tả do nghe dạng rút gọn should've, và sau modal không dùng has/had."
+    }
+  ],
+  "normal": [
+    {
+      "q": "She ___ the news yet – she has been on a plane all day.",
+      "options": {
+        "A": "mustn't have heard",
+        "B": "can't have heard",
+        "C": "must have heard",
+        "D": "should have heard"
+      },
+      "answer": "B",
+      "explain": "Ở trên máy bay cả ngày → chắc chắn chưa nghe → can't have heard. Mustn't have không dùng cho suy luận phủ định."
+    },
+    {
+      "q": "Why did you take a taxi? I ___ you – my car was free all afternoon.",
+      "options": {
+        "A": "must have driven",
+        "B": "can't have driven",
+        "C": "needn't have driven",
+        "D": "could have driven"
+      },
+      "answer": "D",
+      "explain": "Khả năng đã có nhưng không được thực hiện → could have + V3 (lẽ ra đã có thể chở bạn). Must have driven là suy luận, sai ngữ cảnh."
+    },
+    {
+      "q": "The lights are off and nobody answers the door. They ___ out.",
+      "options": {
+        "A": "must have gone",
+        "B": "must go",
+        "C": "can't have gone",
+        "D": "should have gone"
+      },
+      "answer": "A",
+      "explain": "Suy luận về việc đã xảy ra → must have gone. Must go là hiện tại (phải đi), không dùng để suy luận quá khứ."
+    },
+    {
+      "q": "___ they have got lost? They're already two hours late.",
+      "options": {
+        "A": "Must",
+        "B": "Should",
+        "C": "Could",
+        "D": "Need"
+      },
+      "answer": "C",
+      "explain": "Câu hỏi phỏng đoán về quá khứ → Could + S + have + V3? Must/Should không dùng trong câu hỏi phỏng đoán kiểu này."
+    },
+    {
+      "q": "You ___ so rude to her. She was only trying to help.",
+      "options": {
+        "A": "needn't have been",
+        "B": "shouldn't have been",
+        "C": "mustn't have been",
+        "D": "can't have been"
+      },
+      "answer": "B",
+      "explain": "Trách móc việc đã làm không đúng → shouldn't have + V3. Can't have been là suy luận 'không thể', mâu thuẫn vì người đó đã thật sự thô lỗ."
+    },
+    {
+      "q": "I ___ about the interview – it was really easy.",
+      "options": {
+        "A": "needn't have worried",
+        "B": "must have worried",
+        "C": "should have worried",
+        "D": "can't have worried"
+      },
+      "answer": "A",
+      "explain": "Đã lo lắng nhưng hóa ra thừa → needn't have worried. Should have worried lại mang nghĩa 'lẽ ra nên lo', ngược ý."
+    },
+    {
+      "q": "The kitchen window ___ by the strong wind last night.",
+      "options": {
+        "A": "may have break",
+        "B": "may be broke",
+        "C": "may has been broken",
+        "D": "may have been broken"
+      },
+      "answer": "D",
+      "explain": "Phỏng đoán ở dạng bị động quá khứ → may have been + V3 ('by the wind' → bị động). Sau modal luôn là have, không phải has."
+    },
+    {
+      "q": "She didn't answer when I phoned at midnight. She ___.",
+      "options": {
+        "A": "must be sleeping",
+        "B": "must have been slept",
+        "C": "must have been sleeping",
+        "D": "must sleep"
+      },
+      "answer": "C",
+      "explain": "Suy luận về một hành động đang diễn ra tại thời điểm trong quá khứ → must have been + V-ing. 'Must be sleeping' chỉ nói về hiện tại."
+    },
+    {
+      "q": "Tom ___ the money. He was with me the whole evening.",
+      "options": {
+        "A": "couldn't have stolen",
+        "B": "mustn't have stolen",
+        "C": "should have stolen",
+        "D": "must have stolen"
+      },
+      "answer": "A",
+      "explain": "Có bằng chứng ngoại phạm → chắc chắn không → couldn't have + V3. Mustn't have không mang nghĩa suy luận."
+    },
+    {
+      "q": "I ___ work late yesterday, so I couldn't come to the party.",
+      "options": {
+        "A": "should have",
+        "B": "needn't have",
+        "C": "must have",
+        "D": "had to"
+      },
+      "answer": "D",
+      "explain": "Đã buộc phải làm (và đã làm) → had to + V. Should have = lẽ ra nên làm nhưng không làm, sai nghĩa; ba phương án kia cũng cần V3."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: You should (A) have (B) went to (C) the doctor (D) yesterday.",
+      "options": {
+        "A": "have",
+        "B": "went",
+        "C": "the doctor",
+        "D": "yesterday"
+      },
+      "answer": "B",
+      "explain": "Sau should have phải là V3: go – went – gone → should have gone. 'Went' là V2."
+    },
+    {
+      "q": "Chọn câu ĐÚNG ngữ pháp:",
+      "options": {
+        "A": "She must has forgotten my birthday.",
+        "B": "He can't have saw us – it was too dark.",
+        "C": "They might have missed the last bus.",
+        "D": "I should of called you earlier."
+      },
+      "answer": "C",
+      "explain": "Might have + V3 đúng. Sai: must has (phải là have), can't have saw (sau modal + have phải là V3: seen), should of (phải là should have)."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: \"It was a mistake not to book a table.\"",
+      "options": {
+        "A": "We must have booked a table.",
+        "B": "We needn't have booked a table.",
+        "C": "We couldn't have booked a table.",
+        "D": "We should have booked a table."
+      },
+      "answer": "D",
+      "explain": "Không đặt bàn là một sai lầm → lẽ ra nên đặt → should have booked. Needn't have booked nghĩa là đã đặt nhưng thừa – ngược ý."
+    },
+    {
+      "q": "It was a lovely morning, so I ___ a taxi. I walked and enjoyed the fresh air.",
+      "options": {
+        "A": "didn't need to take",
+        "B": "needn't have taken",
+        "C": "shouldn't have taken",
+        "D": "can't have taken"
+      },
+      "answer": "A",
+      "explain": "Không cần và thực tế đã không đi taxi → didn't need to take. Needn't have taken chỉ dùng khi đã làm rồi mới thấy thừa."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: \"I'm sure she didn't write this letter – it isn't her handwriting.\"",
+      "options": {
+        "A": "She mustn't have written this letter.",
+        "B": "She can't have written this letter.",
+        "C": "She shouldn't have written this letter.",
+        "D": "She needn't have written this letter."
+      },
+      "answer": "B",
+      "explain": "'I'm sure … didn't' → suy luận phủ định chắc chắn về quá khứ → can't have + V3. Mustn't have là lỗi thường gặp; shouldn't/needn't sai nghĩa."
+    },
+    {
+      "q": "Tìm lỗi sai: He (A) can't be (B) at the party last night – he (C) was (D) in Da Nang.",
+      "options": {
+        "A": "can't be",
+        "B": "at the party",
+        "C": "was",
+        "D": "in Da Nang"
+      },
+      "answer": "A",
+      "explain": "'Last night' là quá khứ → phải dùng modal hoàn thành: can't have been at the party."
+    },
+    {
+      "q": "Be careful! You ___ yourself! Never touch a socket with wet hands.",
+      "options": {
+        "A": "must have killed",
+        "B": "can't have killed",
+        "C": "could have killed",
+        "D": "needn't have killed"
+      },
+      "answer": "C",
+      "explain": "Nguy hiểm suýt xảy ra nhưng đã không xảy ra → could have + V3 (lẽ ra đã có thể). Must have killed là suy luận việc đã xảy ra – vô lý."
+    },
+    {
+      "q": "Chọn câu SAI ngữ pháp:",
+      "options": {
+        "A": "You must have been waiting for ages.",
+        "B": "The letter may have been sent to the wrong address.",
+        "C": "She could have been hurt.",
+        "D": "He should have finish it yesterday."
+      },
+      "answer": "D",
+      "explain": "Sau should have cần V3 → should have finished. Ba câu còn lại đúng dạng tiếp diễn, bị động của modal hoàn thành."
+    },
+    {
+      "q": "A: Nam didn't come to the meeting. B: He ___ forgotten – I texted him an hour before it started.",
+      "options": {
+        "A": "must have",
+        "B": "can't have",
+        "C": "might have",
+        "D": "should have"
+      },
+      "answer": "B",
+      "explain": "Đã được nhắc ngay trước giờ họp → chắc chắn không thể quên → can't have forgotten. Must have / might have mâu thuẫn với bằng chứng."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: \"Perhaps Linh took the wrong road.\"",
+      "options": {
+        "A": "Linh must have taken the wrong road.",
+        "B": "Linh should have taken the wrong road.",
+        "C": "Linh can't have taken the wrong road.",
+        "D": "Linh may have taken the wrong road."
+      },
+      "answer": "D",
+      "explain": "'Perhaps' → phỏng đoán không chắc → may have + V3. Must have quá chắc chắn, can't have phủ định, should have sai nghĩa."
+    }
+  ]
+}

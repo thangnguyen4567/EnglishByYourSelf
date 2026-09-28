@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "My father gave up ___ five years ago.",
+      "options": {
+        "A": "smoking",
+        "B": "smoke",
+        "C": "to smoke",
+        "D": "smoked"
+      },
+      "answer": "A",
+      "explain": "Give up + V-ing (từ bỏ việc gì)."
+    },
+    {
+      "q": "We hope ___ Japan next year.",
+      "options": {
+        "A": "visiting",
+        "B": "to visit",
+        "C": "visit",
+        "D": "visited"
+      },
+      "answer": "B",
+      "explain": "Hope + to V (hy vọng sẽ làm gì)."
+    },
+    {
+      "q": "She is very good at ___ pictures of animals.",
+      "options": {
+        "A": "draw",
+        "B": "to draw",
+        "C": "drawing",
+        "D": "drew"
+      },
+      "answer": "C",
+      "explain": "Sau giới từ (at) luôn dùng V-ing."
+    },
+    {
+      "q": "They agreed ___ us with the project.",
+      "options": {
+        "A": "helping",
+        "B": "help",
+        "C": "helped",
+        "D": "to help"
+      },
+      "answer": "D",
+      "explain": "Agree + to V (đồng ý làm gì)."
+    },
+    {
+      "q": "Have you finished ___ your report yet?",
+      "options": {
+        "A": "writing",
+        "B": "write",
+        "C": "to write",
+        "D": "wrote"
+      },
+      "answer": "A",
+      "explain": "Finish + V-ing (làm xong việc gì)."
+    },
+    {
+      "q": "My parents let me ___ out late on Saturdays.",
+      "options": {
+        "A": "to stay",
+        "B": "stay",
+        "C": "staying",
+        "D": "stayed"
+      },
+      "answer": "B",
+      "explain": "Let + tân ngữ + V nguyên mẫu không 'to'."
+    },
+    {
+      "q": "___ is a great way to keep fit.",
+      "options": {
+        "A": "Swim",
+        "B": "Swims",
+        "C": "Swimming",
+        "D": "Swam"
+      },
+      "answer": "C",
+      "explain": "V-ing có thể làm chủ ngữ của câu → Swimming is…"
+    },
+    {
+      "q": "He promised ___ home before midnight.",
+      "options": {
+        "A": "being",
+        "B": "be",
+        "C": "been",
+        "D": "to be"
+      },
+      "answer": "D",
+      "explain": "Promise + to V (hứa sẽ làm gì)."
+    },
+    {
+      "q": "I'm looking forward to ___ you at the wedding.",
+      "options": {
+        "A": "seeing",
+        "B": "see",
+        "C": "to see",
+        "D": "saw"
+      },
+      "answer": "A",
+      "explain": "'To' trong look forward to là giới từ → theo sau là V-ing."
+    },
+    {
+      "q": "We can't afford ___ a new car this year.",
+      "options": {
+        "A": "buying",
+        "B": "buy",
+        "C": "to buy",
+        "D": "bought"
+      },
+      "answer": "C",
+      "explain": "Afford + to V (đủ khả năng/tiền để làm gì)."
+    }
+  ],
+  "normal": [
+    {
+      "q": "The car was making a strange noise, so we stopped ___ what was wrong.",
+      "options": {
+        "A": "checking",
+        "B": "to check",
+        "C": "check",
+        "D": "checked"
+      },
+      "answer": "B",
+      "explain": "Dừng việc đang làm (lái xe) lại để làm việc khác → stop to V. Stopped checking lại có nghĩa là 'thôi không kiểm tra nữa'."
+    },
+    {
+      "q": "Please remember ___ the bank before 5 p.m. today.",
+      "options": {
+        "A": "calling",
+        "B": "call",
+        "C": "called",
+        "D": "to call"
+      },
+      "answer": "D",
+      "explain": "Nhớ việc cần phải làm (chưa làm) → remember to V. Remember V-ing dùng để nhớ lại việc đã làm."
+    },
+    {
+      "q": "I'll never forget ___ the Eiffel Tower for the first time.",
+      "options": {
+        "A": "seeing",
+        "B": "to see",
+        "C": "see",
+        "D": "to seeing"
+      },
+      "answer": "A",
+      "explain": "Không quên một trải nghiệm đã có → forget V-ing (thường với I'll never forget). Forget to V là quên việc phải làm."
+    },
+    {
+      "q": "Your laptop is really slow? Try ___ it – that usually solves the problem.",
+      "options": {
+        "A": "to restarting",
+        "B": "restart",
+        "C": "restarting",
+        "D": "restarted"
+      },
+      "answer": "C",
+      "explain": "Thử làm một việc xem có hiệu quả không → try V-ing. 'Try restart' và 'try to restarting' đều sai dạng."
+    },
+    {
+      "q": "She suggested ___ a taxi because it was raining heavily.",
+      "options": {
+        "A": "taking",
+        "B": "to take",
+        "C": "take",
+        "D": "took"
+      },
+      "answer": "A",
+      "explain": "Suggest + V-ing. 'Suggest to take' là lỗi rất hay gặp."
+    },
+    {
+      "q": "My manager asked me ___ the report by Friday.",
+      "options": {
+        "A": "finishing",
+        "B": "to finish",
+        "C": "finish",
+        "D": "for finishing"
+      },
+      "answer": "B",
+      "explain": "Ask + tân ngữ + to V (yêu cầu ai làm gì). Không dùng V-ing hay V nguyên mẫu sau ask + O."
+    },
+    {
+      "q": "She was so tired that she decided ___ to the party.",
+      "options": {
+        "A": "to not going",
+        "B": "not going",
+        "C": "don't go",
+        "D": "not to go"
+      },
+      "answer": "D",
+      "explain": "Decide + to V; phủ định đặt not trước to V → decided not to go."
+    },
+    {
+      "q": "I've lived here for years, so I'm used to ___ in heavy traffic.",
+      "options": {
+        "A": "drive",
+        "B": "to drive",
+        "C": "driving",
+        "D": "drove"
+      },
+      "answer": "C",
+      "explain": "Be used to (quen với) – 'to' là giới từ → V-ing. Không nhầm với used to V (đã từng)."
+    },
+    {
+      "q": "He left the office without ___ goodbye to anyone.",
+      "options": {
+        "A": "saying",
+        "B": "to say",
+        "C": "say",
+        "D": "said"
+      },
+      "answer": "A",
+      "explain": "Sau giới từ without dùng V-ing."
+    },
+    {
+      "q": "The teacher made us ___ the whole essay again.",
+      "options": {
+        "A": "to rewrite",
+        "B": "rewrite",
+        "C": "rewriting",
+        "D": "rewrote"
+      },
+      "answer": "B",
+      "explain": "Make + tân ngữ + V nguyên mẫu không 'to' (trong câu chủ động)."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: She (A) really enjoys (B) to swim in the sea (C) when she (D) is on holiday.",
+      "options": {
+        "A": "really enjoys",
+        "B": "to swim",
+        "C": "when she",
+        "D": "is on holiday"
+      },
+      "answer": "B",
+      "explain": "Enjoy chỉ đi với V-ing → enjoys swimming."
+    },
+    {
+      "q": "We regret ___ you that your application has been unsuccessful.",
+      "options": {
+        "A": "informing",
+        "B": "inform",
+        "C": "to inform",
+        "D": "to informing"
+      },
+      "answer": "C",
+      "explain": "Lấy làm tiếc phải báo tin (văn phong trang trọng) → regret to V. Regret informing nghĩa là hối hận vì đã báo – sai ngữ cảnh."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: \"I locked the door – I can clearly recall doing it.\"",
+      "options": {
+        "A": "I remember to lock the door.",
+        "B": "I forgot to lock the door.",
+        "C": "I forgot locking the door.",
+        "D": "I remember locking the door."
+      },
+      "answer": "D",
+      "explain": "Nhớ lại việc đã làm → remember V-ing. Remember to lock = nhớ phải khóa (chưa làm); forgot to lock = đã quên khóa – ngược nghĩa."
+    },
+    {
+      "q": "After explaining the rules, the teacher went on ___ us a short test.",
+      "options": {
+        "A": "to give",
+        "B": "giving",
+        "C": "give",
+        "D": "gave"
+      },
+      "answer": "A",
+      "explain": "Chuyển sang làm việc tiếp theo → go on to V. Go on V-ing nghĩa là tiếp tục cùng một việc đang làm."
+    },
+    {
+      "q": "Chọn câu SAI ngữ pháp:",
+      "options": {
+        "A": "I object to paying extra for the bags.",
+        "B": "The museum is worth visiting.",
+        "C": "Our company is committed to improve quality.",
+        "D": "He couldn't help laughing at the joke."
+      },
+      "answer": "C",
+      "explain": "'To' trong be committed to là giới từ → committed to improving. Các câu còn lại đúng: object to V-ing, worth V-ing, can't help V-ing."
+    },
+    {
+      "q": "I'm so sorry. I didn't mean ___ you.",
+      "options": {
+        "A": "upsetting",
+        "B": "to upset",
+        "C": "upset",
+        "D": "to upsetting"
+      },
+      "answer": "B",
+      "explain": "Mean to V = cố ý, định làm. Mean V-ing = đồng nghĩa với, kéo theo – sai nghĩa ở đây."
+    },
+    {
+      "q": "A: Why is the room so cold? B: Sorry, I forgot ___ the window when I went out.",
+      "options": {
+        "A": "closing",
+        "B": "close",
+        "C": "closed",
+        "D": "to close"
+      },
+      "answer": "D",
+      "explain": "Quên làm việc cần làm (nên cửa sổ vẫn mở) → forget to V. Forget V-ing là quên việc đã làm."
+    },
+    {
+      "q": "Tìm lỗi sai: He (A) stopped (B) to smoke last year (C) because the doctor (D) warned him about his lungs.",
+      "options": {
+        "A": "stopped",
+        "B": "to smoke",
+        "C": "because",
+        "D": "warned him"
+      },
+      "answer": "B",
+      "explain": "Bỏ hẳn thói quen → stop V-ing → stopped smoking. Stopped to smoke nghĩa là 'dừng lại để hút thuốc' – ngược ý."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: \"Taking the new job will involve moving to Da Nang.\"",
+      "options": {
+        "A": "The new job means to move to Da Nang.",
+        "B": "I mean moving to Da Nang for the new job.",
+        "C": "The new job means moving to Da Nang.",
+        "D": "I meant to move to Da Nang for the new job."
+      },
+      "answer": "C",
+      "explain": "Mean V-ing = đồng nghĩa với, kéo theo. Mean to V = định, có ý làm – không diễn tả sự 'kéo theo'."
+    },
+    {
+      "q": "He tried hard ___ calm, but in the end he shouted at everyone.",
+      "options": {
+        "A": "to stay",
+        "B": "staying",
+        "C": "stay",
+        "D": "stayed"
+      },
+      "answer": "A",
+      "explain": "Cố gắng làm một việc khó (và thất bại) → try to V. Try V-ing là thử một cách xem có hiệu quả không – không hợp với 'tried hard… but in the end'."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "G01": {
+    "code": "G01",
+    "short": "Từ loại & cấu trúc câu cơ bản",
+    "title": "Từ loại & cấu trúc câu cơ bản",
+    "group": "Nền tảng",
+    "path": "/docs/ngu-phap/g01-tu-loai",
+    "day": 1
+  },
+  "G02": {
+    "code": "G02",
+    "short": "Hiện tại đơn",
+    "title": "Hiện tại đơn (Present Simple)",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g02-hien-tai-don",
+    "day": 2
+  },
+  "G03": {
+    "code": "G03",
+    "short": "Hiện tại tiếp diễn",
+    "title": "Hiện tại tiếp diễn (Present Continuous)",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g03-hien-tai-tiep-dien",
+    "day": 3
+  },
+  "G04": {
+    "code": "G04",
+    "short": "Quá khứ đơn",
+    "title": "Quá khứ đơn (Past Simple)",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g04-qua-khu-don",
+    "day": 4
+  },
+  "G05": {
+    "code": "G05",
+    "short": "Quá khứ tiếp diễn",
+    "title": "Quá khứ tiếp diễn (Past Continuous)",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g05-qua-khu-tiep-dien",
+    "day": 5
+  },
+  "G06": {
+    "code": "G06",
+    "short": "Hiện tại hoàn thành",
+    "title": "Hiện tại hoàn thành (Present Perfect)",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g06-hien-tai-hoan-thanh",
+    "day": 6
+  },
+  "G07": {
+    "code": "G07",
+    "short": "Hiện tại hoàn thành tiếp diễn",
+    "title": "Hiện tại hoàn thành tiếp diễn",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g07-hien-tai-hoan-thanh-tiep-dien",
+    "day": 6
+  },
+  "G08": {
+    "code": "G08",
+    "short": "Quá khứ hoàn thành",
+    "title": "Quá khứ hoàn thành (+ tiếp diễn)",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g08-qua-khu-hoan-thanh",
+    "day": 8
+  },
+  "G09": {
+    "code": "G09",
+    "short": "Tương lai: will / be going to / HTTD",
+    "title": "Tương lai: will / be going to / HTTD",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g09-tuong-lai-will-be-going-to-httd",
+    "day": 9
+  },
+  "G10": {
+    "code": "G10",
+    "short": "Tương lai tiếp diễn & Tương lai hoàn thành",
+    "title": "Tương lai tiếp diễn & Tương lai hoàn thành",
+    "group": "Thì",
+    "path": "/docs/ngu-phap/g10-tuong-lai-tiep-dien-tuong-lai-hoan-thanh",
+    "day": 10
+  },
+  "G11": {
+    "code": "G11",
+    "short": "Động từ khuyết thiếu",
+    "title": "Động từ khuyết thiếu (Modal verbs)",
+    "group": "Động từ",
+    "path": "/docs/ngu-phap/g11-dong-tu-khuyet-thieu",
+    "day": 11
+  },
+  "G12": {
+    "code": "G12",
+    "short": "Modal hoàn thành",
+    "title": "Modal hoàn thành (Modal perfect)",
+    "group": "Động từ",
+    "path": "/docs/ngu-phap/g12-modal-hoan-thanh",
+    "day": 12
+  },
+  "G13": {
+    "code": "G13",
+    "short": "Danh động từ & Động từ nguyên mẫu",
+    "title": "Danh động từ & Động từ nguyên mẫu (V-ing / to V)",
+    "group": "Động từ",
+    "path": "/docs/ngu-phap/g13-danh-dong-tu-dong-tu-nguyen-mau",
+    "day": 13
+  },
+  "G14": {
+    "code": "G14",
+    "short": "Danh từ đếm được/không đếm được & Mạo từ",
+    "title": "Danh từ đếm được/không đếm được & Mạo từ",
+    "group": "Danh từ",
+    "path": "/docs/ngu-phap/g14-danh-tu-dem-duoc-khong-dem-duoc-mao-tu",
+    "day": 15
+  },
+  "G15": {
+    "code": "G15",
+    "short": "Lượng từ & Đại từ",
+    "title": "Lượng từ & Đại từ",
+    "group": "Danh từ",
+    "path": "/docs/ngu-phap/g15-luong-tu-dai-tu",
+    "day": 16
+  },
+  "G16": {
+    "code": "G16",
+    "short": "Tính từ & Trạng từ",
+    "title": "Tính từ & Trạng từ",
+    "group": "Tính/Trạng từ",
+    "path": "/docs/ngu-phap/g16-tinh-tu-trang-tu",
+    "day": 17
+  },
+  "G17": {
+    "code": "G17",
+    "short": "So sánh",
+    "title": "So sánh (Comparisons)",
+    "group": "Tính/Trạng từ",
+    "path": "/docs/ngu-phap/g17-so-sanh",
+    "day": 18
+  },
+  "G18": {
+    "code": "G18",
+    "short": "Giới từ (thời gian, nơi chốn) & Adj + Prep",
+    "title": "Giới từ (thời gian, nơi chốn) & Adj + Prep",
+    "group": "Giới từ",
+    "path": "/docs/ngu-phap/g18-gioi-tu-adj-prep",
+    "day": 19
+  },
+  "G19": {
+    "code": "G19",
+    "short": "Câu bị động",
+    "title": "Câu bị động (Passive voice)",
+    "group": "Cấu trúc câu",
+    "path": "/docs/ngu-phap/g19-cau-bi-dong",
+    "day": 20
+  },
+  "G20": {
+    "code": "G20",
+    "short": "Câu điều kiện loại 0, 1, 2",
+    "title": "Câu điều kiện loại 0, 1, 2",
+    "group": "Câu phức",
+    "path": "/docs/ngu-phap/g20-cau-dieu-kien-loai-0-1-2",
+    "day": 22
+  },
+  "G21": {
+    "code": "G21",
+    "short": "Điều kiện loại 3, hỗn hợp & Câu ước",
+    "title": "Điều kiện loại 3, hỗn hợp & Câu ước (wish)",
+    "group": "Câu phức",
+    "path": "/docs/ngu-phap/g21-dieu-kien-loai-3-hon-hop-cau-uoc",
+    "day": 23
+  },
+  "G22": {
+    "code": "G22",
+    "short": "Mệnh đề quan hệ",
+    "title": "Mệnh đề quan hệ (Relative clauses)",
+    "group": "Câu phức",
+    "path": "/docs/ngu-phap/g22-menh-de-quan-he",
+    "day": 24
+  },
+  "G23": {
+    "code": "G23",
+    "short": "Câu tường thuật",
+    "title": "Câu tường thuật (Reported speech)",
+    "group": "Câu phức",
+    "path": "/docs/ngu-phap/g23-cau-tuong-thuat",
+    "day": 25
+  },
+  "G24": {
+    "code": "G24",
+    "short": "Liên từ & Từ nối",
+    "title": "Liên từ & Từ nối",
+    "group": "Câu phức",
+    "path": "/docs/ngu-phap/g24-lien-tu-tu-noi",
+    "day": 26
+  },
+  "G25": {
+    "code": "G25",
+    "short": "Câu hỏi: đuôi, gián tiếp, chủ ngữ",
+    "title": "Câu hỏi: đuôi, gián tiếp, chủ ngữ",
+    "group": "Cấu trúc câu",
+    "path": "/docs/ngu-phap/g25-cau-hoi-duoi-gian-tiep-chu-ngu",
+    "day": 27
+  },
+  "G26": {
+    "code": "G26",
+    "short": "Used to / Be used to / Get used to",
+    "title": "Used to / Be used to / Get used to",
+    "group": "Nâng cao",
+    "path": "/docs/ngu-phap/g26-used-to-be-used-to-get-used-to",
+    "day": 28
+  },
+  "G27": {
+    "code": "G27",
+    "short": "Thể sai khiến",
+    "title": "Thể sai khiến (Causative)",
+    "group": "Nâng cao",
+    "path": "/docs/ngu-phap/g27-the-sai-khien",
+    "day": 28
+  },
+  "G28": {
+    "code": "G28",
+    "short": "Đảo ngữ",
+    "title": "Đảo ngữ (Inversion)",
+    "group": "Nâng cao",
+    "path": "/docs/ngu-phap/g28-dao-ngu",
+    "day": 28
+  },
+  "G29": {
+    "code": "G29",
+    "short": "Hòa hợp chủ ngữ – động từ",
+    "title": "Hòa hợp chủ ngữ – động từ",
+    "group": "Nâng cao",
+    "path": "/docs/ngu-phap/g29-hoa-hop-chu-ngu-dong-tu",
+    "day": 28
+  }
+}

@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G22",
+   "q": "I have a neighbour ___ plays the violin every evening.",
+   "options": {
+    "A": "whose",
+    "B": "where",
+    "C": "who",
+    "D": "which"
+   },
+   "answer": "C",
+   "explain": "Danh từ chỉ người 'a neighbour', theo sau là động từ 'plays' → who làm chủ ngữ."
+  },
+  {
+   "no": 2,
+   "code": "G22",
+   "q": "This is the laptop ___ I bought last month.",
+   "options": {
+    "A": "where",
+    "B": "whose",
+    "C": "who",
+    "D": "which"
+   },
+   "answer": "D",
+   "explain": "Danh từ chỉ vật 'the laptop', làm tân ngữ của 'bought' → which."
+  },
+  {
+   "no": 3,
+   "code": "G22",
+   "q": "That's the restaurant ___ we had our first date.",
+   "options": {
+    "A": "when",
+    "B": "which",
+    "C": "who",
+    "D": "where"
+   },
+   "answer": "D",
+   "explain": "Danh từ chỉ nơi chốn và mệnh đề sau đã đủ thành phần ('we had our first date') → where."
+  },
+  {
+   "no": 4,
+   "code": "G22",
+   "q": "I still remember the summer ___ we travelled to Da Lat together.",
+   "options": {
+    "A": "where",
+    "B": "who",
+    "C": "when",
+    "D": "whose"
+   },
+   "answer": "C",
+   "explain": "'the summer' chỉ thời gian → when."
+  },
+  {
+   "no": 5,
+   "code": "G22",
+   "q": "She's the singer ___ songs are always on the radio.",
+   "options": {
+    "A": "which",
+    "B": "whose",
+    "C": "whom",
+    "D": "who"
+   },
+   "answer": "B",
+   "explain": "Sau chỗ trống là danh từ 'songs' không có mạo từ → sở hữu → whose."
+  },
+  {
+   "no": 6,
+   "code": "G22",
+   "q": "The girl ___ next to Lan is my cousin.",
+   "options": {
+    "A": "sat",
+    "B": "sitting",
+    "C": "sits",
+    "D": "is sitting"
+   },
+   "answer": "B",
+   "explain": "Rút gọn mệnh đề quan hệ chủ động 'who is sitting' → V-ing: sitting."
+  },
+  {
+   "no": 7,
+   "code": "G22",
+   "q": "My father, ___ is a pilot, travels a lot.",
+   "options": {
+    "A": "that",
+    "B": "whose",
+    "C": "which",
+    "D": "who"
+   },
+   "answer": "D",
+   "explain": "Mệnh đề không xác định (có dấu phẩy) về người → who; không dùng that sau dấu phẩy."
+  },
+  {
+   "no": 8,
+   "code": "G22",
+   "q": "Do you know the reason ___ she left the party so early?",
+   "options": {
+    "A": "why",
+    "B": "where",
+    "C": "which",
+    "D": "when"
+   },
+   "answer": "A",
+   "explain": "Sau 'the reason' dùng why để chỉ lý do."
+  },
+  {
+   "no": 9,
+   "code": "G22",
+   "q": "The keys ___ on the table are mine.",
+   "options": {
+    "A": "who are",
+    "B": "which is",
+    "C": "that are",
+    "D": "where are"
+   },
+   "answer": "C",
+   "explain": "'The keys' là vật số nhiều → that are; 'who' chỉ dùng cho người."
+  },
+  {
+   "no": 10,
+   "code": "G22",
+   "q": "Neil Armstrong was the first man ___ on the moon.",
+   "options": {
+    "A": "to walk",
+    "B": "walked",
+    "C": "walking",
+    "D": "walk"
+   },
+   "answer": "A",
+   "explain": "Sau 'the first' → rút gọn bằng to V: to walk."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G22",
+   "q": "The phones ___ in this factory are exported to Europe.",
+   "options": {
+    "A": "making",
+    "B": "made",
+    "C": "which make",
+    "D": "are made"
+   },
+   "answer": "B",
+   "explain": "Điện thoại được sản xuất → bị động → rút gọn bằng V3: made; 'making' và 'which make' mang nghĩa chủ động nên sai."
+  },
+  {
+   "no": 2,
+   "code": "G22",
+   "q": "Could you tell me about the company ___ you work for?",
+   "options": {
+    "A": "who",
+    "B": "whom",
+    "C": "which",
+    "D": "where"
+   },
+   "answer": "C",
+   "explain": "Có giới từ 'for' ở cuối nên cần đại từ làm tân ngữ cho vật → which; 'where … for' thừa giới từ."
+  },
+  {
+   "no": 3,
+   "code": "G22",
+   "q": "Da Nang, ___ I visited last summer, has beautiful beaches.",
+   "options": {
+    "A": "that",
+    "B": "when",
+    "C": "where",
+    "D": "which"
+   },
+   "answer": "D",
+   "explain": "'visited' cần tân ngữ → dùng which; 'where' chỉ dùng khi mệnh đề đã đủ tân ngữ, còn 'that' không đứng sau dấu phẩy."
+  },
+  {
+   "no": 4,
+   "code": "G22",
+   "q": "The hotel ___ we stayed was right next to the beach.",
+   "options": {
+    "A": "where",
+    "B": "which",
+    "C": "whose",
+    "D": "who"
+   },
+   "answer": "A",
+   "explain": "'stay' không cần tân ngữ và không có giới từ 'at/in' → where; 'which' chỉ đúng khi có 'which we stayed at'."
+  },
+  {
+   "no": 5,
+   "code": "G22",
+   "q": "The woman to ___ I spoke on the phone was very polite.",
+   "options": {
+    "A": "who",
+    "B": "which",
+    "C": "that",
+    "D": "whom"
+   },
+   "answer": "D",
+   "explain": "Sau giới từ chỉ người → whom; không dùng who hay that ngay sau giới từ."
+  },
+  {
+   "no": 6,
+   "code": "G22",
+   "q": "He failed his driving test three times, ___ surprised nobody.",
+   "options": {
+    "A": "that",
+    "B": "which",
+    "C": "who",
+    "D": "what"
+   },
+   "answer": "B",
+   "explain": "which (sau dấu phẩy) thay cho cả mệnh đề trước; 'that' không dùng sau dấu phẩy, 'what' không làm từ quan hệ."
+  },
+  {
+   "no": 7,
+   "code": "G22",
+   "q": "Anyone ___ to join the club should contact Ms Hoa.",
+   "options": {
+    "A": "wanted",
+    "B": "wants",
+    "C": "wanting",
+    "D": "to want"
+   },
+   "answer": "C",
+   "explain": "Rút gọn 'who wants' (chủ động) → wanting; 'wants' thiếu từ quan hệ nên sai."
+  },
+  {
+   "no": 8,
+   "code": "G22",
+   "q": "Most of the students ___ to the party didn't come.",
+   "options": {
+    "A": "invited",
+    "B": "were invited",
+    "C": "inviting",
+    "D": "who invited"
+   },
+   "answer": "A",
+   "explain": "Học sinh được mời → bị động → rút gọn V3: invited; 'who invited' mang nghĩa họ đi mời người khác."
+  },
+  {
+   "no": 9,
+   "code": "G22",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "My mother who she is a nurse works night shifts.",
+    "B": "My mother, who is a nurse, works night shifts.",
+    "C": "My mother, that is a nurse, works night shifts.",
+    "D": "My mother, which is a nurse, works night shifts."
+   },
+   "answer": "B",
+   "explain": "Mệnh đề không xác định về người → ', who'; that không đứng sau dấu phẩy, which không dùng cho người, và không lặp lại 'she'."
+  },
+  {
+   "no": 10,
+   "code": "G22",
+   "q": "The film ___ we watched last night was really boring.",
+   "options": {
+    "A": "whose",
+    "B": "where",
+    "C": "what",
+    "D": "Ø (không cần từ nào)"
+   },
+   "answer": "D",
+   "explain": "Đại từ làm tân ngữ trong mệnh đề xác định có thể lược bỏ ('the film we watched'); 'what' không dùng sau danh từ."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G22",
+   "q": "Tìm lỗi sai: The book (A) which I borrowed (B) it from the library (C) is (D) overdue.",
+   "options": {
+    "A": "which",
+    "B": "it",
+    "C": "is",
+    "D": "overdue"
+   },
+   "answer": "B",
+   "explain": "'which' đã làm tân ngữ của 'borrowed' nên không lặp lại 'it' (lỗi dịch 'mà nó')."
+  },
+  {
+   "no": 2,
+   "code": "G22",
+   "q": "Tìm lỗi sai: Ha Long Bay, (A) that is a UNESCO World Heritage Site, (B) attracts (C) millions of tourists (D) every year.",
+   "options": {
+    "A": "that",
+    "B": "attracts",
+    "C": "millions of",
+    "D": "every year"
+   },
+   "answer": "A",
+   "explain": "Mệnh đề không xác định (có dấu phẩy) → dùng which, không dùng that."
+  },
+  {
+   "no": 3,
+   "code": "G22",
+   "q": "What does this sentence mean? → My brother who lives in Canada is a doctor.",
+   "options": {
+    "A": "The speaker lives in Canada.",
+    "B": "The brother in Canada is not a doctor.",
+    "C": "The speaker has more than one brother.",
+    "D": "The speaker has only one brother."
+   },
+   "answer": "C",
+   "explain": "Mệnh đề xác định (không dấu phẩy) giúp phân biệt 'người anh nào' → người nói có nhiều anh; nếu chỉ có một anh thì phải dùng dấu phẩy."
+  },
+  {
+   "no": 4,
+   "code": "G22",
+   "q": "He was the last person ___ the building before the fire started.",
+   "options": {
+    "A": "to leaving",
+    "B": "leaves",
+    "C": "to leave",
+    "D": "left"
+   },
+   "answer": "C",
+   "explain": "Sau 'the last' → rút gọn bằng to V: to leave; 'left' tạo thành hai động từ chính trong câu."
+  },
+  {
+   "no": 5,
+   "code": "G22",
+   "q": "Chọn câu gần nghĩa nhất với: The woman is my teacher. Her son won the competition.",
+   "options": {
+    "A": "The woman whom son won the competition is my teacher.",
+    "B": "The woman, that son won the competition, is my teacher.",
+    "C": "The woman who her son won the competition is my teacher.",
+    "D": "The woman whose son won the competition is my teacher."
+   },
+   "answer": "D",
+   "explain": "Sở hữu 'her son' → whose son; 'who her son' thừa đại từ, 'whom' không chỉ sở hữu."
+  },
+  {
+   "no": 6,
+   "code": "G22",
+   "q": "Chọn câu rút gọn đúng của: The documents which were signed yesterday are in the safe.",
+   "options": {
+    "A": "The documents signed yesterday are in the safe.",
+    "B": "The documents to sign yesterday are in the safe.",
+    "C": "The documents signing yesterday are in the safe.",
+    "D": "The documents were signed yesterday are in the safe."
+   },
+   "answer": "A",
+   "explain": "Bị động 'which were signed' → bỏ which + were, giữ V3: signed; 'signing' mang nghĩa chủ động nên sai."
+  },
+  {
+   "no": 7,
+   "code": "G22",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "The house which I grew up in has been sold.",
+    "B": "The house in that I grew up has been sold.",
+    "C": "The house where I grew up has been sold.",
+    "D": "The house in which I grew up has been sold."
+   },
+   "answer": "B",
+   "explain": "Sau giới từ chỉ dùng which/whom, không dùng that; ba câu còn lại đều đúng (where = in which)."
+  },
+  {
+   "no": 8,
+   "code": "G22",
+   "q": "The committee has ten members, ___ are women.",
+   "options": {
+    "A": "three of which",
+    "B": "three of whom",
+    "C": "three of who",
+    "D": "three of them"
+   },
+   "answer": "B",
+   "explain": "Lượng từ + of + whom (người) mở đầu mệnh đề không xác định; 'three of them' tạo hai mệnh đề nối bằng dấu phẩy nên sai, 'which' không dùng cho người."
+  },
+  {
+   "no": 9,
+   "code": "G22",
+   "q": "Tìm lỗi sai: The letter (A) writing by my grandfather (B) was found (C) in an old box (D) last week.",
+   "options": {
+    "A": "writing",
+    "B": "was found",
+    "C": "in an old box",
+    "D": "last week"
+   },
+   "answer": "A",
+   "explain": "Lá thư được viết → bị động → rút gọn bằng V3 'written'; 'writing' mang nghĩa chủ động."
+  },
+  {
+   "no": 10,
+   "code": "G22",
+   "q": "I'll never forget the day ___ we spent together in Hoi An.",
+   "options": {
+    "A": "when",
+    "B": "whose",
+    "C": "which",
+    "D": "where"
+   },
+   "answer": "C",
+   "explain": "'spent' cần tân ngữ ('spend a day') → which (hoặc that); 'when' chỉ dùng khi mệnh đề đã đủ thành phần, ví dụ 'the day when we met'."
+  }
+ ]
+}

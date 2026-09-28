@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G03",
+   "q": "Listen! Someone ___ the piano next door.",
+   "options": {
+    "A": "plays",
+    "B": "is playing",
+    "C": "play",
+    "D": "played"
+   },
+   "answer": "B",
+   "explain": "'Listen!' → hành động đang xảy ra lúc nói → hiện tại tiếp diễn; 'Someone' số ít → is playing."
+  },
+  {
+   "no": 2,
+   "code": "G03",
+   "q": "I ___ dinner right now. Can I call you back later?",
+   "options": {
+    "A": "cook",
+    "B": "cooks",
+    "C": "am cooking",
+    "D": "cooked"
+   },
+   "answer": "C",
+   "explain": "'right now' → đang xảy ra → am/is/are + V-ing; chủ ngữ 'I' → am cooking."
+  },
+  {
+   "no": 3,
+   "code": "G03",
+   "q": "They ___ for the bus at the moment.",
+   "options": {
+    "A": "wait",
+    "B": "are waiting",
+    "C": "is waiting",
+    "D": "waits"
+   },
+   "answer": "B",
+   "explain": "'at the moment' → hiện tại tiếp diễn; chủ ngữ 'They' → are waiting."
+  },
+  {
+   "no": 4,
+   "code": "G03",
+   "q": "Be quiet! Grandpa ___ a nap.",
+   "options": {
+    "A": "is taking",
+    "B": "takes",
+    "C": "take",
+    "D": "took"
+   },
+   "answer": "A",
+   "explain": "'Be quiet!' → việc đang diễn ra lúc nói → hiện tại tiếp diễn → is taking."
+  },
+  {
+   "no": 5,
+   "code": "G03",
+   "q": "Look outside! It ___.",
+   "options": {
+    "A": "snows",
+    "B": "snowed",
+    "C": "is snowing",
+    "D": "snow"
+   },
+   "answer": "C",
+   "explain": "'Look!' → đang xảy ra ngay lúc nói → is snowing."
+  },
+  {
+   "no": 6,
+   "code": "G03",
+   "q": "She ___ an email to her manager now.",
+   "options": {
+    "A": "is writing",
+    "B": "writes",
+    "C": "is writting",
+    "D": "wrote"
+   },
+   "answer": "A",
+   "explain": "'now' → hiện tại tiếp diễn; write bỏ -e rồi thêm -ing → writing (không gấp đôi t)."
+  },
+  {
+   "no": 7,
+   "code": "G03",
+   "q": "We ___ for our final exams this week.",
+   "options": {
+    "A": "study",
+    "B": "studies",
+    "C": "studied",
+    "D": "are studying"
+   },
+   "answer": "D",
+   "explain": "'this week' → việc đang diễn ra trong giai đoạn tạm thời → are studying."
+  },
+  {
+   "no": 8,
+   "code": "G03",
+   "q": "Chọn dạng -ing đúng của 'run':",
+   "options": {
+    "A": "runing",
+    "B": "runeing",
+    "C": "runnning",
+    "D": "running"
+   },
+   "answer": "D",
+   "explain": "Động từ 1 âm tiết, tận cùng 1 nguyên âm + 1 phụ âm → gấp đôi phụ âm cuối → running."
+  },
+  {
+   "no": 9,
+   "code": "G03",
+   "q": "My brother ___ a football match in the living room now.",
+   "options": {
+    "A": "watch",
+    "B": "watches",
+    "C": "watched",
+    "D": "is watching"
+   },
+   "answer": "D",
+   "explain": "'now' → hiện tại tiếp diễn; 'My brother' ngôi 3 số ít → is watching."
+  },
+  {
+   "no": 10,
+   "code": "G03",
+   "q": "Hurry up! The train ___.",
+   "options": {
+    "A": "is coming",
+    "B": "comes",
+    "C": "came",
+    "D": "come"
+   },
+   "answer": "A",
+   "explain": "'Hurry up!' → việc đang diễn ra ngay lúc nói → is coming."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G03",
+   "q": "Oh, I ___ the answer now. Thanks for the hint!",
+   "options": {
+    "A": "know",
+    "B": "am knowing",
+    "C": "knowing",
+    "D": "knows"
+   },
+   "answer": "A",
+   "explain": "'know' là động từ trạng thái → không chia tiếp diễn dù có 'now' → I know. B là bẫy dấu hiệu 'now'."
+  },
+  {
+   "no": 2,
+   "code": "G03",
+   "q": "___ you ___ anything special this weekend?",
+   "options": {
+    "A": "Do / do",
+    "B": "Are / doing",
+    "C": "Does / doing",
+    "D": "Are / do"
+   },
+   "answer": "B",
+   "explain": "Hỏi về kế hoạch đã sắp xếp trong tương lai gần → hiện tại tiếp diễn: Are you doing...? D sai vì sau are phải là V-ing."
+  },
+  {
+   "no": 3,
+   "code": "G03",
+   "q": "She ___ to music at the moment; she's reading a novel.",
+   "options": {
+    "A": "isn't listening",
+    "B": "doesn't listen",
+    "C": "not listening",
+    "D": "isn't listen"
+   },
+   "answer": "A",
+   "explain": "Phủ định hiện tại tiếp diễn: is not + V-ing → isn't listening. B là hiện tại đơn (thói quen), không hợp với 'at the moment'."
+  },
+  {
+   "no": 4,
+   "code": "G03",
+   "q": "Linh usually drives to work, but this week she ___ the train because her car is at the garage.",
+   "options": {
+    "A": "takes",
+    "B": "took",
+    "C": "is taking",
+    "D": "take"
+   },
+   "answer": "C",
+   "explain": "'this week' + tình huống tạm thời, đối lập với thói quen 'usually drives' → hiện tại tiếp diễn. A là hiện tại đơn, chỉ thói quen lâu dài."
+  },
+  {
+   "no": 5,
+   "code": "G03",
+   "q": "Chọn dạng -ing đúng của 'lie':",
+   "options": {
+    "A": "lieing",
+    "B": "liing",
+    "C": "lying",
+    "D": "lyeing"
+   },
+   "answer": "C",
+   "explain": "Động từ tận cùng -ie → đổi thành -ying → lying. 'lieing' là lỗi chính tả thường gặp."
+  },
+  {
+   "no": 6,
+   "code": "G03",
+   "q": "We ___ the new clients for dinner tomorrow evening. I booked the table last week.",
+   "options": {
+    "A": "meet",
+    "B": "are meeting",
+    "C": "meets",
+    "D": "met"
+   },
+   "answer": "B",
+   "explain": "Kế hoạch cá nhân đã sắp xếp (đã đặt bàn) → hiện tại tiếp diễn. A là hiện tại đơn, chỉ dùng cho lịch trình cố định như giờ tàu, giờ phim."
+  },
+  {
+   "no": 7,
+   "code": "G03",
+   "q": "This blue backpack ___ to my sister, not me.",
+   "options": {
+    "A": "is belonging",
+    "B": "belong",
+    "C": "belongs",
+    "D": "belonging"
+   },
+   "answer": "C",
+   "explain": "'belong' là động từ trạng thái chỉ sở hữu → không dùng tiếp diễn → belongs (ngôi 3 số ít)."
+  },
+  {
+   "no": 8,
+   "code": "G03",
+   "q": "What ___ you ___ at? There's nothing there!",
+   "options": {
+    "A": "do / look",
+    "B": "are / looking",
+    "C": "does / look",
+    "D": "is / looking"
+   },
+   "answer": "B",
+   "explain": "Hỏi về việc người nghe đang làm ngay lúc nói → What are you looking at? A là hiện tại đơn, hỏi về thói quen nên không hợp ngữ cảnh."
+  },
+  {
+   "no": 9,
+   "code": "G03",
+   "q": "Your English ___ better and better.",
+   "options": {
+    "A": "get",
+    "B": "gets",
+    "C": "got",
+    "D": "is getting"
+   },
+   "answer": "D",
+   "explain": "'better and better' → sự thay đổi dần dần → hiện tại tiếp diễn → is getting."
+  },
+  {
+   "no": 10,
+   "code": "G03",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "I'm wanting a new laptop.",
+    "B": "She is owning two cars.",
+    "C": "He is having lunch with a client now.",
+    "D": "They are needing more help."
+   },
+   "answer": "C",
+   "explain": "'have' nghĩa 'ăn' là hành động → chia tiếp diễn được. want, own, need là động từ trạng thái nên A, B, D sai."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G03",
+   "q": "Tìm lỗi sai: The soup (A) is smelling (B) wonderful and I (C) am (D) getting hungry.",
+   "options": {
+    "A": "is smelling",
+    "B": "wonderful",
+    "C": "am",
+    "D": "getting"
+   },
+   "answer": "A",
+   "explain": "'smell' nghĩa 'có mùi' là trạng thái → smells wonderful. 'am getting hungry' đúng vì diễn tả sự thay đổi dần."
+  },
+  {
+   "no": 2,
+   "code": "G03",
+   "q": "Chọn câu ĐÚNG về cách dùng động từ 'think':",
+   "options": {
+    "A": "I'm thinking you're right about this.",
+    "B": "I think about changing jobs at the moment.",
+    "C": "I thinking about changing jobs.",
+    "D": "I'm thinking about changing jobs."
+   },
+   "answer": "D",
+   "explain": "'think about' = đang cân nhắc (hành động) → chia tiếp diễn. A sai vì 'think' = cho rằng là trạng thái; B dùng hiện tại đơn với 'at the moment'; C thiếu am."
+  },
+  {
+   "no": 3,
+   "code": "G03",
+   "q": "The shop assistant ___ the apples on the scale right now.",
+   "options": {
+    "A": "weighs",
+    "B": "is weighing",
+    "C": "weigh",
+    "D": "is weigh"
+   },
+   "answer": "B",
+   "explain": "'weigh' ở đây nghĩa 'cân' (hành động) + 'right now' → is weighing. A dùng cho nghĩa trạng thái 'nặng', như 'The bag weighs 5 kg'."
+  },
+  {
+   "no": 4,
+   "code": "G03",
+   "q": "My roommate ___ his dirty dishes in the sink! It drives me crazy.",
+   "options": {
+    "A": "always is leaving",
+    "B": "is always leaving",
+    "C": "always leave",
+    "D": "is always leave"
+   },
+   "answer": "B",
+   "explain": "be + always + V-ing diễn tả thói quen gây khó chịu → is always leaving. A sai vị trí 'always' (phải đứng sau to be)."
+  },
+  {
+   "no": 5,
+   "code": "G03",
+   "q": "Chọn câu gần nghĩa nhất với: 'I have an appointment with the dentist tomorrow at 3.'",
+   "options": {
+    "A": "I'm seeing the dentist tomorrow at 3.",
+    "B": "I see the dentist every day at 3.",
+    "C": "I saw the dentist at 3.",
+    "D": "I'm seeing the dentist now."
+   },
+   "answer": "A",
+   "explain": "'see' nghĩa 'gặp, có hẹn' + thời gian tương lai → kế hoạch đã sắp xếp. D sai nghĩa vì chỉ việc đang diễn ra lúc nói."
+  },
+  {
+   "no": 6,
+   "code": "G03",
+   "q": "Tìm lỗi sai: More and more (A) people (B) is (C) working (D) remotely these days.",
+   "options": {
+    "A": "people",
+    "B": "is",
+    "C": "working",
+    "D": "remotely"
+   },
+   "answer": "B",
+   "explain": "'people' là danh từ số nhiều → are working. 'remotely' là trạng từ bổ nghĩa cho 'working' nên đúng."
+  },
+  {
+   "no": 7,
+   "code": "G03",
+   "q": "A: Where's Minh? B: He ___ a shower. He'll call you back in ten minutes.",
+   "options": {
+    "A": "has",
+    "B": "have",
+    "C": "is having",
+    "D": "is have"
+   },
+   "answer": "C",
+   "explain": "'have a shower' là hành động (tắm), đang diễn ra lúc nói → is having. A 'has' chỉ dùng cho nghĩa sở hữu hoặc thói quen."
+  },
+  {
+   "no": 8,
+   "code": "G03",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "The chef is tasting the soup.",
+    "B": "We're having a great time.",
+    "C": "I'm seeing my old teacher tonight.",
+    "D": "This coffee is tasting bitter."
+   },
+   "answer": "D",
+   "explain": "'taste' nghĩa 'có vị' là trạng thái → This coffee tastes bitter. A đúng vì 'taste' = nếm là hành động."
+  },
+  {
+   "no": 9,
+   "code": "G03",
+   "q": "Look at this chart: petrol prices ___ at the moment.",
+   "options": {
+    "A": "are rising",
+    "B": "rise",
+    "C": "is rising",
+    "D": "rose"
+   },
+   "answer": "A",
+   "explain": "Xu hướng đang thay đổi + 'at the moment' → hiện tại tiếp diễn; 'prices' số nhiều → are rising. C sai vì chia số ít."
+  },
+  {
+   "no": 10,
+   "code": "G03",
+   "q": "Chọn câu hỏi ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "Are you understanding the question?",
+    "B": "Do you understand the question?",
+    "C": "Does you understand the question?",
+    "D": "Are you understand the question?"
+   },
+   "answer": "B",
+   "explain": "'understand' là động từ trạng thái → dùng hiện tại đơn: Do you understand? A sai vì chia tiếp diễn; C sai trợ động từ; D trộn to be với động từ nguyên mẫu."
+  }
+ ]
+}

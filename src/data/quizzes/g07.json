@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G07",
+   "q": "She has been ___ for the bus for twenty minutes.",
+   "options": {
+    "A": "wait",
+    "B": "waited",
+    "C": "waiting",
+    "D": "waits"
+   },
+   "answer": "C",
+   "explain": "Công thức have/has + been + V-ing → waiting."
+  },
+  {
+   "no": 2,
+   "code": "G07",
+   "q": "It ___ raining since this morning.",
+   "options": {
+    "A": "have been",
+    "B": "is been",
+    "C": "was been",
+    "D": "has been"
+   },
+   "answer": "D",
+   "explain": "Chủ ngữ 'It' → has been + V-ing; 'since this morning' kéo dài đến nay."
+  },
+  {
+   "no": 3,
+   "code": "G07",
+   "q": "They have ___ talking on the phone for an hour.",
+   "options": {
+    "A": "be",
+    "B": "being",
+    "C": "been",
+    "D": "was"
+   },
+   "answer": "C",
+   "explain": "have + been + V-ing; 'been' không bao giờ đổi dạng."
+  },
+  {
+   "no": 4,
+   "code": "G07",
+   "q": "I ___ English for five years, and I'm still learning.",
+   "options": {
+    "A": "am learning",
+    "B": "learn",
+    "C": "was learnt",
+    "D": "have been learning"
+   },
+   "answer": "D",
+   "explain": "'for five years' + vẫn đang học → hiện tại hoàn thành tiếp diễn."
+  },
+  {
+   "no": 5,
+   "code": "G07",
+   "q": "We have been living in this flat ___ 2021.",
+   "options": {
+    "A": "since",
+    "B": "for",
+    "C": "ago",
+    "D": "from"
+   },
+   "answer": "A",
+   "explain": "'2021' là mốc thời gian → since."
+  },
+  {
+   "no": 6,
+   "code": "G07",
+   "q": "My brother has been playing video games ___ morning, and he hasn't had breakfast.",
+   "options": {
+    "A": "during",
+    "B": "all",
+    "C": "whole",
+    "D": "in"
+   },
+   "answer": "B",
+   "explain": "'all morning' = suốt cả buổi sáng, dấu hiệu quen thuộc của thì này; 'during/whole' cần 'the' (during the morning, the whole morning), 'in morning' thiếu mạo từ."
+  },
+  {
+   "no": 7,
+   "code": "G07",
+   "q": "He ___ been working here for three months.",
+   "options": {
+    "A": "have",
+    "B": "is",
+    "C": "has",
+    "D": "was"
+   },
+   "answer": "C",
+   "explain": "Chủ ngữ 'He' → has been + V-ing."
+  },
+  {
+   "no": 8,
+   "code": "G07",
+   "q": "I'm tired because I ___.",
+   "options": {
+    "A": "am run",
+    "B": "has been running",
+    "C": "have been run",
+    "D": "have been running"
+   },
+   "answer": "D",
+   "explain": "Dấu vết còn ở hiện tại (mệt) → I have been running; chủ ngữ I đi với have."
+  },
+  {
+   "no": 9,
+   "code": "G07",
+   "q": "How long have you been ___ this book?",
+   "options": {
+    "A": "reading",
+    "B": "read",
+    "C": "reads",
+    "D": "to read"
+   },
+   "answer": "A",
+   "explain": "How long + have + S + been + V-ing → reading."
+  },
+  {
+   "no": 10,
+   "code": "G07",
+   "q": "Your hands are dirty. ___ you been gardening?",
+   "options": {
+    "A": "Has",
+    "B": "Have",
+    "C": "Are",
+    "D": "Did"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi: Have/Has + S + been + V-ing; chủ ngữ 'you' → Have."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G07",
+   "q": "I ___ three emails this morning, and now I'm going to reply to the rest.",
+   "options": {
+    "A": "have been writing",
+    "B": "am writing",
+    "C": "have written",
+    "D": "write"
+   },
+   "answer": "C",
+   "explain": "Có số lượng cụ thể (three emails) → nhấn mạnh kết quả → hiện tại hoàn thành; dạng tiếp diễn không đi với số lượng đếm được."
+  },
+  {
+   "no": 2,
+   "code": "G07",
+   "q": "She ___ this book for a week, but she's only on page 50.",
+   "options": {
+    "A": "has read",
+    "B": "reads",
+    "C": "read",
+    "D": "has been reading"
+   },
+   "answer": "D",
+   "explain": "Chưa đọc xong, nhấn mạnh quá trình kéo dài → has been reading; 'has read' nghĩa là đã đọc xong."
+  },
+  {
+   "no": 3,
+   "code": "G07",
+   "q": "I ___ Lan since we were children.",
+   "options": {
+    "A": "have known",
+    "B": "have been knowing",
+    "C": "am knowing",
+    "D": "know"
+   },
+   "answer": "A",
+   "explain": "'know' là động từ trạng thái → không dùng tiếp diễn, dùng hiện tại hoàn thành have known."
+  },
+  {
+   "no": 4,
+   "code": "G07",
+   "q": "How long ___ you been waiting? – About half an hour.",
+   "options": {
+    "A": "are",
+    "B": "have",
+    "C": "did",
+    "D": "do"
+   },
+   "answer": "B",
+   "explain": "How long + have + you + been + V-ing; 'are/did/do' không đi với 'been waiting'."
+  },
+  {
+   "no": 5,
+   "code": "G07",
+   "q": "He ___ well lately. He looks exhausted.",
+   "options": {
+    "A": "didn't sleep",
+    "B": "doesn't sleep",
+    "C": "hasn't been sleeping",
+    "D": "hasn't been slept"
+   },
+   "answer": "C",
+   "explain": "'lately' + tình trạng kéo dài đến nay → hasn't been sleeping; 'been slept' sai cấu trúc (phải là V-ing)."
+  },
+  {
+   "no": 6,
+   "code": "G07",
+   "q": "We ___ for 40 minutes! Where is the waiter?",
+   "options": {
+    "A": "are waiting",
+    "B": "waited",
+    "C": "wait",
+    "D": "have been waiting"
+   },
+   "answer": "D",
+   "explain": "Có 'for 40 minutes' nói thời lượng tính đến hiện tại → phải dùng thì hoàn thành; 'are waiting' không đi với for + khoảng."
+  },
+  {
+   "no": 7,
+   "code": "G07",
+   "q": "How many cups of coffee ___ today?",
+   "options": {
+    "A": "have you drunk",
+    "B": "have you been drinking",
+    "C": "are you drinking",
+    "D": "you have drunk"
+   },
+   "answer": "A",
+   "explain": "Hỏi số lượng (How many) → hiện tại hoàn thành; 'you have drunk' sai trật tự câu hỏi."
+  },
+  {
+   "no": 8,
+   "code": "G07",
+   "q": "Why are you out of breath? – I ___.",
+   "options": {
+    "A": "have been run",
+    "B": "have been running",
+    "C": "had been running",
+    "D": "am run"
+   },
+   "answer": "B",
+   "explain": "Giải thích dấu hiệu hiện tại (thở hổn hển) → have been running; 'had been running' là quá khứ, không hợp với câu hỏi ở hiện tại."
+  },
+  {
+   "no": 9,
+   "code": "G07",
+   "q": "___ she been working here long?",
+   "options": {
+    "A": "Have",
+    "B": "Is",
+    "C": "Has",
+    "D": "Did"
+   },
+   "answer": "C",
+   "explain": "Chủ ngữ 'she' → Has + S + been + V-ing; 'Is' và 'Did' không đi với 'been working'."
+  },
+  {
+   "no": 10,
+   "code": "G07",
+   "q": "It ___ since we arrived, so we haven't been able to go to the beach.",
+   "options": {
+    "A": "is raining",
+    "B": "rains",
+    "C": "rained",
+    "D": "has been raining"
+   },
+   "answer": "D",
+   "explain": "'since we arrived' → kéo dài đến nay → has been raining; 'is raining' không đi với since."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G07",
+   "q": "Tìm lỗi sai: I (A) have been owning (B) this car (C) since (D) 2018.",
+   "options": {
+    "A": "have been owning",
+    "B": "this car",
+    "C": "since",
+    "D": "2018"
+   },
+   "answer": "A",
+   "explain": "'own' là động từ trạng thái → không dùng tiếp diễn; sửa thành 'have owned'."
+  },
+  {
+   "no": 2,
+   "code": "G07",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "She has been teaching at this school since 2015.",
+    "B": "He has been writing five reports today.",
+    "C": "I have waiting for you for ages.",
+    "D": "They has been living here for years."
+   },
+   "answer": "A",
+   "explain": "Câu đúng: has been + V-ing + since mốc; các câu khác sai vì số lượng cụ thể (five reports), thiếu 'been', và 'They has'."
+  },
+  {
+   "no": 3,
+   "code": "G07",
+   "q": "Chọn câu gần nghĩa nhất với: I started waiting for the bus 30 minutes ago and I'm still waiting.",
+   "options": {
+    "A": "I waited for the bus for 30 minutes.",
+    "B": "I have been waiting for the bus for 30 minutes.",
+    "C": "I am waiting for the bus since 30 minutes.",
+    "D": "I had waited for the bus for 30 minutes."
+   },
+   "answer": "B",
+   "explain": "Bắt đầu trong quá khứ và vẫn tiếp diễn → have been waiting for 30 minutes; 'waited' nghĩa là đã xong, 'since 30 minutes' sai."
+  },
+  {
+   "no": 4,
+   "code": "G07",
+   "q": "Tìm lỗi sai: We (A) have (B) waiting (C) here (D) since noon.",
+   "options": {
+    "A": "We",
+    "B": "have waiting",
+    "C": "here",
+    "D": "since noon"
+   },
+   "answer": "B",
+   "explain": "Thiếu 'been': phải là 'have been waiting'."
+  },
+  {
+   "no": 5,
+   "code": "G07",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "How long have you been learning Korean?",
+    "B": "I've been thinking about changing jobs.",
+    "C": "She has been visiting her grandmother three times this month.",
+    "D": "It's been snowing since last night."
+   },
+   "answer": "C",
+   "explain": "Có số lần cụ thể (three times) → dùng hiện tại hoàn thành 'has visited', không dùng tiếp diễn."
+  },
+  {
+   "no": 6,
+   "code": "G07",
+   "q": "She ___ at this company for ten years, but she left last month.",
+   "options": {
+    "A": "has been working",
+    "B": "has worked",
+    "C": "is working",
+    "D": "worked"
+   },
+   "answer": "D",
+   "explain": "Việc làm đã chấm dứt (she left last month) → quá khứ đơn; hiện tại hoàn thành (tiếp diễn) chỉ dùng khi còn kéo dài đến nay."
+  },
+  {
+   "no": 7,
+   "code": "G07",
+   "q": "I ___ about your offer, and I've decided to accept it.",
+   "options": {
+    "A": "'ve been thinking",
+    "B": "'m thinking",
+    "C": "think",
+    "D": "'ve been thought"
+   },
+   "answer": "A",
+   "explain": "Quá trình suy nghĩ kéo dài đến nay rồi đi đến quyết định → 've been thinking ('think' mang nghĩa hành động); 'been thought' sai cấu trúc."
+  },
+  {
+   "no": 8,
+   "code": "G07",
+   "q": "How long ___ Vietnamese? – Since I moved to Hanoi in 2022.",
+   "options": {
+    "A": "are you learning",
+    "B": "have you been learning",
+    "C": "did you learn",
+    "D": "do you learn"
+   },
+   "answer": "B",
+   "explain": "Câu trả lời 'Since…' cho thấy việc học kéo dài đến nay → have you been learning; 'did you learn' chỉ việc đã kết thúc."
+  },
+  {
+   "no": 9,
+   "code": "G07",
+   "q": "He ___ the car, so we can drive to the airport now.",
+   "options": {
+    "A": "has been fixing",
+    "B": "is fixing",
+    "C": "has fixed",
+    "D": "fixes"
+   },
+   "answer": "C",
+   "explain": "Kết quả đã hoàn tất (xe chạy được, có thể lái đi) → has fixed; 'has been fixing' nhấn mạnh quá trình, có thể chưa xong."
+  },
+  {
+   "no": 10,
+   "code": "G07",
+   "q": "Tìm lỗi sai: How long (A) has (B) your parents (C) been living (D) in Da Nang?",
+   "options": {
+    "A": "How long",
+    "B": "has",
+    "C": "your parents",
+    "D": "been living"
+   },
+   "answer": "B",
+   "explain": "'your parents' số nhiều → phải dùng 'have', không dùng 'has'."
+  }
+ ]
+}

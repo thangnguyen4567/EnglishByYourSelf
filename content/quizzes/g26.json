@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "When I was a child, I ___ in a small village near the sea.",
+      "options": {
+        "A": "live",
+        "B": "am used to living",
+        "C": "used to live",
+        "D": "use to live"
+      },
+      "answer": "C",
+      "explain": "Trạng thái trong quá khứ nay không còn → used to + V nguyên mẫu: used to live."
+    },
+    {
+      "q": "I'm used to ___ up at 5 a.m. because I work early shifts.",
+      "options": {
+        "A": "get",
+        "B": "got",
+        "C": "gets",
+        "D": "getting"
+      },
+      "answer": "D",
+      "explain": "be used to + V-ing (đã quen) → getting; 'to' ở đây là giới từ."
+    },
+    {
+      "q": "There ___ a bakery on this corner, but it closed last year.",
+      "options": {
+        "A": "is used to being",
+        "B": "gets used to be",
+        "C": "used to be",
+        "D": "use to be"
+      },
+      "answer": "C",
+      "explain": "Trạng thái trong quá khứ (nay đã đóng cửa) → There used to be."
+    },
+    {
+      "q": "Did you ___ go swimming in the river as a kid?",
+      "options": {
+        "A": "used to",
+        "B": "using to",
+        "C": "uses to",
+        "D": "use to"
+      },
+      "answer": "D",
+      "explain": "Sau did bỏ -d: Did you use to + V?"
+    },
+    {
+      "q": "Don't worry. You'll soon get used to ___ on the left.",
+      "options": {
+        "A": "driving",
+        "B": "drive",
+        "C": "drove",
+        "D": "driven"
+      },
+      "answer": "A",
+      "explain": "get used to + V-ing (dần quen) → driving."
+    },
+    {
+      "q": "My father ___ smoke, but he gave up ten years ago.",
+      "options": {
+        "A": "is used to",
+        "B": "used to",
+        "C": "gets used to",
+        "D": "was used to"
+      },
+      "answer": "B",
+      "explain": "Thói quen quá khứ đã bỏ ('gave up') + V nguyên mẫu 'smoke' → used to."
+    },
+    {
+      "q": "She ___ the cold weather because she grew up in Canada.",
+      "options": {
+        "A": "used to",
+        "B": "use to",
+        "C": "is used to",
+        "D": "uses to"
+      },
+      "answer": "C",
+      "explain": "Nói về việc 'đã quen' ở hiện tại + danh từ 'the cold weather' → is used to."
+    },
+    {
+      "q": "I didn't ___ like vegetables, but now I love them.",
+      "options": {
+        "A": "used to",
+        "B": "using",
+        "C": "be used to",
+        "D": "use to"
+      },
+      "answer": "D",
+      "explain": "Phủ định: didn't use to + V (bỏ -d sau didn't)."
+    },
+    {
+      "q": "Farmers ___ working outdoors in all kinds of weather.",
+      "options": {
+        "A": "are used to",
+        "B": "used to",
+        "C": "use to",
+        "D": "get use to"
+      },
+      "answer": "A",
+      "explain": "Theo sau là V-ing 'working' và nói về hiện tại → are used to (đã quen)."
+    },
+    {
+      "q": "When we were young, our grandfather ___ take us fishing every Sunday.",
+      "options": {
+        "A": "will",
+        "B": "would",
+        "C": "is used to",
+        "D": "gets used to"
+      },
+      "answer": "B",
+      "explain": "Hồi tưởng hành động lặp lại trong quá khứ → would + V (gần nghĩa used to)."
+    }
+  ],
+  "normal": [
+    {
+      "q": "I've lived in Hanoi for five years, so I ___ the traffic now.",
+      "options": {
+        "A": "used to",
+        "B": "use to",
+        "C": "am used to",
+        "D": "was used to"
+      },
+      "answer": "C",
+      "explain": "'now' + đã quen với giao thông → am used to + N. 'used to' là 'đã từng', không hợp với 'now'; 'was used to' là quá khứ."
+    },
+    {
+      "q": "Tom is still ___ his new contact lenses; he only got them last week.",
+      "options": {
+        "A": "getting used to wear",
+        "B": "get used to wearing",
+        "C": "used to wear",
+        "D": "getting used to wearing"
+      },
+      "answer": "D",
+      "explain": "Quá trình đang dần quen → is getting used to + V-ing. 'getting used to wear' sai vì sau 'to' (giới từ) phải là V-ing."
+    },
+    {
+      "q": "___ you use to have long hair when you were at university?",
+      "options": {
+        "A": "Did",
+        "B": "Were",
+        "C": "Are",
+        "D": "Do"
+      },
+      "answer": "A",
+      "explain": "Câu hỏi với used to: Did + S + use to + V? 'Were/Are' không đi với 'use to + V'."
+    },
+    {
+      "q": "Chọn câu ĐÚNG ngữ pháp:",
+      "options": {
+        "A": "I would have a dog when I was little.",
+        "B": "I used to have a dog when I was little.",
+        "C": "I was used to have a dog when I was little.",
+        "D": "I use to have a dog when I was little."
+      },
+      "answer": "B",
+      "explain": "'have' (sở hữu) là động từ trạng thái → dùng used to, không dùng would. 'was used to have' sai vì sau be used to phải là V-ing."
+    },
+    {
+      "q": "Living alone was hard at first, but I soon ___ it.",
+      "options": {
+        "A": "used to",
+        "B": "was used to be",
+        "C": "got used to",
+        "D": "use to"
+      },
+      "answer": "C",
+      "explain": "'soon' chỉ quá trình dần quen trong quá khứ → got used to + N. 'used to it' thiếu động từ và mang nghĩa 'đã từng'."
+    },
+    {
+      "q": "She ___ eat meat, but she became a vegetarian in 2020.",
+      "options": {
+        "A": "didn't use to",
+        "B": "is used to",
+        "C": "gets used to",
+        "D": "used to"
+      },
+      "answer": "D",
+      "explain": "Thói quen quá khứ nay đã bỏ → used to + V. 'didn't use to' mâu thuẫn với việc sau đó cô ấy mới ăn chay."
+    },
+    {
+      "q": "These scissors are used to ___ fabric, not paper.",
+      "options": {
+        "A": "cut",
+        "B": "cutting",
+        "C": "cuts",
+        "D": "be cut"
+      },
+      "answer": "A",
+      "explain": "Đây là bị động 'be used to + V' (được dùng để) → cut. 'are used to cutting' nghĩa là 'quen với', không hợp với cái kéo."
+    },
+    {
+      "q": "Tìm lỗi sai: I (A) am not used (B) to work (C) at night, so I (D) feel tired in the mornings.",
+      "options": {
+        "A": "am not used",
+        "B": "to work",
+        "C": "at night",
+        "D": "feel"
+      },
+      "answer": "B",
+      "explain": "be used to + V-ing → 'to working'. Các phần khác đúng: 'am not used' là phủ định hợp lệ."
+    },
+    {
+      "q": "Nurses who work night shifts ___ sleeping during the day.",
+      "options": {
+        "A": "used to",
+        "B": "are used to",
+        "C": "use to",
+        "D": "would"
+      },
+      "answer": "B",
+      "explain": "Theo sau là V-ing 'sleeping' và nói về hiện tại → are used to. 'used to' và 'would' phải đi với V nguyên mẫu."
+    },
+    {
+      "q": "I ___ in Da Nang for three years before moving to Saigon.",
+      "options": {
+        "A": "used to live",
+        "B": "am used to living",
+        "C": "lived",
+        "D": "would live"
+      },
+      "answer": "C",
+      "explain": "Có khoảng thời gian cụ thể 'for three years' → dùng quá khứ đơn 'lived'; used to không đi với khoảng thời gian cụ thể, would không dùng với 'live'."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: (A) Did you (B) used to (C) walk to school (D) when you were young?",
+      "options": {
+        "A": "Did you",
+        "B": "used to",
+        "C": "walk to school",
+        "D": "when you were young"
+      },
+      "answer": "B",
+      "explain": "Sau did phải bỏ -d: Did you use to walk…? Các phần còn lại đúng."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'Working from home felt strange at first, but now it feels normal to me.'",
+      "options": {
+        "A": "I used to work from home.",
+        "B": "I'm getting used to work from home.",
+        "C": "I would work from home.",
+        "D": "I've got used to working from home."
+      },
+      "answer": "D",
+      "explain": "Từ lạ → quen (quá trình đã hoàn tất) → have got used to + V-ing. 'used to work' nghĩa là trước làm nay không còn; 'getting used to work' sai dạng V."
+    },
+    {
+      "q": "Chọn câu SAI ngữ pháp:",
+      "options": {
+        "A": "She would be very shy as a teenager.",
+        "B": "We would spend every summer at our grandparents' farm.",
+        "C": "He never used to complain about his job.",
+        "D": "They used not to allow phones in class."
+      },
+      "answer": "A",
+      "explain": "would không dùng với động từ trạng thái 'be' → phải là 'She used to be very shy'. 'used not to' là dạng phủ định trang trọng, vẫn đúng."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'I no longer go to the gym every morning.'",
+      "options": {
+        "A": "I'm used to going to the gym every morning.",
+        "B": "I used to go to the gym every morning.",
+        "C": "I got used to going to the gym every morning.",
+        "D": "I didn't use to go to the gym every morning."
+      },
+      "answer": "B",
+      "explain": "'no longer' → trước đây có, nay không → used to + V. 'be/get used to' nói về việc quen, không mang nghĩa đã bỏ."
+    },
+    {
+      "q": "After years of living in the tropics, she will never ___ Russian winters.",
+      "options": {
+        "A": "used to",
+        "B": "be use to",
+        "C": "get used to",
+        "D": "getting used to"
+      },
+      "answer": "C",
+      "explain": "Sau will dùng V nguyên mẫu → will never get used to + N. 'be use to' thiếu -d; 'used to' không đứng sau will."
+    },
+    {
+      "q": "It takes time ___ a new culture.",
+      "options": {
+        "A": "getting used",
+        "B": "to used to",
+        "C": "get used",
+        "D": "to get used to"
+      },
+      "answer": "D",
+      "explain": "Cấu trúc It takes time + to V → to get used to + N. 'to used to' sai vì sau 'to' không dùng 'used' như động từ."
+    },
+    {
+      "q": "Tìm lỗi sai: When I was a kid, my family (A) would live (B) in a small flat, and we (C) would play (D) in the yard every evening.",
+      "options": {
+        "A": "would live",
+        "B": "in a small flat",
+        "C": "would play",
+        "D": "in the yard"
+      },
+      "answer": "A",
+      "explain": "'live' là động từ trạng thái → không dùng would, phải là 'used to live' (hoặc 'lived'). 'would play' đúng vì 'play' là hành động lặp lại."
+    },
+    {
+      "q": "Câu nào dưới đây ĐÚNG ngữ pháp?",
+      "options": {
+        "A": "I'm used to the noise, so it doesn't bother me.",
+        "B": "I used to the noise, so it doesn't bother me.",
+        "C": "I'm use to the noise, so it doesn't bother me.",
+        "D": "I'm used to hear the noise, so it doesn't bother me."
+      },
+      "answer": "A",
+      "explain": "be used to + N → I'm used to the noise. Thiếu 'be', thiếu -d hoặc dùng V nguyên mẫu 'hear' đều sai."
+    },
+    {
+      "q": "By next month, you ___ to the new software and won't need any help.",
+      "options": {
+        "A": "are used",
+        "B": "will be used",
+        "C": "used",
+        "D": "will use"
+      },
+      "answer": "B",
+      "explain": "Mốc tương lai 'By next month' → will be used to + N (sẽ quen). 'are used' là hiện tại, không hợp với mốc tương lai."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'Driving on the left is no longer difficult for me.'",
+      "options": {
+        "A": "I used to drive on the left.",
+        "B": "I'm getting used to drive on the left.",
+        "C": "I'm used to driving on the left.",
+        "D": "I used to driving on the left."
+      },
+      "answer": "C",
+      "explain": "Không còn khó nữa → đã quen → be used to + V-ing. 'I used to drive' nghĩa là trước đây từng lái, nay không còn."
+    }
+  ]
+}

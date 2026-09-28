@@ -1,0 +1,192 @@
+---
+title: "Phỏng vấn gỡ lỗi & xử lý sự cố (Debugging & incidents)"
+sidebar_label: "22 · Gỡ lỗi & xử lý sự cố"
+sidebar_position: 6
+slug: /phong-van-debugging-su-co
+description: "Kể về một sự cố production theo STAR và giải thích quy trình debug bằng tiếng Anh: reproduce, root cause, rollback, hotfix, postmortem – kèm câu trả lời mẫu có âm thanh."
+---
+
+# Phỏng vấn gỡ lỗi & xử lý sự cố (Debugging & incidents)
+
+<SkillMeta id="noi-22" />
+
+:::info[Mục tiêu]
+*"Tell me about a difficult bug"* hoặc *"a production incident you handled"* xuất hiện ở cả **vòng technical** lẫn **vòng behavioural**.
+Người phỏng vấn đánh giá: bạn có **quy trình debug có hệ thống** (không đoán mò), có **giữ bình tĩnh** khi hệ thống sập, biết ưu tiên
+**khôi phục dịch vụ trước, tìm nguyên nhân sau**, và có **rút kinh nghiệm** để lỗi không lặp lại. Sau bài này bạn kể được một sự cố
+theo **STAR** trong 2–3 phút và mô tả quy trình debug của mình. Ngữ pháp chính: **quá khứ đơn** (chuỗi hành động),
+**quá khứ tiếp diễn** (bối cảnh đang diễn ra: *while HR was running payroll…*) và **quá khứ hoàn thành** (nguyên nhân xảy ra trước đó: *a release had changed…*).
+:::
+
+## 1. Từ vựng chủ đề
+
+### Phát hiện & điều tra lỗi
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| reproduce | /ˌriːprəˈdjuːs/ | tái hiện lỗi | I couldn't reproduce the bug on my machine. |
+| intermittent | /ˌɪntəˈmɪtənt/ | lúc có lúc không | It was an intermittent error that happened once a day. |
+| stack trace | /ˈstæk treɪs/ | dấu vết ngăn xếp lỗi | The stack trace pointed to the tax calculation service. |
+| narrow down | /ˈnærəʊ daʊn/ | khoanh vùng | I narrowed it down to one query. |
+| root cause | /ruːt kɔːz/ | nguyên nhân gốc | The root cause was a missing index. |
+| edge case | /ˈedʒ keɪs/ | trường hợp biên | The bug only appeared in an edge case – employees who joined on the 31st. |
+| race condition | /ˈreɪs kənˌdɪʃn/ | tranh chấp điều kiện | Two jobs updating the same balance caused a race condition. |
+| breakpoint | /ˈbreɪkpɔɪnt/ | điểm dừng debug | I set a breakpoint in the approval handler. |
+| correlation ID | /ˌkɒrəˈleɪʃn aɪˈdiː/ | mã liên kết request | We search the logs by correlation ID to follow one request. |
+
+</VocabList>
+
+### Xử lý sự cố production
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| incident | /ˈɪnsɪdənt/ | sự cố | We had a major incident on payroll day. |
+| outage | /ˈaʊtɪdʒ/ | sự cố ngừng dịch vụ | The outage lasted about forty minutes. |
+| escalate | /ˈeskəleɪt/ | báo lên cấp trên | I escalated the issue to the on-call lead. |
+| roll back | /rəʊl ˈbæk/ | quay về bản trước | We rolled back the release within ten minutes. |
+| hotfix | /ˈhɒtfɪks/ | bản vá khẩn | We deployed a hotfix the same evening. |
+| workaround | /ˈwɜːkəraʊnd/ | giải pháp tạm | As a workaround, HR exported the data manually. |
+| mitigate | /ˈmɪtɪɡeɪt/ | giảm thiểu tác động | Our first priority was to mitigate the impact on users. |
+| affected users | /əˈfektɪd ˈjuːzəz/ | người dùng bị ảnh hưởng | About 3,000 affected users couldn't submit timesheets. |
+| on call | /ɒn ˈkɔːl/ | trực sự cố | I was on call that weekend. |
+
+</VocabList>
+
+### Phòng ngừa & rút kinh nghiệm
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| postmortem | /ˌpəʊstˈmɔːtəm/ | buổi phân tích sau sự cố | We held a blameless postmortem the next day. |
+| monitoring | /ˈmɒnɪtərɪŋ/ | giám sát | Better monitoring would have caught it earlier. |
+| alert | /əˈlɜːt/ | cảnh báo | We added an alert when response time goes above two seconds. |
+| regression test | /rɪˈɡreʃn test/ | kiểm thử hồi quy | I wrote a regression test so the bug can't come back. |
+| structured logging | /ˈstrʌktʃəd ˈlɒɡɪŋ/ | ghi log có cấu trúc | Structured logging makes it easy to filter by employee ID. |
+| feature flag | /ˈfiːtʃə flæɡ/ | cờ bật/tắt tính năng | With a feature flag, we can switch off the new logic instantly. |
+| action item | /ˈækʃn ˈaɪtəm/ | việc cần làm sau họp | The postmortem produced four action items. |
+
+</VocabList>
+
+## 2. Cụm từ & mẫu câu hữu ích
+
+| Mục đích | Mẫu câu | Ví dụ |
+|---|---|---|
+| Mở đầu câu chuyện | *It happened on …, while we were …* | It happened on the last day of the month, while HR was closing timesheets. |
+| Mô tả triệu chứng | *Users started reporting that …* | Users started reporting that the page was timing out. |
+| Ưu tiên khôi phục | *My first priority was to …, not to find the cause.* | My first priority was to restore the service, not to find the cause. |
+| Nguyên nhân xảy ra trước | *It turned out that … had …* | It turned out that a release two days earlier had changed the query. |
+| Khoanh vùng | *I ruled out … and narrowed it down to …* | I ruled out the network and narrowed it down to the database. |
+| Giả thuyết | *My first guess was …, but …* | My first guess was a memory leak, but the memory graph was flat. |
+| Cách sửa | *We fixed it by …* | We fixed it by rewriting the filter as a date range. |
+| Phòng ngừa | *To make sure it doesn't happen again, we …* | To make sure it doesn't happen again, we added an alert and a regression test. |
+| Nhận trách nhiệm | *To be honest, the bug was introduced by my change.* | To be honest, the bug was introduced by my change, so I owned the fix. |
+| Câu giờ | *Let me think of a good example – …* | Let me think of a good example – yes, there's one from last year. |
+
+:::tip[Ba thì quá khứ trong một câu chuyện sự cố]
+- Bối cảnh đang diễn ra → quá khứ tiếp diễn: *HR staff **were closing** timesheets when the API **started** timing out.*
+- Chuỗi hành động chính → quá khứ đơn: *I **checked** the dashboard, **rolled back** the release and **informed** the HR team.*
+- Nguyên nhân xảy ra **trước** thời điểm kể → quá khứ hoàn thành: *We found that a migration **had dropped** an index.*
+
+Xem lại: [G04 · Quá khứ đơn](/docs/ngu-phap/g04-qua-khu-don) · [G05 · Quá khứ tiếp diễn](/docs/ngu-phap/g05-qua-khu-tiep-dien) · [G08 · Quá khứ hoàn thành](/docs/ngu-phap/g08-qua-khu-hoan-thanh)
+:::
+
+## 3. Câu hỏi phỏng vấn thường gặp
+
+### Câu hỏi chính
+
+1. Tell me about the most difficult bug you've fixed.
+2. Describe a production incident you were involved in. What did you do?
+3. Walk me through your debugging process.
+4. How do you deal with a bug that you can't reproduce locally?
+5. Tell me about a time a bug you introduced reached production.
+6. How do you decide between rolling back and deploying a hotfix?
+7. What tools do you use for logging and monitoring?
+8. How do you debug a performance problem in a .NET API?
+9. How do you communicate with users or managers during an outage?
+
+### Câu hỏi đào sâu (follow-up)
+
+- How long did it take to restore the service, and how did you measure the impact?
+- What did the postmortem change in your team's process?
+- If the same thing happened tomorrow, how would you detect it faster?
+
+## 4. Câu trả lời mẫu
+
+<SpeakText title="Describe a production incident you handled (STAR, ≈ 2 phút)">
+
+<span className="no-speak">**Situation:**</span> It happened on the last working day of the month. About 3,000 employees were submitting their timesheets, and HR was preparing the payroll run, when the timesheet API started timing out. Response times went from around 300 milliseconds to over 30 seconds.
+
+<span className="no-speak">**Task:**</span> I was on call that week, so it was my job to get the system back first, and then find out why.
+
+<span className="no-speak">**Action:**</span> I checked the monitoring dashboard and saw that the database CPU was at 100%, while the API servers were fine. We had deployed a release two days earlier, so I rolled it back, and within about fifteen minutes response times were normal again. I posted short updates in the HR channel every ten minutes, so they knew what was going on. The next morning, I restored a copy of the production database to staging and reproduced the problem. The execution plan showed a full scan on the attendance table, which has about forty million rows. It turned out that a new filter had wrapped the date column in a function, so PostgreSQL couldn't use the index. I rewrote it as a simple date range, and the query went from twelve seconds to about fifty milliseconds.
+
+<span className="no-speak">**Result:**</span> We redeployed the fixed release that evening. In the postmortem, we agreed on three action items: an alert when the 95th-percentile response time goes above two seconds, a performance test with production-sized data before month-end releases, and a rule not to deploy in the last three days of the month. We haven't had a similar incident since.
+
+<details>
+<summary>Bản dịch</summary>
+
+**Bối cảnh:** Chuyện xảy ra vào ngày làm việc cuối cùng của tháng. Khoảng 3.000 nhân viên đang nộp bảng chấm công, và phòng nhân sự đang chuẩn bị chạy lương, thì API chấm công bắt đầu bị timeout. Thời gian phản hồi tăng từ khoảng 300 mili giây lên hơn 30 giây.
+
+**Nhiệm vụ:** Tuần đó tôi trực sự cố, nên việc của tôi là khôi phục hệ thống trước, rồi mới tìm nguyên nhân.
+
+**Hành động:** Tôi xem dashboard giám sát và thấy CPU của database ở mức 100%, trong khi các server API vẫn ổn. Chúng tôi đã triển khai một bản phát hành hai ngày trước đó, nên tôi rollback nó, và trong khoảng mười lăm phút thời gian phản hồi trở lại bình thường. Tôi đăng cập nhật ngắn vào kênh của phòng nhân sự mỗi mười phút để họ nắm được tình hình. Sáng hôm sau, tôi khôi phục một bản sao database production lên môi trường staging và tái hiện được lỗi. Execution plan cho thấy truy vấn quét toàn bộ bảng chấm công, bảng có khoảng bốn mươi triệu dòng. Hoá ra một bộ lọc mới đã bọc cột ngày trong một hàm, nên PostgreSQL không dùng được index. Tôi viết lại thành một điều kiện khoảng ngày đơn giản, và truy vấn giảm từ mười hai giây xuống khoảng năm mươi mili giây.
+
+**Kết quả:** Chúng tôi triển khai lại bản đã sửa ngay tối hôm đó. Trong buổi postmortem, chúng tôi thống nhất ba việc cần làm: cảnh báo khi thời gian phản hồi ở phân vị 95 vượt hai giây, kiểm thử hiệu năng với dữ liệu cỡ production trước các bản phát hành cuối tháng, và quy định không triển khai trong ba ngày cuối tháng. Từ đó đến nay chưa có sự cố tương tự.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="Walk me through your debugging process">
+
+First, I make sure I can reproduce the bug, or at least understand exactly when it happens – which user, which data, which environment. Then I look at the evidence: the stack trace, the logs for that correlation ID, and any recent deployments. After that, I form a hypothesis and try to prove it wrong as quickly as possible, usually with a breakpoint or a small failing unit test. I try to change one thing at a time. Once I've found the root cause, I fix it, keep the failing test as a regression test, and check whether the same pattern exists anywhere else in the code.
+
+<details>
+<summary>Bản dịch</summary>
+
+Đầu tiên, tôi đảm bảo tái hiện được lỗi, hoặc ít nhất hiểu chính xác khi nào nó xảy ra – người dùng nào, dữ liệu nào, môi trường nào. Sau đó tôi xem bằng chứng: stack trace, log theo correlation ID đó, và các lần triển khai gần đây. Tiếp theo, tôi đặt ra giả thuyết và cố chứng minh nó sai nhanh nhất có thể, thường bằng một breakpoint hoặc một unit test nhỏ bị lỗi. Tôi cố gắng mỗi lần chỉ thay đổi một thứ. Khi đã tìm ra nguyên nhân gốc, tôi sửa lỗi, giữ lại test đó làm regression test, và kiểm tra xem kiểu lỗi tương tự có tồn tại ở chỗ nào khác trong code không.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="How do you deal with a bug you can't reproduce locally?">
+
+Usually it means something is different between my machine and production – the data, the configuration or the load. For example, we once had leave balances that were occasionally wrong, but only for a few employees. I couldn't reproduce it, so I added structured logging around the calculation. After two days, the logs showed that two background jobs had updated the same balance at almost the same moment. It was a race condition that never happens with one user locally. We fixed it with optimistic concurrency and a retry, and the wrong balances stopped completely.
+
+<details>
+<summary>Bản dịch</summary>
+
+Thường thì điều đó nghĩa là có gì đó khác giữa máy tôi và production – dữ liệu, cấu hình hoặc tải. Ví dụ, có lần số ngày phép thỉnh thoảng bị sai, nhưng chỉ với vài nhân viên. Tôi không tái hiện được, nên tôi thêm structured logging quanh phần tính toán. Sau hai ngày, log cho thấy hai background job đã cập nhật cùng một số dư phép gần như cùng lúc. Đó là race condition không bao giờ xảy ra khi chỉ có một người dùng ở máy local. Chúng tôi sửa bằng optimistic concurrency kèm cơ chế thử lại, và lỗi sai số dư phép chấm dứt hoàn toàn.
+
+</details>
+
+</SpeakText>
+
+:::note[Phân tích bài mẫu]
+- **STAR cho sự cố:** Situation có triệu chứng đo được (*300 ms → 30 s*) → Task nói rõ vai trò (*I was on call*) → Action theo thứ tự **khôi phục → thông báo → tái hiện → nguyên nhân gốc → sửa** → Result có kết quả + 3 action item cụ thể.
+- **Điểm cộng:** rollback trước khi tìm nguyên nhân, **giao tiếp** với người dùng trong lúc sự cố, và thay đổi quy trình sau postmortem.
+- **Ngữ pháp:** quá khứ tiếp diễn (*were submitting, was preparing*), quá khứ đơn (*I checked, rolled it back, rewrote*), quá khứ hoàn thành (*We had deployed…, a new filter had wrapped…, two jobs had updated…*).
+- **Bài quy trình debug:** *First… Then… After that… Once I've found…* – ngắn gọn, có thứ tự, nhấn mạnh **giả thuyết + kiểm chứng**, không đoán mò.
+:::
+
+## 5. Bài tập tự luyện
+
+1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý *reproduce, intermittent, escalate, postmortem*.
+2. **Ngày 1:** Nhớ lại **một sự cố thật của bạn** và viết theo STAR 200–250 từ – thay bằng dự án của bạn, giữ thứ tự *khôi phục → tìm nguyên nhân → sửa → phòng ngừa*, có ít nhất 3 con số.
+3. **Ngày 2:** Shadowing bài mẫu 2 lần, gạch chân mọi động từ quá khứ tiếp diễn và quá khứ hoàn thành, rồi kiểm tra bài của bạn đã dùng đúng chưa.
+4. **Ngày 2:** Nói bài của bạn không nhìn giấy trong 2–3 phút, ghi âm. Sau đó trả lời câu 3, 4 và 5 (mỗi câu 60–90 giây).
+5. **Nâng cao:** Chuẩn bị câu *"Tell me about a bug you introduced"* – thừa nhận thẳng thắn, nói rõ cách bạn sửa và bài học, không đổ lỗi.
+
+## 6. Tự đánh giá
+
+- [ ] Kể một sự cố theo STAR trong 2–3 phút, có số liệu về tác động và thời gian khôi phục.
+- [ ] Thể hiện rõ thứ tự ưu tiên: **khôi phục dịch vụ trước**, tìm nguyên nhân gốc sau.
+- [ ] Mô tả quy trình debug có hệ thống: tái hiện → bằng chứng → giả thuyết → kiểm chứng → phòng ngừa.
+- [ ] Dùng đúng quá khứ đơn, quá khứ tiếp diễn và quá khứ hoàn thành trong cùng một câu chuyện.
+- [ ] Nói được bài học và thay đổi quy trình sau sự cố (postmortem, alert, test).

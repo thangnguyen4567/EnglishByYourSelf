@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G18",
+   "q": "The English class starts ___ 8 o'clock.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for"
+   },
+   "answer": "C",
+   "explain": "Giờ cụ thể → at: at 8 o'clock."
+  },
+  {
+   "no": 2,
+   "code": "G18",
+   "q": "My birthday is ___ 15th May.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "to"
+   },
+   "answer": "B",
+   "explain": "Ngày tháng cụ thể → on."
+  },
+  {
+   "no": 3,
+   "code": "G18",
+   "q": "It gets very cold here ___ winter.",
+   "options": {
+    "A": "on",
+    "B": "at",
+    "C": "in",
+    "D": "to"
+   },
+   "answer": "C",
+   "explain": "Mùa → in: in winter."
+  },
+  {
+   "no": 4,
+   "code": "G18",
+   "q": "Your keys are ___ the table next to the lamp.",
+   "options": {
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "to"
+   },
+   "answer": "A",
+   "explain": "Trên bề mặt → on the table."
+  },
+  {
+   "no": 5,
+   "code": "G18",
+   "q": "My cousin lives ___ Da Nang.",
+   "options": {
+    "A": "at",
+    "B": "on",
+    "C": "to",
+    "D": "in"
+   },
+   "answer": "D",
+   "explain": "Thành phố, quốc gia → in: in Da Nang."
+  },
+  {
+   "no": 6,
+   "code": "G18",
+   "q": "Her office is ___ the fifth floor.",
+   "options": {
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "by"
+   },
+   "answer": "A",
+   "explain": "Tầng của tòa nhà → on: on the fifth floor."
+  },
+  {
+   "no": 7,
+   "code": "G18",
+   "q": "My little sister is afraid ___ spiders.",
+   "options": {
+    "A": "with",
+    "B": "of",
+    "C": "from",
+    "D": "about"
+   },
+   "answer": "B",
+   "explain": "Cụm cố định: afraid of (sợ cái gì)."
+  },
+  {
+   "no": 8,
+   "code": "G18",
+   "q": "She is very keen ___ photography.",
+   "options": {
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "for"
+   },
+   "answer": "C",
+   "explain": "Cụm cố định: keen on (say mê)."
+  },
+  {
+   "no": 9,
+   "code": "G18",
+   "q": "We usually eat out ___ Saturday evening.",
+   "options": {
+    "A": "in",
+    "B": "at",
+    "C": "to",
+    "D": "on"
+   },
+   "answer": "D",
+   "explain": "Buổi của một ngày cụ thể → on: on Saturday evening."
+  },
+  {
+   "no": 10,
+   "code": "G18",
+   "q": "Ms. Hoa is married ___ a doctor.",
+   "options": {
+    "A": "with",
+    "B": "to",
+    "C": "for",
+    "D": "by"
+   },
+   "answer": "B",
+   "explain": "Cụm cố định: married to. 'married with' là lỗi dịch từ tiếng Việt."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G18",
+   "q": "I'm going to visit my grandparents ___ next Sunday.",
+   "options": {
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "no preposition"
+   },
+   "answer": "D",
+   "explain": "Trước next/last/this/every không dùng giới từ. 'on next Sunday' là bẫy thường gặp."
+  },
+  {
+   "no": 2,
+   "code": "G18",
+   "q": "The train left exactly ___ time, at 7:15 as planned.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "by"
+   },
+   "answer": "B",
+   "explain": "on time = đúng giờ đã định. 'in time' = kịp lúc, không hợp với 'exactly ... as planned'."
+  },
+  {
+   "no": 3,
+   "code": "G18",
+   "q": "We got to the cinema just ___ time to see the start of the film.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "by"
+   },
+   "answer": "A",
+   "explain": "in time (to do sth) = kịp lúc để làm gì. 'on time' là đúng giờ quy định, không đi với 'to see'."
+  },
+  {
+   "no": 4,
+   "code": "G18",
+   "q": "We walked ___ the tunnel to get to the other side of the hill.",
+   "options": {
+    "A": "across",
+    "B": "through",
+    "C": "along",
+    "D": "onto"
+   },
+   "answer": "B",
+   "explain": "Xuyên qua không gian ba chiều (đường hầm) → through. 'across' dùng cho bề mặt như đường, sông."
+  },
+  {
+   "no": 5,
+   "code": "G18",
+   "q": "Mr. Long is responsible ___ training new staff.",
+   "options": {
+    "A": "of",
+    "B": "to",
+    "C": "for",
+    "D": "with"
+   },
+   "answer": "C",
+   "explain": "Cụm cố định: responsible for + V-ing/N."
+  },
+  {
+   "no": 6,
+   "code": "G18",
+   "q": "He is very proud ___ his daughter's success.",
+   "options": {
+    "A": "about",
+    "B": "of",
+    "C": "for",
+    "D": "with"
+   },
+   "answer": "B",
+   "explain": "Cụm cố định: proud of. 'proud for' không phải cụm chuẩn."
+  },
+  {
+   "no": 7,
+   "code": "G18",
+   "q": "My parents arrived ___ Tokyo late at night.",
+   "options": {
+    "A": "to",
+    "B": "at",
+    "C": "in",
+    "D": "on"
+   },
+   "answer": "C",
+   "explain": "arrive in + thành phố/quốc gia; không dùng 'arrive to'. 'at' dùng cho địa điểm nhỏ như sân bay."
+  },
+  {
+   "no": 8,
+   "code": "G18",
+   "q": "This new phone is very similar ___ the one I lost.",
+   "options": {
+    "A": "with",
+    "B": "as",
+    "C": "from",
+    "D": "to"
+   },
+   "answer": "D",
+   "explain": "Cụm cố định: similar to. 'from' đi với different."
+  },
+  {
+   "no": 9,
+   "code": "G18",
+   "q": "My parents are worried ___ my exam results.",
+   "options": {
+    "A": "about",
+    "B": "at",
+    "C": "of",
+    "D": "for"
+   },
+   "answer": "A",
+   "explain": "worried about + việc gì. 'worried of' không phải cụm chuẩn."
+  },
+  {
+   "no": 10,
+   "code": "G18",
+   "q": "Many neighbours complained about the loud music ___ night.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for"
+   },
+   "answer": "C",
+   "explain": "Cụm cố định: at night. Còn 'in the morning/afternoon/evening' dùng in."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G18",
+   "q": "Tìm lỗi sai: (A) On next Monday, we (B) will discuss the plan (C) at the meeting (D) in the afternoon.",
+   "options": {
+    "A": "On next Monday",
+    "B": "will discuss",
+    "C": "at the meeting",
+    "D": "in the afternoon"
+   },
+   "answer": "A",
+   "explain": "Trước 'next' không dùng giới từ → Next Monday. Lưu ý 'discuss' không cần 'about' nên B đúng."
+  },
+  {
+   "no": 2,
+   "code": "G18",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "We discussed about the problem.",
+    "B": "She entered into the room quietly.",
+    "C": "I'll see you on Friday morning.",
+    "D": "He arrived to the station at 6."
+   },
+   "answer": "C",
+   "explain": "Buổi của một ngày cụ thể → on Friday morning. A, B thừa giới từ; D phải là 'arrived at'."
+  },
+  {
+   "no": 3,
+   "code": "G18",
+   "q": "We argued for hours, but ___ we agreed to share the cost.",
+   "options": {
+    "A": "at the end",
+    "B": "in the end",
+    "C": "by the end",
+    "D": "on the end"
+   },
+   "answer": "B",
+   "explain": "in the end = cuối cùng thì (kết quả). 'at the end' cần 'of + N' (at the end of the film)."
+  },
+  {
+   "no": 4,
+   "code": "G18",
+   "q": "The storm hit the town ___ the night of 12th October.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "by"
+   },
+   "answer": "B",
+   "explain": "Buổi/đêm của một ngày cụ thể → on the night of... Dù 'at night' dùng at, nhưng có ngày cụ thể thì phải dùng on."
+  },
+  {
+   "no": 5,
+   "code": "G18",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "I'm looking forward to seeing you.",
+    "B": "She is good at speaking in public.",
+    "C": "He is capable to solve the problem.",
+    "D": "They succeeded in finding a cheaper supplier."
+   },
+   "answer": "C",
+   "explain": "Cụm đúng là capable of + V-ing → capable of solving. Các câu còn lại dùng đúng giới từ + V-ing."
+  },
+  {
+   "no": 6,
+   "code": "G18",
+   "q": "She paid the driver and got ___ the taxi.",
+   "options": {
+    "A": "off",
+    "B": "out of",
+    "C": "from",
+    "D": "down"
+   },
+   "answer": "B",
+   "explain": "Ra khỏi xe con/taxi → get out of. 'get off' dùng cho xe buýt, tàu, máy bay."
+  },
+  {
+   "no": 7,
+   "code": "G18",
+   "q": "Tìm lỗi sai: She is (A) very angry (B) with her brother (C) for (D) break her laptop.",
+   "options": {
+    "A": "very angry",
+    "B": "with",
+    "C": "for",
+    "D": "break"
+   },
+   "answer": "D",
+   "explain": "Sau giới từ 'for' động từ phải ở dạng V-ing → for breaking. 'angry with' + người là đúng."
+  },
+  {
+   "no": 8,
+   "code": "G18",
+   "q": "All employees must be ___ with the new safety procedures before Monday.",
+   "options": {
+    "A": "familiar",
+    "B": "aware",
+    "C": "responsible",
+    "D": "capable"
+   },
+   "answer": "A",
+   "explain": "familiar with = quen thuộc với. aware đi với of, responsible với for, capable với of nên không hợp với 'with'."
+  },
+  {
+   "no": 9,
+   "code": "G18",
+   "q": "Chọn câu gần nghĩa nhất với: Minh can play the guitar very well.",
+   "options": {
+    "A": "Minh is good in play the guitar.",
+    "B": "Minh is capable at playing the guitar.",
+    "C": "Minh is fond on playing the guitar.",
+    "D": "Minh is good at playing the guitar."
+   },
+   "answer": "D",
+   "explain": "good at + V-ing = giỏi làm gì. A sai giới từ và dạng động từ; B, C sai giới từ (capable of, fond of)."
+  },
+  {
+   "no": 10,
+   "code": "G18",
+   "q": "Whether we go camping or not depends ___ the weather.",
+   "options": {
+    "A": "of",
+    "B": "from",
+    "C": "on",
+    "D": "at"
+   },
+   "answer": "C",
+   "explain": "Cụm cố định: depend on. 'depend of' là lỗi dịch 'phụ thuộc vào'."
+  }
+ ]
+}

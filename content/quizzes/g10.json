@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "This time next month, we ___ in our new apartment.",
+      "options": {
+        "A": "will living",
+        "B": "will be living",
+        "C": "are live",
+        "D": "will be live"
+      },
+      "answer": "B",
+      "explain": "'This time next month' → đang diễn ra tại mốc tương lai → will be + V-ing."
+    },
+    {
+      "q": "By the end of this year, I ___ 50 million dong.",
+      "options": {
+        "A": "will saved",
+        "B": "will have save",
+        "C": "will have saved",
+        "D": "have saved"
+      },
+      "answer": "C",
+      "explain": "'By the end of this year' (by + mốc tương lai) → will have + V3."
+    },
+    {
+      "q": "At 8 p.m. tonight, we ___ the final on TV.",
+      "options": {
+        "A": "will watching",
+        "B": "watch",
+        "C": "will be watched",
+        "D": "will be watching"
+      },
+      "answer": "D",
+      "explain": "'At 8 p.m. tonight' là thời điểm cụ thể trong tương lai → will be + V-ing."
+    },
+    {
+      "q": "She will ___ finished the project by Friday.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "be",
+        "D": "have"
+      },
+      "answer": "D",
+      "explain": "Sau will luôn là nguyên mẫu → will have + V3, không dùng 'has'."
+    },
+    {
+      "q": "Don't call at nine – the kids ___ sleeping.",
+      "options": {
+        "A": "will",
+        "B": "will be",
+        "C": "are be",
+        "D": "will have"
+      },
+      "answer": "B",
+      "explain": "Đang diễn ra tại một thời điểm tương lai → will be + V-ing."
+    },
+    {
+      "q": "Next month, they ___ married for 25 years.",
+      "options": {
+        "A": "will be been",
+        "B": "will have be",
+        "C": "will have been",
+        "D": "are having been"
+      },
+      "answer": "C",
+      "explain": "Tổng kết khoảng thời gian (for 25 years) tính đến mốc tương lai → will have been."
+    },
+    {
+      "q": "By the time you get here, we ___ dinner.",
+      "options": {
+        "A": "will have ate",
+        "B": "will eaten",
+        "C": "will have eaten",
+        "D": "have eaten"
+      },
+      "answer": "C",
+      "explain": "'By the time' + hiện tại đơn → mệnh đề chính will have + V3 (eaten)."
+    },
+    {
+      "q": "I'll have finished the report ___ 5 p.m.",
+      "options": {
+        "A": "until",
+        "B": "since",
+        "C": "for",
+        "D": "by"
+      },
+      "answer": "D",
+      "explain": "Hoàn tất trước hoặc muộn nhất một mốc → by + mốc tương lai."
+    },
+    {
+      "q": "At noon tomorrow, I ___ to Seoul.",
+      "options": {
+        "A": "will be flying",
+        "B": "will be fly",
+        "C": "will flying",
+        "D": "am be flying"
+      },
+      "answer": "A",
+      "explain": "'At noon tomorrow' → will be + V-ing (flying)."
+    },
+    {
+      "q": "Will you ___ the car this afternoon?",
+      "options": {
+        "A": "using",
+        "B": "be using",
+        "C": "be use",
+        "D": "been using"
+      },
+      "answer": "B",
+      "explain": "Câu hỏi tương lai tiếp diễn: Will + S + be + V-ing?"
+    }
+  ],
+  "normal": [
+    {
+      "q": "By the time he retires, he ___ for 40 years.",
+      "options": {
+        "A": "will teach",
+        "B": "is teaching",
+        "C": "will have taught",
+        "D": "has taught"
+      },
+      "answer": "C",
+      "explain": "Tổng kết đến một mốc tương lai (by the time he retires) → tương lai hoàn thành; 'has taught' lấy mốc là bây giờ."
+    },
+    {
+      "q": "By the time you ___, I'll have left.",
+      "options": {
+        "A": "will arrive",
+        "B": "arrived",
+        "C": "will have arrived",
+        "D": "arrive"
+      },
+      "answer": "D",
+      "explain": "Sau 'by the time' là mệnh đề thời gian → dùng hiện tại đơn, không dùng will."
+    },
+    {
+      "q": "The shop ___ by 8 a.m., so we'll have to wait outside.",
+      "options": {
+        "A": "won't have opened",
+        "B": "won't have open",
+        "C": "hasn't opened",
+        "D": "won't has opened"
+      },
+      "answer": "A",
+      "explain": "Chưa hoàn tất trước mốc tương lai (by 8 a.m.) → won't have + V3; sau will/won't luôn là 'have'."
+    },
+    {
+      "q": "Don't come at 7 – we ___ dinner then.",
+      "options": {
+        "A": "'ll have had",
+        "B": "'ll be having",
+        "C": "had",
+        "D": "'ve been having"
+      },
+      "answer": "B",
+      "explain": "Đang ăn tối đúng lúc 7 giờ → tương lai tiếp diễn; 'll have had' nghĩa là đã ăn xong, không lý giải được lời dặn 'đừng đến'."
+    },
+    {
+      "q": "___ you have finished the essay by Monday?",
+      "options": {
+        "A": "Do",
+        "B": "Have",
+        "C": "Will",
+        "D": "Are"
+      },
+      "answer": "C",
+      "explain": "Câu hỏi tương lai hoàn thành: Will + S + have + V3?"
+    },
+    {
+      "q": "I ___ on Saturday, so we can go hiking.",
+      "options": {
+        "A": "won't be work",
+        "B": "am not work",
+        "C": "won't have been working",
+        "D": "won't be working"
+      },
+      "answer": "D",
+      "explain": "Phủ định tương lai tiếp diễn: won't be + V-ing; 'won't have been working' là TLHT tiếp diễn, sai nghĩa ở đây."
+    },
+    {
+      "q": "I'll be working ___ 5 p.m., so I can't leave earlier.",
+      "options": {
+        "A": "until",
+        "B": "by",
+        "C": "since",
+        "D": "for"
+      },
+      "answer": "A",
+      "explain": "Hành động kéo dài liên tục đến một thời điểm → until; 'by' dùng cho việc hoàn tất trước mốc."
+    },
+    {
+      "q": "By June, I ___ here for ten years.",
+      "options": {
+        "A": "will be working",
+        "B": "will have been working",
+        "C": "have been working",
+        "D": "am working"
+      },
+      "answer": "B",
+      "explain": "by + mốc tương lai + for + khoảng thời gian → tương lai hoàn thành (tiếp diễn); 'will be working' không đi với by + for."
+    },
+    {
+      "q": "When you arrive, I'll probably ___ dinner, so just come into the kitchen.",
+      "options": {
+        "A": "be cooked",
+        "B": "cooking",
+        "C": "be cooking",
+        "D": "been cooking"
+      },
+      "answer": "C",
+      "explain": "Đang nấu dở khi bạn tới (bị xen vào) → will be + V-ing; 'be cooked' là bị động, sai nghĩa."
+    },
+    {
+      "q": "I ___ Lan at work tomorrow anyway, so I can give her the message.",
+      "options": {
+        "A": "'ll have seen",
+        "B": "saw",
+        "C": "'ve seen",
+        "D": "'ll be seeing"
+      },
+      "answer": "D",
+      "explain": "Việc sẽ xảy ra theo lẽ thường (đằng nào cũng gặp ở chỗ làm) → tương lai tiếp diễn; 'll have seen' nhấn mạnh đã xong trước mốc, không hợp."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: By next June, my sister (A) will has (B) graduated (C) from (D) university.",
+      "options": {
+        "A": "will has",
+        "B": "graduated",
+        "C": "from",
+        "D": "university"
+      },
+      "answer": "A",
+      "explain": "Sau will luôn dùng nguyên mẫu → 'will have graduated', không dùng 'has'."
+    },
+    {
+      "q": "Tìm lỗi sai: By the time you (A) will get (B) home, we (C) will have finished (D) the cleaning.",
+      "options": {
+        "A": "will get",
+        "B": "home",
+        "C": "will have finished",
+        "D": "the cleaning"
+      },
+      "answer": "A",
+      "explain": "Sau 'by the time' dùng hiện tại đơn → 'get', không dùng will."
+    },
+    {
+      "q": "Chọn câu ĐÚNG ngữ pháp:",
+      "options": {
+        "A": "I'll have finished the report by Friday.",
+        "B": "This time tomorrow I will be knowing the result.",
+        "C": "She will have been finish by noon.",
+        "D": "I'll be working by 5 p.m. yesterday."
+      },
+      "answer": "A",
+      "explain": "will have + V3 + by + mốc là đúng; 'know' không dùng tiếp diễn, 'been finish' sai dạng, 'yesterday' mâu thuẫn với tương lai."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: My shift tomorrow starts at 8 a.m. and ends at 4 p.m.",
+      "options": {
+        "A": "At 10 a.m. tomorrow, I won't be working.",
+        "B": "At 10 a.m. tomorrow, I'll be working.",
+        "C": "By 10 a.m. tomorrow, I'll have finished my shift.",
+        "D": "At 10 a.m. tomorrow, I'll start working."
+      },
+      "answer": "B",
+      "explain": "10 giờ nằm giữa ca làm → đang làm tại mốc đó → will be working; ca kết thúc lúc 4 giờ nên 'have finished by 10' sai."
+    },
+    {
+      "q": "Excuse me, ___ past the post office on your way home? I need to send this letter.",
+      "options": {
+        "A": "will you have gone",
+        "B": "are you go",
+        "C": "will you be going",
+        "D": "will you going"
+      },
+      "answer": "C",
+      "explain": "Hỏi lịch sự về kế hoạch của người khác → Will you be + V-ing?; 'will you have gone' nhấn mạnh việc đã xong, không hợp."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: My grandparents got married 49 years ago.",
+      "options": {
+        "A": "Next year, they were married for 50 years.",
+        "B": "Next year, they have been married for 49 years.",
+        "C": "Next year, they will have married for 49 years.",
+        "D": "Next year, they will have been married for 50 years."
+      },
+      "answer": "D",
+      "explain": "Tính đến mốc năm sau là tròn 50 năm → will have been married for 50 years; các câu khác sai thì hoặc sai số năm."
+    },
+    {
+      "q": "Chọn câu SAI:",
+      "options": {
+        "A": "I'll have finished the report until Friday.",
+        "B": "Will you be joining us for lunch?",
+        "C": "By then I will have seen all five candidates.",
+        "D": "The plane will be landing in a few minutes."
+      },
+      "answer": "A",
+      "explain": "Hoàn tất trước một mốc phải dùng 'by Friday'; 'until' chỉ dùng cho hành động kéo dài liên tục."
+    },
+    {
+      "q": "A: Can I borrow your laptop this afternoon? – B: Sorry, I ___ it for my presentation from 2 to 4.",
+      "options": {
+        "A": "'ll have used",
+        "B": "'ll be using",
+        "C": "'ve used",
+        "D": "used"
+      },
+      "answer": "B",
+      "explain": "Đang dùng trong suốt khoảng 2–4 giờ chiều tương lai → tương lai tiếp diễn; 'll have used' nghĩa là đã dùng xong."
+    },
+    {
+      "q": "By the time the guests arrive, we ___ the house for three hours, so we'll be exhausted.",
+      "options": {
+        "A": "will be cleaning",
+        "B": "have been cleaning",
+        "C": "will have been cleaning",
+        "D": "had been cleaning"
+      },
+      "answer": "C",
+      "explain": "by the time + for + khoảng thời gian tính đến mốc tương lai → will have been + V-ing; 'will be cleaning' không đi với for three hours tính đến mốc."
+    },
+    {
+      "q": "Hurry up! The film ___ by the time we get there.",
+      "options": {
+        "A": "starts",
+        "B": "has started",
+        "C": "will have start",
+        "D": "will have started"
+      },
+      "answer": "D",
+      "explain": "Phim bắt đầu trước lúc chúng ta đến (mốc tương lai) → will have + V3; 'has started' lấy mốc hiện tại."
+    }
+  ]
+}

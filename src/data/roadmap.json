@@ -1,0 +1,534 @@
+[
+  {
+    "day": 1,
+    "week": "Tuần 1",
+    "topic": "Từ loại & cấu trúc câu",
+    "ref": "G01",
+    "codes": [
+      "G01"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' đọc G01, học các hậu tố",
+      "25' phân tích S-V-O cho 15 câu trong 1 bài báo tiếng Anh",
+      "15' viết 10 câu đơn giới thiệu bản thân"
+    ]
+  },
+  {
+    "day": 2,
+    "week": "Tuần 1",
+    "topic": "Hiện tại đơn",
+    "ref": "G02",
+    "codes": [
+      "G02"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học cấu trúc +/–/?",
+      "25' viết 10 câu về thói quen hằng ngày (có đủ 3 dạng)",
+      "15' đọc to & ghi âm lại"
+    ]
+  },
+  {
+    "day": 3,
+    "week": "Tuần 1",
+    "topic": "Hiện tại tiếp diễn + động từ trạng thái",
+    "ref": "G03",
+    "codes": [
+      "G03"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học HTTD, liệt kê 15 động từ trạng thái",
+      "25' mô tả 1 bức ảnh bằng 10 câu HTTD",
+      "15' so sánh 5 cặp câu HTĐ vs HTTD"
+    ]
+  },
+  {
+    "day": 4,
+    "week": "Tuần 1",
+    "topic": "Quá khứ đơn + ĐT bất quy tắc",
+    "ref": "G04",
+    "codes": [
+      "G04"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học 50 động từ bất quy tắc thông dụng",
+      "25' viết nhật ký hôm qua (10 câu)",
+      "15' tự kiểm tra V2 bằng flashcard"
+    ]
+  },
+  {
+    "day": 5,
+    "week": "Tuần 1",
+    "topic": "Quá khứ tiếp diễn",
+    "ref": "G05",
+    "codes": [
+      "G05"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học QKTD, cấu trúc when/while",
+      "25' viết 8 câu 'đang... thì...'",
+      "15' ôn lại 50 ĐT bất quy tắc (V3)"
+    ]
+  },
+  {
+    "day": 6,
+    "week": "Tuần 1",
+    "topic": "HT hoàn thành & HTHT tiếp diễn",
+    "ref": "G06, G07",
+    "codes": [
+      "G06",
+      "G07"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học HTHT vs QKĐ, since/for",
+      "25' viết 10 câu về kinh nghiệm sống (ever/never)",
+      "15' viết 5 câu HTHTTD"
+    ]
+  },
+  {
+    "day": 7,
+    "week": "Tuần 1",
+    "topic": "Ôn tập Tuần 1 + TEST",
+    "ref": "G01–G07",
+    "codes": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G05",
+      "G06",
+      "G07"
+    ],
+    "minutes": 60,
+    "isTest": true,
+    "tasks": [
+      "30' ôn lại sheet Ngữ pháp G01–G07",
+      "30' làm 'Test Tuần 1' (không xem tài liệu) → xem giải thích các câu sai"
+    ]
+  },
+  {
+    "day": 8,
+    "week": "Tuần 2",
+    "topic": "Quá khứ hoàn thành (+ tiếp diễn)",
+    "ref": "G08",
+    "codes": [
+      "G08"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học QKHT, trình tự hành động",
+      "25' viết 8 câu với before/after/by the time",
+      "15' vẽ timeline 12 thì"
+    ]
+  },
+  {
+    "day": 9,
+    "week": "Tuần 2",
+    "topic": "Tương lai: will / going to / HTTD",
+    "ref": "G09",
+    "codes": [
+      "G09"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học 3 cách diễn tả tương lai",
+      "25' viết kế hoạch tuần tới (10 câu)",
+      "15' 5 câu dự đoán có căn cứ"
+    ]
+  },
+  {
+    "day": 10,
+    "week": "Tuần 2",
+    "topic": "Tương lai tiếp diễn & hoàn thành",
+    "ref": "G10",
+    "codes": [
+      "G10"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học TLTD, TLHT",
+      "25' viết 'Giờ này 5 năm sau tôi sẽ...' (8 câu)",
+      "15' tổng hợp bảng 12 thì"
+    ]
+  },
+  {
+    "day": 11,
+    "week": "Tuần 2",
+    "topic": "Động từ khuyết thiếu",
+    "ref": "G11",
+    "codes": [
+      "G11"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học nghĩa từng modal, mustn't vs don't have to",
+      "25' viết 10 nội quy/lời khuyên",
+      "15' đặt câu suy luận với must/can't"
+    ]
+  },
+  {
+    "day": 12,
+    "week": "Tuần 2",
+    "topic": "Modal hoàn thành",
+    "ref": "G12",
+    "codes": [
+      "G12"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học must have / should have...",
+      "25' viết 8 câu tiếc nuối/suy luận về quá khứ",
+      "15' ôn lại G11"
+    ]
+  },
+  {
+    "day": 13,
+    "week": "Tuần 2",
+    "topic": "V-ing & to V",
+    "ref": "G13",
+    "codes": [
+      "G13"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học 2 danh sách động từ + 4 động từ đổi nghĩa",
+      "25' đặt 12 câu",
+      "15' làm flashcard nhóm động từ"
+    ]
+  },
+  {
+    "day": 14,
+    "week": "Tuần 2",
+    "topic": "Ôn tập Tuần 2 + TEST",
+    "ref": "G08–G13",
+    "codes": [
+      "G08",
+      "G09",
+      "G10",
+      "G11",
+      "G12",
+      "G13"
+    ],
+    "minutes": 60,
+    "isTest": true,
+    "tasks": [
+      "30' ôn lại G08–G13 + bảng 12 thì",
+      "30' làm 'Test Tuần 2' → ghi lại lỗi sai vào cột Ghi chú"
+    ]
+  },
+  {
+    "day": 15,
+    "week": "Tuần 3",
+    "topic": "Danh từ & mạo từ",
+    "ref": "G14",
+    "codes": [
+      "G14"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học a/an/the/Ø, N không đếm được",
+      "25' điền mạo từ cho 1 đoạn văn ngắn",
+      "15' viết 8 câu"
+    ]
+  },
+  {
+    "day": 16,
+    "week": "Tuần 3",
+    "topic": "Lượng từ & đại từ",
+    "ref": "G15",
+    "codes": [
+      "G15"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học many/much/few/little, đại từ phản thân",
+      "25' viết 10 câu về đồ trong tủ lạnh/phòng",
+      "15' ôn G14"
+    ]
+  },
+  {
+    "day": 17,
+    "week": "Tuần 3",
+    "topic": "Tính từ & trạng từ",
+    "ref": "G16",
+    "codes": [
+      "G16"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học OSASCOMP, -ed/-ing",
+      "25' mô tả 5 đồ vật có ≥3 tính từ",
+      "15' 6 cặp câu -ed/-ing"
+    ]
+  },
+  {
+    "day": 18,
+    "week": "Tuần 3",
+    "topic": "So sánh",
+    "ref": "G17",
+    "codes": [
+      "G17"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học các dạng so sánh + bất quy tắc",
+      "25' so sánh 2 thành phố/2 điện thoại (10 câu)",
+      "15' 3 câu so sánh kép"
+    ]
+  },
+  {
+    "day": 19,
+    "week": "Tuần 3",
+    "topic": "Giới từ",
+    "ref": "G18",
+    "codes": [
+      "G18"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học at/on/in + 15 cụm adj+prep",
+      "25' viết lịch làm việc tuần (có giờ, ngày, nơi)",
+      "15' flashcard adj+prep"
+    ]
+  },
+  {
+    "day": 20,
+    "week": "Tuần 3",
+    "topic": "Câu bị động",
+    "ref": "G19",
+    "codes": [
+      "G19"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học bị động theo từng thì",
+      "25' chuyển 12 câu chủ động → bị động",
+      "15' đọc 1 bản tin & gạch chân câu bị động"
+    ]
+  },
+  {
+    "day": 21,
+    "week": "Tuần 3",
+    "topic": "Ôn tập Tuần 3 + TEST",
+    "ref": "G14–G19",
+    "codes": [
+      "G14",
+      "G15",
+      "G16",
+      "G17",
+      "G18",
+      "G19"
+    ],
+    "minutes": 60,
+    "isTest": true,
+    "tasks": [
+      "30' ôn lại G14–G19",
+      "30' làm 'Test Tuần 3' → ôn lại chủ đề có câu sai (xem cột 'Số câu sai' ở sheet Ngữ pháp)"
+    ]
+  },
+  {
+    "day": 22,
+    "week": "Tuần 4",
+    "topic": "Câu điều kiện 0, 1, 2",
+    "ref": "G20",
+    "codes": [
+      "G20"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học 3 loại + unless",
+      "25' viết 4 câu mỗi loại",
+      "15' tự dịch Việt→Anh 5 câu"
+    ]
+  },
+  {
+    "day": 23,
+    "week": "Tuần 4",
+    "topic": "ĐK loại 3, hỗn hợp, câu ước",
+    "ref": "G21",
+    "codes": [
+      "G21"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học loại 3, hỗn hợp, wish",
+      "25' viết 5 điều tiếc nuối + 5 điều ước",
+      "15' ôn G20"
+    ]
+  },
+  {
+    "day": 24,
+    "week": "Tuần 4",
+    "topic": "Mệnh đề quan hệ",
+    "ref": "G22",
+    "codes": [
+      "G22"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học đại từ quan hệ, MĐ xác định/không xác định, rút gọn",
+      "25' nối 10 cặp câu bằng MĐQH",
+      "15' rút gọn 5 câu"
+    ]
+  },
+  {
+    "day": 25,
+    "week": "Tuần 4",
+    "topic": "Câu tường thuật",
+    "ref": "G23",
+    "codes": [
+      "G23"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học lùi thì + đổi trạng từ",
+      "25' tường thuật 1 đoạn hội thoại (10 câu)",
+      "15' 5 câu hỏi/mệnh lệnh gián tiếp"
+    ]
+  },
+  {
+    "day": 26,
+    "week": "Tuần 4",
+    "topic": "Liên từ & từ nối",
+    "ref": "G24",
+    "codes": [
+      "G24"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học although/despite, because/because of, so/such",
+      "25' viết đoạn văn 120 từ có ≥6 từ nối",
+      "15' viết lại 5 câu với cấu trúc tương đương"
+    ]
+  },
+  {
+    "day": 27,
+    "week": "Tuần 4",
+    "topic": "Câu hỏi đuôi, gián tiếp, chủ ngữ",
+    "ref": "G25",
+    "codes": [
+      "G25"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "20' học 3 dạng câu hỏi",
+      "25' viết 10 câu hỏi đuôi + 5 câu hỏi gián tiếp",
+      "15' luyện nói hỏi đường lịch sự"
+    ]
+  },
+  {
+    "day": 28,
+    "week": "Tuần 4",
+    "topic": "Used to, sai khiến, đảo ngữ, hòa hợp S-V",
+    "ref": "G26, G27, G28, G29",
+    "codes": [
+      "G26",
+      "G27",
+      "G28",
+      "G29"
+    ],
+    "minutes": 60,
+    "isTest": false,
+    "tasks": [
+      "30' học 4 chủ đề nâng cao",
+      "20' viết 3 câu mỗi chủ đề",
+      "10' ôn G20–G25"
+    ]
+  },
+  {
+    "day": 29,
+    "week": "Tuần 4",
+    "topic": "Ôn tập Tuần 4 + TEST",
+    "ref": "G20–G29",
+    "codes": [
+      "G20",
+      "G21",
+      "G22",
+      "G23",
+      "G24",
+      "G25",
+      "G26",
+      "G27",
+      "G28",
+      "G29"
+    ],
+    "minutes": 60,
+    "isTest": true,
+    "tasks": [
+      "25' ôn lại G20–G29",
+      "35' làm 'Test Tuần 4' → xem lại các câu sai"
+    ]
+  },
+  {
+    "day": 30,
+    "week": "Tổng kết",
+    "topic": "TỔNG ÔN + BÀI TEST CUỐI KHÓA",
+    "ref": "G01–G29",
+    "codes": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G05",
+      "G06",
+      "G07",
+      "G08",
+      "G09",
+      "G10",
+      "G11",
+      "G12",
+      "G13",
+      "G14",
+      "G15",
+      "G16",
+      "G17",
+      "G18",
+      "G19",
+      "G20",
+      "G21",
+      "G22",
+      "G23",
+      "G24",
+      "G25",
+      "G26",
+      "G27",
+      "G28",
+      "G29"
+    ],
+    "minutes": 60,
+    "isTest": true,
+    "tasks": [
+      "20' xem sheet Ngữ pháp, tập trung chủ đề có nhiều câu sai",
+      "40' làm 'Test Cuối Khóa' (60 câu, không xem tài liệu) → mục tiêu ≥ 80%"
+    ]
+  }
+]

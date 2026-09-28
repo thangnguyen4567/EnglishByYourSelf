@@ -1,0 +1,195 @@
+---
+title: "Phỏng vấn: Làm việc nhóm, Agile & code review"
+sidebar_label: "23 · Làm việc nhóm, Agile & code review"
+sidebar_position: 7
+slug: /phong-van-lam-viec-nhom-agile
+description: "Trả lời câu hỏi phỏng vấn về Scrum, làm việc nhóm, code review và xử lý bất đồng: từ vựng, mẫu câu, câu trả lời mẫu theo STAR có âm thanh."
+---
+
+# Phỏng vấn: Làm việc nhóm, Agile & code review
+
+<SkillMeta id="noi-23" />
+
+:::info[Mục tiêu]
+Câu hỏi về teamwork thường xuất hiện ở **vòng Behavioural / culture fit** (manager hoặc cả đội phỏng vấn), đôi khi xen vào cuối **vòng technical**.
+Người phỏng vấn muốn biết: bạn **hiểu quy trình Agile/Scrum thực tế** đến đâu, bạn **review code và nhận góp ý** thế nào,
+và khi **bất đồng** thì bạn có giữ được sự tôn trọng, dựa trên dữ liệu hay không. Sau bài này bạn mô tả được quy trình của đội mình
+trong 60 giây và kể một câu chuyện bất đồng trong code review theo **STAR**.
+Ngữ pháp chính: **hiện tại đơn** cho quy trình lặp lại (*We **run** two-week sprints*) – [G02](/docs/ngu-phap/g02-hien-tai-don);
+**modal verbs** để góp ý lịch sự (*You **might** want to…, We **could**…*) – [G11](/docs/ngu-phap/g11-dong-tu-khuyet-thieu);
+**câu tường thuật** khi kể lại ai nói gì (*He **said** the query **was** fast enough*) – [G23](/docs/ngu-phap/g23-cau-tuong-thuat).
+:::
+
+## 1. Từ vựng chủ đề
+
+### Quy trình Scrum
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| sprint | /sprɪnt/ | chu kỳ phát triển ngắn (1–4 tuần) | We work in two-week sprints. |
+| sprint planning | /sprɪnt ˈplænɪŋ/ | họp lập kế hoạch sprint | In sprint planning, we agree on what we can realistically finish. |
+| daily stand-up | /ˌdeɪli ˈstænd ʌp/ | họp đứng hằng ngày | Our daily stand-up takes about fifteen minutes. |
+| retrospective | /ˌretrəˈspektɪv/ | họp rút kinh nghiệm cuối sprint | In the last retrospective, we decided to write smaller pull requests. |
+| backlog | /ˈbæklɒɡ/ | danh sách công việc tồn đọng | The product owner keeps the backlog in Azure DevOps. |
+| user story | /ˈjuːzə ˌstɔːri/ | yêu cầu viết từ góc nhìn người dùng | Each user story has clear acceptance criteria. |
+| story points | /ˈstɔːri pɔɪnts/ | điểm ước lượng độ phức tạp | We estimated the payslip export at five story points. |
+| acceptance criteria | /əkˈseptəns kraɪˌtɪəriə/ | tiêu chí nghiệm thu | The tester checks every item in the acceptance criteria. |
+| velocity | /vəˈlɒsəti/ | tốc độ hoàn thành của đội | Our velocity is around forty points per sprint. |
+
+</VocabList>
+
+### Code review & chất lượng
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| pull request | /ˈpʊl rɪˌkwest/ | yêu cầu gộp code | Every change goes through a pull request in Azure DevOps. |
+| code review | /ˈkəʊd rɪˌvjuː/ | xem xét, góp ý code | At least one senior developer does the code review. |
+| approve | /əˈpruːv/ | phê duyệt | I approved the pull request after the tests passed. |
+| leave a comment | /liːv ə ˈkɒment/ | để lại nhận xét | I left a comment about a missing null check. |
+| pair programming | /ˌpeə ˈprəʊɡræmɪŋ/ | lập trình theo cặp | We use pair programming for tricky payroll logic. |
+| technical debt | /ˈteknɪkl det/ | nợ kỹ thuật | We spend about 20% of each sprint on technical debt. |
+| coding standards | /ˈkəʊdɪŋ ˌstændədz/ | quy chuẩn viết code | Our coding standards are checked automatically by a linter. |
+| merge | /mɜːdʒ/ | gộp (code) | We only merge after two approvals. |
+
+</VocabList>
+
+### Giao tiếp & phối hợp
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| stakeholder | /ˈsteɪkhəʊldə/ | bên liên quan | The main stakeholder for payroll is the HR director. |
+| give feedback | /ɡɪv ˈfiːdbæk/ | đưa ra góp ý | I try to give feedback on the code, not on the person. |
+| receive feedback | /rɪˈsiːv ˈfiːdbæk/ | tiếp nhận góp ý | I've learned to receive feedback without taking it personally. |
+| disagree respectfully | /ˌdɪsəˈɡriː rɪˈspektfəli/ | bất đồng một cách tôn trọng | It's fine to disagree respectfully in a review. |
+| reach a consensus | /riːtʃ ə kənˈsensəs/ | đạt được đồng thuận | We reached a consensus after comparing both options. |
+| raise a blocker | /reɪz ə ˈblɒkə/ | báo vướng mắc | I raised a blocker in the stand-up because the API wasn't ready. |
+| cross-functional team | /ˌkrɒs ˈfʌŋkʃənl tiːm/ | đội đa chức năng | We're a cross-functional team of developers, testers and a BA. |
+| keep someone in the loop | /kiːp ˈsʌmwʌn ɪn ðə luːp/ | cập nhật thông tin cho ai | I keep the product owner in the loop about any risks. |
+
+</VocabList>
+
+## 2. Cụm từ & mẫu câu hữu ích
+
+| Mục đích | Mẫu câu | Ví dụ |
+|---|---|---|
+| Mô tả quy trình | *We run … sprints, and each sprint starts with …* | We run two-week sprints, and each sprint starts with a planning session. |
+| Vai trò của bạn | *My role in the team is mainly to …* | My role in the team is mainly to build the payroll APIs and review frontend code. |
+| Quy tắc review | *Every pull request needs … before it can be merged.* | Every pull request needs two approvals and a green build before it can be merged. |
+| Góp ý nhẹ nhàng | *Have you considered …? / You might want to …* | Have you considered moving this logic into a service? |
+| Bất đồng lịch sự | *I see your point, but I'm a bit concerned that …* | I see your point, but I'm a bit concerned that this query won't scale. |
+| Đề xuất bằng dữ liệu | *Why don't we test both options and compare …?* | Why don't we test both options and compare the response times? |
+| Nhận góp ý | *That's a fair point – I'll …* | That's a fair point – I'll add unit tests for the edge cases. |
+| Kể lại lời người khác | *He / She said that … / suggested that we …* | My lead suggested that we split the story into two smaller ones. |
+| Báo vướng mắc | *I'm blocked on … because …* | I'm blocked on the export feature because the report template isn't final. |
+| Kết quả hợp tác | *In the end, we agreed to …* | In the end, we agreed to keep the old approach and add caching. |
+
+:::tip[Ba "công cụ ngữ pháp" cho câu hỏi teamwork]
+- **Hiện tại đơn** cho thói quen, quy trình: *We **review** every pull request within one working day.*
+- **Modal verbs** làm lời góp ý mềm hơn: *This **could** be simpler. You **might** want to rename it.* (thay vì *This is wrong.*)
+- **Câu tường thuật** khi kể chuyện – lùi thì: *He said, "The query **is** fast enough."* → *He said the query **was** fast enough.*
+
+Xem lại: [G02 · Hiện tại đơn](/docs/ngu-phap/g02-hien-tai-don) · [G11 · Động từ khuyết thiếu](/docs/ngu-phap/g11-dong-tu-khuyet-thieu) · [G23 · Câu tường thuật](/docs/ngu-phap/g23-cau-tuong-thuat)
+:::
+
+## 3. Câu hỏi phỏng vấn thường gặp
+
+### Câu hỏi chính
+
+1. Can you describe the development process in your current team?
+2. What does a typical sprint look like for you?
+3. How does code review work in your team?
+4. Tell me about a time you disagreed with a teammate. How did you handle it?
+5. How do you give feedback to a junior developer?
+6. How do you react when someone criticises your code?
+7. How do you deal with technical debt when the business wants new features?
+8. What do you do if you realise you can't finish a task within the sprint?
+9. How do you work with non-technical stakeholders, such as the HR department?
+10. What makes a good team, in your opinion?
+
+### Câu hỏi đào sâu (follow-up)
+
+- What would you change about your team's current process?
+- Have you ever had a pull request rejected? What did you learn from it?
+- How do you estimate a user story that you've never done anything similar to?
+
+## 4. Câu trả lời mẫu
+
+<SpeakText title="Tell me about a time you disagreed with a teammate (STAR, ≈ 100 giây)">
+
+Sure. Last year, we were building a new report that shows the total overtime cost for each department. A senior colleague opened a pull request where the calculation was done in C#, after loading all the attendance records into memory.
+
+As the reviewer, my job was to make sure the feature would work for our largest client, which has about eight thousand employees.
+
+I was worried it would be too slow, but I didn't just block the pull request. I left a comment saying, "I might be wrong, but I'm a bit concerned about memory usage with big clients." He replied that the code was simpler and easier to test, which was a fair point. So I suggested we test both options with real data. I spent an afternoon writing the same logic as a grouped SQL query, and we compared them on a copy of the production database.
+
+The in-memory version took about forty seconds, and the SQL version took under three. When he saw the numbers, he agreed to switch, and we kept his unit tests by moving the rules into a small, testable function. Since then, our team has added a simple rule to the review checklist: if we disagree on performance, we measure first. For me, the lesson was that data makes disagreements much less personal.
+
+<details>
+<summary>Bản dịch</summary>
+
+Vâng. Năm ngoái, chúng tôi làm một báo cáo mới hiển thị tổng chi phí làm thêm giờ của từng phòng ban. Một đồng nghiệp senior tạo pull request, trong đó phép tính được làm bằng C#, sau khi tải toàn bộ dữ liệu chấm công vào bộ nhớ.
+
+Là người review, nhiệm vụ của tôi là đảm bảo tính năng chạy được với khách hàng lớn nhất của chúng tôi, có khoảng tám nghìn nhân viên.
+
+Tôi lo nó sẽ quá chậm, nhưng tôi không chặn pull request ngay. Tôi để lại nhận xét: "Có thể tôi sai, nhưng tôi hơi lo về bộ nhớ với khách hàng lớn." Anh ấy trả lời rằng code như vậy đơn giản và dễ test hơn – một ý hợp lý. Vì thế tôi đề xuất thử cả hai cách với dữ liệu thật. Tôi dành một buổi chiều viết cùng logic đó bằng một câu truy vấn SQL có group, và chúng tôi so sánh trên bản sao của cơ sở dữ liệu production.
+
+Bản xử lý trong bộ nhớ mất khoảng bốn mươi giây, bản SQL chưa tới ba giây. Khi thấy số liệu, anh ấy đồng ý chuyển, và chúng tôi giữ lại unit test của anh ấy bằng cách tách các quy tắc ra một hàm nhỏ, dễ test. Từ đó, đội tôi thêm một quy tắc đơn giản vào checklist review: nếu bất đồng về hiệu năng thì đo trước. Bài học của tôi là dữ liệu giúp bất đồng bớt mang tính cá nhân hơn nhiều.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="Can you describe the development process in your current team?">
+
+We follow Scrum with two-week sprints. There are seven of us: five developers, a tester and a business analyst, and the product owner sits in the HR product team. Each sprint starts with planning, where we estimate user stories in story points. We have a short stand-up every morning, and every change goes through a pull request in Azure DevOps with at least two approvals and a green build. At the end of the sprint, we demo to the HR stakeholders and then hold a retrospective to see what we can improve.
+
+<details>
+<summary>Bản dịch</summary>
+
+Chúng tôi làm theo Scrum với sprint hai tuần. Đội có bảy người: năm lập trình viên, một tester và một BA, còn product owner thuộc nhóm sản phẩm nhân sự. Mỗi sprint bắt đầu bằng buổi planning, nơi chúng tôi ước lượng user story bằng story point. Sáng nào cũng có buổi stand-up ngắn, và mọi thay đổi đều qua pull request trên Azure DevOps, cần ít nhất hai người duyệt và build thành công. Cuối sprint, chúng tôi demo cho các bên liên quan phía nhân sự rồi họp retrospective để xem có thể cải thiện gì.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="How do you react when someone criticises your code?">
+
+Honestly, I used to feel a bit defensive, but now I see a review comment as free advice. First, I make sure I understand the point – if a comment isn't clear, I ask a question or have a quick call instead of arguing in the comments. If the reviewer is right, I just say thanks and fix it. If I still think my approach is better, I explain why, with an example or some numbers. Most of the time we agree within a few minutes, and I've learned a lot of good patterns that way.
+
+<details>
+<summary>Bản dịch</summary>
+
+Thật lòng mà nói, trước đây tôi hơi có tâm lý phòng thủ, nhưng giờ tôi coi nhận xét review là lời khuyên miễn phí. Đầu tiên, tôi đảm bảo mình hiểu ý – nếu nhận xét chưa rõ, tôi hỏi lại hoặc gọi nhanh thay vì tranh luận trong phần bình luận. Nếu người review đúng, tôi chỉ cảm ơn và sửa. Nếu tôi vẫn nghĩ cách của mình tốt hơn, tôi giải thích lý do, kèm ví dụ hoặc số liệu. Phần lớn chúng tôi thống nhất trong vài phút, và tôi học được nhiều cách làm hay theo cách đó.
+
+</details>
+
+</SpeakText>
+
+:::note[Phân tích bài mẫu]
+- **STAR rõ ràng:** Situation (báo cáo chi phí làm thêm giờ) → Task (vai trò reviewer, khách hàng 8.000 nhân viên) → Action (góp ý mềm, đề xuất đo, tự viết bản SQL) → Result (40 giây → dưới 3 giây, thêm quy tắc vào checklist, bài học).
+- **Không "đổ lỗi" đồng nghiệp:** công nhận ý của anh ấy (*which was a fair point*) và giữ lại unit test của anh ấy – cho thấy bạn hợp tác chứ không "thắng" tranh luận.
+- **Ngữ pháp:** câu tường thuật lùi thì (*He replied that the code **was** simpler*), modal làm mềm (*I **might** be wrong*), hiện tại đơn cho quy trình (*We **follow** Scrum…*).
+- **Không nên:** kể chuyện mà bạn tỏ ra hơn người, hoặc nói *"I just told him he was wrong."* Người phỏng vấn tìm người dễ làm việc cùng.
+:::
+
+## 5. Bài tập tự luyện
+
+1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý trọng âm *retrospective, velocity, stakeholder, consensus*.
+2. **Ngày 1:** Viết đoạn 80–100 từ mô tả **quy trình thật của đội bạn**: độ dài sprint, số người, công cụ (Azure DevOps/TFS), quy tắc duyệt pull request. Nói lại trong 45–60 giây.
+3. **Ngày 1:** Viết 5 câu góp ý code review bằng modal verbs dựa trên pull request gần nhất bạn đã review (ví dụ: *You might want to…, Could we…?*).
+4. **Ngày 2:** Chọn **một lần bất đồng thật** (về thiết kế, estimate, hay cách đặt tên) và viết theo STAR, 150–200 từ, có ít nhất 1 con số và 1 câu tường thuật. Tập nói không nhìn giấy, ghi âm.
+5. **Ngày 2:** Trả lời 10 câu hỏi chính, mỗi câu 30–60 giây. Nhờ bạn hỏi thêm 3 câu follow-up ngẫu nhiên.
+
+## 6. Tự đánh giá
+
+- [ ] Mô tả được quy trình Scrum của đội mình trong 60 giây, dùng hiện tại đơn.
+- [ ] Câu chuyện bất đồng có đủ 4 phần STAR và kết thúc bằng bài học.
+- [ ] Dùng được ít nhất 3 cách góp ý lịch sự với modal verbs.
+- [ ] Kể lại lời đồng nghiệp bằng câu tường thuật, lùi thì đúng.
+- [ ] Phát âm đúng *retrospective, stakeholder, consensus, merge*.

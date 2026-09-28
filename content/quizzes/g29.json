@@ -1,0 +1,338 @@
+{
+  "easy": [
+    {
+      "q": "Everybody in my class ___ a smartphone.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are having",
+        "D": "having"
+      },
+      "answer": "A",
+      "explain": "Everybody → động từ số ít: has."
+    },
+    {
+      "q": "Physics ___ my favourite subject this year.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "be",
+        "D": "is"
+      },
+      "answer": "D",
+      "explain": "Tên môn học tận cùng -s (physics) → số ít: is."
+    },
+    {
+      "q": "Tom and his sister ___ at the same school.",
+      "options": {
+        "A": "studies",
+        "B": "is studying",
+        "C": "study",
+        "D": "has studied"
+      },
+      "answer": "C",
+      "explain": "A and B → chủ ngữ số nhiều → study."
+    },
+    {
+      "q": "The news about the flood ___ very sad.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "have been",
+        "D": "is"
+      },
+      "answer": "D",
+      "explain": "news là danh từ không đếm được → số ít: is."
+    },
+    {
+      "q": "Each student ___ to bring a dictionary.",
+      "options": {
+        "A": "needs",
+        "B": "need",
+        "C": "are needing",
+        "D": "have needed"
+      },
+      "answer": "A",
+      "explain": "Each + N số ít → động từ số ít: needs."
+    },
+    {
+      "q": "A number of tourists ___ lost their luggage.",
+      "options": {
+        "A": "has",
+        "B": "is",
+        "C": "have",
+        "D": "was"
+      },
+      "answer": "C",
+      "explain": "A number of + N số nhiều → động từ số nhiều: have."
+    },
+    {
+      "q": "There ___ three cats in the garden.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "has",
+        "D": "are"
+      },
+      "answer": "D",
+      "explain": "There + be chia theo danh từ phía sau 'three cats' (số nhiều) → are."
+    },
+    {
+      "q": "Swimming ___ good for your health.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "A",
+      "explain": "V-ing làm chủ ngữ → số ít: is."
+    },
+    {
+      "q": "The police ___ looking for the missing boy.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "has"
+      },
+      "answer": "A",
+      "explain": "police luôn là danh từ số nhiều → are."
+    },
+    {
+      "q": "One of my cousins ___ as a pilot.",
+      "options": {
+        "A": "work",
+        "B": "works",
+        "C": "are working",
+        "D": "have worked"
+      },
+      "answer": "B",
+      "explain": "One of + N số nhiều: chủ ngữ thật là 'one' → works."
+    }
+  ],
+  "normal": [
+    {
+      "q": "The box of chocolates ___ on the kitchen table.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have been"
+      },
+      "answer": "C",
+      "explain": "N1 of N2 → chia theo N1 'box' (số ít): is. 'are' là bẫy vì 'chocolates' đứng sát động từ."
+    },
+    {
+      "q": "Neither my parents nor my brother ___ spicy food.",
+      "options": {
+        "A": "like",
+        "B": "are liking",
+        "C": "have liked",
+        "D": "likes"
+      },
+      "answer": "D",
+      "explain": "Neither A nor B → chia theo B 'my brother' (số ít): likes. 'like' là chia theo 'parents' – sai."
+    },
+    {
+      "q": "The teacher, together with her students, ___ going on a field trip.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have"
+      },
+      "answer": "A",
+      "explain": "A together with B → chia theo A 'The teacher': is. Cụm 'together with' không biến chủ ngữ thành số nhiều."
+    },
+    {
+      "q": "Five hundred dollars ___ too much for a pair of shoes.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explain": "Số tiền được xem như một khối → số ít: is."
+    },
+    {
+      "q": "The rich ___ usually able to afford private healthcare.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "are",
+        "D": "has"
+      },
+      "answer": "C",
+      "explain": "the + adj chỉ nhóm người → số nhiều: are."
+    },
+    {
+      "q": "Most of the furniture in this room ___ made of wood.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "have been",
+        "D": "is"
+      },
+      "answer": "D",
+      "explain": "Most of + N → chia theo N; 'furniture' không đếm được → is."
+    },
+    {
+      "q": "Most of the students in my class ___ from the north.",
+      "options": {
+        "A": "come",
+        "B": "comes",
+        "C": "is coming",
+        "D": "has come"
+      },
+      "answer": "A",
+      "explain": "Most of + N số nhiều 'students' → động từ số nhiều: come."
+    },
+    {
+      "q": "Tìm lỗi sai: The cost (A) of the new (B) textbooks (C) have risen (D) sharply this year.",
+      "options": {
+        "A": "of the new",
+        "B": "textbooks",
+        "C": "have risen",
+        "D": "sharply"
+      },
+      "answer": "C",
+      "explain": "Chủ ngữ thật là 'The cost' (số ít) → has risen. 'textbooks' chỉ là cụm bổ nghĩa."
+    },
+    {
+      "q": "Either you or your brother ___ to clean the kitchen tonight.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "B",
+      "explain": "Either A or B → chia theo B gần động từ nhất 'your brother' (số ít): has."
+    },
+    {
+      "q": "Chọn câu ĐÚNG ngữ pháp:",
+      "options": {
+        "A": "My glasses is on the table.",
+        "B": "The scissors is in the drawer.",
+        "C": "My glasses are on the table.",
+        "D": "My trousers needs washing."
+      },
+      "answer": "C",
+      "explain": "glasses, scissors, trousers luôn số nhiều → are / need. Chỉ câu 'My glasses are' đúng."
+    }
+  ],
+  "hard": [
+    {
+      "q": "Tìm lỗi sai: Every (A) boy and girl in the school (B) have to (C) wear a uniform (D) on Mondays.",
+      "options": {
+        "A": "boy and girl",
+        "B": "have to",
+        "C": "wear a uniform",
+        "D": "on Mondays"
+      },
+      "answer": "B",
+      "explain": "Every + A and B vẫn chia số ít → has to. Không coi 'boy and girl' là số nhiều khi có 'every'."
+    },
+    {
+      "q": "Chọn câu SAI ngữ pháp:",
+      "options": {
+        "A": "Bread and butter is my usual breakfast.",
+        "B": "A pair of jeans is lying on the bed.",
+        "C": "Twenty percent of the workers were late.",
+        "D": "The number of cars on the road have doubled."
+      },
+      "answer": "D",
+      "explain": "The number of + N → số ít: has doubled. 'Bread and butter' là một món → is; 'a pair of' → is; '% of + N số nhiều' → were."
+    },
+    {
+      "q": "Not only the students but also the principal ___ surprised by the results.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explain": "Not only A but also B → chia theo B 'the principal' (số ít): was. 'were' là bẫy chia theo 'students'."
+    },
+    {
+      "q": "What she told me yesterday ___ completely untrue.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explain": "Mệnh đề làm chủ ngữ → số ít; 'yesterday' → quá khứ: was."
+    },
+    {
+      "q": "Tìm lỗi sai: The singer, (A) along with her band, (B) are going (C) to perform (D) tonight.",
+      "options": {
+        "A": "along with her band",
+        "B": "are going",
+        "C": "to perform",
+        "D": "tonight"
+      },
+      "answer": "B",
+      "explain": "A along with B → chia theo A 'The singer' (số ít): is going."
+    },
+    {
+      "q": "Many a student ___ tried to solve this problem.",
+      "options": {
+        "A": "have",
+        "B": "are",
+        "C": "has",
+        "D": "were"
+      },
+      "answer": "C",
+      "explain": "Many a + N số ít → động từ số ít: has (văn trang trọng). 'have' là bẫy vì nghĩa 'nhiều'."
+    },
+    {
+      "q": "Câu nào dưới đây ĐÚNG ngữ pháp?",
+      "options": {
+        "A": "The elderly needs more support during heatwaves.",
+        "B": "The information are very useful.",
+        "C": "Mathematics are difficult for me.",
+        "D": "The elderly need more support during heatwaves."
+      },
+      "answer": "D",
+      "explain": "the + adj (the elderly) → số nhiều: need. information và mathematics phải đi với động từ số ít."
+    },
+    {
+      "q": "Chọn câu gần nghĩa nhất với: 'Lots of employees are unhappy with the new policy.'",
+      "options": {
+        "A": "A number of employees are unhappy with the new policy.",
+        "B": "A number of employees is unhappy with the new policy.",
+        "C": "The number of employees are unhappy with the new policy.",
+        "D": "The number of employees is unhappy with the new policy."
+      },
+      "answer": "A",
+      "explain": "A number of (= nhiều) + N số nhiều → are. 'The number of' là 'số lượng', khác nghĩa và phải chia số ít."
+    },
+    {
+      "q": "The United States ___ a population of over 330 million.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are having",
+        "D": "were having"
+      },
+      "answer": "B",
+      "explain": "Tên quốc gia dạng số nhiều vẫn là một thực thể → số ít: has."
+    },
+    {
+      "q": "Tìm lỗi sai: The students (A) who (B) sits (C) at the back (D) are often noisy.",
+      "options": {
+        "A": "who",
+        "B": "sits",
+        "C": "at the back",
+        "D": "are often noisy"
+      },
+      "answer": "B",
+      "explain": "'who' thay cho 'The students' (số nhiều) → sit. 'are' ở mệnh đề chính đúng."
+    }
+  ]
+}

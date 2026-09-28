@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G05",
+   "q": "At 8 p.m. yesterday, I ___ my homework.",
+   "options": {
+    "A": "do",
+    "B": "was doing",
+    "C": "am doing",
+    "D": "were doing"
+   },
+   "answer": "B",
+   "explain": "'At 8 p.m. yesterday' → thời điểm xác định trong quá khứ → quá khứ tiếp diễn; chủ ngữ 'I' → was doing."
+  },
+  {
+   "no": 2,
+   "code": "G05",
+   "q": "They ___ football at 5 o'clock yesterday afternoon.",
+   "options": {
+    "A": "was playing",
+    "B": "play",
+    "C": "were playing",
+    "D": "are playing"
+   },
+   "answer": "C",
+   "explain": "Thời điểm cụ thể trong quá khứ → was/were + V-ing; chủ ngữ 'They' → were playing."
+  },
+  {
+   "no": 3,
+   "code": "G05",
+   "q": "I ___ the dishes when the lights went out.",
+   "options": {
+    "A": "was washing",
+    "B": "were washing",
+    "C": "wash",
+    "D": "washes"
+   },
+   "answer": "A",
+   "explain": "Việc đang diễn ra thì bị việc khác xen vào ('went out') → quá khứ tiếp diễn; 'I' → was washing."
+  },
+  {
+   "no": 4,
+   "code": "G05",
+   "q": "What ___ you doing at 10 o'clock last night?",
+   "options": {
+    "A": "was",
+    "B": "are",
+    "C": "did",
+    "D": "were"
+   },
+   "answer": "D",
+   "explain": "'last night' + 'doing' → câu hỏi quá khứ tiếp diễn; chủ ngữ 'you' → were."
+  },
+  {
+   "no": 5,
+   "code": "G05",
+   "q": "While we ___ in the park, it started to rain.",
+   "options": {
+    "A": "walked",
+    "B": "were walking",
+    "C": "are walking",
+    "D": "was walking"
+   },
+   "answer": "B",
+   "explain": "Sau 'while' là hành động dài đang diễn ra → quá khứ tiếp diễn; 'we' → were walking."
+  },
+  {
+   "no": 6,
+   "code": "G05",
+   "q": "At this time last week, she ___ on a beach in Phu Quoc.",
+   "options": {
+    "A": "was lying",
+    "B": "lies",
+    "C": "is lying",
+    "D": "was lieing"
+   },
+   "answer": "A",
+   "explain": "'At this time last week' → quá khứ tiếp diễn; lie → lying (đổi -ie thành -ying)."
+  },
+  {
+   "no": 7,
+   "code": "G05",
+   "q": "My mum ___ dinner when I got home.",
+   "options": {
+    "A": "cooks",
+    "B": "is cooking",
+    "C": "was cooking",
+    "D": "were cooking"
+   },
+   "answer": "C",
+   "explain": "Mẹ đang nấu (việc nền) thì tôi về (xen vào) → quá khứ tiếp diễn; 'My mum' số ít → was cooking."
+  },
+  {
+   "no": 8,
+   "code": "G05",
+   "q": "It ___ heavily when we left the office.",
+   "options": {
+    "A": "was raining",
+    "B": "were raining",
+    "C": "rains",
+    "D": "is raining"
+   },
+   "answer": "A",
+   "explain": "Bối cảnh đang diễn ra khi một việc khác xảy ra → quá khứ tiếp diễn; 'It' → was raining."
+  },
+  {
+   "no": 9,
+   "code": "G05",
+   "q": "He ___ a book when I saw him in the café.",
+   "options": {
+    "A": "reads",
+    "B": "was reading",
+    "C": "were reading",
+    "D": "is reading"
+   },
+   "answer": "B",
+   "explain": "Anh ấy đang đọc sách thì tôi nhìn thấy → quá khứ tiếp diễn; 'He' → was reading."
+  },
+  {
+   "no": 10,
+   "code": "G05",
+   "q": "We ___ TV at 9 p.m. last night.",
+   "options": {
+    "A": "watch",
+    "B": "was watching",
+    "C": "are watching",
+    "D": "were watching"
+   },
+   "answer": "D",
+   "explain": "'at 9 p.m. last night' → quá khứ tiếp diễn; chủ ngữ 'We' → were watching."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G05",
+   "q": "She ___ to the teacher; she was looking out of the window.",
+   "options": {
+    "A": "wasn't listening",
+    "B": "didn't listening",
+    "C": "weren't listening",
+    "D": "isn't listening"
+   },
+   "answer": "A",
+   "explain": "Phủ định quá khứ tiếp diễn: was not + V-ing → wasn't listening. C sai vì 'She' đi với was, không phải were."
+  },
+  {
+   "no": 2,
+   "code": "G05",
+   "q": "___ they ___ when you arrived?",
+   "options": {
+    "A": "Was / sleeping",
+    "B": "Were / sleeping",
+    "C": "Did / sleeping",
+    "D": "Were / sleep"
+   },
+   "answer": "B",
+   "explain": "Câu hỏi quá khứ tiếp diễn: Were + they + V-ing? D sai vì sau were phải là V-ing, không phải nguyên mẫu."
+  },
+  {
+   "no": 3,
+   "code": "G05",
+   "q": "I ___ my finger while I ___ vegetables.",
+   "options": {
+    "A": "was cutting / chopped",
+    "B": "cut / was chopping",
+    "C": "cut / am chopping",
+    "D": "was cut / chopping"
+   },
+   "answer": "B",
+   "explain": "Việc ngắn (cắt vào tay) → quá khứ đơn cut; việc dài sau 'while' → was chopping. A đảo ngược vai trò hai hành động."
+  },
+  {
+   "no": 4,
+   "code": "G05",
+   "q": "I was driving to work ___ I saw a terrible accident.",
+   "options": {
+    "A": "while",
+    "B": "during",
+    "C": "when",
+    "D": "as long as"
+   },
+   "answer": "C",
+   "explain": "Trước hành động ngắn, xen vào (saw) dùng 'when'. 'while' hợp với hành động kéo dài; 'during' đi với danh từ, không đi với mệnh đề."
+  },
+  {
+   "no": 5,
+   "code": "G05",
+   "q": "While Dad ___ the car, Mum ___ the garden.",
+   "options": {
+    "A": "was washing / was watering",
+    "B": "washes / waters",
+    "C": "was washing / waters",
+    "D": "were washing / was watering"
+   },
+   "answer": "A",
+   "explain": "Hai hành động song song trong quá khứ → cả hai dùng quá khứ tiếp diễn. D sai vì 'Dad' số ít phải dùng was."
+  },
+  {
+   "no": 6,
+   "code": "G05",
+   "q": "A: Were you working at 10 last night? B: No, I ___.",
+   "options": {
+    "A": "didn't",
+    "B": "wasn't",
+    "C": "weren't",
+    "D": "don't"
+   },
+   "answer": "B",
+   "explain": "Trả lời ngắn cho câu hỏi 'Were you...?' với chủ ngữ 'I' → No, I wasn't. A sai vì câu hỏi dùng to be, không dùng did."
+  },
+  {
+   "no": 7,
+   "code": "G05",
+   "q": "When the manager came in, we ___ about the new project, so we stopped and said hello.",
+   "options": {
+    "A": "talked",
+    "B": "were talking",
+    "C": "are talking",
+    "D": "was talking"
+   },
+   "answer": "B",
+   "explain": "Đang nói chuyện thì quản lý bước vào (rồi mới dừng lại) → quá khứ tiếp diễn. A sai vì quá khứ đơn nghĩa là quản lý vào rồi mới bắt đầu nói, mâu thuẫn với 'stopped'."
+  },
+  {
+   "no": 8,
+   "code": "G05",
+   "q": "Chọn chính tả đúng: She was ___ a letter when her friend called.",
+   "options": {
+    "A": "writting",
+    "B": "writeing",
+    "C": "writing",
+    "D": "writeng"
+   },
+   "answer": "C",
+   "explain": "write tận cùng -e câm → bỏ -e, thêm -ing → writing; không gấp đôi 't' vì trước t là 'i' + e câm."
+  },
+  {
+   "no": 9,
+   "code": "G05",
+   "q": "I ___ the answer, so I raised my hand.",
+   "options": {
+    "A": "was knowing",
+    "B": "were knowing",
+    "C": "am knowing",
+    "D": "knew"
+   },
+   "answer": "D",
+   "explain": "'know' là động từ trạng thái → không chia tiếp diễn kể cả ở quá khứ → knew."
+  },
+  {
+   "no": 10,
+   "code": "G05",
+   "q": "When we set off that morning, the sun ___ and the birds ___.",
+   "options": {
+    "A": "is shining / are singing",
+    "B": "were shining / were singing",
+    "C": "was shining / were singing",
+    "D": "was shining / was singing"
+   },
+   "answer": "C",
+   "explain": "Miêu tả bối cảnh trong quá khứ → quá khứ tiếp diễn; 'the sun' số ít → was, 'the birds' số nhiều → were."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G05",
+   "q": "Tìm lỗi sai: While I (A) was waiting for the bus, I (B) was seeing an old (C) classmate (D) across the street.",
+   "options": {
+    "A": "was waiting",
+    "B": "was seeing",
+    "C": "classmate",
+    "D": "across"
+   },
+   "answer": "B",
+   "explain": "'see' (nhìn thấy) là động từ trạng thái và là hành động ngắn xen vào → saw. 'was waiting' đúng vì là việc dài sau 'while'."
+  },
+  {
+   "no": 2,
+   "code": "G05",
+   "q": "Tìm lỗi sai: At 7 p.m. yesterday, my parents (A) was (B) having dinner (C) with (D) some friends.",
+   "options": {
+    "A": "was",
+    "B": "having dinner",
+    "C": "with",
+    "D": "some friends"
+   },
+   "answer": "A",
+   "explain": "'my parents' số nhiều → were having. 'having dinner' đúng vì 'have' nghĩa 'ăn' là hành động, chia tiếp diễn được."
+  },
+  {
+   "no": 3,
+   "code": "G05",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "While the phone rang, I was cooking.",
+    "B": "When the phone was ringing, I cooked.",
+    "C": "While the phone was ring, I was cooking.",
+    "D": "When the phone rang, I was cooking."
+   },
+   "answer": "D",
+   "explain": "Việc ngắn xen vào (rang) đi với 'when', việc dài làm nền (was cooking) dùng tiếp diễn. A dùng 'while' với hành động ngắn; B đảo vai trò hai hành động."
+  },
+  {
+   "no": 4,
+   "code": "G05",
+   "q": "Chọn câu gần nghĩa nhất với: 'She was reading when the power went out.'",
+   "options": {
+    "A": "The power went out before she started reading.",
+    "B": "She started reading after the power went out.",
+    "C": "The power went out in the middle of her reading.",
+    "D": "She finished reading, then the power went out."
+   },
+   "answer": "C",
+   "explain": "'was reading' = việc đang dở dang thì bị xen vào → mất điện giữa lúc cô ấy đang đọc. D sai vì quá khứ tiếp diễn không cho biết việc đọc đã xong."
+  },
+  {
+   "no": 5,
+   "code": "G05",
+   "q": "Câu 'When Lan arrived, we had dinner.' có nghĩa là:",
+   "options": {
+    "A": "We were in the middle of dinner when Lan arrived.",
+    "B": "We had finished dinner before Lan arrived.",
+    "C": "Lan had dinner alone.",
+    "D": "Lan arrived first, then we had dinner."
+   },
+   "answer": "D",
+   "explain": "Hai động từ đều ở quá khứ đơn → hai việc nối tiếp: Lan đến rồi mới ăn tối. A là nghĩa của 'we were having dinner'."
+  },
+  {
+   "no": 6,
+   "code": "G05",
+   "q": "My old flatmate ___ my clothes without asking! It was so annoying.",
+   "options": {
+    "A": "was always borrowing",
+    "B": "always was borrowing",
+    "C": "were always borrowing",
+    "D": "was always borrow"
+   },
+   "answer": "A",
+   "explain": "was/were + always + V-ing → phàn nàn về thói quen trong quá khứ. B sai vị trí 'always'; C sai was/were; D thiếu -ing."
+  },
+  {
+   "no": 7,
+   "code": "G05",
+   "q": "In 2015, she ___ a small flat in the city centre.",
+   "options": {
+    "A": "was having",
+    "B": "has",
+    "C": "was had",
+    "D": "had"
+   },
+   "answer": "D",
+   "explain": "'have' nghĩa 'sở hữu' là động từ trạng thái → không chia tiếp diễn → had. A là bẫy vì 'have' chỉ chia tiếp diễn khi mang nghĩa hành động."
+  },
+  {
+   "no": 8,
+   "code": "G05",
+   "q": "A: Why didn't you answer my call? B: Sorry, I ___ a presentation to the board at that moment.",
+   "options": {
+    "A": "gave",
+    "B": "was giving",
+    "C": "am giving",
+    "D": "give"
+   },
+   "answer": "B",
+   "explain": "'at that moment' → việc đang diễn ra tại một thời điểm trong quá khứ → was giving. C sai vì là hiện tại tiếp diễn."
+  },
+  {
+   "no": 9,
+   "code": "G05",
+   "q": "___ the guests were arriving, the waiters ___ the last tables.",
+   "options": {
+    "A": "During / were setting",
+    "B": "Because / set",
+    "C": "While / were setting",
+    "D": "While / was setting"
+   },
+   "answer": "C",
+   "explain": "Hai việc song song → While + tiếp diễn, tiếp diễn; 'the waiters' số nhiều → were setting. A sai vì 'during' không đi với mệnh đề; D sai was/were."
+  },
+  {
+   "no": 10,
+   "code": "G05",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "What were you doing at midnight?",
+    "B": "They weren't paying attention.",
+    "C": "I were reading a novel at that time.",
+    "D": "Was she wearing a red dress?"
+   },
+   "answer": "C",
+   "explain": "Chủ ngữ 'I' đi với was → I was reading. Các câu còn lại chia was/were đúng với chủ ngữ."
+  }
+ ]
+}

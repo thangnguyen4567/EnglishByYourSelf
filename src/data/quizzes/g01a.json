@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G01",
+   "q": "She sings ___ at every school concert.",
+   "options": {
+    "A": "beautiful",
+    "B": "beautifully",
+    "C": "beauty",
+    "D": "beautify"
+   },
+   "answer": "B",
+   "explain": "Chỗ trống đứng sau động từ thường 'sings' → cần trạng từ chỉ cách thức → beautifully."
+  },
+  {
+   "no": 2,
+   "code": "G01",
+   "q": "It was a ___ day, so we went to the beach.",
+   "options": {
+    "A": "sunshine",
+    "B": "sunnily",
+    "C": "sunny",
+    "D": "sun"
+   },
+   "answer": "C",
+   "explain": "Sau mạo từ 'a' và trước danh từ 'day' → cần tính từ → sunny (đuôi -y là hậu tố tính từ)."
+  },
+  {
+   "no": 3,
+   "code": "G01",
+   "q": "The ___ of the new bridge took two years.",
+   "options": {
+    "A": "construct",
+    "B": "constructive",
+    "C": "constructively",
+    "D": "construction"
+   },
+   "answer": "D",
+   "explain": "Sau 'The' và trước 'of' → cần danh từ; đuôi -tion là hậu tố danh từ → construction."
+  },
+  {
+   "no": 4,
+   "code": "G01",
+   "q": "Which word is a NOUN?",
+   "options": {
+    "A": "happiness",
+    "B": "happy",
+    "C": "happily",
+    "D": "unhappy"
+   },
+   "answer": "A",
+   "explain": "Đuôi -ness là hậu tố danh từ → happiness; happy/unhappy là tính từ, happily là trạng từ."
+  },
+  {
+   "no": 5,
+   "code": "G01",
+   "q": "Our new teacher is very ___.",
+   "options": {
+    "A": "patiently",
+    "B": "patience",
+    "C": "patient",
+    "D": "impatiently"
+   },
+   "answer": "C",
+   "explain": "Sau to be 'is' + 'very' → cần tính từ mô tả chủ ngữ → patient."
+  },
+  {
+   "no": 6,
+   "code": "G01",
+   "q": "Which word is an ADJECTIVE?",
+   "options": {
+    "A": "dangerous",
+    "B": "danger",
+    "C": "endanger",
+    "D": "dangerously"
+   },
+   "answer": "A",
+   "explain": "Đuôi -ous là hậu tố tính từ → dangerous; danger là danh từ, endanger là động từ, dangerously là trạng từ."
+  },
+  {
+   "no": 7,
+   "code": "G01",
+   "q": "He finished the test very ___ and left the room.",
+   "options": {
+    "A": "quick",
+    "B": "quickness",
+    "C": "quickly",
+    "D": "quicken"
+   },
+   "answer": "C",
+   "explain": "Bổ nghĩa cho động từ 'finished' (làm như thế nào?) → cần trạng từ → quickly."
+  },
+  {
+   "no": 8,
+   "code": "G01",
+   "q": "I need some ___ about the flight times.",
+   "options": {
+    "A": "inform",
+    "B": "information",
+    "C": "informative",
+    "D": "informed"
+   },
+   "answer": "B",
+   "explain": "Sau lượng từ 'some' → cần danh từ; đuôi -tion → information."
+  },
+  {
+   "no": 9,
+   "code": "G01",
+   "q": "You must ___ the form before Friday.",
+   "options": {
+    "A": "completion",
+    "B": "completely",
+    "C": "complete",
+    "D": "completing"
+   },
+   "answer": "C",
+   "explain": "Sau động từ khuyết thiếu 'must' → động từ nguyên mẫu → complete."
+  },
+  {
+   "no": 10,
+   "code": "G01",
+   "q": "In the evening, the weather became ___.",
+   "options": {
+    "A": "cold",
+    "B": "coldly",
+    "C": "coldness",
+    "D": "colds"
+   },
+   "answer": "A",
+   "explain": "'became' là linking verb → theo sau là tính từ → cold."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G01",
+   "q": "This coffee tastes too ___ for me.",
+   "options": {
+    "A": "bitterly",
+    "B": "bitterness",
+    "C": "more bitterly",
+    "D": "bitter"
+   },
+   "answer": "D",
+   "explain": "'tastes' ở đây là linking verb (có vị) → dùng tính từ bitter; bitterly là trạng từ nên sai dù đứng sau động từ."
+  },
+  {
+   "no": 2,
+   "code": "G01",
+   "q": "Maria doesn't speak French very ___.",
+   "options": {
+    "A": "good",
+    "B": "goodly",
+    "C": "well",
+    "D": "better"
+   },
+   "answer": "C",
+   "explain": "Bổ nghĩa cho động từ 'speak' → cần trạng từ well; 'good' là tính từ nên không dùng sau động từ thường."
+  },
+  {
+   "no": 3,
+   "code": "G01",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "She looks happily today.",
+    "B": "My brother very tall.",
+    "C": "The plan sounds interesting.",
+    "D": "He drives careful."
+   },
+   "answer": "C",
+   "explain": "'sounds' là linking verb + tính từ 'interesting' → đúng. A sai vì sau look dùng tính từ; B thiếu động từ 'is'; D cần trạng từ carefully."
+  },
+  {
+   "no": 4,
+   "code": "G01",
+   "q": "Is your son interested in ___ Japanese?",
+   "options": {
+    "A": "learn",
+    "B": "learning",
+    "C": "learned",
+    "D": "learns"
+   },
+   "answer": "B",
+   "explain": "Sau giới từ 'in' → dùng danh từ hoặc V-ing → learning; không dùng động từ nguyên mẫu 'learn'."
+  },
+  {
+   "no": 5,
+   "code": "G01",
+   "q": "Anna is a ___ worker; she always finishes her tasks on time.",
+   "options": {
+    "A": "hard",
+    "B": "hardly",
+    "C": "hardness",
+    "D": "harden"
+   },
+   "answer": "A",
+   "explain": "Trước danh từ 'worker' → tính từ hard (chăm chỉ); 'hardly' là trạng từ nghĩa 'hầu như không', không đứng trước danh từ."
+  },
+  {
+   "no": 6,
+   "code": "G01",
+   "q": "Chọn từ có hậu tố chỉ NGƯỜI:",
+   "options": {
+    "A": "employment",
+    "B": "employable",
+    "C": "employ",
+    "D": "employee"
+   },
+   "answer": "D",
+   "explain": "Đuôi -ee chỉ người (người được thuê) → employee; employment là danh từ chỉ khái niệm, employable là tính từ, employ là động từ."
+  },
+  {
+   "no": 7,
+   "code": "G01",
+   "q": "In which sentence is 'water' a VERB?",
+   "options": {
+    "A": "Please water the plants twice a week.",
+    "B": "Can I have a glass of water?",
+    "C": "The water in this lake is very clean.",
+    "D": "We ran out of water on the trip."
+   },
+   "answer": "A",
+   "explain": "Chuyển loại (conversion): 'water' giữ nguyên hình thức, chỉ vị trí cho biết từ loại. Ở A, 'water' đứng đầu câu mệnh lệnh sau 'Please' và có tân ngữ 'the plants' → động từ (tưới). B, C, D: 'water' đứng sau 'of' hoặc 'The' → danh từ."
+  },
+  {
+   "no": 8,
+   "code": "G01",
+   "q": "In which sentence is 'books' a VERB?",
+   "options": {
+    "A": "I bought two books yesterday.",
+    "B": "These books are mine.",
+    "C": "Her books are very popular.",
+    "D": "She books a table every Friday."
+   },
+   "answer": "D",
+   "explain": "Đuôi -s có thể là danh từ số nhiều hoặc động từ ngôi 3 số ít. Ở D, 'books' đứng ngay sau chủ ngữ 'She' và có tân ngữ 'a table' → động từ (đặt chỗ). A, B, C: 'books' đứng sau 'two', 'These', 'Her' → danh từ số nhiều."
+  },
+  {
+   "no": 9,
+   "code": "G01",
+   "q": "Pollution may ___ many rare animals in this area.",
+   "options": {
+    "A": "endanger",
+    "B": "danger",
+    "C": "dangerous",
+    "D": "dangerously"
+   },
+   "answer": "A",
+   "explain": "Sau động từ khuyết thiếu 'may' cần động từ nguyên mẫu. Tiền tố en- biến danh từ 'danger' thành động từ endanger (gây nguy hiểm). 'danger' chỉ là danh từ, không dùng làm động từ; 'dangerous' là tính từ, 'dangerously' là trạng từ."
+  },
+  {
+   "no": 10,
+   "code": "G01",
+   "q": "It is ___ to park here, so you may get a fine.",
+   "options": {
+    "A": "unlegal",
+    "B": "illegal",
+    "C": "inlegal",
+    "D": "dislegal"
+   },
+   "answer": "B",
+   "explain": "Tiền tố phủ định trước gốc bắt đầu bằng chữ l là il- → illegal (trái luật). 'unlegal', 'inlegal', 'dislegal' không tồn tại; in- chỉ dùng khi gốc không bắt đầu bằng b, m, p, l, r."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G01",
+   "q": "Tìm lỗi sai: The receptionist (A) greeted (B) every guest (C) very (D) friendly.",
+   "options": {
+    "A": "greeted",
+    "B": "every guest",
+    "C": "very",
+    "D": "friendly"
+   },
+   "answer": "D",
+   "explain": "'friendly' là tính từ dù có đuôi -ly, không bổ nghĩa cho động từ được → phải nói 'in a very friendly way'."
+  },
+  {
+   "no": 2,
+   "code": "G01",
+   "q": "Chọn câu đúng nghĩa với: 'Gần đây anh ấy làm việc rất chăm chỉ.'",
+   "options": {
+    "A": "He has worked hardly lately.",
+    "B": "He has worked hard lately.",
+    "C": "He has worked hard late.",
+    "D": "He has hardly worked lately."
+   },
+   "answer": "B",
+   "explain": "hard = chăm chỉ (trạng từ không thêm -ly), lately = gần đây. 'hardly' nghĩa là 'hầu như không' → A, D sai nghĩa; 'late' nghĩa là 'muộn' → C sai."
+  },
+  {
+   "no": 3,
+   "code": "G01",
+   "q": "Chọn câu ĐÚNG ngữ pháp (chú ý 'taste' là linking verb hay hành động):",
+   "options": {
+    "A": "The chef tasted the sauce careful.",
+    "B": "The sauce tasted wonderfully.",
+    "C": "The sauce tastes saltily.",
+    "D": "The chef tasted the sauce carefully."
+   },
+   "answer": "D",
+   "explain": "Ở D, 'tasted' là hành động thật (nếm) → dùng trạng từ carefully. B, C: 'taste' là linking verb (có vị) → phải dùng tính từ wonderful, salty; A cần trạng từ."
+  },
+  {
+   "no": 4,
+   "code": "G01",
+   "q": "Chọn câu gần nghĩa nhất với: 'He is a fast runner.'",
+   "options": {
+    "A": "He runs fastly.",
+    "B": "He fast runs.",
+    "C": "He is running fast now.",
+    "D": "He runs fast."
+   },
+   "answer": "D",
+   "explain": "'fast' vừa là tính từ vừa là trạng từ, không có dạng 'fastly' → D đúng. C sai nghĩa vì chỉ việc đang xảy ra lúc này, không phải khả năng chung."
+  },
+  {
+   "no": 5,
+   "code": "G01",
+   "q": "Chọn câu ĐÚNG ngữ pháp (chú ý tính từ bắt đầu bằng a-):",
+   "options": {
+    "A": "Please be quiet, there is an asleep baby in the next room.",
+    "B": "The firefighters found an alive cat in the building.",
+    "C": "We woke the asleep children at seven.",
+    "D": "Please be quiet, the baby is asleep in the next room."
+   },
+   "answer": "D",
+   "explain": "Các tính từ asleep, alive, awake, afraid… thường không đứng trước danh từ mà đứng sau to be: the baby is asleep. A, C sai (phải nói a sleeping baby, the sleeping children); B sai (phải nói a living cat hoặc found the cat alive)."
+  },
+  {
+   "no": 6,
+   "code": "G01",
+   "q": "Chọn câu dùng ĐÚNG tính từ đuôi -ed / -ing:",
+   "options": {
+    "A": "The film was bored, so I fell asleep.",
+    "B": "The film was boring, so I felt bored.",
+    "C": "The film was bored, so I felt boring.",
+    "D": "The bored film made me fall asleep."
+   },
+   "answer": "B",
+   "explain": "Tính từ -ing mô tả tính chất của sự vật gây ra cảm xúc (the film was boring); tính từ -ed mô tả cảm xúc của người (I felt bored). A, D sai vì bộ phim không thể 'cảm thấy chán'; C đảo ngược cả hai."
+  },
+  {
+   "no": 7,
+   "code": "G01",
+   "q": "In this town, cyclists ___ car drivers by two to one.",
+   "options": {
+    "A": "outnumbers",
+    "B": "number out",
+    "C": "outnumber",
+    "D": "numerous"
+   },
+   "answer": "C",
+   "explain": "Cần động từ sau chủ ngữ 'cyclists'. Tiền tố out- tạo động từ outnumber (đông hơn); chủ ngữ số nhiều nên không thêm -s → outnumber. A sai vì chia ngôi 3 số ít; 'number out' không tồn tại; 'numerous' là tính từ."
+  },
+  {
+   "no": 8,
+   "code": "G01",
+   "q": "Chọn câu mà từ record / present / increase được nhấn trọng âm ở âm tiết THỨ HAI:",
+   "options": {
+    "A": "She holds the world record for the long jump.",
+    "B": "Thanks for the lovely present.",
+    "C": "We record every meeting for our notes.",
+    "D": "There was a sharp increase in prices."
+   },
+   "answer": "C",
+   "explain": "Với các từ 2 âm tiết như record, present, increase: danh từ nhấn âm 1, động từ nhấn âm 2. Ở C, 'record' đứng ngay sau chủ ngữ 'We' → động từ → reCORD. A, B, D đều là danh từ (sau 'world', 'lovely', 'a sharp') → nhấn âm 1: REcord, PREsent, INcrease."
+  },
+  {
+   "no": 9,
+   "code": "G01",
+   "q": "Tìm lỗi sai: I (A) followed my doctor's (B) advise and (C) started (D) exercising every morning.",
+   "options": {
+    "A": "followed",
+    "B": "advise",
+    "C": "started",
+    "D": "exercising"
+   },
+   "answer": "B",
+   "explain": "Sau sở hữu cách 'my doctor's' cần danh từ → advice (viết với c). 'advise' (viết với s) là động từ. 'exercising' đúng vì 'start' + V-ing là cấu trúc hợp lệ."
+  },
+  {
+   "no": 10,
+   "code": "G01",
+   "q": "She made a quick ___ and then acted ___.",
+   "options": {
+    "A": "decide / decisive",
+    "B": "decision / decisive",
+    "C": "decision / decisively",
+    "D": "decisive / decision"
+   },
+   "answer": "C",
+   "explain": "Chỗ 1 sau tính từ 'quick' → danh từ decision; chỗ 2 sau động từ thường 'acted' (hành động) → trạng từ decisively. B sai vì 'decisive' là tính từ, không bổ nghĩa cho động từ hành động 'acted'."
+  }
+ ]
+}

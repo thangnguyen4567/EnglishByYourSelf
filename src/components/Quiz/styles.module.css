@@ -1,0 +1,238 @@
+.quiz {
+  margin: 1.5rem 0;
+}
+
+.bar {
+  position: sticky;
+  top: calc(var(--ifm-navbar-height) + 0.5rem);
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  background: var(--ifm-background-surface-color);
+  box-shadow: var(--ifm-global-shadow-lw);
+  margin-bottom: 1rem;
+}
+
+.bar progress {
+  flex: 1;
+  min-width: 120px;
+  height: 8px;
+  accent-color: var(--ifm-color-primary);
+}
+
+.result {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin-bottom: 1.25rem;
+}
+
+.result p {
+  margin: 0.25rem 0 0.5rem;
+}
+
+.score {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1;
+  text-align: center;
+  min-width: 90px;
+}
+
+.score small {
+  display: block;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+.review {
+  display: inline-block;
+  margin: 0.2rem 0.4rem 0.2rem 0;
+  padding: 0.1rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  font-size: 0.85rem;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-left: 4px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  margin-bottom: 0.9rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.cardOk {
+  border-left-color: var(--ifm-color-success);
+}
+
+.cardBad {
+  border-left-color: var(--ifm-color-danger);
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  margin-bottom: 0.35rem;
+}
+
+.num {
+  font-weight: 700;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.tag {
+  padding: 0 0.45rem;
+  border-radius: 6px;
+  background: var(--ifm-color-primary-contrast-background);
+  color: var(--ifm-color-primary-contrast-foreground);
+  font-weight: 600;
+}
+
+.src {
+  color: var(--ifm-color-emphasis-600);
+}
+
+.q {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-bottom: 0.6rem;
+}
+
+.blank {
+  display: inline-block;
+  width: 4.5em;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  margin: 0 0.2em;
+  vertical-align: -0.15em;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.5rem;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  text-align: left;
+  font: inherit;
+  padding: 0.45rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-color);
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.option:hover:not(:disabled) {
+  border-color: var(--ifm-color-primary);
+}
+
+.option:disabled {
+  cursor: default;
+}
+
+.letter {
+  flex: none;
+  display: inline-grid;
+  place-items: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.8rem;
+  background: var(--ifm-color-emphasis-200);
+}
+
+.picked {
+  border-color: var(--ifm-color-primary);
+  background: var(--ifm-color-primary-contrast-background);
+}
+
+.picked .letter {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.correct {
+  border-color: var(--ifm-color-success);
+  background: var(--ifm-color-success-contrast-background);
+}
+
+.correct .letter {
+  background: var(--ifm-color-success);
+  color: #fff;
+}
+
+.wrong {
+  border-color: var(--ifm-color-danger);
+  background: var(--ifm-color-danger-contrast-background);
+}
+
+.wrong .letter {
+  background: var(--ifm-color-danger);
+  color: #fff;
+}
+
+.explain {
+  margin-top: 0.7rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: 8px;
+  background: var(--ifm-color-emphasis-100);
+  font-size: 0.93rem;
+}
+
+.submit {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.levels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.level {
+  padding: 0 0.45rem;
+  border-radius: 6px;
+  font-weight: 600;
+  border: 1px solid currentColor;
+}
+
+.lvBasic {
+  color: var(--ifm-color-primary);
+}
+
+.lvNormal {
+  color: #b7791f;
+}
+
+.lvHard {
+  color: var(--ifm-color-danger);
+}
+
+[data-theme='dark'] .lvNormal {
+  color: #f6c453;
+}

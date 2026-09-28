@@ -1,0 +1,9 @@
+.tabs {
+  margin-top: 1rem;
+}
+
+.hint {
+  margin: 0.75rem 0 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}

@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G17",
+   "q": "An elephant is ___ than a horse.",
+   "options": {
+    "A": "heavy",
+    "B": "heavier",
+    "C": "heaviest",
+    "D": "more heavy"
+   },
+   "answer": "B",
+   "explain": "Có 'than' → so sánh hơn; heavy (phụ âm + y) → heavier."
+  },
+  {
+   "no": 2,
+   "code": "G17",
+   "q": "Fansipan is ___ mountain in Vietnam.",
+   "options": {
+    "A": "the highest",
+    "B": "higher",
+    "C": "high",
+    "D": "the higher"
+   },
+   "answer": "A",
+   "explain": "'in Vietnam' → so sánh nhất trong một nhóm: the highest."
+  },
+  {
+   "no": 3,
+   "code": "G17",
+   "q": "My brother is two years ___ than me.",
+   "options": {
+    "A": "more old",
+    "B": "oldest",
+    "C": "older",
+    "D": "old"
+   },
+   "answer": "C",
+   "explain": "Có 'than' + tính từ ngắn → older."
+  },
+  {
+   "no": 4,
+   "code": "G17",
+   "q": "Today is as ___ as yesterday.",
+   "options": {
+    "A": "hot",
+    "B": "hotter",
+    "C": "hottest",
+    "D": "more hot"
+   },
+   "answer": "A",
+   "explain": "So sánh bằng: as + tính từ nguyên mẫu + as → as hot as."
+  },
+  {
+   "no": 5,
+   "code": "G17",
+   "q": "This is ___ restaurant in town. The food is terrible.",
+   "options": {
+    "A": "the baddest",
+    "B": "the most bad",
+    "C": "the worse",
+    "D": "the worst"
+   },
+   "answer": "D",
+   "explain": "bad là bất quy tắc: bad → worse → the worst."
+  },
+  {
+   "no": 6,
+   "code": "G17",
+   "q": "A plane is ___ than a train.",
+   "options": {
+    "A": "fast",
+    "B": "faster",
+    "C": "more fast",
+    "D": "fastest"
+   },
+   "answer": "B",
+   "explain": "Tính từ 1 âm tiết + than → faster."
+  },
+  {
+   "no": 7,
+   "code": "G17",
+   "q": "Online shopping is ___ convenient than going to the market.",
+   "options": {
+    "A": "most",
+    "B": "as",
+    "C": "more",
+    "D": "very"
+   },
+   "answer": "C",
+   "explain": "Tính từ dài 'convenient' + than → more convenient."
+  },
+  {
+   "no": 8,
+   "code": "G17",
+   "q": "Which is the correct comparative form of 'big'?",
+   "options": {
+    "A": "bigger",
+    "B": "biger",
+    "C": "bigest",
+    "D": "more big"
+   },
+   "answer": "A",
+   "explain": "1 nguyên âm + 1 phụ âm cuối → gấp đôi phụ âm: big → bigger."
+  },
+  {
+   "no": 9,
+   "code": "G17",
+   "q": "Which is ___, the bus or the train?",
+   "options": {
+    "A": "cheap",
+    "B": "cheapest",
+    "C": "cheaper",
+    "D": "more cheap"
+   },
+   "answer": "C",
+   "explain": "So sánh giữa hai lựa chọn → so sánh hơn cheaper (không cần 'than' vì đối tượng đã rõ)."
+  },
+  {
+   "no": 10,
+   "code": "G17",
+   "q": "My handwriting is ___ than yours; I can hardly read it myself.",
+   "options": {
+    "A": "badder",
+    "B": "bad",
+    "C": "worst",
+    "D": "worse"
+   },
+   "answer": "D",
+   "explain": "Có 'than' → so sánh hơn của bad là worse (bất quy tắc)."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G17",
+   "q": "This phone is ___ cheaper than that one.",
+   "options": {
+    "A": "very",
+    "B": "much",
+    "C": "more",
+    "D": "most"
+   },
+   "answer": "B",
+   "explain": "Nhấn mạnh so sánh hơn dùng much/far/a lot. 'very' không đứng trước so sánh hơn."
+  },
+  {
+   "no": 2,
+   "code": "G17",
+   "q": "Houses in the city centre are getting ___.",
+   "options": {
+    "A": "more and more expensive",
+    "B": "expensive and expensive",
+    "C": "most and most expensive",
+    "D": "the more expensive"
+   },
+   "answer": "A",
+   "explain": "'ngày càng' với tính từ dài → more and more + adj. B, C không phải cấu trúc đúng."
+  },
+  {
+   "no": 3,
+   "code": "G17",
+   "q": "The ___ we start, the sooner we'll finish.",
+   "options": {
+    "A": "more early",
+    "B": "earliest",
+    "C": "early",
+    "D": "earlier"
+   },
+   "answer": "D",
+   "explain": "So sánh kép: The + so sánh hơn, the + so sánh hơn; early → earlier (không dùng 'more early')."
+  },
+  {
+   "no": 4,
+   "code": "G17",
+   "q": "Your phone is the same ___ mine.",
+   "options": {
+    "A": "like",
+    "B": "from",
+    "C": "as",
+    "D": "to"
+   },
+   "answer": "C",
+   "explain": "Cấu trúc cố định: the same as. 'the same like' là lỗi dịch từ tiếng Việt."
+  },
+  {
+   "no": 5,
+   "code": "G17",
+   "q": "Her salary is twice ___ mine.",
+   "options": {
+    "A": "as high as",
+    "B": "higher as",
+    "C": "as higher than",
+    "D": "high as"
+   },
+   "answer": "A",
+   "explain": "So sánh bội số: twice/three times + as + adj + as."
+  },
+  {
+   "no": 6,
+   "code": "G17",
+   "q": "She speaks English ___ than her colleagues.",
+   "options": {
+    "A": "more fluent",
+    "B": "more fluently",
+    "C": "fluentlier",
+    "D": "most fluently"
+   },
+   "answer": "B",
+   "explain": "Bổ nghĩa cho động từ 'speaks' → trạng từ; trạng từ -ly so sánh bằng more: more fluently. 'more fluent' là tính từ nên sai."
+  },
+  {
+   "no": 7,
+   "code": "G17",
+   "q": "Nam isn't ___ his brother.",
+   "options": {
+    "A": "as tall than",
+    "B": "so tall than",
+    "C": "as tall as",
+    "D": "taller as"
+   },
+   "answer": "C",
+   "explain": "So sánh không bằng: not as/so + adj + as. Không trộn 'as' với 'than'."
+  },
+  {
+   "no": 8,
+   "code": "G17",
+   "q": "That was ___ film I have ever seen.",
+   "options": {
+    "A": "the more boring",
+    "B": "the boringest",
+    "C": "most boring",
+    "D": "the most boring"
+   },
+   "answer": "D",
+   "explain": "'I have ever seen' → so sánh nhất; boring dài → the most boring. C thiếu 'the'."
+  },
+  {
+   "no": 9,
+   "code": "G17",
+   "q": "Please call our office if you need any ___ information.",
+   "options": {
+    "A": "farther",
+    "B": "further",
+    "C": "furthest",
+    "D": "far"
+   },
+   "answer": "B",
+   "explain": "further còn có nghĩa 'thêm nữa' (further information). 'farther' chỉ dùng cho khoảng cách."
+  },
+  {
+   "no": 10,
+   "code": "G17",
+   "q": "He is the tallest ___ the three brothers.",
+   "options": {
+    "A": "in",
+    "B": "than",
+    "C": "of",
+    "D": "from"
+   },
+   "answer": "C",
+   "explain": "So sánh nhất + of + nhóm có số lượng (of the three). 'in' dùng với nơi chốn/tập thể như in the class."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G17",
+   "q": "Tìm lỗi sai: This laptop is (A) very (B) lighter (C) than my (D) old one.",
+   "options": {
+    "A": "very",
+    "B": "lighter",
+    "C": "than",
+    "D": "old"
+   },
+   "answer": "A",
+   "explain": "Không dùng 'very' trước so sánh hơn → much/far lighter."
+  },
+  {
+   "no": 2,
+   "code": "G17",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "She is more cleverer than her sister.",
+    "B": "This is the most best hotel in the area.",
+    "C": "My elder sister is a doctor.",
+    "D": "He is elder than me."
+   },
+   "answer": "C",
+   "explain": "'elder' đứng trước danh từ chỉ anh chị em → đúng. D phải là 'older than'; A, B dùng hai cách so sánh cùng lúc."
+  },
+  {
+   "no": 3,
+   "code": "G17",
+   "q": "Chọn câu gần nghĩa nhất với: No other student in the class is as hard-working as Mai.",
+   "options": {
+    "A": "Mai is the most hard-working student in the class.",
+    "B": "Mai is not as hard-working as the other students.",
+    "C": "Mai is more hard-working than some students.",
+    "D": "The other students are more hard-working than Mai."
+   },
+   "answer": "A",
+   "explain": "'Không ai chăm bằng Mai' = Mai chăm nhất lớp. C chỉ nói 'hơn một số bạn', không đủ nghĩa."
+  },
+  {
+   "no": 4,
+   "code": "G17",
+   "q": "As he got older, he became ___.",
+   "options": {
+    "A": "patienter and patienter",
+    "B": "more and more patient",
+    "C": "most and most patient",
+    "D": "more patient and patient"
+   },
+   "answer": "B",
+   "explain": "'ngày càng' với tính từ 2 âm tiết patient → more and more patient."
+  },
+  {
+   "no": 5,
+   "code": "G17",
+   "q": "Chọn câu gần nghĩa nhất với: The train is faster than the bus.",
+   "options": {
+    "A": "The bus is as fast as the train.",
+    "B": "The train isn't as fast as the bus.",
+    "C": "The bus isn't as fast as the train.",
+    "D": "The bus is faster than the train."
+   },
+   "answer": "C",
+   "explain": "Tàu nhanh hơn xe buýt = xe buýt không nhanh bằng tàu. B đảo ngược nghĩa."
+  },
+  {
+   "no": 6,
+   "code": "G17",
+   "q": "The ___ the weather is, the ___ I feel.",
+   "options": {
+    "A": "hot / tired",
+    "B": "hottest / most tired",
+    "C": "hotter / tireder",
+    "D": "hotter / more tired"
+   },
+   "answer": "D",
+   "explain": "So sánh kép dùng so sánh hơn ở cả hai vế; tính từ -ed luôn dùng more → more tired, không có 'tireder'."
+  },
+  {
+   "no": 7,
+   "code": "G17",
+   "q": "Tìm lỗi sai: My opinion is (A) quite (B) different (C) with yours but (D) similar to Lan's.",
+   "options": {
+    "A": "quite",
+    "B": "different",
+    "C": "with",
+    "D": "similar to"
+   },
+   "answer": "C",
+   "explain": "Cụm đúng là 'different from'. 'similar to' đã đúng."
+  },
+  {
+   "no": 8,
+   "code": "G17",
+   "q": "This year's sales figures are ___ better than last year's.",
+   "options": {
+    "A": "significant",
+    "B": "significantly",
+    "C": "more significantly",
+    "D": "most significant"
+   },
+   "answer": "B",
+   "explain": "Bổ nghĩa mức độ cho so sánh hơn 'better' cần trạng từ significantly. C thừa 'more' vì 'better' đã là so sánh hơn."
+  },
+  {
+   "no": 9,
+   "code": "G17",
+   "q": "Chọn dạng so sánh hơn ĐÚNG:",
+   "options": {
+    "A": "boreder",
+    "B": "happyer",
+    "C": "gooder",
+    "D": "more bored"
+   },
+   "answer": "D",
+   "explain": "Tính từ đuôi -ed luôn dùng more: more bored. Đúng phải là happier, better."
+  },
+  {
+   "no": 10,
+   "code": "G17",
+   "q": "It was ___ exciting match of the whole tournament.",
+   "options": {
+    "A": "by far the most",
+    "B": "very the most",
+    "C": "far more",
+    "D": "much the more"
+   },
+   "answer": "A",
+   "explain": "Nhấn mạnh so sánh nhất dùng 'by far'. C là so sánh hơn, cần 'a' và 'than' nên sai trong câu này."
+  }
+ ]
+}

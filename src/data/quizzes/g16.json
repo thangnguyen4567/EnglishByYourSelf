@@ -1,0 +1,398 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G16",
+   "q": "My grandmother is a ___ cook; everything she makes is delicious.",
+   "options": {
+    "A": "well",
+    "B": "good",
+    "C": "goodly",
+    "D": "goodness"
+   },
+   "answer": "B",
+   "explain": "Trước danh từ 'cook' cần tính từ → good."
+  },
+  {
+   "no": 2,
+   "code": "G16",
+   "q": "Please close the door ___. The baby is sleeping.",
+   "options": {
+    "A": "quietly",
+    "B": "quiet",
+    "C": "quietness",
+    "D": "quite"
+   },
+   "answer": "A",
+   "explain": "Bổ nghĩa cho động từ 'close' (đóng như thế nào) → trạng từ quietly."
+  },
+  {
+   "no": 3,
+   "code": "G16",
+   "q": "I was really ___ when I heard that I had won the prize.",
+   "options": {
+    "A": "surprising",
+    "B": "surprise",
+    "C": "surprisingly",
+    "D": "surprised"
+   },
+   "answer": "D",
+   "explain": "Người cảm thấy ngạc nhiên → tính từ đuôi -ed: surprised."
+  },
+  {
+   "no": 4,
+   "code": "G16",
+   "q": "This soup smells ___. Can I have some?",
+   "options": {
+    "A": "deliciously",
+    "B": "deliciousness",
+    "C": "delicious",
+    "D": "delicacy"
+   },
+   "answer": "C",
+   "explain": "'smell' là động từ nối (linking verb) → theo sau là tính từ: delicious."
+  },
+  {
+   "no": 5,
+   "code": "G16",
+   "q": "He ran ___ to catch the last bus.",
+   "options": {
+    "A": "fastly",
+    "B": "fasting",
+    "C": "fastness",
+    "D": "fast"
+   },
+   "answer": "D",
+   "explain": "'fast' vừa là tính từ vừa là trạng từ; không có dạng 'fastly'."
+  },
+  {
+   "no": 6,
+   "code": "G16",
+   "q": "The children are ___ because it's raining and they can't go outside.",
+   "options": {
+    "A": "bored",
+    "B": "boring",
+    "C": "bore",
+    "D": "boredly"
+   },
+   "answer": "A",
+   "explain": "Bọn trẻ cảm thấy chán → -ed: bored."
+  },
+  {
+   "no": 7,
+   "code": "G16",
+   "q": "She is a ___ driver. She has never had an accident.",
+   "options": {
+    "A": "carefully",
+    "B": "careless",
+    "C": "careful",
+    "D": "care"
+   },
+   "answer": "C",
+   "explain": "Trước danh từ 'driver' cần tính từ; nghĩa 'chưa từng gây tai nạn' → careful."
+  },
+  {
+   "no": 8,
+   "code": "G16",
+   "q": "They bought a ___ car last week.",
+   "options": {
+    "A": "red new big",
+    "B": "big new red",
+    "C": "new big red",
+    "D": "red big new"
+   },
+   "answer": "B",
+   "explain": "OSASCOMP: Size (big) → Age (new) → Colour (red)."
+  },
+  {
+   "no": 9,
+   "code": "G16",
+   "q": "___, nobody was hurt in the accident.",
+   "options": {
+    "A": "Luck",
+    "B": "Lucky",
+    "C": "Luckier",
+    "D": "Luckily"
+   },
+   "answer": "D",
+   "explain": "Trạng từ bổ nghĩa cho cả câu, đứng đầu câu có dấu phẩy → Luckily."
+  },
+  {
+   "no": 10,
+   "code": "G16",
+   "q": "Which is the correct adverb form of 'happy'?",
+   "options": {
+    "A": "happily",
+    "B": "happyly",
+    "C": "happly",
+    "D": "happilly"
+   },
+   "answer": "A",
+   "explain": "Phụ âm + y → đổi y thành -ily: happy → happily."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G16",
+   "q": "I can ___ hear you. Could you speak up a bit?",
+   "options": {
+    "A": "hard",
+    "B": "hardly",
+    "C": "harder",
+    "D": "hardness"
+   },
+   "answer": "B",
+   "explain": "hardly = hầu như không, hợp với 'speak up'. 'hard' nghĩa là chăm chỉ/mạnh, không hợp nghĩa."
+  },
+  {
+   "no": 2,
+   "code": "G16",
+   "q": "Have you seen Lan ___? She hasn't come to the club for weeks.",
+   "options": {
+    "A": "lately",
+    "B": "late",
+    "C": "latest",
+    "D": "later"
+   },
+   "answer": "A",
+   "explain": "lately = gần đây, đi với hiện tại hoàn thành. 'late' nghĩa là muộn, không hợp nghĩa."
+  },
+  {
+   "no": 3,
+   "code": "G16",
+   "q": "The instructions were so ___ that nobody knew what to do.",
+   "options": {
+    "A": "confused",
+    "B": "confusing",
+    "C": "confusedly",
+    "D": "confusion"
+   },
+   "answer": "B",
+   "explain": "Bản hướng dẫn gây ra sự khó hiểu → -ing: confusing. 'confused' dùng cho người cảm thấy bối rối."
+  },
+  {
+   "no": 4,
+   "code": "G16",
+   "q": "She looked ___ at the stranger before opening the door.",
+   "options": {
+    "A": "suspicion",
+    "B": "suspicious",
+    "C": "suspiciously",
+    "D": "suspect"
+   },
+   "answer": "C",
+   "explain": "'look at' ở đây là hành động nhìn → trạng từ suspiciously. 'looked suspicious' chỉ đúng khi 'look' là động từ nối (trông có vẻ), không đi với 'at'."
+  },
+  {
+   "no": 5,
+   "code": "G16",
+   "q": "I don't feel ___ today. I think I'm getting a cold.",
+   "options": {
+    "A": "well",
+    "B": "nicely",
+    "C": "healthily",
+    "D": "wellness"
+   },
+   "answer": "A",
+   "explain": "'well' ở đây là tính từ nghĩa 'khỏe', đứng sau động từ nối 'feel'. 'nicely', 'healthily' là trạng từ nên sai sau 'feel'."
+  },
+  {
+   "no": 6,
+   "code": "G16",
+   "q": "Dr. Nam is a ___ respected surgeon in this city.",
+   "options": {
+    "A": "high",
+    "B": "height",
+    "C": "highly",
+    "D": "highest"
+   },
+   "answer": "C",
+   "explain": "highly = rất, bổ nghĩa cho 'respected'. 'high' chỉ độ cao vật lý nên sai."
+  },
+  {
+   "no": 7,
+   "code": "G16",
+   "q": "She smiled at me ___.",
+   "options": {
+    "A": "friendly",
+    "B": "in a friendly way",
+    "C": "friendlily",
+    "D": "friendship"
+   },
+   "answer": "B",
+   "explain": "'friendly' là tính từ (dù có đuôi -ly) nên không bổ nghĩa cho động từ; phải dùng 'in a friendly way'."
+  },
+  {
+   "no": 8,
+   "code": "G16",
+   "q": "Which adverb is spelled correctly?",
+   "options": {
+    "A": "basicly",
+    "B": "truely",
+    "C": "gently",
+    "D": "fullly"
+   },
+   "answer": "C",
+   "explain": "gentle → bỏ e thêm y → gently. Đúng phải là basically, truly, fully."
+  },
+  {
+   "no": 9,
+   "code": "G16",
+   "q": "The story was ___ interesting, so I finished the book in one night.",
+   "options": {
+    "A": "extremely",
+    "B": "extreme",
+    "C": "extremity",
+    "D": "extremest"
+   },
+   "answer": "A",
+   "explain": "Bổ nghĩa cho tính từ 'interesting' → trạng từ chỉ mức độ extremely. 'extreme' là tính từ, không bổ nghĩa cho tính từ khác."
+  },
+  {
+   "no": 10,
+   "code": "G16",
+   "q": "Is there ___ in the newspaper today?",
+   "options": {
+    "A": "interesting anything",
+    "B": "interested anything",
+    "C": "anything interested",
+    "D": "anything interesting"
+   },
+   "answer": "D",
+   "explain": "Tính từ đứng SAU something/anything; tin tức gây hứng thú → -ing: anything interesting."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G16",
+   "q": "Tìm lỗi sai: She (A) studied (B) hardly for (C) the final exam, so she passed it (D) easily.",
+   "options": {
+    "A": "studied",
+    "B": "hardly",
+    "C": "the final",
+    "D": "easily"
+   },
+   "answer": "B",
+   "explain": "'hardly' = hầu như không, trái nghĩa với việc thi đỗ → phải là 'studied hard'."
+  },
+  {
+   "no": 2,
+   "code": "G16",
+   "q": "Chọn câu ĐÚNG ngữ pháp:",
+   "options": {
+    "A": "The baby is asleep in the cot.",
+    "B": "Look at that asleep baby.",
+    "C": "The milk smells badly.",
+    "D": "She speaks fluently English."
+   },
+   "answer": "A",
+   "explain": "'asleep' chỉ đứng sau động từ nên A đúng. B phải là 'sleeping baby'; C phải là 'smells bad'; D trạng từ không chen giữa động từ và tân ngữ."
+  },
+  {
+   "no": 3,
+   "code": "G16",
+   "q": "My aunt gave me a ___ vase for my birthday.",
+   "options": {
+    "A": "Chinese lovely round old",
+    "B": "old lovely Chinese round",
+    "C": "round lovely old Chinese",
+    "D": "lovely old round Chinese"
+   },
+   "answer": "D",
+   "explain": "OSASCOMP: Opinion (lovely) → Age (old) → Shape (round) → Origin (Chinese)."
+  },
+  {
+   "no": 4,
+   "code": "G16",
+   "q": "Chọn câu gần nghĩa nhất với: He is a fast and careful typist.",
+   "options": {
+    "A": "He types fast and carefully.",
+    "B": "He types fastly and carefully.",
+    "C": "He types fast and careful.",
+    "D": "He types quick and careful."
+   },
+   "answer": "A",
+   "explain": "Bổ nghĩa cho 'types' cần trạng từ: fast (bất quy tắc) và carefully. B sai vì không có 'fastly'; C, D dùng tính từ sau động từ thường."
+  },
+  {
+   "no": 5,
+   "code": "G16",
+   "q": "The situation remains ___ despite the government's efforts.",
+   "options": {
+    "A": "seriously",
+    "B": "serious",
+    "C": "seriousness",
+    "D": "more seriously"
+   },
+   "answer": "B",
+   "explain": "'remain' là động từ nối → dùng tính từ serious. 'seriously' là trạng từ nên sai dù trông giống 'bổ nghĩa cho động từ'."
+  },
+  {
+   "no": 6,
+   "code": "G16",
+   "q": "Chọn câu SAI:",
+   "options": {
+    "A": "I'm tired of this boring job.",
+    "B": "The results were disappointing, so we were all disappointed.",
+    "C": "I'm so exciting about the trip next week.",
+    "D": "The news was shocking."
+   },
+   "answer": "C",
+   "explain": "Người cảm thấy háo hức phải dùng 'excited'; 'I'm exciting' nghĩa là 'tôi là người thú vị'."
+  },
+  {
+   "no": 7,
+   "code": "G16",
+   "q": "We ___ missed the train. We jumped on just as the doors were closing.",
+   "options": {
+    "A": "near",
+    "B": "nearest",
+    "C": "nearby",
+    "D": "nearly"
+   },
+   "answer": "D",
+   "explain": "nearly = suýt, gần như. 'near' là gần về khoảng cách, không bổ nghĩa cho động từ 'missed' theo nghĩa này."
+  },
+  {
+   "no": 8,
+   "code": "G16",
+   "q": "Tìm lỗi sai: (A) There are (B) many (C) differents ideas about how to solve this (D) problem.",
+   "options": {
+    "A": "There are",
+    "B": "many",
+    "C": "differents",
+    "D": "problem"
+   },
+   "answer": "C",
+   "explain": "Tính từ tiếng Anh không có dạng số nhiều → different ideas."
+  },
+  {
+   "no": 9,
+   "code": "G16",
+   "q": "Children under six travel ___ on city buses, so parents don't need to buy them a ticket.",
+   "options": {
+    "A": "freely",
+    "B": "freedom",
+    "C": "free",
+    "D": "freeing"
+   },
+   "answer": "C",
+   "explain": "free = miễn phí (không cần mua vé). 'freely' nghĩa là tự do, không hợp với ý 'không cần mua vé'."
+  },
+  {
+   "no": 10,
+   "code": "G16",
+   "q": "The new software allows staff to complete reports ___ faster than before.",
+   "options": {
+    "A": "consider",
+    "B": "considerable",
+    "C": "considerably",
+    "D": "consideration"
+   },
+   "answer": "C",
+   "explain": "Bổ nghĩa cho trạng từ so sánh 'faster' → cần trạng từ considerably. 'considerable' là tính từ nên sai."
+  }
+ ]
+}

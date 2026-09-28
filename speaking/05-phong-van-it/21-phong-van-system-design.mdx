@@ -1,0 +1,201 @@
+---
+title: "Phỏng vấn thiết kế hệ thống & kiến trúc (System design & architecture)"
+sidebar_label: "21 · Thiết kế hệ thống & kiến trúc"
+sidebar_position: 5
+slug: /phong-van-system-design
+description: "Luyện vòng system design bằng tiếng Anh: làm rõ yêu cầu, thiết kế tổng thể, dữ liệu, mở rộng, trade-off – kèm bài thiết kế hệ thống thông báo cho 50.000 nhân viên có âm thanh."
+---
+
+# Phỏng vấn thiết kế hệ thống & kiến trúc (System design & architecture)
+
+<SkillMeta id="noi-21" />
+
+:::info[Mục tiêu]
+**Vòng system design** (45–60 phút) thường do senior developer hoặc architect phụ trách. Không có đáp án duy nhất – người phỏng vấn đánh giá
+**cách bạn suy nghĩ thành tiếng**: có **hỏi lại yêu cầu** không, có thiết kế từ **đơn giản đến phức tạp** không, có nhận ra
+**điểm nghẽn (bottleneck)** và nói rõ **trade-off** không. Sau bài này bạn dẫn dắt được một bài thiết kế 10–15 phút theo 5 bước:
+*requirements → high-level design → data → scaling → trade-offs*. Ngữ pháp chính: **câu điều kiện** (*if the queue goes down, …*),
+**động từ khuyết thiếu** để đề xuất và đưa giả định (*we could…, it should…, that might…*) và **so sánh** (*simpler than…, the most reliable…*).
+:::
+
+## 1. Từ vựng chủ đề
+
+### Yêu cầu & quy mô
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| functional requirement | /ˈfʌŋkʃənl rɪˈkwaɪəmənt/ | yêu cầu chức năng | A functional requirement is that managers get notified of new leave requests. |
+| non-functional requirement | /nɒn ˈfʌŋkʃənl rɪˈkwaɪəmənt/ | yêu cầu phi chức năng | Our key non-functional requirement is 99.9% availability. |
+| throughput | /ˈθruːpʊt/ | thông lượng | We need a throughput of about 1,000 messages per second at peak. |
+| latency | /ˈleɪtənsi/ | độ trễ | In-app notifications should have a latency of under two seconds. |
+| peak load | /piːk ləʊd/ | tải đỉnh | Peak load is on payday, when every employee gets a payslip. |
+| back-of-the-envelope estimate | /ˌbæk əv ði ˈenvələʊp ˈestɪmət/ | ước tính nhanh | A back-of-the-envelope estimate gives us around 200,000 notifications a day. |
+| availability | /əˌveɪləˈbɪləti/ | tính sẵn sàng | Availability matters more than speed for the payroll API. |
+| read-heavy | /ˈriːd ˌhevi/ | đọc nhiều hơn ghi | The org chart is read-heavy, so caching works well. |
+
+</VocabList>
+
+### Thành phần kiến trúc
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| load balancer | /ləʊd ˈbælənsə/ | bộ cân bằng tải | A load balancer spreads the traffic across three API instances. |
+| message queue | /ˈmesɪdʒ kjuː/ | hàng đợi tin nhắn | The payroll service publishes events to a message queue. |
+| publish / subscribe | /ˈpʌblɪʃ səbˈskraɪb/ | mô hình phát / đăng ký | With publish/subscribe, new consumers don't affect the publisher. |
+| API gateway | /ˌeɪ piː ˈaɪ ˈɡeɪtweɪ/ | cổng API | The API gateway handles routing and rate limiting. |
+| distributed cache | /dɪˈstrɪbjuːtɪd kæʃ/ | cache phân tán | We use Redis as a distributed cache. |
+| read replica | /riːd ˈreplɪkə/ | bản sao chỉ đọc | Reports run against a read replica, not the main database. |
+| modular monolith | /ˈmɒdjələ ˈmɒnəlɪθ/ | khối nguyên khối chia module | We chose a modular monolith instead of microservices. |
+| dead-letter queue | /ˌded ˈletə kjuː/ | hàng đợi thư lỗi | Messages that fail five times go to a dead-letter queue. |
+
+</VocabList>
+
+### Mở rộng, độ tin cậy & đánh đổi
+
+<VocabList>
+
+| Từ / cụm từ | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| horizontal scaling | /ˌhɒrɪˈzɒntl ˈskeɪlɪŋ/ | mở rộng theo chiều ngang | Horizontal scaling means adding more instances, not bigger servers. |
+| vertical scaling | /ˈvɜːtɪkl ˈskeɪlɪŋ/ | mở rộng theo chiều dọc | Vertical scaling is simpler, but it has a hard limit. |
+| bottleneck | /ˈbɒtlnek/ | điểm nghẽn | The database would be the first bottleneck. |
+| single point of failure | /ˈsɪŋɡl pɔɪnt əv ˈfeɪljə/ | điểm lỗi duy nhất | One notification server would be a single point of failure. |
+| eventual consistency | /ɪˈventʃuəl kənˈsɪstənsi/ | nhất quán cuối cùng | The dashboard count uses eventual consistency – it may lag a few seconds. |
+| stateless | /ˈsteɪtləs/ | không lưu trạng thái | Stateless services are much easier to scale. |
+| retry with backoff | /ˈriːtraɪ wɪð ˈbækɒf/ | thử lại có giãn cách | We retry with exponential backoff when the email provider fails. |
+| trade-off | /ˈtreɪd ɒf/ | sự đánh đổi | Every design decision is a trade-off. |
+| overkill | /ˈəʊvəkɪl/ | quá mức cần thiết | Kubernetes would be overkill for our current traffic. |
+
+</VocabList>
+
+## 2. Cụm từ & mẫu câu hữu ích
+
+| Mục đích | Mẫu câu | Ví dụ |
+|---|---|---|
+| Làm rõ yêu cầu | *Before I start, can I clarify a few things? …* | Before I start, can I clarify a few things? Which channels do we need – email, in-app, push? |
+| Đưa giả định | *Let's assume … – does that sound reasonable?* | Let's assume 50,000 users and a peak on payday – does that sound reasonable? |
+| Bắt đầu đơn giản | *I'll start with a simple version and then scale it.* | I'll start with a simple version and then scale it. |
+| Đề xuất | *We could … / One option would be to …* | One option would be to send emails directly from the API. |
+| So sánh lựa chọn | *… is simpler than …, but … is more reliable.* | Calling the provider directly is simpler than using a queue, but a queue is more reliable. |
+| Điều kiện – rủi ro | *If … goes down, …* | If the email provider goes down, the messages stay in the queue. |
+| Nhận ra điểm nghẽn | *The first bottleneck would probably be …* | The first bottleneck would probably be the database writes. |
+| Nêu trade-off | *The trade-off here is … in exchange for …* | The trade-off here is eventual consistency in exchange for better throughput. |
+| Câu giờ | *That's a good question – let me think about it for a second.* | That's a good question – let me think about it for a second. |
+| Mời góp ý | *Would you like me to go deeper into …?* | Would you like me to go deeper into the retry logic? |
+| Chưa có kinh nghiệm | *I haven't built that at scale, but I'd approach it by …* | I haven't built that at scale, but I'd approach it by partitioning the table by month. |
+
+:::tip[Modal + điều kiện + so sánh – ngôn ngữ của người thiết kế]
+- Đề xuất, không khẳng định cứng: *We **could** use a queue here. / This **might** become a bottleneck.*
+- Nói về rủi ro: *If the service **crashes**, the messages **will** stay in the queue.* (loại 1) – *If we **had** a million users, **we'd need** sharding.* (loại 2, giả định xa)
+- So sánh lựa chọn: *A modular monolith is **simpler to deploy than** microservices, but **less flexible**.*
+
+Xem lại: [G20 · Câu điều kiện loại 0, 1, 2](/docs/ngu-phap/g20-cau-dieu-kien-loai-0-1-2) · [G11 · Động từ khuyết thiếu](/docs/ngu-phap/g11-dong-tu-khuyet-thieu) · [G17 · So sánh](/docs/ngu-phap/g17-so-sanh)
+:::
+
+## 3. Câu hỏi phỏng vấn thường gặp
+
+### Câu hỏi chính
+
+1. Design a notification system for an HR platform with 50,000 employees.
+2. Design a leave-request and approval workflow that supports multi-level approval.
+3. Your monthly payroll run must process 50,000 employees in under 30 minutes. How would you design it?
+4. Monolith, modular monolith or microservices – which would you choose for a new HR product, and why?
+5. How would you make your API highly available?
+6. How do you scale a database that has become the bottleneck?
+7. How do two modules communicate in a modular monolith without being tightly coupled?
+8. How would you design audit logging for salary changes?
+9. What is eventual consistency, and when is it acceptable?
+
+### Bài thiết kế đầy đủ
+
+> **Design a notification system for an HR platform with 50,000 employees.** Employees and managers should be notified when a leave request is submitted or approved, when payslips are published, and when an appraisal is due. Notifications can be in-app, by email or by mobile push. Users can choose which channels they want. Walk me through your design.
+
+### Câu hỏi đào sâu (follow-up)
+
+- What happens if the same event is delivered twice?
+- On payday, 50,000 payslip notifications are triggered at once – what breaks first?
+- How would you notify a user in real time if they're connected to a different server instance?
+
+## 4. Câu trả lời mẫu
+
+<SpeakText title="Design a notification system for 50,000 employees (≈ 2,5 phút)">
+
+Before I start, I'd like to clarify the requirements. We need three channels – in-app, email and push – and users can opt out per channel. Let's assume around 200,000 notifications on a normal day, with a big peak on payday, when all 50,000 payslips go out within a few minutes. The key non-functional requirements are that no notification is lost, and in-app messages arrive within a couple of seconds.
+
+At a high level, the HR modules shouldn't send notifications themselves. Instead, when something happens – say, a leave request is approved – the leave module publishes an event to a message queue, like RabbitMQ or Azure Service Bus. To avoid losing events, I'd use the outbox pattern, so the event is saved in the same transaction as the approval. A separate notification service consumes these events, checks the user's preferences, renders a template and passes the message to a channel worker for email, push or in-app.
+
+For data, I'd store each notification in PostgreSQL with its status, so users can see their history and we can track failures. For in-app delivery, we could use SignalR with a Redis backplane, so it works across several instances.
+
+For scaling, the workers are stateless, so on payday we can simply add more consumers. If the email provider is slow or down, messages stay in the queue and are retried with exponential backoff; after five failures, they go to a dead-letter queue.
+
+The main trade-off is eventual consistency – a notification might arrive a few seconds late – in exchange for reliability. And since delivery is at-least-once, each consumer checks the event ID to avoid sending duplicates.
+
+<details>
+<summary>Bản dịch</summary>
+
+Trước khi bắt đầu, tôi muốn làm rõ yêu cầu. Chúng ta cần ba kênh – trong ứng dụng, email và push – và người dùng có thể tắt từng kênh. Giả sử khoảng 200.000 thông báo trong một ngày bình thường, với đỉnh lớn vào ngày trả lương, khi cả 50.000 phiếu lương được gửi trong vài phút. Yêu cầu phi chức năng chính là không được mất thông báo nào, và thông báo trong ứng dụng đến trong vòng vài giây.
+
+Ở mức tổng thể, các module nhân sự không nên tự gửi thông báo. Thay vào đó, khi có sự kiện – ví dụ một đơn nghỉ được duyệt – module nghỉ phép phát một sự kiện vào hàng đợi tin nhắn như RabbitMQ hoặc Azure Service Bus. Để không mất sự kiện, tôi dùng outbox pattern, để sự kiện được lưu trong cùng transaction với việc duyệt đơn. Một notification service riêng tiêu thụ các sự kiện này, kiểm tra tuỳ chọn của người dùng, dựng nội dung từ template và chuyển tin nhắn cho worker của từng kênh: email, push hoặc trong ứng dụng.
+
+Về dữ liệu, tôi lưu mỗi thông báo trong PostgreSQL kèm trạng thái, để người dùng xem được lịch sử và chúng ta theo dõi được các lần gửi lỗi. Với thông báo trong ứng dụng, có thể dùng SignalR với Redis backplane để chạy được trên nhiều instance.
+
+Về mở rộng, các worker không lưu trạng thái, nên vào ngày trả lương chỉ cần thêm consumer. Nếu nhà cung cấp email chậm hoặc sập, tin nhắn vẫn nằm trong hàng đợi và được thử lại với giãn cách tăng dần; sau năm lần thất bại, chúng chuyển sang dead-letter queue.
+
+Đánh đổi chính là nhất quán cuối cùng – thông báo có thể đến trễ vài giây – để đổi lấy độ tin cậy. Và vì cơ chế gửi là "ít nhất một lần", mỗi consumer kiểm tra ID sự kiện để tránh gửi trùng.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="Monolith, modular monolith or microservices for a new HR product?">
+
+For a new HR product with one team of, say, eight developers, I'd choose a modular monolith. Payroll, leave, appraisal and recruitment would be separate modules with their own database schema, and they'd talk to each other only through public interfaces or events. It's much simpler to deploy and debug than microservices – one pipeline, one process, no network calls between modules. The trade-off is that you can't scale or deploy modules independently. But if the boundaries are clean, we could extract a module into a service later, for example if payroll needed to scale on its own. Starting with microservices would probably be overkill.
+
+<details>
+<summary>Bản dịch</summary>
+
+Với một sản phẩm nhân sự mới và một đội khoảng tám lập trình viên, tôi sẽ chọn modular monolith. Tính lương, nghỉ phép, đánh giá và tuyển dụng sẽ là các module riêng có schema cơ sở dữ liệu riêng, và chỉ giao tiếp với nhau qua interface công khai hoặc sự kiện. Nó đơn giản hơn nhiều so với microservices khi triển khai và gỡ lỗi – một pipeline, một tiến trình, không có lời gọi mạng giữa các module. Đánh đổi là không thể mở rộng hay triển khai từng module độc lập. Nhưng nếu ranh giới rõ ràng, sau này có thể tách một module thành service riêng, ví dụ khi module tính lương cần mở rộng riêng. Bắt đầu bằng microservices có lẽ là quá mức cần thiết.
+
+</details>
+
+</SpeakText>
+
+<SpeakText title="How do you scale a database that has become the bottleneck?">
+
+First, I'd check whether it's really a scaling problem or just slow queries, because missing indexes and N+1 queries are far more common. If the queries are already efficient, the next step depends on the workload. HR systems are usually read-heavy, so I'd move reports and dashboards to a read replica and cache data that rarely changes, like the org chart or tax tables. For very large tables, such as attendance records, partitioning by month helps a lot. Vertical scaling is the quickest fix, but it gets expensive and has a hard limit, so I'd see it mainly as a way to buy time.
+
+<details>
+<summary>Bản dịch</summary>
+
+Trước tiên, tôi kiểm tra xem đó thật sự là vấn đề mở rộng hay chỉ là truy vấn chậm, vì thiếu index và lỗi N+1 phổ biến hơn nhiều. Nếu truy vấn đã hiệu quả, bước tiếp theo tuỳ vào tải. Hệ thống nhân sự thường đọc nhiều, nên tôi chuyển báo cáo và dashboard sang read replica, và cache những dữ liệu ít thay đổi như sơ đồ tổ chức hay bảng thuế. Với các bảng rất lớn như dữ liệu chấm công, chia partition theo tháng giúp ích rất nhiều. Mở rộng theo chiều dọc là cách nhanh nhất, nhưng chi phí tăng nhanh và có giới hạn cứng, nên tôi coi nó chủ yếu là cách để câu thêm thời gian.
+
+</details>
+
+</SpeakText>
+
+:::note[Phân tích bài mẫu]
+- **5 bước rõ ràng:** *Before I start, I'd like to clarify…* (requirements, có ước lượng số) → *At a high level…* (luồng sự kiện) → *For data…* → *For scaling…* → *The main trade-off is…*. Mỗi đoạn mở bằng một cụm báo hiệu – người phỏng vấn luôn biết bạn đang ở đâu.
+- **Nghĩ đến lỗi:** outbox (không mất sự kiện), retry + dead-letter queue (nhà cung cấp sập), kiểm tra event ID (gửi trùng) – đây là điểm cộng lớn nhất.
+- **Ngữ pháp:** modal (*shouldn't, could, might*), điều kiện (*If the email provider is slow…, if payroll needed to scale…*), so sánh (*much simpler… than, the quickest fix, far more common*).
+- **Câu chọn kiến trúc:** không có đáp án "đúng" – hãy gắn lựa chọn với **bối cảnh** (quy mô đội, tải) và nói cách **thay đổi sau này**.
+:::
+
+## 5. Bài tập tự luyện
+
+1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý *throughput, latency, replica, eventual consistency*.
+2. **Ngày 1:** Vẽ sơ đồ bài thiết kế thông báo trên giấy, rồi **nói to** theo 5 bước trong 10 phút, không nhìn bài mẫu.
+3. **Ngày 2:** Chọn câu hỏi 2 hoặc 3 (leave workflow / payroll run) và thiết kế **cho hệ thống của bạn** – thay số liệu bằng quy mô thật của dự án bạn. Ghi âm.
+4. **Ngày 2:** Trả lời 3 câu follow-up, mỗi câu 60 giây, bắt buộc dùng một câu *If…* và một câu so sánh.
+5. **Nâng cao:** Nhờ bạn đóng vai interviewer và **thay đổi yêu cầu giữa chừng** (ví dụ: "now it's 500,000 users"); luyện nói *"In that case, the first thing I'd change is…"*.
+
+## 6. Tự đánh giá
+
+- [ ] Luôn mở đầu bằng câu hỏi làm rõ yêu cầu và một ước lượng quy mô.
+- [ ] Trình bày thiết kế theo 5 bước, có cụm từ báo hiệu cho từng bước.
+- [ ] Chỉ ra được bottleneck, single point of failure và cách xử lý lỗi.
+- [ ] Nói rõ ít nhất một **trade-off** cho mỗi quyết định lớn.
+- [ ] Dùng tự nhiên *could / might / should*, câu điều kiện và so sánh.
