@@ -99,6 +99,7 @@ const config: Config = {
         { to: '/docs/ngu-phap', label: 'Ngữ pháp', position: 'left', activeBasePath: 'docs/ngu-phap' },
         { to: '/docs/bai-kiem-tra', label: 'Kiểm tra', position: 'left', activeBasePath: 'docs/bai-kiem-tra' },
         { to: '/docs/tra-cuu/bang-tra-cuu', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
+        { to: '/docs/tra-cuu/tu-vung-dang-hoc', label: '📒 Từ vựng', position: 'left' },
         { to: '/luyen-noi', label: '🗣️ Luyện nói', position: 'left', activeBasePath: 'luyen-noi' },
         { to: '/luyen-viet', label: '✍️ Luyện viết', position: 'left', activeBasePath: 'luyen-viet' },
       ],

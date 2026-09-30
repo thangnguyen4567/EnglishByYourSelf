@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkngu_phap_30_ngay=self.webpackChunkngu_phap_30_ngay||[]).push([["2570"],{56522(n){n.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"writing"}')}}]);

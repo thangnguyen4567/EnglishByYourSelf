@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkngu_phap_30_ngay=self.webpackChunkngu_phap_30_ngay||[]).push([["6762"],{37089(e,a,c){c.d(a,{createArchitectureServices:()=>p.S});var p=c(45796);c(4954)}}]);

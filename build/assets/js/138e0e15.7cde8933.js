@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkngu_phap_30_ngay=self.webpackChunkngu_phap_30_ngay||[]).push([["1234"],{41597(a){a.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
