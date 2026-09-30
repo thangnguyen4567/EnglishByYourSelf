@@ -7,7 +7,6 @@ import Heading from '@theme/Heading';
 import topicsData from '@site/src/data/topics.json';
 import pagesData from '@site/src/data/pages.json';
 import tests from '@site/src/data/tests.json';
-import roadmap from '@site/src/data/roadmap.json';
 
 import styles from './index.module.css';
 
@@ -34,12 +33,12 @@ const GROUPS: {name: string; label: string; icon: string}[] = [
 ];
 
 const STEPS = [
-  {icon: '📅', title: 'Lộ trình 30 ngày', to: '/docs/lo-trinh',
-    text: 'Mỗi ngày 60 phút: 20′ lý thuyết – 25′ luyện tập – 15′ viết/nói. Theo dõi tiến độ ngay trên trang.'},
   {icon: '📚', title: 'Sổ tay ngữ pháp', to: '/docs/ngu-phap',
     text: '29 chủ đề chia 9 nhóm. Mỗi chủ đề: cấu trúc, cách dùng, dấu hiệu, ví dụ, lỗi thường gặp.'},
   {icon: '📝', title: 'Bài kiểm tra', to: '/docs/bai-kiem-tra',
     text: `${tests.length} bài test (${questionCount} câu) tự chấm điểm, có giải thích và gợi ý chủ đề cần ôn.`},
+  {icon: '📒', title: 'Từ vựng đang học', to: '/docs/tra-cuu/tu-vung-dang-hoc',
+    text: 'Sổ từ vựng cá nhân: từ loại, phiên âm, nghĩa và câu ví dụ có phát âm.'},
   {icon: '🗣️', title: 'Luyện nói', to: '/luyen-noi',
     text: '26 chủ đề theo 5 giai đoạn – gồm 10 chủ đề luyện phỏng vấn Fullstack Developer: từ vựng có phát âm, mẫu câu, câu trả lời mẫu có âm thanh.'},
   {icon: '✍️', title: 'Luyện viết', to: '/luyen-viet',
@@ -53,20 +52,19 @@ export default function Home(): ReactNode {
       <header className={clsx('hero', styles.hero)}>
         <div className="container">
           <Heading as="h1" className={styles.title}>
-            Ngữ pháp tiếng Anh <span>trong 30 ngày</span>
+            Ngữ pháp <span>tiếng Anh</span>
           </Heading>
           <p className={styles.subtitle}>
-            Lộ trình khoa học đi từ từ loại → các thì → câu phức → cấu trúc nâng cao.
+            Học theo thứ tự từ từ loại → các thì → câu phức → cấu trúc nâng cao.
           </p>
           <div className={styles.stats}>
             <div><b>{topics.length}</b>chủ đề</div>
-            <div><b>{roadmap.length}</b>ngày</div>
-            <div><b>60′</b>mỗi ngày</div>
+            <div><b>{tests.length}</b>bài kiểm tra</div>
             <div><b>{questionCount}</b>câu hỏi</div>
           </div>
           <div className={styles.buttons}>
-            <Link className="button button--primary button--lg" to="/docs/lo-trinh/tuan-1#ngay-1">
-              Bắt đầu Ngày 1 →
+            <Link className="button button--primary button--lg" to="/docs/ngu-phap">
+              Vào học ngay →
             </Link>
             <Link className="button button--secondary button--lg" to="/docs">
               Cách dùng tài liệu

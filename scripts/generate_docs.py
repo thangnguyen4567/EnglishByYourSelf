@@ -6,10 +6,9 @@ Mặc định đọc ../Ngu-phap-tieng-Anh-30-ngay.xlsx (thư mục cha của we
 Các file sinh ra (sẽ bị ghi đè mỗi lần chạy):
   src/data/*.json              dữ liệu cho component React (Quiz, tiến độ...)
   docs/ngu-phap/**             29 trang chủ đề, nhóm theo phân loại ngữ pháp
-  docs/lo-trinh/tuan-*.mdx     kế hoạch từng tuần
   docs/bai-kiem-tra/*.mdx      5 bài kiểm tra tương tác
   docs/tra-cuu/*.mdx           bảng tra cứu nhanh, sổ lỗi thường gặp
-Các trang viết tay (intro, tong-hop-12-thi, lo-trinh/index...) không bị động tới.
+Các trang viết tay (intro, tong-hop-12-thi...) không bị động tới.
 """
 import json
 import re
@@ -435,8 +434,6 @@ for t in pages:
     sub = next((s for s in g.get("sub", []) if t["code"] in s["codes"]), None)
     siblings = [x["key"] for x in pages if x["group"] == t["group"] and (not sub or x["code"] in sub["codes"])]
     order = siblings.index(t["key"]) + 1
-    day = t["day"]
-    day_info = next((d for d in roadmap if d["day"] == day), None)
 
     parts = [f"""---
 title: "{t['title']}"
@@ -476,11 +473,6 @@ import TopicMeta from '@site/src/components/TopicMeta';
         parts.append(f"{h2('Phân biệt & mở rộng')}\n\n{extra['compare']}")
     if "summary" in extra:
         parts.append(f"{h2('Tóm tắt ghi nhớ')}\n\n{extra['summary']}")
-    if day_info:
-        tasks = "\n".join(f"- {esc(x)}" for x in day_info["tasks"])
-        parts.append(h2(f"Bài tập trong ngày (Ngày {day} · {day_info['minutes']} phút)") + "\n\n"
-                     f"Chủ đề này nằm ở **[Ngày {day}](/docs/lo-trinh/{slugify(day_info['week'])}#ngay-{day})** "
-                     f"của lộ trình. Chia 60 phút như sau:\n\n{tasks}")
     if t["key"] in level_quizzes:
         n = sum(len(v) for v in level_quizzes[t["key"]].values())
         var = f"quiz{t['key'].upper()}"
@@ -492,54 +484,9 @@ import TopicMeta from '@site/src/components/TopicMeta';
                      f"<LevelQuiz topic=\"{t['label']}\" data={{{var}}} />")
     write(DOCS / t["dir"] / f"{t['slug']}.mdx", "\n\n".join(parts))
 
-# ---------------------------------------------------------------------------
-# Lộ trình theo tuần
-# ---------------------------------------------------------------------------
-LO = DOCS / "lo-trinh"
-for f in LO.glob("tuan-*.mdx"):
-    f.unlink()
-
-week_titles = {
-    "Tuần 1": "Nền tảng & các thì cơ bản",
-    "Tuần 2": "Thì nâng cao, động từ khuyết thiếu, V-ing/to V",
-    "Tuần 3": "Danh từ, tính từ, so sánh, giới từ, bị động",
-    "Tuần 4": "Câu phức & cấu trúc nâng cao + Tổng kết",
-}
-test_by_day = {t["day"]: t for t in tests}
-
-
 def topic_links(codes):
     return ", ".join(f"[{pg['label']} · {pg['short']}]({pg['path']})" for c in codes for pg in pages_by_code.get(c, []))
 
-
-for wi, (week, title) in enumerate(week_titles.items(), start=1):
-    days = [d for d in roadmap if d["week"] == week or (week == "Tuần 4" and d["week"] == "Tổng kết")]
-    parts = [f"""---
-title: "{week}: {title}"
-sidebar_label: "{week} · Ngày {days[0]['day']}–{days[-1]['day']}"
-sidebar_position: {wi + 1}
----
-
-import DayCheck from '@site/src/components/DayCheck';
-
-# {week}: {title}
-
-| Ngày | Chủ đề | Tham chiếu |
-|---|---|---|
-""" + "\n".join(f"| [{d['day']}](#ngay-{d['day']}) | {esc_cell(d['topic'])} | {d['ref']} |" for d in days)]
-    for d in days:
-        body = [f"## Ngày {d['day']}: {esc(d['topic'])} {{#ngay-{d['day']}}}",
-                f"<DayCheck day={{{d['day']}}} />"]
-        if d["isTest"]:
-            test = test_by_day.get(d["day"])
-            body.append(f":::info[Ngày kiểm tra]\n\nÔn lại các chủ đề {d['ref']}, sau đó làm "
-                        f"**[{test['name']}](/docs/bai-kiem-tra/{test['id']})** "
-                        f"({len(test['questions'])} câu, không xem tài liệu). Mục tiêu **≥ 80%**.\n\n:::")
-        else:
-            body.append(f"**Chủ đề cần học:** {topic_links(d['codes'])}")
-        body.append("**Kế hoạch 60 phút:**\n\n" + "\n".join(f"- {esc(x)}" for x in d["tasks"]))
-        parts.append("\n\n".join(body))
-    write(LO / f"tuan-{wi}.mdx", "\n\n".join(parts))
 
 # ---------------------------------------------------------------------------
 # Bài kiểm tra
@@ -566,7 +513,7 @@ import Quiz from '@site/src/components/Quiz';
 
 # {test['name']}
 
-**{test['subtitle']}** · Làm vào **Ngày {test['day']}** · **{len(test['questions'])} câu** trắc nghiệm · Mục tiêu **≥ 80%**
+**{test['subtitle']}** · **{len(test['questions'])} câu** trắc nghiệm · Mục tiêu **≥ 80%**
 
 | Phần | Số câu | Nội dung |
 |---|---|---|
@@ -596,7 +543,7 @@ rows = []
 for g in GROUPS:
     for t in (x for x in pages if x["group"] == g["key"]):
         first = t["structure"][0] if t["structure"] else ""
-        rows.append(f"| {t['label']} | {g['label'][3:]} | [{esc_cell(t['short'])}]({t['path']}) | `{first.replace('|', '/')}` | {t['day'] or ''} |")
+        rows.append(f"| {t['label']} | {g['label'][3:]} | [{esc_cell(t['short'])}]({t['path']}) | `{first.replace('|', '/')}` |")
 write(TC / "bang-tra-cuu.mdx", f"""---
 title: Bảng tra cứu nhanh 29 chủ đề
 sidebar_label: Bảng tra cứu nhanh
@@ -607,8 +554,8 @@ sidebar_position: 1
 
 Toàn bộ 29 chủ đề với công thức cốt lõi. Bấm vào tên chủ đề để xem chi tiết.
 
-| Mã | Nhóm | Chủ đề | Công thức chính | Ngày học |
-|---|---|---|---|---|
+| Mã | Nhóm | Chủ đề | Công thức chính |
+|---|---|---|---|
 """ + "\n".join(rows))
 
 mk = []

@@ -23,13 +23,12 @@ Script `scripts/generate_docs.py` ghi đè các file **sinh tự động**:
 
 | Nguồn (sheet) | Sinh ra |
 |---|---|
-| Ngữ pháp | `docs/ngu-phap/**/gXX-*.mdx` (29 chủ đề, xếp theo 9 nhóm), `docs/tra-cuu/*` |
-| Lộ trình 30 ngày | `docs/lo-trinh/tuan-*.mdx`, `src/data/roadmap.json` |
+| Ngữ pháp | `docs/ngu-phap/**/gXX-*.mdx` (29 chủ đề, xếp theo 9 nhóm), `docs/tra-cuu/{bang-tra-cuu,loi-thuong-gap}.mdx` |
 | Test Tuần 1–4, Test Cuối Khóa, Đáp án | `docs/bai-kiem-tra/{tuan-1..4,cuoi-khoa}.mdx`, `src/data/tests.json` |
 
 Các trang **viết tay** (không bị ghi đè): `docs/intro.mdx`, `docs/phuong-phap-hoc.mdx`,
-`docs/lo-trinh/index.mdx`, `docs/ngu-phap/index.mdx`, `docs/ngu-phap/02-thi/tong-hop-12-thi.mdx`,
-`docs/bai-kiem-tra/index.mdx`.
+`docs/ngu-phap/index.mdx`, `docs/ngu-phap/02-thi/tong-hop-12-thi.mdx`,
+`docs/bai-kiem-tra/index.mdx`, `docs/tra-cuu/tu-vung-dang-hoc.mdx`.
 
 Phân nhóm chủ đề nằm ở hằng `GROUPS` đầu file script.
 

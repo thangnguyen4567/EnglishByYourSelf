@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Ngữ pháp tiếng Anh 30 ngày',
-  tagline: '29 chủ đề trọng tâm · 30 ngày × 60 phút · 5 bài kiểm tra tự chấm điểm',
+  title: 'Ngữ pháp tiếng Anh',
+  tagline: '29 chủ đề trọng tâm · 5 bài kiểm tra tự chấm điểm',
   favicon: 'img/favicon.ico',
 
   future: {
@@ -89,13 +89,12 @@ const config: Config = {
       maxHeadingLevel: 3,
     },
     navbar: {
-      title: 'Ngữ pháp 30 ngày',
+      title: 'Tiếng Anh',
       logo: {
         alt: 'Logo',
         src: 'img/logo.svg',
       },
       items: [
-        { to: '/docs/lo-trinh', label: 'Lộ trình', position: 'left', activeBasePath: 'docs/lo-trinh' },
         { to: '/docs/ngu-phap', label: 'Ngữ pháp', position: 'left', activeBasePath: 'docs/ngu-phap' },
         { to: '/docs/bai-kiem-tra', label: 'Kiểm tra', position: 'left', activeBasePath: 'docs/bai-kiem-tra' },
         { to: '/docs/tra-cuu/bang-tra-cuu', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
@@ -112,7 +111,7 @@ const config: Config = {
           items: [
       { label: 'Giới thiệu', to: '/docs' },
       { label: 'Phương pháp học', to: '/docs/phuong-phap-hoc' },
-      { label: 'Lộ trình 30 ngày', to: '/docs/lo-trinh' },
+      { label: 'Từ vựng đang học', to: '/docs/tra-cuu/tu-vung-dang-hoc' },
           ],
   },
         {
@@ -126,8 +125,8 @@ const config: Config = {
 {
   title: 'Kỹ năng',
     items: [
-      { label: 'Lộ trình luyện nói', to: '/luyen-noi' },
-      { label: 'Lộ trình luyện viết', to: '/luyen-viet' },
+      { label: 'Luyện nói', to: '/luyen-noi' },
+      { label: 'Luyện viết', to: '/luyen-viet' },
     ],
         },
 {
@@ -138,7 +137,7 @@ const config: Config = {
     ],
         },
       ],
-copyright: `Ngữ pháp tiếng Anh – Lộ trình 30 ngày · ${new Date().getFullYear()}`,
+copyright: `Ngữ pháp tiếng Anh · ${new Date().getFullYear()}`,
     },
 prism: {
   theme: prismThemes.github,
