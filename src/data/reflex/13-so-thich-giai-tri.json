@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "vi": "Vào thời gian rảnh, tôi thích đọc tiểu thuyết.",
+      "hints": [
+        "in my spare time",
+        "enjoy (v)",
+        "novel (n)"
+      ],
+      "en": "In my spare time, I enjoy reading novels."
+    },
+    {
+      "vi": "Bà tôi thích làm vườn và trồng rau.",
+      "hints": [
+        "gardening (n)",
+        "grow (v)",
+        "vegetable (n)"
+      ],
+      "en": "My grandmother loves gardening and growing vegetables."
+    },
+    {
+      "vi": "Tôi thường vẽ tranh màu nước vào sáng Chủ nhật.",
+      "hints": [
+        "paint (v)",
+        "watercolor (n)",
+        "on Sunday mornings"
+      ],
+      "en": "I often paint with watercolors on Sunday mornings."
+    },
+    {
+      "vi": "Bạn thường làm gì để thư giãn sau giờ làm?",
+      "hints": [
+        "usually (adv)",
+        "unwind (v)",
+        "after work"
+      ],
+      "en": "What do you usually do to unwind after work?"
+    },
+    {
+      "vi": "Em trai tôi sưu tầm tem từ khi còn nhỏ.",
+      "hints": [
+        "collect (v)",
+        "stamp (n)",
+        "since he was little"
+      ],
+      "en": "My younger brother has collected stamps since he was little."
+    },
+    {
+      "vi": "Tôi đang học chơi cờ vua trực tuyến với một người bạn.",
+      "hints": [
+        "learn (v)",
+        "play chess (v)",
+        "online (adv)"
+      ],
+      "en": "I'm learning to play chess online with a friend."
+    },
+    {
+      "vi": "Cuối tuần trước, chúng tôi đi cắm trại ở ven hồ.",
+      "hints": [
+        "last weekend",
+        "go camping (v)",
+        "by the lake"
+      ],
+      "en": "Last weekend, we went camping by the lake."
+    },
+    {
+      "vi": "Tôi đã trở thành thành viên của một câu lạc bộ nhiếp ảnh vào tháng trước.",
+      "hints": [
+        "become a member (v)",
+        "photography (n)",
+        "club (n)"
+      ],
+      "en": "I became a member of a photography club last month."
+    },
+    {
+      "vi": "Ngoài nấu ăn, bạn có sở thích nào đặc biệt không?",
+      "hints": [
+        "unusual (adj)",
+        "hobby (n)",
+        "apart from (prep)"
+      ],
+      "en": "Do you have any unusual hobbies apart from cooking?"
+    },
+    {
+      "vi": "Tôi dành khoảng một tiếng mỗi tối để chơi trò chơi điện tử.",
+      "hints": [
+        "spend time (v)",
+        "about (adv)",
+        "video game (n)"
+      ],
+      "en": "I spend about an hour every evening playing video games."
+    },
+    {
+      "vi": "Đan len giúp tôi thư giãn sau một ngày dài.",
+      "hints": [
+        "knitting (n)",
+        "help (v)",
+        "relax (v)",
+        "after a long day"
+      ],
+      "en": "Knitting helps me relax after a long day."
+    },
+    {
+      "vi": "Tôi sẽ đăng ký một lớp học làm gốm vào tháng tới.",
+      "hints": [
+        "sign up for (v)",
+        "pottery (n)",
+        "class (n)",
+        "next month"
+      ],
+      "en": "I'm going to sign up for a pottery class next month."
+    },
+    {
+      "vi": "Tôi chưa bao giờ thử đi bộ đường dài, nhưng tôi rất muốn thử.",
+      "hints": [
+        "never (adv)",
+        "try (v)",
+        "hiking (n)",
+        "would like to"
+      ],
+      "en": "I have never tried hiking, but I'd really like to."
+    },
+    {
+      "vi": "Tôi thích các hoạt động ngoài trời hơn là ngồi trong nhà.",
+      "hints": [
+        "prefer (v)",
+        "outdoor (adj)",
+        "activity (n)",
+        "indoors (adv)"
+      ],
+      "en": "I prefer outdoor activities to staying indoors."
+    },
+    {
+      "vi": "Từ khi nghỉ hưu, ông tôi đi câu cá gần như mỗi ngày.",
+      "hints": [
+        "retire (v)",
+        "go fishing (v)",
+        "almost (adv)"
+      ],
+      "en": "Since he retired, my grandfather has gone fishing almost every day."
+    },
+    {
+      "vi": "Dạo gần đây tôi mê giải ô chữ, tối nào cũng làm một ô.",
+      "hints": [
+        "lately (adv)",
+        "be hooked on (v)",
+        "crossword puzzle (n)",
+        "every night"
+      ],
+      "en": "Lately I've been hooked on crossword puzzles; I do one every night."
+    },
+    {
+      "vi": "Tôi đã bỏ viết blog vì công việc quá bận.",
+      "hints": [
+        "give up (v)",
+        "blogging (n)",
+        "too busy"
+      ],
+      "en": "I gave up blogging because I got too busy at work."
+    },
+    {
+      "vi": "Nếu có nhiều thời gian hơn, tôi sẽ học thư pháp.",
+      "hints": [
+        "if I had",
+        "more time",
+        "calligraphy (n)"
+      ],
+      "en": "If I had more time, I would learn calligraphy."
+    },
+    {
+      "vi": "Làm đồ thủ công là cách tuyệt vời để giảm thời gian dùng màn hình.",
+      "hints": [
+        "craft (n)",
+        "great way",
+        "cut down on (v)",
+        "screen time (n)"
+      ],
+      "en": "Doing crafts is a great way to cut down on screen time."
+    },
+    {
+      "vi": "Tham gia một nhóm chơi cờ bàn giúp tôi gặp gỡ những người cùng chí hướng.",
+      "hints": [
+        "join (v)",
+        "board game (n)",
+        "let (v)",
+        "like-minded (adj)"
+      ],
+      "en": "Joining a board game group lets me meet like-minded people."
+    },
+    {
+      "vi": "Tôi đã chơi guitar được gần mười năm nhưng chưa bao giờ dám biểu diễn trước đám đông.",
+      "hints": [
+        "present perfect continuous",
+        "guitar (n)",
+        "dare (v)",
+        "perform (v)",
+        "in front of a crowd"
+      ],
+      "en": "I've been playing the guitar for nearly ten years, but I've never dared to perform in front of a crowd.",
+      "level": "B2"
+    },
+    {
+      "vi": "Giá như tôi không phải làm việc nhiều như vậy, tôi sẽ dành cả mùa hè để đi phượt khắp miền Bắc.",
+      "hints": [
+        "if only",
+        "backpack (v)",
+        "whole summer",
+        "northern (adj)"
+      ],
+      "en": "If only I didn't have to work so much, I'd spend the whole summer backpacking around northern Vietnam.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bức tranh mà tôi vẽ tháng trước đã được chọn để trưng bày tại một triển lãm địa phương.",
+      "hints": [
+        "painting (n)",
+        "be selected (v)",
+        "display (v)",
+        "exhibition (n)",
+        "local (adj)"
+      ],
+      "en": "The painting I did last month has been selected to be displayed at a local exhibition.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với việc dậy sớm để chụp ảnh bình minh, dù lúc đầu thấy rất khó.",
+      "hints": [
+        "get used to + V-ing",
+        "photograph (v)",
+        "sunrise (n)",
+        "at first",
+        "although"
+      ],
+      "en": "I've gotten used to getting up early to photograph the sunrise, although it was really hard at first.",
+      "level": "B2"
+    },
+    {
+      "vi": "Anh ấy dành phần lớn thời gian rảnh để săn lùng những chiếc đĩa than cũ, thứ mà anh coi là báu vật thực sự.",
+      "hints": [
+        "free time (n)",
+        "hunt for (v)",
+        "vinyl record (n)",
+        "consider (v)",
+        "treasure (n)"
+      ],
+      "en": "He spends most of his free time hunting for old vinyl records, which he considers real treasures.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi rất mong được tham dự buổi workshop làm nến vào cuối tuần này, buổi mà chị gái tôi đã đặt cho hai chị em.",
+      "hints": [
+        "look forward to + V-ing",
+        "attend (v)",
+        "candle-making (n)",
+        "workshop (n)",
+        "book (v)"
+      ],
+      "en": "I'm really looking forward to attending a candle-making workshop this weekend, which my sister booked for us.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trồng cây bonsai không chỉ giúp tôi giảm căng thẳng mà còn dạy tôi tính kiên nhẫn.",
+      "hints": [
+        "not only ... but also",
+        "bonsai (n)",
+        "reduce stress (v)",
+        "teach (v)",
+        "patience (n)"
+      ],
+      "en": "Growing bonsai not only helps me reduce stress but also teaches me patience.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi từng dán mắt vào màn hình máy tính hàng giờ liền, nhưng bây giờ tôi thích đi leo núi đá với bạn bè hơn.",
+      "hints": [
+        "used to (v)",
+        "be glued to (v)",
+        "nowadays (adv)",
+        "would rather",
+        "go rock climbing (v)"
+      ],
+      "en": "I used to spend hours glued to my computer screen, but nowadays I'd rather go rock climbing with friends.",
+      "level": "B2"
+    },
+    {
+      "vi": "Cô ấy đã nhờ người đóng khung bức tranh thêu tay đầu tiên của mình để treo trong phòng khách.",
+      "hints": [
+        "have something done",
+        "hand-embroidered (adj)",
+        "frame (v)",
+        "hang (v)",
+        "living room (n)"
+      ],
+      "en": "She had her first hand-embroidered picture framed so she could hang it in the living room.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi trời mưa, nhóm đạp xe của chúng tôi sẽ đạp một vòng quanh hồ chứa nước vào sáng sớm Chủ nhật.",
+      "hints": [
+        "unless",
+        "cycling (n)",
+        "ride (v)",
+        "all the way around",
+        "reservoir (n)"
+      ],
+      "en": "Unless it rains, our cycling group will ride all the way around the reservoir early Sunday morning.",
+      "level": "B2"
+    }
+  ]
+}

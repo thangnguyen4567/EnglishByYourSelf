@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "vi": "Hôm nay tôi cảm thấy rất vui vì được nghỉ làm.",
+      "hints": [
+        "feel (v)",
+        "happy (adj)",
+        "day off (n)"
+      ],
+      "en": "I feel very happy today because I have a day off."
+    },
+    {
+      "vi": "Em gái tôi khá nhút nhát khi gặp người lạ.",
+      "hints": [
+        "quite (adv)",
+        "shy (adj)",
+        "stranger (n)"
+      ],
+      "en": "My younger sister is quite shy when she meets strangers."
+    },
+    {
+      "vi": "Bố tôi là người kiên nhẫn và hiếm khi nổi giận.",
+      "hints": [
+        "patient (adj)",
+        "rarely (adv)",
+        "get angry (v)"
+      ],
+      "en": "My dad is a patient person and rarely gets angry."
+    },
+    {
+      "vi": "Tôi hơi lo lắng về buổi phỏng vấn ngày mai.",
+      "hints": [
+        "a bit",
+        "nervous (adj)",
+        "interview (n)"
+      ],
+      "en": "I'm a bit nervous about tomorrow's interview."
+    },
+    {
+      "vi": "Tôi thấy chán vì cuối tuần này chẳng có gì để làm.",
+      "hints": [
+        "bored (adj)",
+        "nothing to do",
+        "this weekend"
+      ],
+      "en": "I'm bored because I have nothing to do this weekend."
+    },
+    {
+      "vi": "Cô ấy rất tự tin khi nói trước đám đông.",
+      "hints": [
+        "confident (adj)",
+        "speak (v)",
+        "in public"
+      ],
+      "en": "She is very confident when speaking in public."
+    },
+    {
+      "vi": "Bạn có dễ khóc khi xem phim buồn không?",
+      "hints": [
+        "cry (v)",
+        "easily (adv)",
+        "sad (adj)"
+      ],
+      "en": "Do you cry easily when you watch sad movies?"
+    },
+    {
+      "vi": "Tôi là người hướng nội nên thích ở nhà hơn là đi tiệc.",
+      "hints": [
+        "introvert (n)",
+        "prefer ... to (v)",
+        "stay home (v)",
+        "party (n)"
+      ],
+      "en": "I'm an introvert, so I prefer staying home to going to parties."
+    },
+    {
+      "vi": "Anh trai tôi khá bướng bỉnh và không bao giờ chịu nhận mình sai.",
+      "hints": [
+        "rather (adv)",
+        "stubborn (adj)",
+        "admit (v)",
+        "wrong (adj)"
+      ],
+      "en": "My older brother is rather stubborn and never admits he is wrong."
+    },
+    {
+      "vi": "Tôi rất ngạc nhiên khi thầy giáo cũ vẫn nhớ tên tôi.",
+      "hints": [
+        "surprised (adj)",
+        "former (adj)",
+        "remember (v)"
+      ],
+      "en": "I was very surprised when my former teacher still remembered my name."
+    },
+    {
+      "vi": "Tôi đã cảm thấy thất vọng vì không đạt được mục tiêu của mình.",
+      "hints": [
+        "disappointed (adj)",
+        "reach (v)",
+        "goal (n)"
+      ],
+      "en": "I felt disappointed because I didn't reach my goal."
+    },
+    {
+      "vi": "Bạn tôi rất hào phóng; anh ấy luôn sẵn lòng chia sẻ mọi thứ.",
+      "hints": [
+        "generous (adj)",
+        "willing (adj)",
+        "share (v)"
+      ],
+      "en": "My friend is very generous; he is always willing to share everything."
+    },
+    {
+      "vi": "Mẹ tôi rất chu đáo; bà luôn nghĩ đến cảm xúc của người khác.",
+      "hints": [
+        "thoughtful (adj)",
+        "consider (v)",
+        "feeling (n)"
+      ],
+      "en": "My mom is very thoughtful; she always considers other people's feelings."
+    },
+    {
+      "vi": "Khi buồn bực, tôi thường đi dạo để bình tĩnh lại.",
+      "hints": [
+        "upset (adj)",
+        "go for a walk (v)",
+        "calm down (v)"
+      ],
+      "en": "When I'm upset, I usually go for a walk to calm down."
+    },
+    {
+      "vi": "Tôi rất bực mình khi ai đó đến muộn mà không báo trước.",
+      "hints": [
+        "annoyed (adj)",
+        "late (adj)",
+        "without (prep)",
+        "let someone know (v)"
+      ],
+      "en": "I get really annoyed when someone is late without letting me know."
+    },
+    {
+      "vi": "Một người có trách nhiệm luôn hoàn thành công việc đúng hạn.",
+      "hints": [
+        "responsible (adj)",
+        "get things done (v)",
+        "on time"
+      ],
+      "en": "A responsible person always gets things done on time."
+    },
+    {
+      "vi": "Đồng nghiệp mới của tôi có vẻ hơi kiêu ngạo, nhưng thật ra anh ấy rất tốt bụng.",
+      "hints": [
+        "coworker (n)",
+        "seem (v)",
+        "arrogant (adj)",
+        "actually (adv)",
+        "kind-hearted (adj)"
+      ],
+      "en": "My new coworker seems a little arrogant, but he's actually very kind-hearted."
+    },
+    {
+      "vi": "Trước đây tôi rất nóng tính, nhưng bây giờ tôi dễ tính hơn nhiều.",
+      "hints": [
+        "used to (v)",
+        "hot-tempered (adj)",
+        "much more",
+        "easygoing (adj)"
+      ],
+      "en": "I used to be very hot-tempered, but now I'm much more easygoing."
+    },
+    {
+      "vi": "Tôi sợ rằng mình sẽ làm mọi người thất vọng nếu thất bại.",
+      "hints": [
+        "afraid (adj)",
+        "let someone down (v)",
+        "fail (v)"
+      ],
+      "en": "I'm afraid I will let everyone down if I fail."
+    },
+    {
+      "vi": "Tôi tự hào về bản thân vì đã vượt qua nỗi sợ độ cao.",
+      "hints": [
+        "proud of (adj)",
+        "overcome (v)",
+        "fear (n)",
+        "height (n)"
+      ],
+      "en": "I'm proud of myself for overcoming my fear of heights."
+    },
+    {
+      "vi": "Tôi đã cảm thấy kiệt sức suốt mấy tuần nay vì liên tục phải làm thêm giờ.",
+      "hints": [
+        "present perfect continuous",
+        "burned out (adj)",
+        "work overtime (v)",
+        "constantly (adv)"
+      ],
+      "en": "I've been feeling burned out for weeks because I've had to work overtime constantly.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu tôi kiên nhẫn hơn, tôi đã không mất bình tĩnh với các con tối qua.",
+      "hints": [
+        "third conditional",
+        "lose one's temper (v)",
+        "children (n)",
+        "last night"
+      ],
+      "en": "If I had been more patient, I wouldn't have lost my temper with my children last night.",
+      "level": "B2"
+    },
+    {
+      "vi": "Anh ấy là kiểu người dễ bị tổn thương, mặc dù bề ngoài trông có vẻ rất cứng rắn.",
+      "hints": [
+        "the kind of person who",
+        "get hurt (v)",
+        "although",
+        "tough (adj)",
+        "on the outside"
+      ],
+      "en": "He's the kind of person who gets hurt easily, although he looks tough on the outside.",
+      "level": "B2"
+    },
+    {
+      "vi": "Cô ấy thú nhận rằng cô ấy đã ghen tị với thành công của em gái mình suốt nhiều năm.",
+      "hints": [
+        "confess (v)",
+        "past perfect continuous",
+        "jealous of (adj)",
+        "success (n)",
+        "for years"
+      ],
+      "en": "She confessed that she had been jealous of her younger sister's success for years.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình không quá nhạy cảm với lời chỉ trích, vì ngay cả một lời nhận xét nhỏ cũng có thể làm hỏng cả ngày của tôi.",
+      "hints": [
+        "wish + past simple",
+        "sensitive to (adj)",
+        "criticism (n)",
+        "comment (n)",
+        "ruin (v)"
+      ],
+      "en": "I wish I weren't so sensitive to criticism, because even a small comment can ruin my whole day.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trái với vẻ ngoài lạnh lùng, cô ấy thực ra là một người rất ấm áp và biết đồng cảm.",
+      "hints": [
+        "despite",
+        "cold (adj)",
+        "appearance (n)",
+        "warm (adj)",
+        "empathetic (adj)"
+      ],
+      "en": "Despite her cold appearance, she is actually a very warm and empathetic person.",
+      "level": "B2"
+    },
+    {
+      "vi": "Anh ấy càng bị áp lực thì càng trở nên cáu kỉnh và khó gần.",
+      "hints": [
+        "the more ... the more",
+        "be under pressure (v)",
+        "irritable (adj)",
+        "unapproachable (adj)"
+      ],
+      "en": "The more pressure he is under, the more irritable and unapproachable he becomes.",
+      "level": "B2"
+    },
+    {
+      "vi": "Lẽ ra tôi nên giữ bình tĩnh thay vì lớn tiếng với đồng nghiệp trong cuộc họp.",
+      "hints": [
+        "should have + past participle",
+        "keep one's cool (v)",
+        "raise one's voice (v)",
+        "colleague (n)",
+        "meeting (n)"
+      ],
+      "en": "I should have kept my cool instead of raising my voice at my colleague during the meeting.",
+      "level": "B2"
+    },
+    {
+      "vi": "Điều khiến tôi bực bội nhất là bị ngắt lời bởi những người chẳng bao giờ chịu lắng nghe.",
+      "hints": [
+        "frustrate (v)",
+        "be interrupted (v)",
+        "bother to (v)",
+        "listen (v)"
+      ],
+      "en": "What frustrates me most is being interrupted by people who never bother to listen.",
+      "level": "B2"
+    },
+    {
+      "vi": "Kể từ khi bắt đầu thiền, tôi đã học được cách kiểm soát cảm xúc và không còn lo âu như trước nữa.",
+      "hints": [
+        "meditate (v)",
+        "control (v)",
+        "emotion (n)",
+        "anxious (adj)",
+        "no longer"
+      ],
+      "en": "Since I started meditating, I've learned to control my emotions and no longer feel as anxious as before.",
+      "level": "B2"
+    }
+  ]
+}

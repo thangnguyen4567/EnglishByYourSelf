@@ -1,0 +1,314 @@
+{
+  "items": [
+    {
+      "vi": "Tôi đi làm bằng xe máy mỗi ngày.",
+      "hints": [
+        "go to work (v)",
+        "by motorbike",
+        "every day"
+      ],
+      "en": "I go to work by motorbike every day."
+    },
+    {
+      "vi": "Trạm xe buýt ở ngay trước nhà tôi.",
+      "hints": [
+        "bus stop (n)",
+        "right (adv)",
+        "in front of (prep)",
+        "house (n)"
+      ],
+      "en": "The bus stop is right in front of my house."
+    },
+    {
+      "vi": "Chị tôi đón con ở trường lúc bốn giờ chiều.",
+      "hints": [
+        "sister (n)",
+        "pick up (v)",
+        "kid (n)",
+        "at four p.m."
+      ],
+      "en": "My sister picks up her kids at school at four p.m."
+    },
+    {
+      "vi": "Đừng quên đội mũ bảo hiểm khi đi xe máy.",
+      "hints": [
+        "forget (v)",
+        "wear (v)",
+        "helmet (n)",
+        "ride (v)"
+      ],
+      "en": "Don't forget to wear a helmet when you ride a motorbike."
+    },
+    {
+      "vi": "Vé xe buýt bao nhiêu tiền một lượt?",
+      "hints": [
+        "bus fare (n)",
+        "how much",
+        "per ride"
+      ],
+      "en": "How much is the bus fare per ride?"
+    },
+    {
+      "vi": "Giờ cao điểm đường phố lúc nào cũng kẹt xe.",
+      "hints": [
+        "rush hour",
+        "street (n)",
+        "always (adv)",
+        "jammed (adj)"
+      ],
+      "en": "During rush hour, the streets are always jammed."
+    },
+    {
+      "vi": "Anh ấy đang đợi tàu điện ngầm ở sân ga.",
+      "hints": [
+        "wait for (v)",
+        "subway (n)",
+        "platform (n)"
+      ],
+      "en": "He is waiting for the subway on the platform."
+    },
+    {
+      "vi": "Sáng nay tôi bị lỡ chuyến xe buýt đầu tiên.",
+      "hints": [
+        "this morning",
+        "miss (v)",
+        "first (adj)",
+        "bus (n)"
+      ],
+      "en": "I missed the first bus this morning."
+    },
+    {
+      "vi": "Bạn nên xuống xe ở trạm kế tiếp.",
+      "hints": [
+        "get off (v)",
+        "next (adj)",
+        "stop (n)"
+      ],
+      "en": "You should get off at the next stop."
+    },
+    {
+      "vi": "Tôi thường đặt xe qua ứng dụng vì nó tiện hơn.",
+      "hints": [
+        "usually (adv)",
+        "book a ride (v)",
+        "app (n)",
+        "convenient (adj)"
+      ],
+      "en": "I usually book a ride through an app because it's more convenient."
+    },
+    {
+      "vi": "Xe buýt hôm nay đông quá, tôi phải đứng suốt đường.",
+      "hints": [
+        "crowded (adj)",
+        "have to (v)",
+        "stand (v)",
+        "the whole way"
+      ],
+      "en": "The bus was so crowded today that I had to stand the whole way."
+    },
+    {
+      "vi": "Xe tôi bị xẹp lốp trên đường đi làm.",
+      "hints": [
+        "get a flat tire (v)",
+        "on the way",
+        "work (n)"
+      ],
+      "en": "I got a flat tire on the way to work."
+    },
+    {
+      "vi": "Tôi cần ghé cây xăng để đổ đầy bình.",
+      "hints": [
+        "stop at (v)",
+        "gas station (n)",
+        "fill up (v)",
+        "tank (n)"
+      ],
+      "en": "I need to stop at the gas station to fill up the tank."
+    },
+    {
+      "vi": "Anh ấy bị cảnh sát phạt vì chạy quá tốc độ.",
+      "hints": [
+        "police (n)",
+        "fine (v)",
+        "speeding (n)"
+      ],
+      "en": "The police fined him for speeding."
+    },
+    {
+      "vi": "Hãy thắt dây an toàn trước khi xe chạy.",
+      "hints": [
+        "fasten (v)",
+        "seat belt (n)",
+        "before (prep)",
+        "start moving (v)"
+      ],
+      "en": "Please fasten your seat belt before the car starts moving."
+    },
+    {
+      "vi": "Đi tàu điện nhanh hơn và rẻ hơn đi taxi.",
+      "hints": [
+        "take the metro (v)",
+        "faster (adj)",
+        "cheaper (adj)",
+        "taxi (n)"
+      ],
+      "en": "Taking the metro is faster and cheaper than taking a taxi."
+    },
+    {
+      "vi": "Tôi đã đi chung xe với đồng nghiệp được ba tháng rồi.",
+      "hints": [
+        "carpool (v)",
+        "coworker (n)",
+        "for three months"
+      ],
+      "en": "I have carpooled with my coworker for three months."
+    },
+    {
+      "vi": "Nếu bạn không đổi tuyến ở trạm này, bạn sẽ đi lạc.",
+      "hints": [
+        "transfer (v)",
+        "line (n)",
+        "station (n)",
+        "get lost (v)"
+      ],
+      "en": "If you don't transfer lines at this station, you will get lost."
+    },
+    {
+      "vi": "Thành phố sẽ xây thêm làn đường dành riêng cho xe đạp vào năm sau.",
+      "hints": [
+        "city (n)",
+        "build (v)",
+        "more (adj)",
+        "bike lane (n)",
+        "next year"
+      ],
+      "en": "The city is going to build more bike lanes next year."
+    },
+    {
+      "vi": "Nhiều người vẫn chưa quen dùng phương tiện công cộng vì lịch trình không đáng tin cậy.",
+      "hints": [
+        "get used to (v)",
+        "public transportation (n)",
+        "schedule (n)",
+        "reliable (adj)"
+      ],
+      "en": "Many people haven't gotten used to public transportation because the schedules aren't reliable."
+    },
+    {
+      "vi": "Nếu tôi rời nhà sớm hơn mười phút, sáng nay tôi đã không bị kẹt xe trên cầu.",
+      "hints": [
+        "third conditional",
+        "leave home (v)",
+        "get stuck (v)",
+        "traffic jam (n)",
+        "bridge (n)"
+      ],
+      "en": "If I had left home ten minutes earlier, I wouldn't have gotten stuck in a traffic jam on the bridge this morning.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã đi làm bằng xe buýt được hai năm rồi, nên tôi đã quen với việc đứng trên những chuyến xe chật cứng.",
+      "hints": [
+        "present perfect continuous",
+        "commute (v)",
+        "be used to (v)",
+        "packed (adj)"
+      ],
+      "en": "I have been commuting to work by bus for two years, so I'm used to standing on packed buses.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi cần mang xe máy đi bảo dưỡng vì phanh kêu rất to mỗi khi tôi dừng lại.",
+      "hints": [
+        "have something done",
+        "service (v)",
+        "brake (n)",
+        "squeak (v)",
+        "loudly (adv)"
+      ],
+      "en": "I need to have my motorbike serviced because the brakes squeak loudly every time I stop.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù tuyến metro mới đã đi vào hoạt động, nhiều người vẫn thích đi xe máy hơn vì nó linh hoạt hơn.",
+      "hints": [
+        "although",
+        "metro line (n)",
+        "prefer (v)",
+        "flexible (adj)"
+      ],
+      "en": "Although the new metro line has opened, many people still prefer riding motorbikes because they are more flexible.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tài xế taxi nói với tôi rằng đường cao tốc đã bị đóng vì một vụ tai nạn nghiêm trọng.",
+      "hints": [
+        "reported speech",
+        "taxi driver (n)",
+        "highway (n)",
+        "serious (adj)",
+        "accident (n)"
+      ],
+      "en": "The taxi driver told me that the highway had been closed because of a serious accident.",
+      "level": "B2"
+    },
+    {
+      "vi": "Đạp xe đi làm không chỉ giúp tôi tiết kiệm tiền xăng mà còn giúp tôi giữ dáng mà không cần đến phòng gym.",
+      "hints": [
+        "not only... but also",
+        "cycle (v)",
+        "save (v)",
+        "keep fit (v)",
+        "gym (n)"
+      ],
+      "en": "Cycling to work not only saves me money on gas but also helps me keep fit without going to the gym.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước thành phố này có nhiều làn đường dành riêng cho xe buýt hơn để giảm ùn tắc vào giờ tan tầm.",
+      "hints": [
+        "wish + past simple",
+        "dedicated (adj)",
+        "bus lane (n)",
+        "reduce (v)",
+        "congestion (n)"
+      ],
+      "en": "I wish this city had more dedicated bus lanes to reduce congestion when people leave work.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mỗi tuần, hàng trăm tài xế bị cảnh sát giao thông yêu cầu tấp vào lề vì vượt đèn đỏ.",
+      "hints": [
+        "passive voice",
+        "pull over (v)",
+        "traffic police (n)",
+        "run a red light (v)"
+      ],
+      "en": "Every week, hundreds of drivers are pulled over by the traffic police for running red lights.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi bạn đặt xe trước, rất khó để bắt được taxi vào giờ cao điểm buổi tối.",
+      "hints": [
+        "unless",
+        "book (v)",
+        "in advance",
+        "catch a taxi (v)",
+        "peak hours (n)"
+      ],
+      "en": "Unless you book a car in advance, it is very hard to catch a taxi during the evening peak hours.",
+      "level": "B2"
+    },
+    {
+      "vi": "Khi chúng tôi đến ga thì chuyến tàu cuối cùng đã rời đi, nên chúng tôi phải gọi xe công nghệ về nhà.",
+      "hints": [
+        "by the time",
+        "past perfect",
+        "last train (n)",
+        "ride-hailing (adj)"
+      ],
+      "en": "By the time we got to the station, the last train had already left, so we had to call a ride-hailing car home.",
+      "level": "B2"
+    }
+  ]
+}

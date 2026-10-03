@@ -1,0 +1,306 @@
+{
+  "items": [
+    {
+      "vi": "Chuyến bay của tôi cất cánh lúc bảy giờ sáng.",
+      "hints": [
+        "flight (n)",
+        "take off (v)",
+        "at seven a.m."
+      ],
+      "en": "My flight takes off at seven a.m."
+    },
+    {
+      "vi": "Vui lòng cho tôi xem hộ chiếu và thẻ lên máy bay.",
+      "hints": [
+        "please",
+        "show (v)",
+        "passport (n)",
+        "boarding pass (n)"
+      ],
+      "en": "Please show me your passport and boarding pass."
+    },
+    {
+      "vi": "Tôi thích ngồi ghế cạnh cửa sổ hơn ghế cạnh lối đi.",
+      "hints": [
+        "would rather (v)",
+        "window seat (n)",
+        "aisle seat (n)"
+      ],
+      "en": "I'd rather have a window seat than an aisle seat."
+    },
+    {
+      "vi": "Cổng lên máy bay số mười hai ở đâu?",
+      "hints": [
+        "where",
+        "gate (n)",
+        "twelve"
+      ],
+      "en": "Where is Gate 12?"
+    },
+    {
+      "vi": "Chuyến bay bị hoãn hai tiếng vì thời tiết xấu.",
+      "hints": [
+        "delay (v)",
+        "two hours",
+        "because of",
+        "bad weather"
+      ],
+      "en": "The flight was delayed two hours because of bad weather."
+    },
+    {
+      "vi": "Tôi chỉ mang một túi xách tay lên máy bay.",
+      "hints": [
+        "only (adv)",
+        "carry-on bag (n)",
+        "on board"
+      ],
+      "en": "I'm only bringing one carry-on bag on board."
+    },
+    {
+      "vi": "Bạn phải ký gửi chiếc vali lớn này.",
+      "hints": [
+        "have to (v)",
+        "check (v)",
+        "suitcase (n)"
+      ],
+      "en": "You have to check this big suitcase."
+    },
+    {
+      "vi": "Hành lý của tôi nặng quá hai ký.",
+      "hints": [
+        "baggage (n)",
+        "overweight (adj)",
+        "kilo (n)"
+      ],
+      "en": "My baggage is two kilos overweight."
+    },
+    {
+      "vi": "Chúng tôi đang xếp hàng ở quầy làm thủ tục trong nhà ga số hai.",
+      "hints": [
+        "line up (v)",
+        "check-in counter (n)",
+        "terminal (n)"
+      ],
+      "en": "We are lining up at the check-in counter in Terminal 2."
+    },
+    {
+      "vi": "Bạn nên có mặt ở sân bay trước hai tiếng.",
+      "hints": [
+        "arrive (v)",
+        "airport (n)",
+        "two hours early"
+      ],
+      "en": "You should arrive at the airport two hours early."
+    },
+    {
+      "vi": "Hãy bỏ chai nước ra trước khi qua cửa kiểm tra an ninh.",
+      "hints": [
+        "throw away (v)",
+        "water bottle (n)",
+        "go through (v)",
+        "security check (n)"
+      ],
+      "en": "Please throw away your water bottle before you go through the security check."
+    },
+    {
+      "vi": "Tôi có một chuyến quá cảnh năm tiếng ở Singapore trước khi bay sang Paris.",
+      "hints": [
+        "layover (n)",
+        "five-hour (adj)",
+        "fly to (v)"
+      ],
+      "en": "I have a five-hour layover in Singapore before flying to Paris."
+    },
+    {
+      "vi": "Tiếp viên hàng không phát chăn và tai nghe cho hành khách.",
+      "hints": [
+        "flight attendant (n)",
+        "hand out (v)",
+        "blanket (n)",
+        "headphones (n)",
+        "passenger (n)"
+      ],
+      "en": "The flight attendants handed out blankets and headphones to the passengers."
+    },
+    {
+      "vi": "Máy bay sắp hạ cánh, xin vui lòng dựng thẳng lưng ghế.",
+      "hints": [
+        "be about to (v)",
+        "land (v)",
+        "seat back (n)",
+        "upright (adj)"
+      ],
+      "en": "The plane is about to land, so please put your seat back upright."
+    },
+    {
+      "vi": "Tôi đã đợi ở băng chuyền hành lý gần một tiếng rồi.",
+      "hints": [
+        "wait (v)",
+        "baggage claim (n)",
+        "almost (adv)",
+        "an hour"
+      ],
+      "en": "I have waited at baggage claim for almost an hour."
+    },
+    {
+      "vi": "Hãng hàng không đã làm thất lạc hành lý của tôi.",
+      "hints": [
+        "airline (n)",
+        "lose (v)",
+        "luggage (n)"
+      ],
+      "en": "The airline has lost my luggage."
+    },
+    {
+      "vi": "Bạn có gì cần khai báo hải quan không?",
+      "hints": [
+        "anything",
+        "declare (v)",
+        "customs (n)"
+      ],
+      "en": "Do you have anything to declare at customs?"
+    },
+    {
+      "vi": "Vé khứ hồi thường rẻ hơn mua hai vé một chiều.",
+      "hints": [
+        "round-trip ticket (n)",
+        "usually (adv)",
+        "cheaper (adj)",
+        "one-way ticket (n)"
+      ],
+      "en": "A round-trip ticket is usually cheaper than two one-way tickets."
+    },
+    {
+      "vi": "Nếu bạn lỡ chuyến bay nối chuyến, hãng sẽ đổi vé miễn phí cho bạn.",
+      "hints": [
+        "miss (v)",
+        "connecting flight (n)",
+        "rebook (v)",
+        "free of charge"
+      ],
+      "en": "If you miss your connecting flight, the airline will rebook you free of charge."
+    },
+    {
+      "vi": "Tôi bị lệch múi giờ nặng sau chuyến bay dài mười bốn tiếng.",
+      "hints": [
+        "jet lag (n)",
+        "terrible (adj)",
+        "fourteen-hour (adj)"
+      ],
+      "en": "I had terrible jet lag after the fourteen-hour flight."
+    },
+    {
+      "vi": "Nếu chúng tôi không bị kẹt xe trên đường cao tốc, chúng tôi đã không phải trả một khoản phí đổi vé đắt đỏ.",
+      "hints": [
+        "third conditional",
+        "stuck in traffic",
+        "expressway (n)",
+        "hefty (adj)",
+        "change fee (n)"
+      ],
+      "en": "If we hadn't been stuck in traffic on the expressway, we wouldn't have had to pay a hefty change fee.",
+      "level": "B2"
+    },
+    {
+      "vi": "Hành lý ký gửi của tôi đã bị gửi nhầm sang Singapore, và hãng bay hứa sẽ giao nó đến khách sạn trong vòng hai ngày.",
+      "hints": [
+        "passive voice",
+        "checked bag (n)",
+        "mistakenly (adv)",
+        "promise (v)",
+        "deliver (v)"
+      ],
+      "en": "My checked bag was mistakenly sent to Singapore, and the airline promised to deliver it to my hotel within two days.",
+      "level": "B2"
+    },
+    {
+      "vi": "Khi tôi đến được quầy thì họ đã đóng thủ tục cho chuyến bay của tôi rồi.",
+      "hints": [
+        "by the time",
+        "past perfect",
+        "reach (v)",
+        "counter (n)"
+      ],
+      "en": "By the time I reached the counter, they had already closed check-in for my flight.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã chờ ở cổng gần ba tiếng đồng hồ vì chuyến bay cứ liên tục bị hoãn.",
+      "hints": [
+        "present perfect continuous",
+        "nearly (adv)",
+        "keep + V-ing",
+        "postpone (v)"
+      ],
+      "en": "I have been waiting at the gate for nearly three hours because the flight keeps getting postponed.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tiếp viên thông báo rằng chúng tôi sắp đi qua vùng nhiễu động và yêu cầu mọi người quay về chỗ ngồi.",
+      "hints": [
+        "reported speech",
+        "announce (v)",
+        "turbulence (n)",
+        "return to (v)"
+      ],
+      "en": "The flight attendant announced that we were about to hit some turbulence and asked everyone to return to their seats.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với những chuyến bay đường dài, nhưng tôi vẫn không tài nào ngủ được trên máy bay.",
+      "hints": [
+        "be used to (v)",
+        "long-haul (adj)",
+        "manage (v)",
+        "plane (n)"
+      ],
+      "en": "I'm used to long-haul flights, but I still can't manage to get any sleep on the plane.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi bạn có thị thực hợp lệ, bạn sẽ không được phép lên chuyến bay quốc tế đó.",
+      "hints": [
+        "unless",
+        "valid (adj)",
+        "visa (n)",
+        "be allowed to (v)",
+        "board (v)"
+      ],
+      "en": "Unless you have a valid visa, you won't be allowed to board that international flight.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thích ngồi ở hàng ghế cạnh lối thoát hiểm hơn vì ở đó có nhiều chỗ để chân hơn hẳn.",
+      "hints": [
+        "prefer + V-ing",
+        "exit row (n)",
+        "offer (v)",
+        "legroom (n)"
+      ],
+      "en": "I prefer sitting in the exit row because it offers much more legroom than other seats.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù chuyến bay bị trễ suốt năm tiếng, hãng hàng không không hề bồi thường hay thậm chí xin lỗi hành khách.",
+      "hints": [
+        "although",
+        "compensation (n)",
+        "even (adv)",
+        "apologize (v)"
+      ],
+      "en": "Although the flight was delayed for five hours, the airline didn't provide any compensation or even apologize to the passengers.",
+      "level": "B2"
+    },
+    {
+      "vi": "Hành khách quá cảnh được yêu cầu đi theo các biển chỉ dẫn màu vàng để đến khu vực nối chuyến.",
+      "hints": [
+        "be required to (v)",
+        "transit (adj)",
+        "sign (n)",
+        "transfer area (n)"
+      ],
+      "en": "Transit passengers are required to follow the yellow signs to get to the transfer area.",
+      "level": "B2"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "vi": "Tôi cần rút tiền ở cây ATM.",
+      "hints": [
+        "need (v)",
+        "withdraw (v)",
+        "cash (n)",
+        "ATM (n)"
+      ],
+      "en": "I need to withdraw cash at the ATM."
+    },
+    {
+      "vi": "Ở đây có nhận thanh toán bằng thẻ không?",
+      "hints": [
+        "accept (v)",
+        "card payment (n)",
+        "here (adv)"
+      ],
+      "en": "Do you accept card payments here?"
+    },
+    {
+      "vi": "Tôi muốn mở một tài khoản tiết kiệm.",
+      "hints": [
+        "would like (v)",
+        "open (v)",
+        "savings account (n)"
+      ],
+      "en": "I would like to open a savings account."
+    },
+    {
+      "vi": "Cuối tháng nào tôi cũng hết tiền.",
+      "hints": [
+        "run out of (v)",
+        "money (n)",
+        "at the end of the month"
+      ],
+      "en": "I always run out of money at the end of the month."
+    },
+    {
+      "vi": "Bạn có tiền lẻ để đổi tờ hai trăm nghìn không?",
+      "hints": [
+        "small change (n)",
+        "break (v)",
+        "bill (n)"
+      ],
+      "en": "Do you have small change to break a 200,000-dong bill?"
+    },
+    {
+      "vi": "Tôi được trả lương vào ngày mùng năm hằng tháng.",
+      "hints": [
+        "get paid (v)",
+        "on the fifth",
+        "every month"
+      ],
+      "en": "I get paid on the fifth of every month."
+    },
+    {
+      "vi": "Tôi vừa chuyển khoản tiền thuê nhà cho chủ nhà.",
+      "hints": [
+        "just (adv)",
+        "transfer (v)",
+        "rent (n)",
+        "landlord (n)"
+      ],
+      "en": "I've just transferred the rent to my landlord."
+    },
+    {
+      "vi": "Tháng trước tôi tiêu quá nhiều tiền cho quần áo.",
+      "hints": [
+        "last month",
+        "spend (v)",
+        "too much",
+        "clothes (n)"
+      ],
+      "en": "Last month I spent too much on clothes."
+    },
+    {
+      "vi": "Bạn có thể cho tôi mượn năm trăm nghìn không? Thứ Sáu tôi trả.",
+      "hints": [
+        "lend (v)",
+        "pay back (v)",
+        "on Friday"
+      ],
+      "en": "Can you lend me 500,000 dong? I'll pay you back on Friday."
+    },
+    {
+      "vi": "Tỷ giá đô la hôm nay là bao nhiêu?",
+      "hints": [
+        "exchange rate (n)",
+        "dollar (n)",
+        "today"
+      ],
+      "en": "What is the exchange rate for the dollar today?"
+    },
+    {
+      "vi": "Tôi đang tiết kiệm tiền để mua một chiếc xe mới.",
+      "hints": [
+        "save up (v)",
+        "buy (v)",
+        "car (n)"
+      ],
+      "en": "I'm saving up to buy a new car."
+    },
+    {
+      "vi": "Ngân hàng tính phí cho mỗi lần rút tiền ở cây ATM khác.",
+      "hints": [
+        "bank (n)",
+        "charge (v)",
+        "fee (n)",
+        "withdrawal (n)"
+      ],
+      "en": "The bank charges a fee for every withdrawal at another bank's ATM."
+    },
+    {
+      "vi": "Tôi đã quét mã QR để trả tiền đồ đi chợ.",
+      "hints": [
+        "scan (v)",
+        "QR code (n)",
+        "pay for (v)",
+        "groceries (n)"
+      ],
+      "en": "I scanned the QR code to pay for my groceries."
+    },
+    {
+      "vi": "Bạn nên lập ngân sách và ghi lại các khoản chi tiêu.",
+      "hints": [
+        "make a budget (v)",
+        "keep track of (v)",
+        "expense (n)"
+      ],
+      "en": "You should make a budget and keep track of your expenses."
+    },
+    {
+      "vi": "Số dư tài khoản của tôi không đủ để trả hóa đơn tiền điện.",
+      "hints": [
+        "account balance (n)",
+        "enough (adj)",
+        "cover (v)",
+        "electricity bill (n)"
+      ],
+      "en": "My account balance isn't enough to cover the electricity bill."
+    },
+    {
+      "vi": "Anh ấy đã vay ngân hàng để mua căn hộ.",
+      "hints": [
+        "take out (v)",
+        "loan (n)",
+        "apartment (n)"
+      ],
+      "en": "He took out a bank loan to buy an apartment."
+    },
+    {
+      "vi": "Lãi suất tiết kiệm năm nay thấp hơn năm ngoái.",
+      "hints": [
+        "interest rate (n)",
+        "savings (n)",
+        "lower (adj)",
+        "last year"
+      ],
+      "en": "Savings interest rates this year are lower than last year."
+    },
+    {
+      "vi": "Nếu bạn làm mất thẻ tín dụng, hãy gọi ngân hàng để khóa thẻ ngay.",
+      "hints": [
+        "lose (v)",
+        "credit card (n)",
+        "call (v)",
+        "freeze (v)",
+        "immediately (adv)"
+      ],
+      "en": "If you lose your credit card, call the bank to freeze it immediately."
+    },
+    {
+      "vi": "Cuối cùng tôi đã trả hết nợ thẻ tín dụng vào tháng trước.",
+      "hints": [
+        "finally (adv)",
+        "pay off (v)",
+        "debt (n)"
+      ],
+      "en": "I finally paid off my credit card debt last month."
+    },
+    {
+      "vi": "Đầu tư vào cổ phiếu có thể mang lại lợi nhuận cao nhưng cũng rất rủi ro.",
+      "hints": [
+        "invest in (v)",
+        "stock (n)",
+        "bring (v)",
+        "high return (n)",
+        "risky (adj)"
+      ],
+      "en": "Investing in stocks can bring high returns, but it's also very risky."
+    },
+    {
+      "vi": "Nếu năm năm trước tôi đầu tư vào vàng, thì bây giờ tôi đã có một khoản lời đáng kể.",
+      "hints": [
+        "mixed conditional",
+        "gold (n)",
+        "considerable (adj)",
+        "profit (n)"
+      ],
+      "en": "If I had invested in gold five years ago, I would have a considerable profit now.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã để dành tiền suốt hai năm nay để trả trước cho căn hộ đầu tiên của mình.",
+      "hints": [
+        "present perfect continuous",
+        "put money aside (v)",
+        "down payment (n)",
+        "first (adj)"
+      ],
+      "en": "I have been putting money aside for two years to make a down payment on my first apartment.",
+      "level": "B2"
+    },
+    {
+      "vi": "Đơn vay của tôi đã bị ngân hàng từ chối vì điểm tín dụng của tôi quá thấp.",
+      "hints": [
+        "passive voice",
+        "application (n)",
+        "reject (v)",
+        "credit score (n)",
+        "low (adj)"
+      ],
+      "en": "My loan application was rejected by the bank because my credit score was too low.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nhân viên ngân hàng giải thích rằng tôi sẽ bị phạt nếu rút tiền tiết kiệm trước khi đáo hạn.",
+      "hints": [
+        "reported speech",
+        "bank clerk (n)",
+        "explain (v)",
+        "penalize (v)",
+        "maturity (n)"
+      ],
+      "en": "The bank clerk explained that I would be penalized if I withdrew my savings before maturity.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình đã không vung tiền mua quá nhiều thứ không cần thiết trong đợt giảm giá tháng trước.",
+      "hints": [
+        "wish + past perfect",
+        "splurge on (v)",
+        "unnecessary (adj)",
+        "sale (n)"
+      ],
+      "en": "I wish I hadn't splurged on so many unnecessary things during last month's sale.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là bạn trả hết dư nợ thẻ tín dụng mỗi tháng, bạn sẽ không bị tính bất kỳ khoản lãi nào.",
+      "hints": [
+        "as long as",
+        "balance (n)",
+        "in full",
+        "interest (n)"
+      ],
+      "en": "As long as you pay your credit card balance in full each month, you won't be charged any interest.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã dần quen với việc ghi lại từng khoản chi nhỏ vào một ứng dụng quản lý tài chính cá nhân.",
+      "hints": [
+        "get used to (v)",
+        "log (v)",
+        "purchase (n)",
+        "personal finance (n)"
+      ],
+      "en": "I've gotten used to logging every small purchase in a personal finance app.",
+      "level": "B2"
+    },
+    {
+      "vi": "Không chỉ tiền thuê nhà mà chi phí sinh hoạt nói chung cũng đã tăng mạnh trong năm nay.",
+      "hints": [
+        "not only... but also",
+        "overall (adj)",
+        "cost of living (n)",
+        "go up (v)",
+        "sharply (adv)"
+      ],
+      "en": "Not only rent but also the overall cost of living has gone up sharply this year.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà sống tằn tiện bây giờ còn hơn phải lo lắng về tiền bạc khi về già.",
+      "hints": [
+        "would rather... than",
+        "frugally (adv)",
+        "worry about (v)",
+        "old (adj)"
+      ],
+      "en": "I'd rather live frugally now than have to worry about money when I'm old.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi vừa phát hiện ra mình bị trừ tiền hai lần cho cùng một giao dịch, nên tôi sẽ khiếu nại với ngân hàng.",
+      "hints": [
+        "notice (v)",
+        "double-charge (v)",
+        "transaction (n)",
+        "file a complaint (v)"
+      ],
+      "en": "I've just noticed that I was double-charged for the same transaction, so I'm going to file a complaint with my bank.",
+      "level": "B2"
+    }
+  ]
+}

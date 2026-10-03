@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "vi": "Tôi cố gắng ngủ đủ tám tiếng mỗi đêm.",
+      "hints": [
+        "try (v)",
+        "get sleep (v)",
+        "every night"
+      ],
+      "en": "I try to get eight hours of sleep every night."
+    },
+    {
+      "vi": "Tôi uống ít nhất hai lít nước mỗi ngày.",
+      "hints": [
+        "at least",
+        "liter (n)",
+        "a day"
+      ],
+      "en": "I drink at least two liters of water a day."
+    },
+    {
+      "vi": "Bạn có hay thức khuya vào các ngày trong tuần không?",
+      "hints": [
+        "often (adv)",
+        "stay up late (v)",
+        "weekday (n)"
+      ],
+      "en": "Do you often stay up late on weekdays?"
+    },
+    {
+      "vi": "Bố tôi đã bỏ thuốc lá ba năm trước và cảm thấy khỏe hơn hẳn.",
+      "hints": [
+        "quit smoking (v)",
+        "ago (adv)",
+        "healthy (adj)"
+      ],
+      "en": "My father quit smoking three years ago and feels much healthier."
+    },
+    {
+      "vi": "Tôi đã quyết định ăn nhiều rau xanh hơn và ít đồ ăn vặt hơn.",
+      "hints": [
+        "decide (v)",
+        "more",
+        "greens (n)",
+        "junk food (n)"
+      ],
+      "en": "I've decided to eat more greens and less junk food."
+    },
+    {
+      "vi": "Tôi đi bộ đến chỗ làm thay vì đi xe máy để vận động nhiều hơn.",
+      "hints": [
+        "walk to work (v)",
+        "ride a motorbike (v)",
+        "stay active (v)"
+      ],
+      "en": "I walk to work instead of riding my motorbike to stay active."
+    },
+    {
+      "vi": "Ngồi trước máy tính cả ngày không tốt cho lưng của bạn.",
+      "hints": [
+        "sit (v)",
+        "all day",
+        "be bad for",
+        "back (n)"
+      ],
+      "en": "Sitting at a computer all day is bad for your back."
+    },
+    {
+      "vi": "Bạn nên hạn chế dùng điện thoại trước giờ đi ngủ.",
+      "hints": [
+        "limit (v)",
+        "phone use (n)",
+        "bedtime (n)"
+      ],
+      "en": "You should limit your phone use before bedtime."
+    },
+    {
+      "vi": "Dạo này tôi bị căng thẳng vì khối lượng công việc quá nặng.",
+      "hints": [
+        "stressed out (adj)",
+        "lately (adv)",
+        "workload (n)",
+        "heavy (adj)"
+      ],
+      "en": "I've been stressed out lately because my workload is too heavy."
+    },
+    {
+      "vi": "Tôi đang cắt giảm đường và muối trong chế độ ăn.",
+      "hints": [
+        "cut back on (v)",
+        "sugar (n)",
+        "salt (n)",
+        "diet (n)"
+      ],
+      "en": "I'm cutting back on sugar and salt in my diet."
+    },
+    {
+      "vi": "Tôi hay bỏ bữa sáng nên thường thấy mệt vào khoảng giữa trưa.",
+      "hints": [
+        "skip (v)",
+        "breakfast (n)",
+        "tired (adj)",
+        "around noon"
+      ],
+      "en": "I skip breakfast too often, so I usually feel tired around noon."
+    },
+    {
+      "vi": "Uống quá nhiều cà phê khiến tôi khó ngủ.",
+      "hints": [
+        "too much",
+        "make it hard (v)",
+        "fall asleep (v)"
+      ],
+      "en": "Drinking too much coffee makes it hard for me to fall asleep."
+    },
+    {
+      "vi": "Tôi đã tăng ba ký kể từ khi làm việc tại nhà.",
+      "hints": [
+        "gain (v)",
+        "kilo (n)",
+        "work from home (v)"
+      ],
+      "en": "I've gained three kilos since I started working from home."
+    },
+    {
+      "vi": "Thiền mười phút mỗi sáng giúp tôi bớt lo âu.",
+      "hints": [
+        "meditate (v)",
+        "less",
+        "anxious (adj)"
+      ],
+      "en": "Meditating for ten minutes every morning helps me feel less anxious."
+    },
+    {
+      "vi": "Từ khi đi ngủ sớm hơn, tôi cảm thấy tràn đầy năng lượng.",
+      "hints": [
+        "go to bed (v)",
+        "earlier (adv)",
+        "full of energy"
+      ],
+      "en": "Since I started going to bed earlier, I've felt full of energy."
+    },
+    {
+      "vi": "Tôi đang cố bỏ thói quen ăn vặt vào đêm khuya.",
+      "hints": [
+        "work on (v)",
+        "break a habit (v)",
+        "snack (v)",
+        "late at night"
+      ],
+      "en": "I'm working on breaking the habit of snacking late at night."
+    },
+    {
+      "vi": "Tôi không uống nhiều rượu bia vì nó ảnh hưởng đến chất lượng giấc ngủ.",
+      "hints": [
+        "alcohol (n)",
+        "affect (v)",
+        "quality (n)"
+      ],
+      "en": "I don't drink much alcohol because it affects the quality of my sleep."
+    },
+    {
+      "vi": "Nếu muốn giảm cân, bạn cần những bữa ăn cân bằng và tập thể dục đều đặn.",
+      "hints": [
+        "lose weight (v)",
+        "balanced (adj)",
+        "meal (n)",
+        "regular (adj)"
+      ],
+      "en": "If you want to lose weight, you need balanced meals and regular exercise."
+    },
+    {
+      "vi": "Lối sống ít vận động có thể dẫn đến nhiều vấn đề sức khỏe.",
+      "hints": [
+        "sedentary (adj)",
+        "lifestyle (n)",
+        "lead to (v)",
+        "health problem (n)"
+      ],
+      "en": "A sedentary lifestyle can lead to many health problems."
+    },
+    {
+      "vi": "Cân bằng giữa công việc và cuộc sống rất quan trọng cho cả sức khỏe thể chất lẫn tinh thần.",
+      "hints": [
+        "work-life balance (n)",
+        "both ... and",
+        "physical (adj)",
+        "mental (adj)"
+      ],
+      "en": "A good work-life balance is important for both physical and mental health."
+    },
+    {
+      "vi": "Kể từ khi chuyển sang chế độ ăn dựa trên thực vật, tôi cảm thấy cơ thể nhẹ nhõm và tràn trề sinh lực hơn hẳn.",
+      "hints": [
+        "since + V-ing",
+        "switch to (v)",
+        "plant-based (adj)",
+        "energetic (adj)"
+      ],
+      "en": "Since switching to a plant-based diet, I've felt much lighter and more energetic.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bác sĩ khuyên tôi nên giảm lượng đồ uống có caffeine nếu muốn ngủ ngon hơn.",
+      "hints": [
+        "advise someone to (v)",
+        "intake (n)",
+        "caffeinated (adj)",
+        "sleep better (v)"
+      ],
+      "en": "My doctor advised me to reduce my intake of caffeinated drinks if I wanted to sleep better.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu hồi đại học tôi không thức trắng đêm thường xuyên, sức khỏe của tôi bây giờ đã không kém như thế này.",
+      "hints": [
+        "mixed conditional",
+        "pull an all-nighter (v)",
+        "in college",
+        "poor (adj)"
+      ],
+      "en": "If I hadn't pulled so many all-nighters in college, my health wouldn't be this poor now.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đang cố gắng biến việc đi bộ mười nghìn bước mỗi ngày thành thói quen, dù trời mưa hay nắng.",
+      "hints": [
+        "make it a routine (v)",
+        "step (n)",
+        "daily (adv)",
+        "rain or shine"
+      ],
+      "en": "I'm trying to make it a routine to walk ten thousand steps daily, rain or shine.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nhiều người không nhận ra rằng ngồi trước màn hình quá lâu có thể gây mỏi mắt và các vấn đề về cột sống.",
+      "hints": [
+        "realize (v)",
+        "screen (n)",
+        "cause (v)",
+        "eye strain (n)",
+        "spine (n)"
+      ],
+      "en": "Many people don't realize that sitting in front of a screen for too long can cause eye strain and spine problems.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình đã tạo được thói quen tập thể dục đều đặn từ khi còn trẻ.",
+      "hints": [
+        "wish + past perfect",
+        "get into the habit of (v)",
+        "regularly (adv)",
+        "younger (adj)"
+      ],
+      "en": "I wish I had gotten into the habit of exercising regularly when I was younger.",
+      "level": "B2"
+    },
+    {
+      "vi": "Thay vì phụ thuộc vào thuốc ngủ, cô ấy đã học cách thư giãn bằng các bài tập hít thở.",
+      "hints": [
+        "instead of + V-ing",
+        "rely on (v)",
+        "sleeping pill (n)",
+        "relax (v)",
+        "breathing exercise (n)"
+      ],
+      "en": "Instead of relying on sleeping pills, she has learned to relax through breathing exercises.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là bạn nghỉ ngơi đầy đủ và uống đủ nước, cơ thể bạn sẽ tự hồi phục nhanh hơn.",
+      "hints": [
+        "as long as",
+        "get enough rest (v)",
+        "stay hydrated (v)",
+        "recover (v)",
+        "on its own"
+      ],
+      "en": "As long as you get enough rest and stay hydrated, your body will recover faster on its own.",
+      "level": "B2"
+    },
+    {
+      "vi": "Công ty tôi đã cho lắp máy lọc không khí ở mọi tầng để bảo vệ sức khỏe của nhân viên.",
+      "hints": [
+        "have something done",
+        "air purifier (n)",
+        "protect (v)",
+        "employee (n)",
+        "well-being (n)"
+      ],
+      "en": "My company had air purifiers installed on every floor to protect employees' well-being.",
+      "level": "B2"
+    },
+    {
+      "vi": "Học cách gác lại công việc sau giờ làm không chỉ giúp giảm mức độ căng thẳng mà còn giúp chúng ta sống lâu hơn.",
+      "hints": [
+        "switch off (v)",
+        "not only ... but also",
+        "lower (v)",
+        "stress level (n)",
+        "live longer (v)"
+      ],
+      "en": "Learning to switch off after work not only lowers stress levels but also helps us live longer.",
+      "level": "B2"
+    }
+  ]
+}

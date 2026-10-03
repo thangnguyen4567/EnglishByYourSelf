@@ -1,0 +1,303 @@
+{
+  "items": [
+    {
+      "vi": "Tôi bị đau đầu và sổ mũi từ sáng nay.",
+      "hints": [
+        "headache (n)",
+        "runny nose (n)",
+        "since this morning"
+      ],
+      "en": "I've had a headache and a runny nose since this morning."
+    },
+    {
+      "vi": "Tôi muốn đặt lịch hẹn với bác sĩ vào thứ Hai.",
+      "hints": [
+        "would like to",
+        "make an appointment (v)",
+        "doctor (n)"
+      ],
+      "en": "I'd like to make an appointment with the doctor on Monday."
+    },
+    {
+      "vi": "Tôi bị đau họng nên nuốt rất khó.",
+      "hints": [
+        "sore throat (n)",
+        "hard (adj)",
+        "swallow (v)"
+      ],
+      "en": "I have a sore throat, so it's hard to swallow."
+    },
+    {
+      "vi": "Xin lỗi, ở đây có thuốc giảm đau cho bệnh đau răng không?",
+      "hints": [
+        "excuse me",
+        "painkiller (n)",
+        "toothache (n)"
+      ],
+      "en": "Excuse me, do you have any painkillers for a toothache?"
+    },
+    {
+      "vi": "Bạn bị sốt bao lâu rồi, và có bị ho không?",
+      "hints": [
+        "how long",
+        "fever (n)",
+        "cough (n)"
+      ],
+      "en": "How long have you had a fever, and do you have a cough?"
+    },
+    {
+      "vi": "Uống một viên, ba lần một ngày, sau bữa ăn.",
+      "hints": [
+        "take (v)",
+        "tablet (n)",
+        "three times a day",
+        "after meals"
+      ],
+      "en": "Take one tablet three times a day after meals."
+    },
+    {
+      "vi": "Tôi có cần đơn thuốc để mua loại thuốc này không?",
+      "hints": [
+        "need (v)",
+        "prescription (n)",
+        "medicine (n)"
+      ],
+      "en": "Do I need a prescription to buy this medicine?"
+    },
+    {
+      "vi": "Thuốc này có tác dụng phụ nào không?",
+      "hints": [
+        "medication (n)",
+        "any",
+        "side effect (n)"
+      ],
+      "en": "Does this medication have any side effects?"
+    },
+    {
+      "vi": "Bác sĩ đã kê cho tôi thuốc kháng sinh uống trong năm ngày.",
+      "hints": [
+        "prescribe (v)",
+        "antibiotic (n)",
+        "for five days"
+      ],
+      "en": "The doctor prescribed me antibiotics for five days."
+    },
+    {
+      "vi": "Y tá đã đo huyết áp và nhiệt độ cho tôi.",
+      "hints": [
+        "nurse (n)",
+        "check (v)",
+        "blood pressure (n)",
+        "temperature (n)"
+      ],
+      "en": "The nurse checked my blood pressure and temperature."
+    },
+    {
+      "vi": "Tôi bị dị ứng với hải sản và penicillin.",
+      "hints": [
+        "allergic to (adj)",
+        "seafood (n)",
+        "penicillin (n)"
+      ],
+      "en": "I'm allergic to seafood and penicillin."
+    },
+    {
+      "vi": "Triệu chứng của bạn là gì, và chúng bắt đầu từ khi nào?",
+      "hints": [
+        "symptom (n)",
+        "start (v)",
+        "when"
+      ],
+      "en": "What are your symptoms, and when did they start?"
+    },
+    {
+      "vi": "Tôi đi khám sức khỏe tổng quát mỗi năm một lần.",
+      "hints": [
+        "get a check-up (v)",
+        "general (adj)",
+        "once a year"
+      ],
+      "en": "I get a general check-up once a year."
+    },
+    {
+      "vi": "Tôi đã bị chóng mặt và buồn nôn suốt cả buổi chiều.",
+      "hints": [
+        "dizzy (adj)",
+        "nauseous (adj)",
+        "all afternoon"
+      ],
+      "en": "I felt dizzy and nauseous all afternoon."
+    },
+    {
+      "vi": "Tôi đã phải nghỉ làm hai ngày vì bị cúm.",
+      "hints": [
+        "have to (v)",
+        "take days off (v)",
+        "flu (n)"
+      ],
+      "en": "I had to take two days off work because I had the flu."
+    },
+    {
+      "vi": "Bảo hiểm y tế của tôi có chi trả cho lần khám này không?",
+      "hints": [
+        "health insurance (n)",
+        "cover (v)",
+        "visit (n)"
+      ],
+      "en": "Does my health insurance cover this visit?"
+    },
+    {
+      "vi": "Bạn nên nghỉ ngơi và uống nhiều nước cho đến khi bình phục.",
+      "hints": [
+        "get some rest (v)",
+        "plenty of",
+        "fluid (n)",
+        "recover (v)"
+      ],
+      "en": "You should get some rest and drink plenty of fluids until you recover."
+    },
+    {
+      "vi": "Bác sĩ nói tôi cần xét nghiệm máu để tìm ra nguyên nhân.",
+      "hints": [
+        "blood test (n)",
+        "find out (v)",
+        "cause (n)"
+      ],
+      "en": "The doctor said I need a blood test to find out the cause."
+    },
+    {
+      "vi": "Nếu cơn đau không đỡ sau ba ngày, hãy quay lại gặp tôi.",
+      "hints": [
+        "pain (n)",
+        "get better (v)",
+        "come back (v)"
+      ],
+      "en": "If the pain doesn't get better in three days, come back and see me."
+    },
+    {
+      "vi": "Dược sĩ dặn tôi không được uống thuốc này khi bụng đói.",
+      "hints": [
+        "pharmacist (n)",
+        "tell someone not to (v)",
+        "on an empty stomach"
+      ],
+      "en": "The pharmacist told me not to take this medicine on an empty stomach."
+    },
+    {
+      "vi": "Tôi đã bị ho dai dẳng suốt hai tuần nay mà uống thuốc vẫn không đỡ chút nào.",
+      "hints": [
+        "present perfect continuous",
+        "persistently (adv)",
+        "for two weeks",
+        "help (v)",
+        "at all"
+      ],
+      "en": "I've been coughing persistently for two weeks, and the medicine hasn't helped at all.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bác sĩ hỏi tôi trước đây đã từng bị phản ứng với loại thuốc nào chưa.",
+      "hints": [
+        "reported question",
+        "whether",
+        "ever (adv)",
+        "have a reaction to (v)"
+      ],
+      "en": "The doctor asked me whether I had ever had a reaction to any medication before.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu tôi đi khám sớm hơn, bệnh tình của tôi đã không trở nên nghiêm trọng như vậy.",
+      "hints": [
+        "third conditional",
+        "see a doctor (v)",
+        "sooner (adv)",
+        "condition (n)",
+        "serious (adj)"
+      ],
+      "en": "If I had seen a doctor sooner, my condition wouldn't have gotten so serious.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi cần đi chụp X-quang cổ tay để xem xương có bị gãy không.",
+      "hints": [
+        "have something done",
+        "wrist (n)",
+        "X-ray (v)",
+        "bone (n)",
+        "fractured (adj)"
+      ],
+      "en": "I need to have my wrist X-rayed to see if the bone is fractured.",
+      "level": "B2"
+    },
+    {
+      "vi": "Y tá dặn tôi phải nhịn ăn tám tiếng trước khi làm xét nghiệm.",
+      "hints": [
+        "instruct someone to (v)",
+        "fast (v)",
+        "for eight hours",
+        "lab work (n)"
+      ],
+      "en": "The nurse instructed me to fast for eight hours before the lab work.",
+      "level": "B2"
+    },
+    {
+      "vi": "Những viên thuốc mà bác sĩ đưa cho tôi tuần trước khiến tôi buồn ngủ suốt cả ngày.",
+      "hints": [
+        "pill (n)",
+        "last week",
+        "make someone (v)",
+        "drowsy (adj)",
+        "all day long"
+      ],
+      "en": "The pills that the doctor gave me last week have made me drowsy all day long.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi các triệu chứng trở nặng hơn, bạn sẽ không cần phải quay lại tái khám.",
+      "hints": [
+        "unless",
+        "get worse (v)",
+        "necessary (adj)",
+        "come in (v)",
+        "follow-up appointment (n)"
+      ],
+      "en": "Unless your symptoms get worse, it won't be necessary to come in for a follow-up appointment.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã đặt lịch khám với bác sĩ da liễu vì vết phát ban trên tay mãi không hết.",
+      "hints": [
+        "book (v)",
+        "dermatologist (n)",
+        "rash (n)",
+        "arm (n)",
+        "go away (v)"
+      ],
+      "en": "I've booked an appointment with a dermatologist because the rash on my arm won't go away.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà chờ thêm một chút để được một bác sĩ giàu kinh nghiệm khám còn hơn đi sang phòng khám khác.",
+      "hints": [
+        "would rather ... than",
+        "be examined (v)",
+        "experienced (adj)",
+        "clinic (n)"
+      ],
+      "en": "I'd rather wait a little longer to be examined by an experienced doctor than go to another clinic.",
+      "level": "B2"
+    },
+    {
+      "vi": "Sau ca phẫu thuật, tôi được yêu cầu nằm viện để theo dõi thêm ba ngày nữa.",
+      "hints": [
+        "surgery (n)",
+        "be required to (v)",
+        "stay in the hospital (v)",
+        "observation (n)"
+      ],
+      "en": "After the surgery, I was required to stay in the hospital for observation for three more days.",
+      "level": "B2"
+    }
+  ]
+}

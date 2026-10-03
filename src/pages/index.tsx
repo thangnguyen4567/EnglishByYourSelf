@@ -43,6 +43,8 @@ const STEPS = [
     text: '26 chủ đề theo 5 giai đoạn – gồm 10 chủ đề luyện phỏng vấn Fullstack Developer: từ vựng có phát âm, mẫu câu, câu trả lời mẫu có âm thanh.'},
   {icon: '✍️', title: 'Luyện viết', to: '/luyen-viet',
     text: '16 bài từ câu → đoạn văn → email → bài luận: bố cục, từ vựng, bài mẫu có phân tích và đề luyện tập.'},
+  {icon: '⚡', title: 'Luyện phản xạ', to: '/luyen-phan-xa',
+    text: '30 chủ đề đời sống × 30 câu (có 10 câu nâng cao): nhìn câu tiếng Việt + gợi ý từ vựng → nói & viết ra tiếng Anh → mở đáp án để so.'},
 ];
 
 export default function Home(): ReactNode {

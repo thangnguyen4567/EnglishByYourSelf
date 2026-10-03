@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "vi": "Tôi có một con mèo đen tên là Mun.",
+      "hints": [
+        "black (adj)",
+        "cat (n)",
+        "named (adj)"
+      ],
+      "en": "I have a black cat named Mun."
+    },
+    {
+      "vi": "Con chó của tôi rất thích chơi với quả bóng.",
+      "hints": [
+        "dog (n)",
+        "love (v)",
+        "ball (n)"
+      ],
+      "en": "My dog loves playing with a ball."
+    },
+    {
+      "vi": "Tôi cho cá ăn hai lần một ngày.",
+      "hints": [
+        "feed (v)",
+        "fish (n)",
+        "twice a day"
+      ],
+      "en": "I feed my fish twice a day."
+    },
+    {
+      "vi": "Con mèo con đang ngủ trên ghế sofa.",
+      "hints": [
+        "kitten (n)",
+        "sleep (v)",
+        "sofa (n)"
+      ],
+      "en": "The kitten is sleeping on the sofa."
+    },
+    {
+      "vi": "Bạn có nuôi thú cưng nào trong căn hộ không?",
+      "hints": [
+        "keep (v)",
+        "pet (n)",
+        "apartment (n)"
+      ],
+      "en": "Do you keep any pets in your apartment?"
+    },
+    {
+      "vi": "Mỗi sáng tôi dắt chó đi dạo bằng dây xích.",
+      "hints": [
+        "take ... for a walk (v)",
+        "leash (n)",
+        "every morning"
+      ],
+      "en": "I take my dog for a walk on a leash every morning."
+    },
+    {
+      "vi": "Con chó nhà bên cạnh sủa suốt đêm.",
+      "hints": [
+        "next door",
+        "bark (v)",
+        "all night"
+      ],
+      "en": "The dog next door barked all night."
+    },
+    {
+      "vi": "Ở sở thú, bọn trẻ thích nhất là khu khỉ.",
+      "hints": [
+        "zoo (n)",
+        "kid (n)",
+        "monkey (n)",
+        "the most"
+      ],
+      "en": "At the zoo, the kids liked the monkeys the most."
+    },
+    {
+      "vi": "Chó thường trung thành hơn mèo.",
+      "hints": [
+        "usually (adv)",
+        "loyal (adj)",
+        "more ... than"
+      ],
+      "en": "Dogs are usually more loyal than cats."
+    },
+    {
+      "vi": "Năm ngoái chúng tôi đã nhận nuôi một chú chó con từ trại cứu hộ động vật.",
+      "hints": [
+        "adopt (v)",
+        "puppy (n)",
+        "animal shelter (n)"
+      ],
+      "en": "Last year we adopted a puppy from an animal shelter."
+    },
+    {
+      "vi": "Tuần tới tôi phải đưa mèo đến bác sĩ thú y để tiêm phòng.",
+      "hints": [
+        "take (v)",
+        "vet (n)",
+        "vaccination (n)"
+      ],
+      "en": "I have to take my cat to the vet for vaccinations next week."
+    },
+    {
+      "vi": "Tôi đang dạy chó của mình ngồi và đưa chân.",
+      "hints": [
+        "teach (v)",
+        "sit (v)",
+        "paw (n)"
+      ],
+      "en": "I'm teaching my dog to sit and give its paw."
+    },
+    {
+      "vi": "Con mèo của tôi rụng lông rất nhiều vào mùa hè.",
+      "hints": [
+        "shed (v)",
+        "fur (n)",
+        "in the summer"
+      ],
+      "en": "My cat sheds a lot of fur in the summer."
+    },
+    {
+      "vi": "Nếu bạn đi du lịch, ai sẽ chăm sóc con vẹt của bạn?",
+      "hints": [
+        "go on vacation (v)",
+        "look after (v)",
+        "parrot (n)"
+      ],
+      "en": "If you go on vacation, who will look after your parrot?"
+    },
+    {
+      "vi": "Tôi rất muốn nuôi chó nhưng chủ nhà không cho phép nuôi thú cưng.",
+      "hints": [
+        "get a dog (v)",
+        "landlord (n)",
+        "allow (v)"
+      ],
+      "en": "I'd love to get a dog, but my landlord doesn't allow pets."
+    },
+    {
+      "vi": "Nuôi thú cưng là một trách nhiệm lớn, không chỉ để cho vui.",
+      "hints": [
+        "own (v)",
+        "responsibility (n)",
+        "not just",
+        "for fun"
+      ],
+      "en": "Owning a pet is a big responsibility, not just for fun."
+    },
+    {
+      "vi": "Chúng tôi phải tắm và cắt móng cho chó mỗi tháng một lần.",
+      "hints": [
+        "bathe (v)",
+        "trim (v)",
+        "nail (n)",
+        "once a month"
+      ],
+      "en": "We have to bathe our dog and trim its nails once a month."
+    },
+    {
+      "vi": "Hổ là loài có nguy cơ tuyệt chủng, vì vậy chúng ta phải bảo vệ chúng.",
+      "hints": [
+        "tiger (n)",
+        "endangered (adj)",
+        "species (n)",
+        "protect (v)"
+      ],
+      "en": "Tigers are an endangered species, so we must protect them."
+    },
+    {
+      "vi": "Nhiều loài động vật hoang dã đang mất môi trường sống vì nạn phá rừng.",
+      "hints": [
+        "wild (adj)",
+        "lose (v)",
+        "habitat (n)",
+        "deforestation (n)"
+      ],
+      "en": "Many wild animals are losing their habitats because of deforestation."
+    },
+    {
+      "vi": "Từ khi có chú chó, tôi ra ngoài nhiều hơn và cảm thấy bớt cô đơn.",
+      "hints": [
+        "since",
+        "go out (v)",
+        "less",
+        "lonely (adj)"
+      ],
+      "en": "Since I got my dog, I've been going out more and feeling less lonely."
+    },
+    {
+      "vi": "Chú chó mà chúng tôi cứu về từ một năm trước đã trở thành một thành viên không thể thay thế trong gia đình.",
+      "hints": [
+        "rescue (v)",
+        "a year ago",
+        "become (v)",
+        "irreplaceable (adj)",
+        "member (n)"
+      ],
+      "en": "The dog we rescued a year ago has become an irreplaceable member of our family.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã phải nhờ hàng xóm cho mèo ăn trong lúc tôi đi công tác.",
+      "hints": [
+        "get someone to do something",
+        "neighbor (n)",
+        "be away (v)",
+        "business trip (n)"
+      ],
+      "en": "I had to get my neighbor to feed my cat while I was away on a business trip.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu tôi có một khoảng sân rộng hơn, tôi sẽ nuôi một giống chó lớn như Golden Retriever.",
+      "hints": [
+        "second conditional",
+        "yard (n)",
+        "raise (v)",
+        "large (adj)",
+        "breed (n)"
+      ],
+      "en": "If I had a bigger yard, I would raise a large breed like a Golden Retriever.",
+      "level": "B2"
+    },
+    {
+      "vi": "Con mèo của tôi đã cào ghế sofa suốt cả tuần, nên tôi quyết định mua cho nó một trụ cào móng.",
+      "hints": [
+        "present perfect continuous",
+        "scratch (v)",
+        "couch (n)",
+        "all week",
+        "scratching post (n)"
+      ],
+      "en": "My cat has been scratching the couch all week, so I've decided to buy her a scratching post.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bác sĩ thú y nói rằng chú chó của tôi bị thừa cân và cần được vận động nhiều hơn.",
+      "hints": [
+        "veterinarian (n)",
+        "reported speech",
+        "overweight (adj)",
+        "exercise (n)"
+      ],
+      "en": "The veterinarian said that my dog was overweight and needed more exercise.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nuôi một người bạn lông xù không chỉ mang lại niềm vui mà còn dạy trẻ em biết sống có trách nhiệm.",
+      "hints": [
+        "not only ... but also",
+        "furry (adj)",
+        "companion (n)",
+        "joy (n)",
+        "accountable (adj)"
+      ],
+      "en": "Having a furry companion not only brings joy but also teaches children to be accountable.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với việc bị con chó đánh thức từ lúc trời vừa tờ mờ sáng mỗi ngày.",
+      "hints": [
+        "get used to (v)",
+        "passive gerund",
+        "be woken up (v)",
+        "at the crack of dawn"
+      ],
+      "en": "I've gotten used to being woken up by my dog at the crack of dawn every day.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nhiều quần thể động vật hoang dã đang bị đe dọa vì môi trường sống tự nhiên của chúng đang bị phá hủy.",
+      "hints": [
+        "wildlife (n)",
+        "population (n)",
+        "under threat",
+        "natural environment (n)",
+        "be destroyed (v)"
+      ],
+      "en": "Many wildlife populations are under threat because their natural environments are being destroyed.",
+      "level": "B2"
+    },
+    {
+      "vi": "Giá như tôi không để cửa lồng mở, con chim của tôi đã không bay mất.",
+      "hints": [
+        "if only + past perfect",
+        "leave something open (v)",
+        "cage (n)",
+        "fly away (v)",
+        "bird (n)"
+      ],
+      "en": "If only I hadn't left the cage door open, my bird wouldn't have flown away.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi bạn có đủ thời gian và sự kiên nhẫn, bạn không nên nhận nuôi một chú chó nhỏ năng động như vậy.",
+      "hints": [
+        "unless",
+        "patience (n)",
+        "take on (v)",
+        "such a/an",
+        "energetic (adj)"
+      ],
+      "en": "Unless you have enough time and patience, you shouldn't take on such an energetic young dog.",
+      "level": "B2"
+    }
+  ]
+}

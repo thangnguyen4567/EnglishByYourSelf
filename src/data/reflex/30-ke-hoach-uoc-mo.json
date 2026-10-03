@@ -1,0 +1,312 @@
+{
+  "items": [
+    {
+      "vi": "Cuối tuần này bạn có kế hoạch gì đặc biệt không?",
+      "hints": [
+        "special (adj)",
+        "plan (n)",
+        "this weekend"
+      ],
+      "en": "Do you have any special plans this weekend?"
+    },
+    {
+      "vi": "Ước mơ của tôi là trở thành bác sĩ.",
+      "hints": [
+        "dream (n)",
+        "become (v)",
+        "doctor (n)"
+      ],
+      "en": "My dream is to become a doctor."
+    },
+    {
+      "vi": "Tôi muốn đi vòng quanh thế giới một ngày nào đó.",
+      "hints": [
+        "travel around (v)",
+        "world (n)",
+        "someday (adv)"
+      ],
+      "en": "I want to travel around the world someday."
+    },
+    {
+      "vi": "Năm sau tôi sẽ học một khóa nấu ăn.",
+      "hints": [
+        "be going to (v)",
+        "take (v)",
+        "cooking class (n)",
+        "next year"
+      ],
+      "en": "I'm going to take a cooking class next year."
+    },
+    {
+      "vi": "Mục tiêu năm nay của tôi là đọc hai mươi cuốn sách.",
+      "hints": [
+        "goal (n)",
+        "this year",
+        "read (v)"
+      ],
+      "en": "My goal this year is to read twenty books."
+    },
+    {
+      "vi": "Tôi hy vọng sẽ có nhà riêng trước tuổi ba mươi lăm.",
+      "hints": [
+        "hope (v)",
+        "own (v)",
+        "house (n)",
+        "before (prep)"
+      ],
+      "en": "I hope to own a house before I'm thirty-five."
+    },
+    {
+      "vi": "Hồi nhỏ tôi từng mơ làm phi công.",
+      "hints": [
+        "as a child",
+        "dream of (v)",
+        "pilot (n)"
+      ],
+      "en": "As a child, I dreamed of being a pilot."
+    },
+    {
+      "vi": "Chúng tôi đang dự định tổ chức đám cưới vào mùa xuân.",
+      "hints": [
+        "plan (v)",
+        "have (v)",
+        "wedding (n)",
+        "spring (n)"
+      ],
+      "en": "We are planning to have our wedding in the spring."
+    },
+    {
+      "vi": "Anh ấy quyết định bỏ việc để mở quán cà phê riêng.",
+      "hints": [
+        "decide (v)",
+        "leave (v)",
+        "job (n)",
+        "open (v)",
+        "coffee shop (n)"
+      ],
+      "en": "He decided to leave his job to open his own coffee shop."
+    },
+    {
+      "vi": "Tôi đã đặt mục tiêu chạy bộ mỗi sáng.",
+      "hints": [
+        "set (v)",
+        "target (n)",
+        "jog (v)",
+        "every morning"
+      ],
+      "en": "I have set a target to jog every morning."
+    },
+    {
+      "vi": "Bạn thấy mình sẽ ở đâu trong mười năm nữa?",
+      "hints": [
+        "see yourself",
+        "where",
+        "in ten years"
+      ],
+      "en": "Where do you see yourself in ten years?"
+    },
+    {
+      "vi": "Có lẽ tôi sẽ chuyển đến Đà Nẵng để sống gần biển.",
+      "hints": [
+        "probably (adv)",
+        "move to (v)",
+        "live (v)",
+        "near the sea"
+      ],
+      "en": "I will probably move to Da Nang to live near the sea."
+    },
+    {
+      "vi": "Đừng bỏ cuộc chỉ vì bạn gặp vài khó khăn.",
+      "hints": [
+        "give up (v)",
+        "just because",
+        "face (v)",
+        "difficulty (n)"
+      ],
+      "en": "Don't give up just because you face a few difficulties."
+    },
+    {
+      "vi": "Tôi đang để dành tiền cho chuyến du lịch châu Âu.",
+      "hints": [
+        "put aside (v)",
+        "money (n)",
+        "trip (n)",
+        "Europe (n)"
+      ],
+      "en": "I'm putting aside money for a trip to Europe."
+    },
+    {
+      "vi": "Nếu có đủ thời gian, tôi sẽ học thêm tiếng Hàn.",
+      "hints": [
+        "enough (adj)",
+        "time (n)",
+        "learn (v)",
+        "Korean (n)"
+      ],
+      "en": "If I have enough time, I will learn Korean too."
+    },
+    {
+      "vi": "Cô ấy cuối cùng đã thực hiện được ước mơ cả đời là mở tiệm bánh.",
+      "hints": [
+        "finally (adv)",
+        "achieve (v)",
+        "lifelong dream (n)",
+        "bakery (n)"
+      ],
+      "en": "She has finally achieved her lifelong dream of opening a bakery."
+    },
+    {
+      "vi": "Tôi muốn khởi nghiệp nhưng vẫn chưa đủ kinh nghiệm.",
+      "hints": [
+        "start a business (v)",
+        "experience (n)",
+        "yet (adv)"
+      ],
+      "en": "I want to start a business, but I don't have enough experience yet."
+    },
+    {
+      "vi": "Bạn nên chia mục tiêu lớn thành những bước nhỏ.",
+      "hints": [
+        "break down (v)",
+        "big (adj)",
+        "step (n)"
+      ],
+      "en": "You should break big goals down into small steps."
+    },
+    {
+      "vi": "Nếu tôi trúng xổ số, tôi sẽ mua một ngôi nhà cho bố mẹ.",
+      "hints": [
+        "win (v)",
+        "lottery (n)",
+        "buy (v)",
+        "parents (n)"
+      ],
+      "en": "If I won the lottery, I would buy a house for my parents."
+    },
+    {
+      "vi": "Dù kế hoạch có thay đổi, tôi vẫn quyết tâm theo đuổi đam mê của mình.",
+      "hints": [
+        "even if",
+        "change (v)",
+        "determined (adj)",
+        "pursue (v)",
+        "passion (n)"
+      ],
+      "en": "Even if my plans change, I'm determined to pursue my passion."
+    },
+    {
+      "vi": "Nếu hồi đó tôi theo học âm nhạc, có lẽ bây giờ tôi đã là một nhạc sĩ chuyên nghiệp.",
+      "hints": [
+        "mixed conditional",
+        "take up (v)",
+        "back then",
+        "professional (adj)",
+        "musician (n)"
+      ],
+      "en": "If I had taken up music back then, I might be a professional musician now.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã tiết kiệm tiền trong ba năm qua để có thể mở một quán cà phê sách nhỏ.",
+      "hints": [
+        "present perfect continuous",
+        "for the past three years",
+        "so that",
+        "bookshop café (n)"
+      ],
+      "en": "I've been saving up for the past three years so that I can open a small bookshop café.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình đã học thêm một ngoại ngữ khi còn trẻ và có nhiều thời gian rảnh hơn.",
+      "hints": [
+        "wish + past perfect",
+        "pick up (v)",
+        "foreign language (n)",
+        "free time (n)"
+      ],
+      "en": "I wish I had picked up another foreign language when I was young and had more free time.",
+      "level": "B2"
+    },
+    {
+      "vi": "Ước mơ mà tôi ấp ủ nhiều năm nay là được làm việc cho một tổ chức phi lợi nhuận quốc tế.",
+      "hints": [
+        "relative clause",
+        "cherish (v)",
+        "international (adj)",
+        "non-profit organization (n)"
+      ],
+      "en": "The dream that I've cherished for years is to work for an international non-profit organization.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bố mẹ tôi luôn nói rằng tôi có thể đạt được bất cứ điều gì nếu tôi đủ kiên trì.",
+      "hints": [
+        "reported speech",
+        "accomplish (v)",
+        "anything",
+        "persistent (adj)"
+      ],
+      "en": "My parents always told me that I could accomplish anything if I was persistent enough.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là sức khỏe cho phép, tôi muốn chạy một cuộc thi marathon trước khi bước sang tuổi bốn mươi.",
+      "hints": [
+        "as long as",
+        "health (n)",
+        "allow (v)",
+        "marathon (n)",
+        "turn forty (v)"
+      ],
+      "en": "As long as my health allows, I want to run a marathon before I turn forty.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà thử và thất bại còn hơn dành cả đời tự hỏi điều gì có thể đã xảy ra.",
+      "hints": [
+        "would rather... than",
+        "fail (v)",
+        "whole life",
+        "wonder (v)"
+      ],
+      "en": "I'd rather try and fail than spend my whole life wondering what might have happened.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã nhờ một chuyên gia xem xét kế hoạch kinh doanh của mình, và chị ấy cho rằng nó rất khả thi.",
+      "hints": [
+        "have something done",
+        "business plan (n)",
+        "review (v)",
+        "expert (n)",
+        "feasible (adj)"
+      ],
+      "en": "I had my business plan reviewed by an expert, and she thinks it's highly feasible.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù con đường phía trước đầy thử thách, tôi quyết tâm theo đuổi nó đến cùng.",
+      "hints": [
+        "although",
+        "road ahead",
+        "challenge (n)",
+        "be committed to (v)",
+        "see something through (v)"
+      ],
+      "en": "Although the road ahead is full of challenges, I'm committed to seeing it through.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi không chỉ muốn ổn định về tài chính mà còn muốn dành nhiều thời gian chất lượng hơn cho gia đình.",
+      "hints": [
+        "not only... but also",
+        "financially (adv)",
+        "stable (adj)",
+        "quality time (n)"
+      ],
+      "en": "I want not only to become financially stable but also to spend more quality time with my family.",
+      "level": "B2"
+    }
+  ]
+}

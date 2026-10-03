@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "vi": "Em trai tôi đang học lớp năm ở trường tiểu học gần nhà.",
+      "hints": [
+        "younger brother (n)",
+        "in fifth grade",
+        "elementary school (n)"
+      ],
+      "en": "My younger brother is in fifth grade at the elementary school near our house."
+    },
+    {
+      "vi": "Môn học yêu thích của tôi là lịch sử.",
+      "hints": [
+        "favorite (adj)",
+        "subject (n)",
+        "history (n)"
+      ],
+      "en": "My favorite subject is history."
+    },
+    {
+      "vi": "Cô giáo giao rất nhiều bài tập về nhà.",
+      "hints": [
+        "teacher (n)",
+        "give (v)",
+        "a lot of",
+        "homework (n)"
+      ],
+      "en": "The teacher gives us a lot of homework."
+    },
+    {
+      "vi": "Tôi đang ôn bài cho kỳ thi cuối kỳ vào tuần tới.",
+      "hints": [
+        "review (v)",
+        "final exam (n)",
+        "next week"
+      ],
+      "en": "I'm reviewing for next week's final exam."
+    },
+    {
+      "vi": "Bạn có thể cho tôi mượn ghi chép hôm qua không?",
+      "hints": [
+        "lend (v)",
+        "notes (n)",
+        "yesterday"
+      ],
+      "en": "Can you lend me your notes from yesterday?"
+    },
+    {
+      "vi": "Hôm qua tôi bị điểm kém bài kiểm tra toán.",
+      "hints": [
+        "get (v)",
+        "bad grade (n)",
+        "math test (n)"
+      ],
+      "en": "I got a bad grade on my math test yesterday."
+    },
+    {
+      "vi": "Bạn phải nộp bài luận trước thứ Sáu.",
+      "hints": [
+        "have to (v)",
+        "hand in (v)",
+        "essay (n)",
+        "by Friday"
+      ],
+      "en": "You have to hand in your essay by Friday."
+    },
+    {
+      "vi": "Chúng tôi thường học nhóm ở thư viện.",
+      "hints": [
+        "often (adv)",
+        "study in groups (v)",
+        "library (n)"
+      ],
+      "en": "We often study in groups at the library."
+    },
+    {
+      "vi": "Anh ấy đã trượt kỳ thi lái xe hai lần.",
+      "hints": [
+        "fail (v)",
+        "driving test (n)",
+        "twice (adv)"
+      ],
+      "en": "He has failed his driving test twice."
+    },
+    {
+      "vi": "Tôi không hiểu bài giảng hôm nay chút nào.",
+      "hints": [
+        "understand (v)",
+        "lecture (n)",
+        "at all"
+      ],
+      "en": "I didn't understand today's lecture at all."
+    },
+    {
+      "vi": "Cô ấy học chuyên ngành kinh tế ở đại học.",
+      "hints": [
+        "major in (v)",
+        "economics (n)",
+        "university (n)"
+      ],
+      "en": "She majored in economics at university."
+    },
+    {
+      "vi": "Nếu bạn không hiểu, cứ giơ tay và đặt câu hỏi.",
+      "hints": [
+        "raise (v)",
+        "hand (n)",
+        "ask a question (v)"
+      ],
+      "en": "If you don't understand, just raise your hand and ask a question."
+    },
+    {
+      "vi": "Học kỳ này tôi đăng ký thêm một khóa học tiếng Nhật.",
+      "hints": [
+        "semester (n)",
+        "sign up for (v)",
+        "extra (adj)",
+        "course (n)"
+      ],
+      "en": "This semester I signed up for an extra Japanese course."
+    },
+    {
+      "vi": "Bạn tôi đã giành được học bổng toàn phần để du học Úc.",
+      "hints": [
+        "win (v)",
+        "full scholarship (n)",
+        "study abroad (v)"
+      ],
+      "en": "My friend has won a full scholarship to study abroad in Australia."
+    },
+    {
+      "vi": "Đừng chép bài của bạn khác trong giờ kiểm tra.",
+      "hints": [
+        "copy (v)",
+        "classmate (n)",
+        "answer (n)",
+        "during (prep)",
+        "quiz (n)"
+      ],
+      "en": "Don't copy your classmates' answers during the quiz."
+    },
+    {
+      "vi": "Tôi thức khuya để học thuộc lòng từ vựng.",
+      "hints": [
+        "stay up late (v)",
+        "memorize (v)",
+        "vocabulary (n)"
+      ],
+      "en": "I stayed up late to memorize vocabulary."
+    },
+    {
+      "vi": "Năm sau tôi sẽ tốt nghiệp và nhận bằng cử nhân.",
+      "hints": [
+        "graduate (v)",
+        "earn (v)",
+        "bachelor's degree (n)"
+      ],
+      "en": "I'm going to graduate and earn my bachelor's degree next year."
+    },
+    {
+      "vi": "Học trực tuyến tiện hơn nhưng khó tập trung hơn học trên lớp.",
+      "hints": [
+        "online learning (n)",
+        "convenient (adj)",
+        "focus (v)",
+        "in class"
+      ],
+      "en": "Online learning is more convenient, but it's harder to focus than in class."
+    },
+    {
+      "vi": "Học sinh nên đi học đầy đủ nếu muốn đạt điểm cao.",
+      "hints": [
+        "student (n)",
+        "attend class (v)",
+        "regularly (adv)",
+        "high score (n)"
+      ],
+      "en": "Students should attend class regularly if they want to get high scores."
+    },
+    {
+      "vi": "Giáo sư đã đồng ý gia hạn thời hạn nộp luận văn của tôi thêm một tuần.",
+      "hints": [
+        "professor (n)",
+        "agree (v)",
+        "extend (v)",
+        "deadline (n)",
+        "thesis (n)"
+      ],
+      "en": "The professor agreed to extend the deadline for my thesis by one week."
+    },
+    {
+      "vi": "Nếu hồi cấp ba tôi học chăm chỉ hơn, có lẽ tôi đã đỗ vào trường đại học mà mình mơ ước.",
+      "hints": [
+        "third conditional",
+        "study hard (v)",
+        "high school (n)",
+        "get into (v)"
+      ],
+      "en": "If I had studied harder in high school, I might have gotten into the university of my dreams.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã ôn thi đại học cấp tốc suốt ba tuần nay, và giờ tôi cảm thấy tự tin hơn nhiều.",
+      "hints": [
+        "present perfect continuous",
+        "cram (v)",
+        "entrance exam (n)",
+        "confident (adj)"
+      ],
+      "en": "I have been cramming for the university entrance exam for three weeks, and now I feel much more confident.",
+      "level": "B2"
+    },
+    {
+      "vi": "Vị giáo sư dạy chúng tôi môn thống kê nổi tiếng là người chấm điểm rất khắt khe.",
+      "hints": [
+        "relative clause",
+        "statistics (n)",
+        "be known for (v)",
+        "tough (adj)",
+        "grader (n)"
+      ],
+      "en": "The professor who teaches us statistics is known for being a very tough grader.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã nhờ bạn cùng phòng soát lỗi bài luận trước khi nộp nó cho giáo sư.",
+      "hints": [
+        "have something done",
+        "proofread (v)",
+        "roommate (n)",
+        "submit (v)"
+      ],
+      "en": "I had my essay proofread by my roommate before I submitted it to the professor.",
+      "level": "B2"
+    },
+    {
+      "vi": "Giảng viên cảnh báo chúng tôi rằng ai nghỉ quá ba buổi học sẽ bị cấm thi cuối kỳ.",
+      "hints": [
+        "reported speech",
+        "lecturer (n)",
+        "warn (v)",
+        "skip (v)",
+        "be barred from (v)"
+      ],
+      "en": "Our lecturer warned us that anyone who skipped more than three classes would be barred from the final exam.",
+      "level": "B2"
+    },
+    {
+      "vi": "Không chỉ học sinh mà cả phụ huynh cũng cảm thấy rất áp lực trong mùa thi.",
+      "hints": [
+        "not only... but also",
+        "parent (n)",
+        "under pressure",
+        "exam season (n)"
+      ],
+      "en": "Not only students but also their parents feel under a lot of pressure during exam season.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình đã chú ý nhiều hơn trong giờ tiếng Anh khi còn nhỏ.",
+      "hints": [
+        "wish + past perfect",
+        "pay attention (v)",
+        "English class (n)",
+        "younger (adj)"
+      ],
+      "en": "I wish I had paid more attention in English class when I was younger.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thích tự học một mình hơn vì làm việc nhóm thường khiến tôi bị phân tâm.",
+      "hints": [
+        "prefer + V-ing",
+        "on my own",
+        "group work (n)",
+        "distract (v)"
+      ],
+      "en": "I prefer studying on my own because group work often distracts me from what I need to do.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi bạn gửi hồ sơ trước cuối tháng này, bạn sẽ không đủ điều kiện nhận học bổng.",
+      "hints": [
+        "unless",
+        "send in (v)",
+        "application (n)",
+        "eligible (adj)",
+        "scholarship (n)"
+      ],
+      "en": "Unless you send in your application before the end of this month, you won't be eligible for the scholarship.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù các khóa học trực tuyến rất linh hoạt, nhiều sinh viên thấy khó duy trì động lực.",
+      "hints": [
+        "although",
+        "online course (n)",
+        "flexible (adj)",
+        "find it hard to",
+        "stay motivated (v)"
+      ],
+      "en": "Although online courses are very flexible, many students find it hard to stay motivated.",
+      "level": "B2"
+    }
+  ]
+}

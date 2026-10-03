@@ -1,0 +1,309 @@
+{
+  "items": [
+    {
+      "vi": "Tôi chạy bộ trong công viên mỗi sáng.",
+      "hints": [
+        "go jogging (v)",
+        "park (n)",
+        "every morning"
+      ],
+      "en": "I go jogging in the park every morning."
+    },
+    {
+      "vi": "Anh trai tôi đá bóng với đồng đội vào chiều thứ Bảy.",
+      "hints": [
+        "play soccer (v)",
+        "teammate (n)",
+        "on Saturday afternoons"
+      ],
+      "en": "My brother plays soccer with his teammates on Saturday afternoons."
+    },
+    {
+      "vi": "Tôi đi bơi hai lần một tuần ở một hồ bơi gần nhà.",
+      "hints": [
+        "go swimming (v)",
+        "twice a week",
+        "pool (n)",
+        "near (prep)"
+      ],
+      "en": "I go swimming twice a week at a pool near my house."
+    },
+    {
+      "vi": "Cầu lông là môn thể thao phổ biến nhất ở khu tôi ở.",
+      "hints": [
+        "badminton (n)",
+        "popular (adj)",
+        "neighborhood (n)"
+      ],
+      "en": "Badminton is the most popular sport in my neighborhood."
+    },
+    {
+      "vi": "Bạn có tập thể dục đều đặn không, hay chỉ khi có thời gian?",
+      "hints": [
+        "work out (v)",
+        "regularly (adv)",
+        "only when"
+      ],
+      "en": "Do you work out regularly, or only when you have time?"
+    },
+    {
+      "vi": "Tối qua đội chúng tôi thắng trận và tôi ghi được một bàn.",
+      "hints": [
+        "win (v)",
+        "match (n)",
+        "score a goal (v)"
+      ],
+      "en": "Our team won the match last night, and I scored a goal."
+    },
+    {
+      "vi": "Tôi đang tập yoga để cơ thể dẻo dai hơn.",
+      "hints": [
+        "do yoga (v)",
+        "become (v)",
+        "flexible (adj)"
+      ],
+      "en": "I'm doing yoga to become more flexible."
+    },
+    {
+      "vi": "Tôi vừa làm thẻ tập ở phòng gym gần công ty.",
+      "hints": [
+        "just (adv)",
+        "gym membership (n)",
+        "office (n)"
+      ],
+      "en": "I've just gotten a gym membership near my office."
+    },
+    {
+      "vi": "Bạn có muốn đạp xe cùng chúng tôi vào sáng Chủ nhật không?",
+      "hints": [
+        "would you like",
+        "go cycling (v)",
+        "on Sunday morning"
+      ],
+      "en": "Would you like to go cycling with us on Sunday morning?"
+    },
+    {
+      "vi": "Sau buổi tập, cơ bắp của tôi bị đau nhức.",
+      "hints": [
+        "workout (n)",
+        "muscle (n)",
+        "sore (adj)"
+      ],
+      "en": "After the workout, my muscles were really sore."
+    },
+    {
+      "vi": "Bạn nên khởi động kỹ trước khi chạy để tránh chấn thương.",
+      "hints": [
+        "warm up (v)",
+        "properly (adv)",
+        "avoid (v)",
+        "injury (n)"
+      ],
+      "en": "You should warm up properly before running to avoid injuries."
+    },
+    {
+      "vi": "Tôi bị bong gân mắt cá chân khi chơi bóng rổ tuần trước.",
+      "hints": [
+        "sprain (v)",
+        "ankle (n)",
+        "basketball (n)"
+      ],
+      "en": "I sprained my ankle while playing basketball last week."
+    },
+    {
+      "vi": "Tôi chưa bao giờ xem một trận đấu trực tiếp ở sân vận động.",
+      "hints": [
+        "live (adj)",
+        "game (n)",
+        "stadium (n)"
+      ],
+      "en": "I have never watched a live game at a stadium."
+    },
+    {
+      "vi": "Đội tuyển quốc gia sẽ đối đầu với Thái Lan trong trận chung kết.",
+      "hints": [
+        "national (adj)",
+        "play against (v)",
+        "final (n)"
+      ],
+      "en": "The national team will play against Thailand in the final."
+    },
+    {
+      "vi": "Tháng trước tôi đã tham gia một giải chạy 10 km và về đích sau 55 phút.",
+      "hints": [
+        "take part in (v)",
+        "race (n)",
+        "finish (v)"
+      ],
+      "en": "I took part in a 10K race last month and finished in 55 minutes."
+    },
+    {
+      "vi": "Nếu trời mưa, chúng tôi sẽ tập trong nhà thay vì ra sân.",
+      "hints": [
+        "practice (v)",
+        "indoors (adv)",
+        "instead of (prep)",
+        "field (n)"
+      ],
+      "en": "If it rains, we will practice indoors instead of on the field."
+    },
+    {
+      "vi": "Huấn luyện viên nói tôi phải tập chăm hơn nếu muốn được vào đội.",
+      "hints": [
+        "coach (n)",
+        "train (v)",
+        "harder (adv)",
+        "make the team (v)"
+      ],
+      "en": "The coach said I have to train harder if I want to make the team."
+    },
+    {
+      "vi": "Nâng tạ giúp tôi khỏe hơn, nhưng tôi cần cải thiện sức bền.",
+      "hints": [
+        "lift weights (v)",
+        "stronger (adj)",
+        "improve (v)",
+        "stamina (n)"
+      ],
+      "en": "Lifting weights makes me stronger, but I need to improve my stamina."
+    },
+    {
+      "vi": "Tôi đã bỏ cuộc giữa chừng vì thể lực không đủ tốt.",
+      "hints": [
+        "quit (v)",
+        "halfway through",
+        "fit (adj)",
+        "enough (adv)"
+      ],
+      "en": "I quit halfway through because I wasn't fit enough."
+    },
+    {
+      "vi": "Điều quan trọng không phải là thắng hay thua mà là tinh thần thể thao.",
+      "hints": [
+        "matter (v)",
+        "win or lose",
+        "sportsmanship (n)"
+      ],
+      "en": "What matters is not winning or losing but good sportsmanship."
+    },
+    {
+      "vi": "Tôi đã tập luyện cho cuộc chạy marathon suốt ba tháng nay và sức bền của tôi đã tăng lên rõ rệt.",
+      "hints": [
+        "present perfect continuous",
+        "prepare for (v)",
+        "marathon (n)",
+        "endurance (n)",
+        "noticeably (adv)"
+      ],
+      "en": "I've been preparing for the marathon for three months, and my endurance has noticeably increased.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu thủ môn không mắc sai lầm đó, đội chúng tôi đã giành chức vô địch.",
+      "hints": [
+        "third conditional",
+        "goalkeeper (n)",
+        "make a mistake (v)",
+        "championship (n)"
+      ],
+      "en": "If the goalkeeper hadn't made that mistake, our team would have won the championship.",
+      "level": "B2"
+    },
+    {
+      "vi": "Huấn luyện viên bảo chúng tôi phải giãn cơ kỹ sau mỗi buổi tập để phòng tránh chấn thương.",
+      "hints": [
+        "trainer (n)",
+        "tell someone to (v)",
+        "stretch (v)",
+        "thoroughly (adv)",
+        "session (n)",
+        "prevent (v)"
+      ],
+      "en": "Our trainer told us to stretch thoroughly after every session to prevent injuries.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà tập thể dục ở nhà còn hơn trả tiền cho một phòng gym đông đúc mà tôi hiếm khi đến.",
+      "hints": [
+        "would rather ... than",
+        "exercise (v)",
+        "pay for (v)",
+        "crowded (adj)",
+        "rarely (adv)"
+      ],
+      "en": "I'd rather exercise at home than pay for a crowded gym that I rarely go to.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trận đấu đã bị hoãn vì mưa lớn, điều này khiến nhiều cổ động viên thất vọng.",
+      "hints": [
+        "be postponed (v)",
+        "due to (prep)",
+        "heavy rain (n)",
+        "disappoint (v)",
+        "fan (n)"
+      ],
+      "en": "The match was postponed due to heavy rain, which disappointed many fans.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù đã ngoài năm mươi, bố tôi vẫn bơi một cây số mỗi ngày mà không thấy mệt.",
+      "hints": [
+        "despite + V-ing",
+        "in one's fifties",
+        "kilometer (n)",
+        "without + V-ing",
+        "get tired (v)"
+      ],
+      "en": "Despite being in his fifties, my dad still swims a kilometer every day without getting tired.",
+      "level": "B2"
+    },
+    {
+      "vi": "Cô ấy đã được chọn để đại diện cho trường thi đấu tại giải cầu lông cấp thành phố.",
+      "hints": [
+        "be chosen (v)",
+        "represent (v)",
+        "citywide (adj)",
+        "tournament (n)"
+      ],
+      "en": "She has been chosen to represent her school at the citywide badminton tournament.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với việc tập luyện cường độ cao, nên giờ những bài tập nhẹ không còn đủ thử thách với tôi nữa.",
+      "hints": [
+        "be used to (v)",
+        "high-intensity (adj)",
+        "light (adj)",
+        "no longer",
+        "challenging (adj)"
+      ],
+      "en": "I'm used to high-intensity training, so light exercises are no longer challenging enough for me.",
+      "level": "B2"
+    },
+    {
+      "vi": "Giá như tôi đã khởi động kỹ hơn, tôi đã không bị chuột rút giữa trận đấu.",
+      "hints": [
+        "if only + past perfect",
+        "loosen up (v)",
+        "carefully (adv)",
+        "cramp (n)",
+        "in the middle of"
+      ],
+      "en": "If only I had loosened up more carefully, I wouldn't have gotten a cramp in the middle of the game.",
+      "level": "B2"
+    },
+    {
+      "vi": "Câu lạc bộ đã cho lắp đặt hệ thống chiếu sáng mới để các thành viên có thể chơi tennis vào buổi tối.",
+      "hints": [
+        "have something done",
+        "lighting system (n)",
+        "install (v)",
+        "so that",
+        "tennis (n)"
+      ],
+      "en": "The club had a new lighting system installed so that members could play tennis in the evening.",
+      "level": "B2"
+    }
+  ]
+}

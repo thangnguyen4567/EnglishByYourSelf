@@ -1,0 +1,313 @@
+{
+  "items": [
+    {
+      "vi": "Tôi làm việc ở phòng kế toán của một công ty xuất khẩu.",
+      "hints": [
+        "work (v)",
+        "accounting department (n)",
+        "export company (n)"
+      ],
+      "en": "I work in the accounting department of an export company."
+    },
+    {
+      "vi": "Sếp tôi rất nghiêm khắc nhưng công bằng.",
+      "hints": [
+        "boss (n)",
+        "strict (adj)",
+        "fair (adj)"
+      ],
+      "en": "My boss is very strict but fair."
+    },
+    {
+      "vi": "Chúng tôi có cuộc họp nhóm ngắn lúc chín giờ mỗi sáng thứ Hai.",
+      "hints": [
+        "short (adj)",
+        "team meeting (n)",
+        "every Monday morning"
+      ],
+      "en": "We have a short team meeting at nine every Monday morning."
+    },
+    {
+      "vi": "Giờ nghỉ trưa của chúng tôi kéo dài một tiếng.",
+      "hints": [
+        "lunch break (n)",
+        "last (v)",
+        "an hour"
+      ],
+      "en": "Our lunch break lasts an hour."
+    },
+    {
+      "vi": "Máy in lại hết giấy rồi.",
+      "hints": [
+        "printer (n)",
+        "run out of (v)",
+        "paper (n)",
+        "again (adv)"
+      ],
+      "en": "The printer has run out of paper again."
+    },
+    {
+      "vi": "Tôi đang viết báo cáo hằng tháng cho quản lý.",
+      "hints": [
+        "write (v)",
+        "monthly (adj)",
+        "report (n)",
+        "manager (n)"
+      ],
+      "en": "I'm writing the monthly report for my manager."
+    },
+    {
+      "vi": "Tối qua tôi phải làm thêm giờ đến mười giờ.",
+      "hints": [
+        "last night",
+        "have to (v)",
+        "work overtime (v)",
+        "until (prep)"
+      ],
+      "en": "Last night I had to work overtime until ten."
+    },
+    {
+      "vi": "Ngày mai tôi xin nghỉ phép một ngày.",
+      "hints": [
+        "take (v)",
+        "day off (n)",
+        "tomorrow"
+      ],
+      "en": "I'm taking a day off tomorrow."
+    },
+    {
+      "vi": "Bạn có thể gửi cho tôi tài liệu qua email được không?",
+      "hints": [
+        "send (v)",
+        "document (n)",
+        "by email"
+      ],
+      "en": "Could you send me the document by email?"
+    },
+    {
+      "vi": "Công ty cho phép nhân viên làm việc tại nhà hai ngày một tuần.",
+      "hints": [
+        "company (n)",
+        "allow (v)",
+        "employee (n)",
+        "work from home (v)"
+      ],
+      "en": "The company allows employees to work from home two days a week."
+    },
+    {
+      "vi": "Đồng nghiệp của tôi vừa được thăng chức lên trưởng nhóm.",
+      "hints": [
+        "colleague (n)",
+        "just (adv)",
+        "get promoted (v)",
+        "team leader (n)"
+      ],
+      "en": "My colleague has just been promoted to team leader."
+    },
+    {
+      "vi": "Tôi đã nộp đơn ứng tuyển vào ba công ty nhưng chưa ai trả lời.",
+      "hints": [
+        "apply for (v)",
+        "position (n)",
+        "reply (v)",
+        "yet (adv)"
+      ],
+      "en": "I have applied for positions at three companies, but nobody has replied yet."
+    },
+    {
+      "vi": "Trước buổi phỏng vấn, bạn nên cập nhật sơ yếu lý lịch.",
+      "hints": [
+        "interview (n)",
+        "update (v)",
+        "résumé (n)"
+      ],
+      "en": "Before the interview, you should update your résumé."
+    },
+    {
+      "vi": "Tuần sau tôi sẽ đi công tác ở Hà Nội.",
+      "hints": [
+        "be going to (v)",
+        "go on a business trip (v)",
+        "next week"
+      ],
+      "en": "I'm going to go on a business trip to Hanoi next week."
+    },
+    {
+      "vi": "Khách hàng muốn chúng tôi thay đổi thiết kế trước khi ký hợp đồng.",
+      "hints": [
+        "client (n)",
+        "change (v)",
+        "design (n)",
+        "sign (v)",
+        "contract (n)"
+      ],
+      "en": "The client wants us to change the design before signing the contract."
+    },
+    {
+      "vi": "Tôi hơi lo vì phải thuyết trình trước cả phòng.",
+      "hints": [
+        "a bit",
+        "nervous (adj)",
+        "give a presentation (v)",
+        "whole (adj)",
+        "team (n)"
+      ],
+      "en": "I'm a bit nervous because I have to give a presentation to the whole team."
+    },
+    {
+      "vi": "Khối lượng công việc tháng này nặng hơn nhiều so với tháng trước.",
+      "hints": [
+        "workload (n)",
+        "heavy (adj)",
+        "than (prep)",
+        "last month"
+      ],
+      "en": "My workload this month is much heavier than last month."
+    },
+    {
+      "vi": "Nếu được tăng lương, tôi sẽ không nghỉ việc.",
+      "hints": [
+        "get a raise (v)",
+        "quit (v)",
+        "job (n)"
+      ],
+      "en": "If I get a raise, I won't quit my job."
+    },
+    {
+      "vi": "Công ty đang tuyển thêm nhân viên vì dự án mới rất lớn.",
+      "hints": [
+        "hire (v)",
+        "more (adj)",
+        "staff (n)",
+        "project (n)",
+        "huge (adj)"
+      ],
+      "en": "The company is hiring more staff because the new project is huge."
+    },
+    {
+      "vi": "Làm việc nhóm hiệu quả giúp chúng tôi hoàn thành dự án sớm hơn dự kiến.",
+      "hints": [
+        "effective (adj)",
+        "teamwork (n)",
+        "finish (v)",
+        "ahead of schedule"
+      ],
+      "en": "Effective teamwork helped us finish the project ahead of schedule."
+    },
+    {
+      "vi": "Nếu tôi kiểm tra kỹ lại các số liệu, sếp đã không phải sửa báo cáo vào phút chót.",
+      "hints": [
+        "third conditional",
+        "double-check (v)",
+        "figure (n)",
+        "fix (v)",
+        "at the last minute"
+      ],
+      "en": "If I had double-checked the figures, my boss wouldn't have had to fix the report at the last minute.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã làm dự án này gần sáu tháng rồi, và cuối cùng nó cũng sắp hoàn thành.",
+      "hints": [
+        "present perfect continuous",
+        "work on (v)",
+        "near (v)",
+        "completion (n)"
+      ],
+      "en": "I have been working on this project for almost six months, and it's finally nearing completion.",
+      "level": "B2"
+    },
+    {
+      "vi": "Người đồng nghiệp ngồi cạnh tôi luôn sẵn lòng giúp đỡ mỗi khi tôi gặp khó khăn với công việc.",
+      "hints": [
+        "relative clause",
+        "willing (adj)",
+        "whenever",
+        "struggle (v)"
+      ],
+      "en": "The colleague who sits next to me is always willing to help whenever I'm struggling with my work.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trưởng phòng nói rằng cuộc họp đã bị dời sang chiều thứ Năm vì giám đốc đang bận.",
+      "hints": [
+        "reported speech",
+        "department head (n)",
+        "push back (v)",
+        "director (n)",
+        "tied up (adj)"
+      ],
+      "en": "The department head said that the meeting had been pushed back to Thursday afternoon because the director was tied up.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi sẽ nhờ bộ phận IT cài đặt lại phần mềm trước buổi thuyết trình ngày mai.",
+      "hints": [
+        "get someone to do something",
+        "IT department (n)",
+        "reinstall (v)",
+        "software (n)"
+      ],
+      "en": "I'll get the IT department to reinstall the software before tomorrow's presentation.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là bạn hoàn thành công việc đúng hạn, công ty không quan tâm bạn làm việc ở đâu.",
+      "hints": [
+        "as long as",
+        "get something done",
+        "on time",
+        "care (v)"
+      ],
+      "en": "As long as you get your work done on time, the company doesn't care where you work from.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà làm việc cho một công ty khởi nghiệp nhỏ còn hơn bị mắc kẹt trong một tập đoàn lớn đầy thủ tục rườm rà.",
+      "hints": [
+        "would rather... than",
+        "startup (n)",
+        "corporation (n)",
+        "red tape"
+      ],
+      "en": "I'd rather work for a small startup than be stuck in a huge corporation full of red tape.",
+      "level": "B2"
+    },
+    {
+      "vi": "Ứng viên đó đã được phỏng vấn ba vòng trước khi nhận được lời mời làm việc.",
+      "hints": [
+        "passive voice",
+        "candidate (n)",
+        "round (n)",
+        "receive (v)",
+        "job offer (n)"
+      ],
+      "en": "The candidate was interviewed in three rounds before finally receiving a job offer.",
+      "level": "B2"
+    },
+    {
+      "vi": "Công ty không chỉ trả lương cao mà còn có nhiều phúc lợi hấp dẫn như bảo hiểm sức khỏe.",
+      "hints": [
+        "not only... but also",
+        "salary (n)",
+        "attractive (adj)",
+        "benefit (n)",
+        "health insurance (n)"
+      ],
+      "en": "The company offers not only a high salary but also attractive benefits such as health insurance.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với việc trả lời email của khách hàng ngay cả vào cuối tuần, dù việc đó khá mệt mỏi.",
+      "hints": [
+        "be used to (v)",
+        "answer (v)",
+        "even on weekends",
+        "although",
+        "exhausting (adj)"
+      ],
+      "en": "I'm used to answering clients' emails even on weekends, although it's quite exhausting.",
+      "level": "B2"
+    }
+  ]
+}

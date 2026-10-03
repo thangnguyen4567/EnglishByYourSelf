@@ -1,0 +1,311 @@
+{
+  "items": [
+    {
+      "vi": "Tôi thích đi bộ đường dài trên núi.",
+      "hints": [
+        "like (v)",
+        "go hiking (v)",
+        "mountain (n)"
+      ],
+      "en": "I like going hiking in the mountains."
+    },
+    {
+      "vi": "Hồ này rất sạch và yên bình.",
+      "hints": [
+        "lake (n)",
+        "clean (adj)",
+        "peaceful (adj)"
+      ],
+      "en": "This lake is very clean and peaceful."
+    },
+    {
+      "vi": "Có rất nhiều loài chim sống trong khu rừng này.",
+      "hints": [
+        "many (adj)",
+        "kind (n)",
+        "bird (n)",
+        "forest (n)"
+      ],
+      "en": "Many kinds of birds live in this forest."
+    },
+    {
+      "vi": "Đừng vứt rác xuống sông.",
+      "hints": [
+        "throw (v)",
+        "trash (n)",
+        "river (n)"
+      ],
+      "en": "Don't throw trash into the river."
+    },
+    {
+      "vi": "Chúng tôi phân loại rác tại nhà để tái chế.",
+      "hints": [
+        "sort (v)",
+        "waste (n)",
+        "at home",
+        "recycle (v)"
+      ],
+      "en": "We sort our waste at home so we can recycle it."
+    },
+    {
+      "vi": "Không khí ở thành phố này ngày càng ô nhiễm.",
+      "hints": [
+        "air (n)",
+        "polluted (adj)",
+        "more and more"
+      ],
+      "en": "The air in this city is getting more and more polluted."
+    },
+    {
+      "vi": "Tôi luôn mang túi vải khi đi chợ để hạn chế túi ni lông.",
+      "hints": [
+        "cloth bag (n)",
+        "cut down on (v)",
+        "plastic bag (n)"
+      ],
+      "en": "I always bring a cloth bag to the market to cut down on plastic bags."
+    },
+    {
+      "vi": "Học sinh trong trường vừa trồng năm mươi cây xanh.",
+      "hints": [
+        "student (n)",
+        "just (adv)",
+        "plant (v)",
+        "tree (n)"
+      ],
+      "en": "The students at the school have just planted fifty trees."
+    },
+    {
+      "vi": "Hãy tắt đèn khi ra khỏi phòng để tiết kiệm điện.",
+      "hints": [
+        "turn off (v)",
+        "light (n)",
+        "leave (v)",
+        "save electricity (v)"
+      ],
+      "en": "Turn off the lights when you leave the room to save electricity."
+    },
+    {
+      "vi": "Năm ngoái lũ lụt đã phá hủy nhiều ngôi nhà ở miền Trung.",
+      "hints": [
+        "flood (n)",
+        "destroy (v)",
+        "central region (n)"
+      ],
+      "en": "Last year floods destroyed many houses in the central region."
+    },
+    {
+      "vi": "Mực nước biển đang dâng lên vì biến đổi khí hậu.",
+      "hints": [
+        "sea level (n)",
+        "rise (v)",
+        "climate change (n)"
+      ],
+      "en": "Sea levels are rising because of climate change."
+    },
+    {
+      "vi": "Mùa hè năm nay nóng hơn và khô hơn mọi năm.",
+      "hints": [
+        "summer (n)",
+        "hotter (adj)",
+        "drier (adj)",
+        "usual (adj)"
+      ],
+      "en": "This summer is hotter and drier than usual."
+    },
+    {
+      "vi": "Chúng ta nên dùng năng lượng mặt trời thay vì than đá.",
+      "hints": [
+        "solar energy (n)",
+        "instead of (prep)",
+        "coal (n)"
+      ],
+      "en": "We should use solar energy instead of coal."
+    },
+    {
+      "vi": "Nhiều loài động vật hoang dã đang có nguy cơ tuyệt chủng.",
+      "hints": [
+        "wildlife (n)",
+        "species (n)",
+        "endangered (adj)"
+      ],
+      "en": "Many wildlife species are endangered."
+    },
+    {
+      "vi": "Bạn đã bao giờ ngắm bình minh trên biển chưa?",
+      "hints": [
+        "ever (adv)",
+        "watch (v)",
+        "sunrise (n)",
+        "over the sea"
+      ],
+      "en": "Have you ever watched the sunrise over the sea?"
+    },
+    {
+      "vi": "Việc chặt phá rừng khiến đất bị xói mòn và gây sạt lở.",
+      "hints": [
+        "deforestation (n)",
+        "cause (v)",
+        "soil erosion (n)",
+        "landslide (n)"
+      ],
+      "en": "Deforestation causes soil erosion and landslides."
+    },
+    {
+      "vi": "Nếu mọi người đi xe đạp nhiều hơn, khí thải sẽ giảm đáng kể.",
+      "hints": [
+        "cycle (v)",
+        "emission (n)",
+        "decrease (v)",
+        "significantly (adv)"
+      ],
+      "en": "If people cycled more, emissions would decrease significantly."
+    },
+    {
+      "vi": "Nhóm tình nguyện của chúng tôi dọn rác ở bãi biển mỗi cuối tuần.",
+      "hints": [
+        "volunteer group (n)",
+        "clean up (v)",
+        "beach (n)",
+        "every weekend"
+      ],
+      "en": "Our volunteer group cleans up the beach every weekend."
+    },
+    {
+      "vi": "Chính phủ sẽ cấm đồ nhựa dùng một lần trong vài năm tới.",
+      "hints": [
+        "government (n)",
+        "ban (v)",
+        "single-use plastic (n)",
+        "in the next few years"
+      ],
+      "en": "The government will ban single-use plastics in the next few years."
+    },
+    {
+      "vi": "Chúng ta cần bảo vệ tài nguyên thiên nhiên cho các thế hệ tương lai.",
+      "hints": [
+        "need (v)",
+        "protect (v)",
+        "natural resource (n)",
+        "future generation (n)"
+      ],
+      "en": "We need to protect natural resources for future generations."
+    },
+    {
+      "vi": "Nếu chính quyền hành động sớm hơn, nhiều loài động vật hoang dã đã không bị tuyệt chủng.",
+      "hints": [
+        "third conditional",
+        "authorities (n)",
+        "take action (v)",
+        "extinct (adj)"
+      ],
+      "en": "If the authorities had taken action sooner, many species of wild animals wouldn't have become extinct.",
+      "level": "B2"
+    },
+    {
+      "vi": "Khu rừng nơi chúng tôi từng đi cắm trại hồi nhỏ giờ đã bị biến thành một khu nghỉ dưỡng.",
+      "hints": [
+        "relative clause",
+        "used to (v)",
+        "go camping (v)",
+        "turn into (v)"
+      ],
+      "en": "The forest where we used to go camping as kids has been turned into a resort.",
+      "level": "B2"
+    },
+    {
+      "vi": "Các nhà khoa học đã cảnh báo về hiện tượng nóng lên toàn cầu suốt nhiều thập kỷ, nhưng nhiều người vẫn phớt lờ.",
+      "hints": [
+        "present perfect continuous",
+        "scientist (n)",
+        "global warming (n)",
+        "decade (n)",
+        "ignore (v)"
+      ],
+      "en": "Scientists have been warning about global warming for decades, yet many people still ignore it.",
+      "level": "B2"
+    },
+    {
+      "vi": "Hàng tấn rác thải nhựa bị đổ ra đại dương mỗi năm, gây hại nghiêm trọng cho sinh vật biển.",
+      "hints": [
+        "passive voice",
+        "dump (v)",
+        "ocean (n)",
+        "harm (v)",
+        "marine life (n)"
+      ],
+      "en": "Tons of plastic waste are dumped into the ocean every year, seriously harming marine life.",
+      "level": "B2"
+    },
+    {
+      "vi": "Hướng dẫn viên nói với chúng tôi rằng rạn san hô đã bị hư hại nặng nề do nhiệt độ nước biển tăng.",
+      "hints": [
+        "reported speech",
+        "coral reef (n)",
+        "badly (adv)",
+        "temperature (n)"
+      ],
+      "en": "Our guide told us that the coral reef had been badly damaged by rising water temperatures.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi chúng ta giảm lượng khí thải carbon, các thành phố ven biển có thể chìm dưới nước vào cuối thế kỷ này.",
+      "hints": [
+        "unless",
+        "reduce (v)",
+        "carbon footprint (n)",
+        "coastal (adj)",
+        "underwater (adj)"
+      ],
+      "en": "Unless we reduce our carbon footprint, coastal cities could be underwater by the end of this century.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mọi người ý thức hơn về việc phải tiết kiệm nước trong mùa khô.",
+      "hints": [
+        "wish + past simple",
+        "aware of (adj)",
+        "conserve (v)",
+        "dry season (n)"
+      ],
+      "en": "I wish people were more aware of the need to conserve water during the dry season.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù năng lượng gió sạch hơn than đá, chi phí lắp đặt ban đầu vẫn còn khá cao.",
+      "hints": [
+        "although",
+        "wind power (n)",
+        "initial (adj)",
+        "installation (n)",
+        "fairly (adv)"
+      ],
+      "en": "Although wind power is cleaner than coal, the initial installation costs are still fairly high.",
+      "level": "B2"
+    },
+    {
+      "vi": "Không chỉ các nhà máy mà cả các hộ gia đình cũng góp phần gây ra ô nhiễm không khí ở các thành phố lớn.",
+      "hints": [
+        "not only... but also",
+        "factory (n)",
+        "household (n)",
+        "contribute to (v)",
+        "air pollution (n)"
+      ],
+      "en": "Not only factories but also households contribute to the air pollution in big cities.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với việc mang theo bình nước dùng lại được thay vì mua nước đóng chai mỗi ngày.",
+      "hints": [
+        "get used to (v)",
+        "carry (v)",
+        "reusable (adj)",
+        "rather than",
+        "bottled water (n)"
+      ],
+      "en": "I've gotten used to carrying a reusable bottle rather than buying bottled water every day.",
+      "level": "B2"
+    }
+  ]
+}

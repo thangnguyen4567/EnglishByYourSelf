@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "vi": "Tôi muốn đặt một phòng đôi cho hai đêm.",
+      "hints": [
+        "would like (v)",
+        "book (v)",
+        "double room (n)",
+        "night (n)"
+      ],
+      "en": "I would like to book a double room for two nights."
+    },
+    {
+      "vi": "Giá phòng có bao gồm bữa sáng không?",
+      "hints": [
+        "room rate (n)",
+        "include (v)",
+        "breakfast (n)"
+      ],
+      "en": "Does the room rate include breakfast?"
+    },
+    {
+      "vi": "Khách có thể nhận phòng từ hai giờ chiều.",
+      "hints": [
+        "guest (n)",
+        "check in (v)",
+        "from two p.m."
+      ],
+      "en": "Guests can check in from two p.m."
+    },
+    {
+      "vi": "Mật khẩu Wi-Fi của khách sạn là gì vậy?",
+      "hints": [
+        "what",
+        "Wi-Fi password (n)",
+        "hotel (n)"
+      ],
+      "en": "What is the hotel's Wi-Fi password?"
+    },
+    {
+      "vi": "Xin lỗi, thẻ từ của tôi không mở được cửa.",
+      "hints": [
+        "sorry",
+        "key card (n)",
+        "open (v)",
+        "door (n)"
+      ],
+      "en": "Sorry, my key card doesn't open the door."
+    },
+    {
+      "vi": "Máy lạnh trong phòng tôi bị hỏng rồi.",
+      "hints": [
+        "air conditioner (n)",
+        "room (n)",
+        "broken (adj)"
+      ],
+      "en": "The air conditioner in my room is broken."
+    },
+    {
+      "vi": "Bạn có thể mang thêm khăn tắm lên phòng 305 không?",
+      "hints": [
+        "bring (v)",
+        "extra (adj)",
+        "towel (n)"
+      ],
+      "en": "Could you bring some extra towels to room 305?"
+    },
+    {
+      "vi": "Chúng tôi đang tìm một khách sạn giá rẻ gần biển.",
+      "hints": [
+        "look for (v)",
+        "cheap (adj)",
+        "near (prep)",
+        "beach (n)"
+      ],
+      "en": "We are looking for a cheap hotel near the beach."
+    },
+    {
+      "vi": "Tôi muốn một phòng ở tầng cao có view nhìn ra biển.",
+      "hints": [
+        "want (v)",
+        "high floor (n)",
+        "ocean view (n)"
+      ],
+      "en": "I want a room on a high floor with an ocean view."
+    },
+    {
+      "vi": "Năm ngoái gia đình tôi đã ở một homestay ở Đà Lạt.",
+      "hints": [
+        "last year",
+        "stay at (v)",
+        "homestay (n)"
+      ],
+      "en": "Last year my family stayed at a homestay in Da Lat."
+    },
+    {
+      "vi": "Hướng dẫn viên đưa chúng tôi đi tham quan phố cổ.",
+      "hints": [
+        "tour guide (n)",
+        "take (v)",
+        "sightseeing (n)",
+        "old quarter (n)"
+      ],
+      "en": "The tour guide took us sightseeing in the old quarter."
+    },
+    {
+      "vi": "Tôi định mua vài món quà lưu niệm cho đồng nghiệp.",
+      "hints": [
+        "be going to (v)",
+        "buy (v)",
+        "souvenir (n)",
+        "coworker (n)"
+      ],
+      "en": "I'm going to buy some souvenirs for my coworkers."
+    },
+    {
+      "vi": "Bạn nên đặt phòng sớm vì đang là mùa cao điểm.",
+      "hints": [
+        "reserve (v)",
+        "early (adv)",
+        "peak season (n)"
+      ],
+      "en": "You should reserve a room early because it's peak season."
+    },
+    {
+      "vi": "Chúng tôi có thể trả phòng muộn hơn một tiếng được không?",
+      "hints": [
+        "check out (v)",
+        "an hour",
+        "later (adv)"
+      ],
+      "en": "Can we check out an hour later?"
+    },
+    {
+      "vi": "Tôi đã lên lịch trình chi tiết cho chuyến đi Huế.",
+      "hints": [
+        "plan (v)",
+        "detailed (adj)",
+        "itinerary (n)",
+        "trip (n)"
+      ],
+      "en": "I have planned a detailed itinerary for the trip to Hue."
+    },
+    {
+      "vi": "Đừng quên mang theo kem chống nắng khi đi biển.",
+      "hints": [
+        "forget (v)",
+        "pack (v)",
+        "sunscreen (n)",
+        "seaside (n)"
+      ],
+      "en": "Don't forget to pack sunscreen when you go to the seaside."
+    },
+    {
+      "vi": "Nếu hủy phòng trước ba ngày, bạn sẽ được hoàn tiền đặt cọc.",
+      "hints": [
+        "cancel (v)",
+        "in advance",
+        "get back (v)",
+        "deposit (n)"
+      ],
+      "en": "If you cancel three days in advance, you will get your deposit back."
+    },
+    {
+      "vi": "Khu nghỉ dưỡng này đắt hơn nhưng dịch vụ tốt hơn nhiều.",
+      "hints": [
+        "resort (n)",
+        "expensive (adj)",
+        "service (n)",
+        "much better"
+      ],
+      "en": "This resort is more expensive, but the service is much better."
+    },
+    {
+      "vi": "Đi du lịch tự túc giúp tôi tiết kiệm tiền và khám phá ẩm thực địa phương.",
+      "hints": [
+        "travel independently (v)",
+        "save money (v)",
+        "explore (v)",
+        "local food (n)"
+      ],
+      "en": "Traveling independently helps me save money and explore local food."
+    },
+    {
+      "vi": "Lễ tân đã gọi báo thức cho tôi lúc sáu giờ để tôi kịp chuyến tham quan.",
+      "hints": [
+        "receptionist (n)",
+        "wake-up call (n)",
+        "in time for",
+        "tour (n)"
+      ],
+      "en": "The receptionist gave me a wake-up call at six so I was in time for the tour."
+    },
+    {
+      "vi": "Nếu chúng tôi đặt chỗ sớm hơn, chúng tôi đã có thể ở một phòng hướng biển với giá rẻ hơn nhiều.",
+      "hints": [
+        "third conditional",
+        "make a reservation (v)",
+        "sea-facing (adj)",
+        "price (n)"
+      ],
+      "en": "If we had made a reservation earlier, we could have stayed in a sea-facing room at a much lower price.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã nhờ quầy lễ tân giữ hành lý của mình cho đến khi xe đưa đón ra sân bay tới.",
+      "hints": [
+        "have someone do something",
+        "front desk (n)",
+        "store (v)",
+        "luggage (n)",
+        "shuttle (n)"
+      ],
+      "en": "I had the front desk store my luggage until the airport shuttle arrived to pick me up.",
+      "level": "B2"
+    },
+    {
+      "vi": "Khách sạn mà chúng tôi ở tuần trước được trang trí theo phong cách Đông Dương rất ấn tượng.",
+      "hints": [
+        "relative clause",
+        "decorate (v)",
+        "impressive (adj)",
+        "style (n)"
+      ],
+      "en": "The hotel we stayed at last week was decorated in an impressive Indochinese style.",
+      "level": "B2"
+    },
+    {
+      "vi": "Lễ tân nói với chúng tôi rằng bữa sáng được phục vụ ở nhà ăn từ sáu giờ rưỡi đến mười giờ.",
+      "hints": [
+        "reported speech",
+        "serve (v)",
+        "dining hall (n)",
+        "from... until..."
+      ],
+      "en": "The receptionist told us that breakfast was served in the dining hall from six-thirty until ten.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà ở một nhà nghỉ nhỏ do người dân địa phương điều hành còn hơn ở một khách sạn sang trọng nhưng thiếu cá tính.",
+      "hints": [
+        "would rather... than",
+        "guesthouse (n)",
+        "run by",
+        "luxury (adj)",
+        "lack character (v)"
+      ],
+      "en": "I'd rather stay in a small guesthouse run by locals than in a luxury hotel that lacks character.",
+      "level": "B2"
+    },
+    {
+      "vi": "Chúng tôi đã khám phá các hòn đảo suốt cả tuần, nên ai cũng kiệt sức khi trở về khách sạn.",
+      "hints": [
+        "past perfect continuous",
+        "island (n)",
+        "all week",
+        "exhausted (adj)"
+      ],
+      "en": "We had been exploring the islands all week, so everyone was exhausted when we got back to the hotel.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là bạn trả phòng trước buổi trưa, bạn sẽ không bị tính thêm bất kỳ khoản phí nào.",
+      "hints": [
+        "as long as",
+        "vacate (v)",
+        "noon (n)",
+        "charge (v)",
+        "fee (n)"
+      ],
+      "en": "As long as you vacate the room before noon, you won't be charged any extra fee.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình đã mua bảo hiểm du lịch trước chuyến đi, vì chi phí khám chữa bệnh ở nước ngoài cực kỳ đắt.",
+      "hints": [
+        "wish + past perfect",
+        "travel insurance (n)",
+        "medical cost (n)",
+        "abroad (adv)",
+        "extremely (adv)"
+      ],
+      "en": "I wish I had bought travel insurance before the trip, because medical costs abroad are extremely high.",
+      "level": "B2"
+    },
+    {
+      "vi": "Không chỉ phòng ốc sạch bong mà nhân viên còn vô cùng thân thiện và chu đáo.",
+      "hints": [
+        "not only... but also",
+        "spotless (adj)",
+        "staff (n)",
+        "incredibly (adv)",
+        "attentive (adj)"
+      ],
+      "en": "Not only were the rooms spotless, but the staff were also incredibly friendly and attentive.",
+      "level": "B2"
+    },
+    {
+      "vi": "Chúng tôi quyết định đi du lịch bụi xuyên miền Bắc thay vì tham gia một tour trọn gói đắt tiền.",
+      "hints": [
+        "decide + to V",
+        "go backpacking (v)",
+        "instead of",
+        "package tour (n)"
+      ],
+      "en": "We decided to go backpacking through the north instead of joining an expensive package tour.",
+      "level": "B2"
+    }
+  ]
+}

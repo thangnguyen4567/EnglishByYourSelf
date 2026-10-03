@@ -1,0 +1,309 @@
+{
+  "items": [
+    {
+      "vi": "Cuối tuần tôi thường đi chơi với bạn bè.",
+      "hints": [
+        "usually (adv)",
+        "hang out with (v)",
+        "on weekends"
+      ],
+      "en": "I usually hang out with my friends on weekends."
+    },
+    {
+      "vi": "Bạn cùng phòng của tôi rất thân thiện và hay giúp đỡ người khác.",
+      "hints": [
+        "roommate (n)",
+        "friendly (adj)",
+        "helpful (adj)"
+      ],
+      "en": "My roommate is very friendly and always helpful."
+    },
+    {
+      "vi": "Chúng tôi gặp nhau lần đầu ở một bữa tiệc sinh nhật.",
+      "hints": [
+        "first (adv)",
+        "meet (v)",
+        "birthday party (n)"
+      ],
+      "en": "We first met at a birthday party."
+    },
+    {
+      "vi": "Tôi và bạn thân quen nhau từ hồi tiểu học.",
+      "hints": [
+        "close friend (n)",
+        "know each other (v)",
+        "since",
+        "elementary school (n)"
+      ],
+      "en": "My close friend and I have known each other since elementary school."
+    },
+    {
+      "vi": "Tôi và đồng nghiệp rất hợp nhau.",
+      "hints": [
+        "colleague (n)",
+        "get along (v)",
+        "really well"
+      ],
+      "en": "My colleague and I get along really well."
+    },
+    {
+      "vi": "Tôi đang cố gắng kết thêm bạn mới ở thành phố này.",
+      "hints": [
+        "try (v)",
+        "make friends (v)",
+        "new (adj)",
+        "city (n)"
+      ],
+      "en": "I'm trying to make new friends in this city."
+    },
+    {
+      "vi": "Bạn có hay giữ liên lạc với bạn học cũ không?",
+      "hints": [
+        "often (adv)",
+        "keep in touch with (v)",
+        "old (adj)",
+        "classmate (n)"
+      ],
+      "en": "Do you often keep in touch with your old classmates?"
+    },
+    {
+      "vi": "Hôm qua tôi cãi nhau với anh trai vì một chuyện vặt.",
+      "hints": [
+        "have an argument with (v)",
+        "older brother (n)",
+        "over (prep)",
+        "trivial (adj)"
+      ],
+      "en": "Yesterday I had an argument with my older brother over a trivial thing."
+    },
+    {
+      "vi": "Anh ấy luôn giữ lời hứa, nên tôi hoàn toàn tin tưởng anh ấy.",
+      "hints": [
+        "keep a promise (v)",
+        "trust (v)",
+        "completely (adv)"
+      ],
+      "en": "He always keeps his promises, so I trust him completely."
+    },
+    {
+      "vi": "Bạn đã bao giờ mất liên lạc với một người bạn thời thơ ấu chưa?",
+      "hints": [
+        "ever (adv)",
+        "lose touch with (v)",
+        "childhood friend (n)"
+      ],
+      "en": "Have you ever lost touch with a childhood friend?"
+    },
+    {
+      "vi": "Bạn thân nhất của tôi sắp chuyển ra nước ngoài, tôi sẽ nhớ cô ấy lắm.",
+      "hints": [
+        "best friend (n)",
+        "move abroad (v)",
+        "miss (v)",
+        "a lot"
+      ],
+      "en": "My best friend is moving abroad, and I will miss her a lot."
+    },
+    {
+      "vi": "Chúng tôi đã hẹn hò được hai năm và sắp đính hôn.",
+      "hints": [
+        "date (v)",
+        "for two years",
+        "get engaged (v)",
+        "soon (adv)"
+      ],
+      "en": "We have been dating for two years and are getting engaged soon."
+    },
+    {
+      "vi": "Nếu bạn cần ai đó để tâm sự, cứ gọi cho tôi.",
+      "hints": [
+        "need (v)",
+        "confide in (v)",
+        "just (adv)",
+        "call (v)"
+      ],
+      "en": "If you need someone to confide in, just call me."
+    },
+    {
+      "vi": "Tôi không thích những người hay nói xấu sau lưng người khác.",
+      "hints": [
+        "gossip (v)",
+        "behind someone's back",
+        "others (n)"
+      ],
+      "en": "I don't like people who gossip behind others' backs."
+    },
+    {
+      "vi": "Tôi đã xin lỗi cô ấy và vài ngày sau chúng tôi làm lành.",
+      "hints": [
+        "apologize to (v)",
+        "make up (v)",
+        "a few days later"
+      ],
+      "en": "I apologized to her, and we made up a few days later."
+    },
+    {
+      "vi": "Họ chia tay vì không còn cùng quan điểm nữa.",
+      "hints": [
+        "break up (v)",
+        "no longer (adv)",
+        "share (v)",
+        "view (n)"
+      ],
+      "en": "They broke up because they no longer shared the same views."
+    },
+    {
+      "vi": "Tôi nghĩ sự tôn trọng quan trọng hơn sự lãng mạn trong một mối quan hệ.",
+      "hints": [
+        "respect (n)",
+        "important (adj)",
+        "romance (n)",
+        "relationship (n)"
+      ],
+      "en": "I think respect is more important than romance in a relationship."
+    },
+    {
+      "vi": "Một người bạn thật sự sẽ luôn ủng hộ bạn khi bạn gặp khó khăn.",
+      "hints": [
+        "true (adj)",
+        "support (v)",
+        "go through (v)",
+        "hard times (n)"
+      ],
+      "en": "A true friend will always support you when you are going through hard times."
+    },
+    {
+      "vi": "Kể từ khi đi làm, tôi ít có thời gian gặp gỡ bạn bè hơn trước.",
+      "hints": [
+        "start working (v)",
+        "less (adj)",
+        "catch up with (v)"
+      ],
+      "en": "Since I started working, I've had less time to catch up with friends."
+    },
+    {
+      "vi": "Chúng tôi lớn lên cùng nhau nên hiểu nhau mà không cần nói một lời.",
+      "hints": [
+        "grow up (v)",
+        "together (adv)",
+        "understand each other (v)",
+        "without saying a word"
+      ],
+      "en": "We grew up together, so we understand each other without saying a word."
+    },
+    {
+      "vi": "Mặc dù chúng tôi sống cách xa nhau, chúng tôi vẫn cố gắng gọi video cho nhau ít nhất mỗi tháng một lần.",
+      "hints": [
+        "although",
+        "live far apart (v)",
+        "make an effort (v)",
+        "video call (v)",
+        "once a month"
+      ],
+      "en": "Although we live far apart, we still make an effort to video call each other at least once a month.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu tôi không chuyển đến Đà Nẵng, có lẽ tôi đã không bao giờ gặp được người bạn thân thiết nhất của mình.",
+      "hints": [
+        "third conditional",
+        "move to (v)",
+        "probably (adv)",
+        "closest (adj)"
+      ],
+      "en": "If I hadn't moved to Da Nang, I would probably never have met my closest friend.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước gì mình đã không nói những lời tổn thương như vậy với bạn thân trong lúc nóng giận.",
+      "hints": [
+        "wish + past perfect",
+        "make a remark (v)",
+        "hurtful (adj)",
+        "in the heat of the moment"
+      ],
+      "en": "I wish I hadn't made such hurtful remarks to my best friend in the heat of the moment.",
+      "level": "B2"
+    },
+    {
+      "vi": "Người bạn mà tôi quen từ thời đại học vừa được thăng chức làm trưởng phòng.",
+      "hints": [
+        "whom",
+        "college (n)",
+        "be promoted to (v)",
+        "department manager (n)"
+      ],
+      "en": "The friend whom I've known since college has just been promoted to department manager.",
+      "level": "B2"
+    },
+    {
+      "vi": "Cô ấy nói với tôi rằng cô ấy đã cảm thấy bị bỏ rơi kể từ khi tôi bắt đầu hẹn hò với bạn trai mới.",
+      "hints": [
+        "reported speech",
+        "feel left out (v)",
+        "ever since",
+        "see someone (v)"
+      ],
+      "en": "She told me that she had felt left out ever since I started seeing my new boyfriend.",
+      "level": "B2"
+    },
+    {
+      "vi": "Một tình bạn thực sự không chỉ dựa trên sở thích chung mà còn dựa trên sự trung thực và lòng tin lẫn nhau.",
+      "hints": [
+        "genuine (adj)",
+        "friendship (n)",
+        "be based on (v)",
+        "not only ... but also",
+        "honesty (n)",
+        "mutual (adj)"
+      ],
+      "en": "A genuine friendship is based not only on shared interests but also on honesty and mutual trust.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã quen với việc dành những ngày cuối tuần một mình kể từ khi bạn cùng phòng chuyển đi.",
+      "hints": [
+        "get used to (v)",
+        "spend (v)",
+        "on my own",
+        "move out (v)"
+      ],
+      "en": "I've gotten used to spending weekends on my own since my roommate moved out.",
+      "level": "B2"
+    },
+    {
+      "vi": "Họ vẫn là bạn bè suốt hai thập kỷ, mặc dù tính cách của họ hoàn toàn trái ngược nhau.",
+      "hints": [
+        "remain (v)",
+        "decade (n)",
+        "even though",
+        "personality (n)",
+        "opposite (n)"
+      ],
+      "en": "They have remained friends for two decades, even though their personalities are complete opposites.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà nói thẳng với bạn mình còn hơn là để sự hiểu lầm kéo dài thêm nữa.",
+      "hints": [
+        "would rather ... than",
+        "be upfront with (v)",
+        "misunderstanding (n)",
+        "drag on (v)"
+      ],
+      "en": "I'd rather be upfront with my friend than let the misunderstanding drag on any longer.",
+      "level": "B2"
+    },
+    {
+      "vi": "Cô ấy luôn ở bên tôi mỗi khi tôi gặp khó khăn, nên tôi sẽ không bao giờ quay lưng lại với cô ấy.",
+      "hints": [
+        "be there for (v)",
+        "whenever",
+        "struggle (v)",
+        "turn one's back on (v)"
+      ],
+      "en": "She has always been there for me whenever I've struggled, so I would never turn my back on her.",
+      "level": "B2"
+    }
+  ]
+}

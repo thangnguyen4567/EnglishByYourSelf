@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "vi": "Điện thoại của tôi sắp hết pin rồi.",
+      "hints": [
+        "phone (n)",
+        "battery (n)",
+        "almost (adv)",
+        "dead (adj)"
+      ],
+      "en": "My phone battery is almost dead."
+    },
+    {
+      "vi": "Bạn có mang theo sạc điện thoại không?",
+      "hints": [
+        "have (v)",
+        "charger (n)",
+        "with you"
+      ],
+      "en": "Do you have a phone charger with you?"
+    },
+    {
+      "vi": "Tôi gửi tin nhắn cho mẹ mỗi tối.",
+      "hints": [
+        "text (v)",
+        "mom (n)",
+        "every evening"
+      ],
+      "en": "I text my mom every evening."
+    },
+    {
+      "vi": "Ở đây sóng điện thoại rất yếu.",
+      "hints": [
+        "signal (n)",
+        "weak (adj)",
+        "here (adv)"
+      ],
+      "en": "The phone signal is very weak here."
+    },
+    {
+      "vi": "Làm ơn tắt chuông điện thoại trong rạp phim.",
+      "hints": [
+        "please",
+        "silence (v)",
+        "movie theater (n)"
+      ],
+      "en": "Please silence your phone in the movie theater."
+    },
+    {
+      "vi": "Tôi vừa tải một ứng dụng học tiếng Anh mới.",
+      "hints": [
+        "just (adv)",
+        "download (v)",
+        "app (n)",
+        "learn (v)"
+      ],
+      "en": "I've just downloaded a new app for learning English."
+    },
+    {
+      "vi": "Màn hình máy tính bảng của tôi bị nứt.",
+      "hints": [
+        "screen (n)",
+        "tablet (n)",
+        "crack (v)"
+      ],
+      "en": "The screen on my tablet is cracked."
+    },
+    {
+      "vi": "Bạn nên sao lưu ảnh lên đám mây.",
+      "hints": [
+        "back up (v)",
+        "photo (n)",
+        "cloud (n)"
+      ],
+      "en": "You should back up your photos to the cloud."
+    },
+    {
+      "vi": "Máy tính xách tay của tôi chạy rất chậm sau khi cập nhật.",
+      "hints": [
+        "laptop (n)",
+        "run (v)",
+        "slowly (adv)",
+        "update (n)"
+      ],
+      "en": "My laptop runs very slowly after the update."
+    },
+    {
+      "vi": "Tôi quên mật khẩu email nên không đăng nhập được.",
+      "hints": [
+        "forget (v)",
+        "password (n)",
+        "log in (v)"
+      ],
+      "en": "I forgot my email password, so I can't log in."
+    },
+    {
+      "vi": "Đừng bấm vào những đường link lạ trong tin nhắn.",
+      "hints": [
+        "click on (v)",
+        "strange (adj)",
+        "link (n)",
+        "message (n)"
+      ],
+      "en": "Don't click on strange links in messages."
+    },
+    {
+      "vi": "Con trai tôi dành quá nhiều thời gian lướt mạng xã hội.",
+      "hints": [
+        "spend (v)",
+        "too much time",
+        "scroll through (v)",
+        "social media (n)"
+      ],
+      "en": "My son spends too much time scrolling through social media."
+    },
+    {
+      "vi": "Bạn đã thử khởi động lại máy chưa?",
+      "hints": [
+        "try (v)",
+        "restart (v)",
+        "device (n)"
+      ],
+      "en": "Have you tried restarting your device?"
+    },
+    {
+      "vi": "Wi-Fi ở quán này nhanh hơn ở nhà tôi.",
+      "hints": [
+        "Wi-Fi (n)",
+        "café (n)",
+        "faster (adj)"
+      ],
+      "en": "The Wi-Fi at this café is faster than at my house."
+    },
+    {
+      "vi": "Tôi định đổi sang chiếc điện thoại có camera tốt hơn.",
+      "hints": [
+        "be going to (v)",
+        "switch to (v)",
+        "camera (n)",
+        "better (adj)"
+      ],
+      "en": "I'm going to switch to a phone with a better camera."
+    },
+    {
+      "vi": "Nếu bạn bật chế độ tiết kiệm pin, điện thoại sẽ dùng được lâu hơn.",
+      "hints": [
+        "turn on (v)",
+        "battery saver mode (n)",
+        "last (v)",
+        "longer (adv)"
+      ],
+      "en": "If you turn on battery saver mode, your phone will last longer."
+    },
+    {
+      "vi": "Tôi đã chặn số điện thoại đó vì họ gọi quảng cáo suốt.",
+      "hints": [
+        "block (v)",
+        "number (n)",
+        "keep (v)",
+        "sales call (n)"
+      ],
+      "en": "I blocked that number because they kept making sales calls."
+    },
+    {
+      "vi": "Ứng dụng này yêu cầu quyền truy cập danh bạ và vị trí của bạn.",
+      "hints": [
+        "ask for (v)",
+        "access (n)",
+        "contacts (n)",
+        "location (n)"
+      ],
+      "en": "This app asks for access to your contacts and location."
+    },
+    {
+      "vi": "Bạn nên bật xác thực hai lớp để bảo vệ tài khoản.",
+      "hints": [
+        "enable (v)",
+        "two-factor authentication (n)",
+        "protect (v)",
+        "account (n)"
+      ],
+      "en": "You should enable two-factor authentication to protect your account."
+    },
+    {
+      "vi": "Từ khi có điện thoại thông minh, tôi hầu như không đọc sách giấy nữa.",
+      "hints": [
+        "since",
+        "smartphone (n)",
+        "hardly ever (adv)",
+        "printed book (n)"
+      ],
+      "en": "Since I got a smartphone, I hardly ever read printed books anymore."
+    },
+    {
+      "vi": "Nếu tôi lưu tệp vào ổ cứng ngoài, tôi đã không mất toàn bộ dữ liệu khi máy tính xách tay bị sập.",
+      "hints": [
+        "third conditional",
+        "external drive (n)",
+        "data (n)",
+        "crash (v)"
+      ],
+      "en": "If I had saved my files to an external drive, I wouldn't have lost all my data when my laptop crashed.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã dùng chiếc điện thoại này được bốn năm, nên giờ nó bắt đầu bị giật lag và nóng lên.",
+      "hints": [
+        "present perfect continuous",
+        "lag (v)",
+        "overheat (v)",
+        "start + to V"
+      ],
+      "en": "I've been using this phone for four years, so it has started to lag and overheat.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi cần đi thay màn hình vì tôi đã làm rơi điện thoại xuống sàn nhà tắm.",
+      "hints": [
+        "get something done",
+        "replace (v)",
+        "drop (v)",
+        "bathroom floor (n)"
+      ],
+      "en": "I need to get my screen replaced because I dropped my phone on the bathroom floor.",
+      "level": "B2"
+    },
+    {
+      "vi": "Ứng dụng mà em gái tôi giới thiệu giúp tôi theo dõi thời gian dùng màn hình mỗi ngày.",
+      "hints": [
+        "relative clause",
+        "recommend (v)",
+        "monitor (v)",
+        "daily (adj)",
+        "screen time (n)"
+      ],
+      "en": "The app that my sister recommended helps me monitor my daily screen time.",
+      "level": "B2"
+    },
+    {
+      "vi": "Kỹ thuật viên nói với tôi rằng bo mạch chủ đã bị hỏng do nước và việc sửa chữa sẽ rất tốn kém.",
+      "hints": [
+        "reported speech",
+        "technician (n)",
+        "motherboard (n)",
+        "damage (v)",
+        "costly (adj)"
+      ],
+      "en": "The technician told me that the motherboard had been damaged by water and that repairing it would be costly.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trừ khi bạn cài các bản vá bảo mật thường xuyên, thiết bị của bạn có thể dễ bị tin tặc tấn công.",
+      "hints": [
+        "unless",
+        "install (v)",
+        "security patch (n)",
+        "vulnerable (adj)",
+        "hacker (n)"
+      ],
+      "en": "Unless you install security patches regularly, your device may be vulnerable to hackers.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước mình không lãng phí quá nhiều giờ lướt mạng xã hội vào đêm khuya.",
+      "hints": [
+        "wish + past simple",
+        "waste (v)",
+        "browse (v)",
+        "late at night"
+      ],
+      "en": "I wish I didn't waste so many hours browsing social media late at night.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù chiếc điện thoại mới có camera tuyệt vời, giá của nó lại cao một cách vô lý.",
+      "hints": [
+        "although",
+        "amazing (adj)",
+        "ridiculously (adv)",
+        "overpriced (adj)"
+      ],
+      "en": "Although the new phone has an amazing camera, it is ridiculously overpriced.",
+      "level": "B2"
+    },
+    {
+      "vi": "Không chỉ trẻ em mà cả người lớn cũng ngày càng nghiện các thiết bị điện tử của mình.",
+      "hints": [
+        "not only... but also",
+        "increasingly (adv)",
+        "addicted to (adj)",
+        "gadget (n)"
+      ],
+      "en": "Not only children but also adults are becoming increasingly addicted to their gadgets.",
+      "level": "B2"
+    },
+    {
+      "vi": "Thông tin đăng nhập của tôi đã bị lộ trong một vụ rò rỉ dữ liệu, nên tôi phải đổi mật khẩu cho tất cả tài khoản.",
+      "hints": [
+        "passive voice",
+        "login details (n)",
+        "expose (v)",
+        "data breach (n)"
+      ],
+      "en": "My login details were exposed in a data breach, so I had to change the passwords for all my accounts.",
+      "level": "B2"
+    }
+  ]
+}

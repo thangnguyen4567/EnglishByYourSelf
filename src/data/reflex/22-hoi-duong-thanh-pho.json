@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "vi": "Xin lỗi, bưu điện ở đâu ạ?",
+      "hints": [
+        "excuse me",
+        "post office (n)",
+        "where"
+      ],
+      "en": "Excuse me, where is the post office?"
+    },
+    {
+      "vi": "Đi thẳng rồi rẽ trái ở ngã tư.",
+      "hints": [
+        "go straight (v)",
+        "turn left (v)",
+        "intersection (n)"
+      ],
+      "en": "Go straight and then turn left at the intersection."
+    },
+    {
+      "vi": "Ngân hàng nằm đối diện bảo tàng.",
+      "hints": [
+        "bank (n)",
+        "across from (prep)",
+        "museum (n)"
+      ],
+      "en": "The bank is across from the museum."
+    },
+    {
+      "vi": "Cửa hàng tiện lợi ở ngay góc đường.",
+      "hints": [
+        "convenience store (n)",
+        "right (adv)",
+        "on the corner"
+      ],
+      "en": "The convenience store is right on the corner."
+    },
+    {
+      "vi": "Từ đây đến chợ có xa không?",
+      "hints": [
+        "far (adj)",
+        "from here",
+        "market (n)"
+      ],
+      "en": "Is it far from here to the market?"
+    },
+    {
+      "vi": "Khách sạn nằm giữa nhà thờ và công viên.",
+      "hints": [
+        "between (prep)",
+        "church (n)",
+        "park (n)"
+      ],
+      "en": "The hotel is between the church and the park."
+    },
+    {
+      "vi": "Bạn có thể chỉ đường cho tôi trên bản đồ được không?",
+      "hints": [
+        "show (v)",
+        "route (n)",
+        "map (n)"
+      ],
+      "en": "Can you show me the route on the map?"
+    },
+    {
+      "vi": "Chỉ cách đây khoảng năm phút đi bộ thôi.",
+      "hints": [
+        "only (adv)",
+        "about (adv)",
+        "five-minute walk"
+      ],
+      "en": "It's only about a five-minute walk from here."
+    },
+    {
+      "vi": "Hãy băng qua đường ở chỗ dành cho người đi bộ.",
+      "hints": [
+        "cross (v)",
+        "street (n)",
+        "crosswalk (n)"
+      ],
+      "en": "Please cross the street at the crosswalk."
+    },
+    {
+      "vi": "Đi qua hai dãy nhà rồi rẽ phải ở đèn giao thông.",
+      "hints": [
+        "walk (v)",
+        "block (n)",
+        "turn right (v)",
+        "traffic light (n)"
+      ],
+      "en": "Walk two blocks and turn right at the traffic light."
+    },
+    {
+      "vi": "Tôi bị lạc rồi, tôi không biết mình đang ở đâu.",
+      "hints": [
+        "lost (adj)",
+        "know (v)",
+        "where I am"
+      ],
+      "en": "I'm lost and I don't know where I am."
+    },
+    {
+      "vi": "Khu trung tâm thành phố lúc nào cũng đông đúc và ồn ào.",
+      "hints": [
+        "downtown (n)",
+        "always (adv)",
+        "crowded (adj)",
+        "noisy (adj)"
+      ],
+      "en": "Downtown is always crowded and noisy."
+    },
+    {
+      "vi": "Có một lối tắt qua con hẻm phía sau chợ.",
+      "hints": [
+        "shortcut (n)",
+        "through (prep)",
+        "alley (n)",
+        "behind (prep)"
+      ],
+      "en": "There's a shortcut through the alley behind the market."
+    },
+    {
+      "vi": "Khi bạn thấy cây cầu, quán cà phê nằm bên tay phải.",
+      "hints": [
+        "see (v)",
+        "bridge (n)",
+        "on your right"
+      ],
+      "en": "When you see the bridge, the café is on your right."
+    },
+    {
+      "vi": "Tôi đã sống ở khu phố này được năm năm.",
+      "hints": [
+        "live (v)",
+        "neighborhood (n)",
+        "for five years"
+      ],
+      "en": "I have lived in this neighborhood for five years."
+    },
+    {
+      "vi": "Bạn nên dùng tháp đồng hồ làm điểm mốc để không bị lạc.",
+      "hints": [
+        "clock tower (n)",
+        "landmark (n)",
+        "get lost (v)"
+      ],
+      "en": "You should use the clock tower as a landmark so you don't get lost."
+    },
+    {
+      "vi": "Đi theo biển chỉ dẫn đến quảng trường chính.",
+      "hints": [
+        "follow (v)",
+        "sign (n)",
+        "main (adj)",
+        "square (n)"
+      ],
+      "en": "Follow the signs to the main square."
+    },
+    {
+      "vi": "Hồi trước khu này toàn ruộng, bây giờ có rất nhiều tòa nhà chọc trời.",
+      "hints": [
+        "used to (v)",
+        "rice field (n)",
+        "now (adv)",
+        "skyscraper (n)"
+      ],
+      "en": "This area used to be all rice fields, but now there are lots of skyscrapers."
+    },
+    {
+      "vi": "Vỉa hè ở đây quá hẹp nên người ta phải đi bộ dưới lòng đường.",
+      "hints": [
+        "sidewalk (n)",
+        "narrow (adj)",
+        "have to (v)",
+        "road (n)"
+      ],
+      "en": "The sidewalks here are so narrow that people have to walk in the road."
+    },
+    {
+      "vi": "Sống ở ngoại ô yên tĩnh hơn, nhưng đi vào trung tâm mất nhiều thời gian hơn.",
+      "hints": [
+        "outskirts (n)",
+        "quiet (adj)",
+        "city center (n)",
+        "take (v)",
+        "longer (adv)"
+      ],
+      "en": "Living on the outskirts is quieter, but it takes longer to get to the city center."
+    },
+    {
+      "vi": "Nếu tôi không hỏi đường người bán hàng rong, có lẽ tôi đã đi lòng vòng trong mấy con hẻm nhỏ đó cả buổi chiều.",
+      "hints": [
+        "third conditional",
+        "ask for directions (v)",
+        "street vendor (n)",
+        "wander around (v)",
+        "tiny (adj)"
+      ],
+      "en": "If I hadn't asked the street vendor for directions, I would probably have been wandering around those tiny alleys all afternoon.",
+      "level": "B2"
+    },
+    {
+      "vi": "Khu phố nơi tôi lớn lên đã thay đổi nhiều đến mức bây giờ tôi hầu như không nhận ra nó nữa.",
+      "hints": [
+        "relative clause",
+        "grow up (v)",
+        "so... that",
+        "hardly (adv)",
+        "recognize (v)"
+      ],
+      "en": "The neighborhood where I grew up has changed so much that I can hardly recognize it anymore.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bảo tàng mà bạn đang tìm nằm ngay đối diện công viên, bên cạnh một tiệm bánh mì rất nổi tiếng.",
+      "hints": [
+        "be located (v)",
+        "directly (adv)",
+        "opposite (prep)",
+        "next to (prep)",
+        "famous (adj)"
+      ],
+      "en": "The museum you're looking for is located directly opposite the park, next to a very famous bakery.",
+      "level": "B2"
+    },
+    {
+      "vi": "Thành phố này đang được cải tạo rất nhanh, và nhiều khu chợ cũ đã bị thay thế bằng các trung tâm thương mại.",
+      "hints": [
+        "passive voice",
+        "redevelop (v)",
+        "rapidly (adv)",
+        "replace (v)",
+        "shopping mall (n)"
+      ],
+      "en": "This city is being redeveloped rapidly, and many old markets have been replaced by shopping malls.",
+      "level": "B2"
+    },
+    {
+      "vi": "Anh bảo vệ nói với tôi rằng lối vào chính đã bị đóng để sửa chữa và tôi nên đi cửa sau.",
+      "hints": [
+        "reported speech",
+        "security guard (n)",
+        "entrance (n)",
+        "repair (n)",
+        "back door (n)"
+      ],
+      "en": "The security guard told me that the main entrance had been closed for repairs and that I should use the back door.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là bạn đi bộ dọc theo bờ sông, bạn sẽ không thể nào bỏ lỡ nhà hát lớn được.",
+      "hints": [
+        "as long as",
+        "along (prep)",
+        "riverbank (n)",
+        "opera house (n)"
+      ],
+      "en": "As long as you walk along the riverbank, you really can't miss the opera house.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà đi bộ thêm vài dãy nhà còn hơn băng vội qua con đường đông đúc đó mà không có vạch dành cho người đi bộ.",
+      "hints": [
+        "would rather... than",
+        "dash across (v)",
+        "busy (adj)",
+        "pedestrian crossing (n)"
+      ],
+      "en": "I'd rather walk a few extra blocks than dash across that busy road without a pedestrian crossing.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã sống ở khu này được ba tháng, nhưng vẫn chưa quen với tiếng ồn từ công trường gần đó.",
+      "hints": [
+        "present perfect continuous",
+        "area (n)",
+        "be used to (v)",
+        "nearby (adj)",
+        "construction site (n)"
+      ],
+      "en": "I've been living in this area for three months, but I'm still not used to the noise from the nearby construction site.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bạn có phiền chỉ cho tôi đường đến ga tàu gần nhất không, vì điện thoại của tôi vừa hết pin?",
+      "hints": [
+        "would you mind + V-ing",
+        "the way to",
+        "nearest (adj)",
+        "train station (n)",
+        "die (v)"
+      ],
+      "en": "Would you mind showing me the way to the nearest train station, since my phone has just died?",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù khu phố cổ khá chật chội, nó lại có rất nhiều quán cà phê ấm cúng ẩn mình trong các con hẻm.",
+      "hints": [
+        "although",
+        "rather (adv)",
+        "cramped (adj)",
+        "cozy (adj)",
+        "tucked away (adj)"
+      ],
+      "en": "Although the old quarter is rather cramped, it has plenty of cozy cafés tucked away in its alleys.",
+      "level": "B2"
+    }
+  ]
+}

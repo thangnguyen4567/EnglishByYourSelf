@@ -1,0 +1,122 @@
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.head {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.no {
+  font-weight: 800;
+  color: var(--ifm-color-primary);
+  min-width: 1.8rem;
+}
+
+.badge {
+  margin-left: auto;
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.05rem 0.5rem;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--ifm-color-warning-darker);
+}
+
+.filter {
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.2rem 0.4rem;
+  border-radius: 6px;
+  border: 1px solid var(--ifm-color-emphasis-400);
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
+.vi {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.hints {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.5rem 0 0 2.3rem;
+}
+
+.vocab {
+  margin-left: 0;
+}
+
+.chip {
+  font-size: 0.82rem;
+  padding: 0.1rem 0.55rem;
+  border-radius: 999px;
+  background: var(--ifm-color-emphasis-100);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  white-space: nowrap;
+}
+
+.answerRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.55rem 0 0 2.3rem;
+}
+
+.reveal {
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 0.1rem 0.6rem;
+  border-radius: 6px;
+  border: 1px dashed var(--ifm-color-emphasis-500);
+  background: transparent;
+  color: var(--ifm-font-color-base);
+  cursor: pointer;
+}
+
+.en {
+  font-style: italic;
+  color: var(--ifm-color-success-darkest);
+}
+
+[data-theme='dark'] .en {
+  color: var(--ifm-color-success-lightest);
+}
+
+.speak {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  .hints,
+  .answerRow {
+    margin-left: 0;
+  }
+}

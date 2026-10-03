@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "vi": "Hàng xóm sát vách nhà tôi rất tốt bụng và hiếu khách.",
+      "hints": [
+        "next-door (adj)",
+        "neighbor (n)",
+        "welcoming (adj)"
+      ],
+      "en": "My next-door neighbors are kind and welcoming."
+    },
+    {
+      "vi": "Tôi đã sống ở khu này được năm năm rồi.",
+      "hints": [
+        "live (v)",
+        "area (n)",
+        "for five years"
+      ],
+      "en": "I've lived in this area for five years."
+    },
+    {
+      "vi": "Gần chỗ tôi ở có một khu chợ nhỏ và một sân chơi.",
+      "hints": [
+        "market (n)",
+        "playground (n)",
+        "near my place"
+      ],
+      "en": "There's a small market and a playground near my place."
+    },
+    {
+      "vi": "Bà cụ ở tầng dưới thường cho chúng tôi trái cây.",
+      "hints": [
+        "old lady (n)",
+        "downstairs (adv)",
+        "fruit (n)"
+      ],
+      "en": "The old lady downstairs often gives us fruit."
+    },
+    {
+      "vi": "Bạn có hay chào hỏi những người sống cùng tầng không?",
+      "hints": [
+        "often (adv)",
+        "say hello to (v)",
+        "floor (n)"
+      ],
+      "en": "Do you often say hello to the people on your floor?"
+    },
+    {
+      "vi": "Chúng tôi tổ chức dọn dẹp khu phố mỗi tháng một lần.",
+      "hints": [
+        "organize (v)",
+        "neighborhood (n)",
+        "cleanup (n)"
+      ],
+      "en": "We organize a neighborhood cleanup once a month."
+    },
+    {
+      "vi": "Tối qua gia đình ở tầng trên mở nhạc to đến tận nửa đêm.",
+      "hints": [
+        "upstairs (adv)",
+        "loud (adj)",
+        "until midnight"
+      ],
+      "en": "The family upstairs played loud music until midnight last night."
+    },
+    {
+      "vi": "Tôi làm tình nguyện viên ở thư viện địa phương vào mỗi Chủ nhật.",
+      "hints": [
+        "volunteer (v)",
+        "local (adj)",
+        "library (n)"
+      ],
+      "en": "I volunteer at the local library every Sunday."
+    },
+    {
+      "vi": "Tòa nhà chúng tôi có một nhóm chat để chia sẻ tin tức và thông báo.",
+      "hints": [
+        "building (n)",
+        "group chat (n)",
+        "update (n)"
+      ],
+      "en": "Our building has a group chat to share news and updates."
+    },
+    {
+      "vi": "Bạn có thể nhận giúp tôi bưu kiện nếu tôi không có nhà không?",
+      "hints": [
+        "could you",
+        "take in (v)",
+        "package (n)"
+      ],
+      "en": "Could you take in my package if I'm not home?"
+    },
+    {
+      "vi": "Tôi đã nhờ hàng xóm tưới cây giúp khi tôi đi vắng.",
+      "hints": [
+        "ask (v)",
+        "water (v)",
+        "plant (n)",
+        "be away"
+      ],
+      "en": "I asked my neighbor to water my plants while I was away."
+    },
+    {
+      "vi": "Quận này an toàn và yên tĩnh hơn quận cũ của tôi.",
+      "hints": [
+        "district (n)",
+        "safe (adj)",
+        "quiet (adj)"
+      ],
+      "en": "This district is safer and quieter than my old one."
+    },
+    {
+      "vi": "Vào cuối tuần, các cụ già thường tập thể dục cùng nhau ở công viên.",
+      "hints": [
+        "the elderly (n)",
+        "exercise (v)",
+        "together (adv)"
+      ],
+      "en": "On weekends, the elderly often exercise together in the park."
+    },
+    {
+      "vi": "Bạn nên tự giới thiệu với hàng xóm khi mới chuyển đến.",
+      "hints": [
+        "should",
+        "introduce oneself (v)",
+        "move in (v)"
+      ],
+      "en": "You should introduce yourself to your neighbors when you move in."
+    },
+    {
+      "vi": "Chúng tôi đã phàn nàn với ban quản lý về chiếc thang máy bị hỏng.",
+      "hints": [
+        "complain to (v)",
+        "management (n)",
+        "broken (adj)",
+        "elevator (n)"
+      ],
+      "en": "We complained to the management about the broken elevator."
+    },
+    {
+      "vi": "Người dân trong xóm đã quyên góp tiền để sửa con đường.",
+      "hints": [
+        "resident (n)",
+        "raise money (v)",
+        "repair (v)"
+      ],
+      "en": "The residents raised money to repair the road."
+    },
+    {
+      "vi": "Tôi không quen ai trong khu chung cư này, dù đã sống ở đây hai năm.",
+      "hints": [
+        "anyone",
+        "apartment complex (n)",
+        "even though"
+      ],
+      "en": "I don't know anyone in this apartment complex, even though I've lived here for two years."
+    },
+    {
+      "vi": "Chúng tôi sẽ họp tổ dân phố để bàn về việc lắp camera an ninh.",
+      "hints": [
+        "hold a meeting (v)",
+        "discuss (v)",
+        "install (v)",
+        "security camera (n)"
+      ],
+      "en": "We will hold a meeting to discuss installing security cameras."
+    },
+    {
+      "vi": "Nếu mọi người phân loại rác đúng cách, đường phố sẽ sạch hơn nhiều.",
+      "hints": [
+        "sort (v)",
+        "trash (n)",
+        "properly (adv)",
+        "much cleaner"
+      ],
+      "en": "If everyone sorted their trash properly, the streets would be much cleaner."
+    },
+    {
+      "vi": "Trong một cộng đồng gắn bó, mọi người luôn quan tâm giúp đỡ nhau những lúc khó khăn.",
+      "hints": [
+        "close-knit (adj)",
+        "community (n)",
+        "look out for (v)",
+        "one another"
+      ],
+      "en": "In a close-knit community, people look out for one another during hard times."
+    },
+    {
+      "vi": "Ban quản lý tòa nhà đã cho sơn lại toàn bộ hành lang sau khi cư dân phàn nàn nhiều lần.",
+      "hints": [
+        "have something done",
+        "hallway (n)",
+        "repaint (v)",
+        "past perfect",
+        "repeatedly (adv)"
+      ],
+      "en": "The building managers had all the hallways repainted after residents had complained repeatedly.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu hàng xóm không phát hiện ra khói, căn hộ của chúng tôi có lẽ đã bị cháy rụi.",
+      "hints": [
+        "third conditional",
+        "notice (v)",
+        "smoke (n)",
+        "might have",
+        "burn down (v)"
+      ],
+      "en": "If our neighbors hadn't noticed the smoke, our apartment might have burned down.",
+      "level": "B2"
+    },
+    {
+      "vi": "Người phụ nữ sống ở tầng trên đã trông con giúp chúng tôi nhiều lần mà không đòi hỏi gì đáp lại.",
+      "hints": [
+        "who",
+        "babysit (v)",
+        "several times",
+        "ask for (v)",
+        "in return"
+      ],
+      "en": "The woman who lives upstairs has babysat our kids several times without asking for anything in return.",
+      "level": "B2"
+    },
+    {
+      "vi": "Chúng tôi đã quyên góp được hơn mười triệu đồng để cải tạo khu vui chơi cho trẻ em trong khu phố.",
+      "hints": [
+        "manage to (v)",
+        "collect (v)",
+        "over (prep)",
+        "renovate (v)",
+        "play area (n)"
+      ],
+      "en": "We managed to collect over ten million dong to renovate the children's play area in our neighborhood.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi ước gì hàng xóm của tôi sẽ thôi hát karaoke ầm ĩ vào mỗi dịp cuối tuần.",
+      "hints": [
+        "wish + would",
+        "stop + V-ing",
+        "karaoke (n)",
+        "loudly (adv)"
+      ],
+      "en": "I wish my neighbors would stop singing karaoke so loudly every single weekend.",
+      "level": "B2"
+    },
+    {
+      "vi": "Trước đây khu này khá vắng vẻ, nhưng từ khi chợ đêm mở cửa, nó đã trở nên nhộn nhịp hơn nhiều.",
+      "hints": [
+        "used to",
+        "fairly (adv)",
+        "deserted (adj)",
+        "night market (n)",
+        "lively (adj)"
+      ],
+      "en": "This area used to be fairly deserted, but since the night market opened, it has become much livelier.",
+      "level": "B2"
+    },
+    {
+      "vi": "Miễn là mọi người giữ gìn không gian chung gọn gàng, khu dân cư của chúng ta sẽ luôn dễ chịu cho tất cả.",
+      "hints": [
+        "as long as",
+        "shared space (n)",
+        "tidy (adj)",
+        "residential (adj)",
+        "pleasant (adj)"
+      ],
+      "en": "As long as everyone keeps the shared spaces tidy, our residential area will remain pleasant for all.",
+      "level": "B2"
+    },
+    {
+      "vi": "Chúng tôi được thông báo rằng nước sẽ bị cắt từ 8 giờ sáng đến trưa mai để bảo trì đường ống.",
+      "hints": [
+        "be informed (v)",
+        "reported speech",
+        "cut off (v)",
+        "pipe (n)",
+        "maintenance (n)"
+      ],
+      "en": "We were informed that the water would be cut off from 8 a.m. until noon tomorrow for pipe maintenance.",
+      "level": "B2"
+    },
+    {
+      "vi": "Mặc dù mới chuyển đến được vài tháng, gia đình họ đã ổn định và hòa nhập với người dân địa phương rất tốt.",
+      "hints": [
+        "although",
+        "settle in (v)",
+        "blend in with (v)",
+        "the locals (n)",
+        "remarkably (adv)"
+      ],
+      "en": "Although they moved here only a few months ago, the family has settled in and blended in with the locals remarkably well.",
+      "level": "B2"
+    },
+    {
+      "vi": "Sẽ tốt hơn nếu chúng ta thành lập một nhóm tuần tra để giữ an ninh cho đường phố vào ban đêm.",
+      "hints": [
+        "it would be better if",
+        "set up (v)",
+        "patrol group (n)",
+        "secure (adj)",
+        "at night"
+      ],
+      "en": "It would be better if we set up a patrol group to keep the streets secure at night.",
+      "level": "B2"
+    }
+  ]
+}

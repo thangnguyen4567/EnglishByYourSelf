@@ -1,0 +1,306 @@
+{
+  "items": [
+    {
+      "vi": "Tôi thích nghe nhạc pop trên đường đi làm.",
+      "hints": [
+        "listen to (v)",
+        "pop music (n)",
+        "on my way to work"
+      ],
+      "en": "I like listening to pop music on my way to work."
+    },
+    {
+      "vi": "Tối qua chúng tôi đã xem một bộ phim hài rất buồn cười.",
+      "hints": [
+        "last night",
+        "comedy (n)",
+        "funny (adj)"
+      ],
+      "en": "Last night we watched a really funny comedy."
+    },
+    {
+      "vi": "Dạo này ca sĩ yêu thích của bạn là ai?",
+      "hints": [
+        "favorite (adj)",
+        "singer (n)",
+        "at the moment"
+      ],
+      "en": "Who is your favorite singer at the moment?"
+    },
+    {
+      "vi": "Tối nay mình đi rạp chiếu phim nhé?",
+      "hints": [
+        "shall we",
+        "movie theater (n)",
+        "tonight"
+      ],
+      "en": "Shall we go to the movie theater tonight?"
+    },
+    {
+      "vi": "Tôi đã mua hai vé cho buổi hòa nhạc vào thứ Bảy.",
+      "hints": [
+        "buy (v)",
+        "ticket (n)",
+        "concert (n)"
+      ],
+      "en": "I bought two tickets for the concert on Saturday."
+    },
+    {
+      "vi": "Em gái tôi học piano hai buổi một tuần.",
+      "hints": [
+        "take lessons (v)",
+        "piano (n)",
+        "twice a week"
+      ],
+      "en": "My little sister takes piano lessons twice a week."
+    },
+    {
+      "vi": "Bạn thích phim kinh dị hay phim hoạt hình hơn?",
+      "hints": [
+        "prefer (v)",
+        "horror movie (n)",
+        "animated film (n)"
+      ],
+      "en": "Do you prefer horror movies or animated films?"
+    },
+    {
+      "vi": "Bài hát này đang đứng đầu bảng xếp hạng.",
+      "hints": [
+        "song (n)",
+        "top of the charts",
+        "right now"
+      ],
+      "en": "This song is at the top of the charts right now."
+    },
+    {
+      "vi": "Tôi thường xem phim có phụ đề tiếng Anh để luyện nghe.",
+      "hints": [
+        "often (adv)",
+        "subtitle (n)",
+        "practice (v)",
+        "listening (n)"
+      ],
+      "en": "I often watch movies with English subtitles to practice listening."
+    },
+    {
+      "vi": "Nam diễn viên chính đã diễn xuất rất tuyệt vời.",
+      "hints": [
+        "lead actor (n)",
+        "give a performance (v)",
+        "amazing (adj)"
+      ],
+      "en": "The lead actor gave an amazing performance."
+    },
+    {
+      "vi": "Bạn đã xem phần tiếp theo của bộ phim đó chưa?",
+      "hints": [
+        "see (v)",
+        "sequel (n)",
+        "yet (adv)"
+      ],
+      "en": "Have you seen the sequel to that movie yet?"
+    },
+    {
+      "vi": "Ban nhạc sẽ phát hành album mới vào tháng sau.",
+      "hints": [
+        "band (n)",
+        "release (v)",
+        "album (n)"
+      ],
+      "en": "The band is going to release a new album next month."
+    },
+    {
+      "vi": "Bộ phim có một cái kết bất ngờ khiến mọi người sửng sốt.",
+      "hints": [
+        "unexpected (adj)",
+        "ending (n)",
+        "shock (v)"
+      ],
+      "en": "The film has an unexpected ending that shocked everyone."
+    },
+    {
+      "vi": "Tôi thường tải danh sách phát về để nghe khi không có mạng.",
+      "hints": [
+        "download (v)",
+        "playlist (n)",
+        "offline (adv)"
+      ],
+      "en": "I usually download playlists so I can enjoy them offline."
+    },
+    {
+      "vi": "Bộ phim này được chuyển thể từ một cuốn sách bán chạy.",
+      "hints": [
+        "be adapted from (v)",
+        "best-selling (adj)",
+        "book (n)"
+      ],
+      "en": "This movie is adapted from a best-selling book."
+    },
+    {
+      "vi": "Tôi đã mở đi mở lại bài hát này cả tuần, nó cứ văng vẳng trong đầu tôi.",
+      "hints": [
+        "on repeat",
+        "all week",
+        "be stuck in my head"
+      ],
+      "en": "I've played this song on repeat all week; it's stuck in my head."
+    },
+    {
+      "vi": "Theo tôi, cốt truyện hơi khó hiểu nhưng hiệu ứng đặc biệt thì tuyệt vời.",
+      "hints": [
+        "in my opinion",
+        "plot (n)",
+        "confusing (adj)",
+        "special effects (n)"
+      ],
+      "en": "In my opinion, the plot was a bit confusing, but the special effects were great."
+    },
+    {
+      "vi": "Nếu bạn mê phim tài liệu, bộ phim này chắc chắn đáng xem.",
+      "hints": [
+        "be into (v)",
+        "documentary (n)",
+        "definitely (adv)",
+        "worth watching"
+      ],
+      "en": "If you're into documentaries, this one is definitely worth watching."
+    },
+    {
+      "vi": "Khán giả đã đứng dậy vỗ tay khi buổi biểu diễn kết thúc.",
+      "hints": [
+        "audience (n)",
+        "standing ovation (n)",
+        "show (n)",
+        "end (v)"
+      ],
+      "en": "The audience gave a standing ovation when the show ended."
+    },
+    {
+      "vi": "Tôi thích xem phim trực tuyến ở nhà hơn, nhưng luôn đọc bài đánh giá trên mạng trước.",
+      "hints": [
+        "would rather",
+        "stream (v)",
+        "online review (n)",
+        "first (adv)"
+      ],
+      "en": "I'd rather stream movies at home, but I always read online reviews first."
+    },
+    {
+      "vi": "Bộ phim mà tôi đã mong chờ suốt cả năm hóa ra lại khá đáng thất vọng.",
+      "hints": [
+        "look forward to (v)",
+        "all year",
+        "turn out (v)",
+        "disappointing (adj)"
+      ],
+      "en": "The movie I'd been looking forward to all year turned out to be pretty disappointing.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu tôi biết trước cái kết lại đau lòng như vậy, tôi đã mang theo khăn giấy.",
+      "hints": [
+        "third conditional",
+        "heartbreaking (adj)",
+        "bring (v)",
+        "tissue (n)"
+      ],
+      "en": "If I had known the ending would be so heartbreaking, I would have brought some tissues.",
+      "level": "B2"
+    },
+    {
+      "vi": "Ban nhạc ấy đã lưu diễn khắp châu Á từ đầu năm và vé luôn được bán hết chỉ trong vài phút.",
+      "hints": [
+        "tour (v)",
+        "across (prep)",
+        "since the beginning of the year",
+        "sell out (v)",
+        "within minutes"
+      ],
+      "en": "The band has been touring across Asia since the beginning of the year, and tickets always sell out within minutes.",
+      "level": "B2"
+    },
+    {
+      "vi": "Đạo diễn nói rằng phần tiếp theo sẽ được quay hoàn toàn ở Việt Nam.",
+      "hints": [
+        "director (n)",
+        "reported speech",
+        "follow-up (n)",
+        "be shot (v)",
+        "entirely (adv)"
+      ],
+      "en": "The director said that the follow-up would be shot entirely in Vietnam.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi thà xem những bộ phim khiến người ta suy ngẫm còn hơn là phim hành động chỉ toàn cháy nổ.",
+      "hints": [
+        "would sooner ... than",
+        "thought-provoking (adj)",
+        "action movie (n)",
+        "nothing but",
+        "explosion (n)"
+      ],
+      "en": "I'd much sooner watch thought-provoking films than action movies that are nothing but explosions.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bản nhạc này luôn khiến tôi thấy hoài niệm vì nó gợi tôi nhớ về mùa hè năm ấy, khi chúng tôi còn học đại học.",
+      "hints": [
+        "track (n)",
+        "nostalgic (adj)",
+        "remind someone of (v)",
+        "in college"
+      ],
+      "en": "This track always makes me feel nostalgic because it reminds me of that summer when we were still in college.",
+      "level": "B2"
+    },
+    {
+      "vi": "Bộ phim được giới phê bình đánh giá cao nhưng lại không thành công về doanh thu phòng vé.",
+      "hints": [
+        "highly (adv)",
+        "be praised (v)",
+        "critic (n)",
+        "fail to (v)",
+        "box office (n)"
+      ],
+      "en": "The film was highly praised by critics, but it failed to do well at the box office.",
+      "level": "B2"
+    },
+    {
+      "vi": "Tôi đã nghe đĩa nhạc mới của cô ấy liên tục từ khi nó ra mắt vào thứ Sáu tuần trước.",
+      "hints": [
+        "present perfect continuous",
+        "record (n)",
+        "nonstop (adv)",
+        "come out (v)",
+        "last Friday"
+      ],
+      "en": "I've been listening to her new record nonstop since it came out last Friday.",
+      "level": "B2"
+    },
+    {
+      "vi": "Nếu rạp chiếu phim gần nhà tôi có phụ đề tiếng Anh, tôi sẽ đi xem phim thường xuyên hơn.",
+      "hints": [
+        "second conditional",
+        "cinema (n)",
+        "offer (v)",
+        "caption (n)",
+        "go to the movies (v)"
+      ],
+      "en": "If the cinema near my house offered English captions, I would go to the movies more often.",
+      "level": "B2"
+    },
+    {
+      "vi": "Ca sĩ đó không chỉ có giọng hát tuyệt vời mà còn tự sáng tác hầu hết các bài hát của mình.",
+      "hints": [
+        "not only ... but also",
+        "incredible (adj)",
+        "voice (n)",
+        "compose (v)",
+        "one's own"
+      ],
+      "en": "That singer not only has an incredible voice but also composes most of her own songs.",
+      "level": "B2"
+    }
+  ]
+}
