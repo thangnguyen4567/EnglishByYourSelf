@@ -91,99 +91,117 @@
       "en": "Could you take in my package if I'm not home?"
     },
     {
-      "vi": "Tôi đã nhờ hàng xóm tưới cây giúp khi tôi đi vắng.",
+      "vi": "Bạn đã gặp gia đình mới chuyển đến căn hộ đối diện chưa?",
       "hints": [
-        "ask (v)",
+        "present perfect",
+        "move into (v)",
+        "across the hall",
+        "yet (adv)"
+      ],
+      "en": "Have you met the new family who moved into the apartment across the hall yet?",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi đang tưới cây ngoài ban công thì nghe thấy ai đó kêu cứu ở tầng dưới.",
+      "hints": [
+        "past continuous",
         "water (v)",
-        "plant (n)",
-        "be away"
+        "balcony (n)",
+        "call for help (v)",
+        "downstairs (adv)"
       ],
-      "en": "I asked my neighbor to water my plants while I was away."
+      "en": "I was watering the plants on my balcony when I heard someone calling for help downstairs.",
+      "level": "B1"
     },
     {
-      "vi": "Quận này an toàn và yên tĩnh hơn quận cũ của tôi.",
+      "vi": "Nếu bạn đỗ xe trước cổng nhà người khác, có lẽ họ sẽ rất khó chịu.",
       "hints": [
-        "district (n)",
-        "safe (adj)",
-        "quiet (adj)"
+        "first conditional",
+        "park (v)",
+        "gate (n)",
+        "get annoyed (v)"
       ],
-      "en": "This district is safer and quieter than my old one."
+      "en": "If you park in front of someone's gate, they will probably get annoyed.",
+      "level": "B1"
     },
     {
-      "vi": "Vào cuối tuần, các cụ già thường tập thể dục cùng nhau ở công viên.",
+      "vi": "Khu phố cũ của tôi ồn ào hơn, nhưng mọi người ở đó thân thiện hơn nhiều.",
       "hints": [
-        "the elderly (n)",
-        "exercise (v)",
-        "together (adv)"
+        "noisier (adj)",
+        "much friendlier",
+        "neighborhood (n)",
+        "there (adv)"
       ],
-      "en": "On weekends, the elderly often exercise together in the park."
+      "en": "My old neighborhood was noisier, but the people there were much friendlier.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn nên tự giới thiệu với hàng xóm khi mới chuyển đến.",
+      "vi": "Bọn trẻ trên con phố của chúng tôi từng chơi đá cầu cùng nhau mỗi buổi chiều.",
       "hints": [
-        "should",
-        "introduce oneself (v)",
-        "move in (v)"
+        "used to",
+        "shuttlecock (n)",
+        "together (adv)",
+        "every afternoon"
       ],
-      "en": "You should introduce yourself to your neighbors when you move in."
+      "en": "The kids on our street used to play shuttlecock together every afternoon.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng tôi đã phàn nàn với ban quản lý về chiếc thang máy bị hỏng.",
+      "vi": "Tháng tới khu phố chúng tôi sẽ tổ chức một hội chợ nhỏ để quyên góp tiền cho trẻ em nghèo.",
       "hints": [
-        "complain to (v)",
-        "management (n)",
-        "broken (adj)",
-        "elevator (n)"
+        "be going to",
+        "hold (v)",
+        "fair (n)",
+        "raise money (v)"
       ],
-      "en": "We complained to the management about the broken elevator."
+      "en": "Our neighborhood is going to hold a small fair next month to raise money for poor children.",
+      "level": "B1"
     },
     {
-      "vi": "Người dân trong xóm đã quyên góp tiền để sửa con đường.",
+      "vi": "Cư dân phải mang rác ra ngoài trước 8 giờ tối, nếu không xe rác sẽ không thu gom.",
       "hints": [
+        "have to",
         "resident (n)",
-        "raise money (v)",
-        "repair (v)"
-      ],
-      "en": "The residents raised money to repair the road."
-    },
-    {
-      "vi": "Tôi không quen ai trong khu chung cư này, dù đã sống ở đây hai năm.",
-      "hints": [
-        "anyone",
-        "apartment complex (n)",
-        "even though"
-      ],
-      "en": "I don't know anyone in this apartment complex, even though I've lived here for two years."
-    },
-    {
-      "vi": "Chúng tôi sẽ họp tổ dân phố để bàn về việc lắp camera an ninh.",
-      "hints": [
-        "hold a meeting (v)",
-        "discuss (v)",
-        "install (v)",
-        "security camera (n)"
-      ],
-      "en": "We will hold a meeting to discuss installing security cameras."
-    },
-    {
-      "vi": "Nếu mọi người phân loại rác đúng cách, đường phố sẽ sạch hơn nhiều.",
-      "hints": [
-        "sort (v)",
+        "put out (v)",
         "trash (n)",
-        "properly (adv)",
-        "much cleaner"
+        "collect (v)"
       ],
-      "en": "If everyone sorted their trash properly, the streets would be much cleaner."
+      "en": "Residents have to put out their trash before 8 p.m., or the truck won't collect it.",
+      "level": "B1"
     },
     {
-      "vi": "Trong một cộng đồng gắn bó, mọi người luôn quan tâm giúp đỡ nhau những lúc khó khăn.",
+      "vi": "Bà Lan rất thích trò chuyện với hàng xóm và luôn sẵn lòng giúp đỡ khi ai đó cần.",
       "hints": [
-        "close-knit (adj)",
-        "community (n)",
-        "look out for (v)",
-        "one another"
+        "enjoy + V-ing",
+        "chat with (v)",
+        "offer to (v)",
+        "neighbor (n)"
       ],
-      "en": "In a close-knit community, people look out for one another during hard times."
+      "en": "Mrs. Lan enjoys chatting with the neighbors and always offers to help when someone needs it.",
+      "level": "B1"
+    },
+    {
+      "vi": "Con hẻm nhà tôi quá hẹp để ô tô đi vào, nên chúng tôi chủ yếu đi lại bằng xe máy.",
+      "hints": [
+        "too ... for",
+        "alley (n)",
+        "narrow (adj)",
+        "get around (v)",
+        "motorbike (n)"
+      ],
+      "en": "Our alley is too narrow for cars, so we mostly get around by motorbike.",
+      "level": "B1"
+    },
+    {
+      "vi": "Bác bảo vệ của tòa nhà thân thiện đến mức ai cũng biết tên bác ấy.",
+      "hints": [
+        "so ... that",
+        "security guard (n)",
+        "friendly (adj)",
+        "name (n)"
+      ],
+      "en": "The security guard in our building is so friendly that everyone knows his name.",
+      "level": "B1"
     },
     {
       "vi": "Ban quản lý tòa nhà đã cho sơn lại toàn bộ hành lang sau khi cư dân phàn nàn nhiều lần.",

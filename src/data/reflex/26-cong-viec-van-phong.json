@@ -95,104 +95,116 @@
       "en": "The company allows employees to work from home two days a week."
     },
     {
-      "vi": "Đồng nghiệp của tôi vừa được thăng chức lên trưởng nhóm.",
+      "vi": "Tôi đã làm việc ở công ty này được ba năm, và tôi đã học hỏi được rất nhiều từ quản lý của mình.",
       "hints": [
-        "colleague (n)",
-        "just (adv)",
-        "get promoted (v)",
-        "team leader (n)"
+        "present perfect",
+        "for three years",
+        "learn (v)",
+        "manager (n)"
       ],
-      "en": "My colleague has just been promoted to team leader."
+      "en": "I have worked at this company for three years, and I've learned a lot from my manager.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã nộp đơn ứng tuyển vào ba công ty nhưng chưa ai trả lời.",
+      "vi": "Tôi đang thuyết trình cho khách hàng thì máy chiếu ngừng hoạt động.",
       "hints": [
-        "apply for (v)",
-        "position (n)",
-        "reply (v)",
-        "yet (adv)"
-      ],
-      "en": "I have applied for positions at three companies, but nobody has replied yet."
-    },
-    {
-      "vi": "Trước buổi phỏng vấn, bạn nên cập nhật sơ yếu lý lịch.",
-      "hints": [
-        "interview (n)",
-        "update (v)",
-        "résumé (n)"
-      ],
-      "en": "Before the interview, you should update your résumé."
-    },
-    {
-      "vi": "Tuần sau tôi sẽ đi công tác ở Hà Nội.",
-      "hints": [
-        "be going to (v)",
-        "go on a business trip (v)",
-        "next week"
-      ],
-      "en": "I'm going to go on a business trip to Hanoi next week."
-    },
-    {
-      "vi": "Khách hàng muốn chúng tôi thay đổi thiết kế trước khi ký hợp đồng.",
-      "hints": [
+        "past continuous",
+        "give a presentation (v)",
         "client (n)",
-        "change (v)",
-        "design (n)",
-        "sign (v)",
+        "projector (n)",
+        "stop working (v)"
+      ],
+      "en": "I was giving a presentation to the clients when the projector stopped working.",
+      "level": "B1"
+    },
+    {
+      "vi": "Nếu chúng ta không hoàn thành báo cáo trước thứ Sáu, khách hàng sẽ hủy hợp đồng.",
+      "hints": [
+        "first conditional",
+        "report (n)",
+        "by Friday",
+        "cancel (v)",
         "contract (n)"
       ],
-      "en": "The client wants us to change the design before signing the contract."
+      "en": "If we don't finish the report by Friday, the client will cancel the contract.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi hơi lo vì phải thuyết trình trước cả phòng.",
+      "vi": "Văn phòng mới của tôi rộng và sáng hơn văn phòng cũ, nhưng lại xa nhà hơn.",
       "hints": [
-        "a bit",
-        "nervous (adj)",
-        "give a presentation (v)",
-        "whole (adj)",
-        "team (n)"
+        "comparative",
+        "office (n)",
+        "bright (adj)",
+        "far (adj)"
       ],
-      "en": "I'm a bit nervous because I have to give a presentation to the whole team."
+      "en": "My new office is bigger and brighter than the old one, but it's farther from my home.",
+      "level": "B1"
     },
     {
-      "vi": "Khối lượng công việc tháng này nặng hơn nhiều so với tháng trước.",
+      "vi": "Trước đây tôi thường kiểm tra email công việc trước khi ăn sáng, nhưng giờ tôi đợi đến khi tới văn phòng.",
       "hints": [
-        "workload (n)",
-        "heavy (adj)",
-        "than (prep)",
-        "last month"
+        "used to",
+        "check (v)",
+        "work email (n)",
+        "until (conj)"
       ],
-      "en": "My workload this month is much heavier than last month."
+      "en": "I used to check my work emails before breakfast, but now I wait until I get to the office.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu được tăng lương, tôi sẽ không nghỉ việc.",
+      "vi": "Nhóm chúng tôi sẽ ra mắt sản phẩm mới vào tháng sau, nên bây giờ ai cũng rất bận.",
       "hints": [
-        "get a raise (v)",
-        "quit (v)",
-        "job (n)"
+        "be going to",
+        "launch (v)",
+        "product (n)",
+        "busy (adj)"
       ],
-      "en": "If I get a raise, I won't quit my job."
+      "en": "Our team is going to launch the new product next month, so everyone is very busy now.",
+      "level": "B1"
     },
     {
-      "vi": "Công ty đang tuyển thêm nhân viên vì dự án mới rất lớn.",
+      "vi": "Nhân viên mới phải hoàn thành một khóa đào tạo hai tuần trước khi bắt đầu làm các dự án thực tế.",
       "hints": [
-        "hire (v)",
-        "more (adj)",
-        "staff (n)",
-        "project (n)",
-        "huge (adj)"
+        "have to",
+        "new employee (n)",
+        "complete (v)",
+        "training course (n)"
       ],
-      "en": "The company is hiring more staff because the new project is huge."
+      "en": "New employees have to complete a two-week training course before they start working on real projects.",
+      "level": "B1"
     },
     {
-      "vi": "Làm việc nhóm hiệu quả giúp chúng tôi hoàn thành dự án sớm hơn dự kiến.",
+      "vi": "Tôi đang tính chuyện xin sếp tăng lương sau khi hoàn thành dự án lớn này.",
       "hints": [
-        "effective (adj)",
-        "teamwork (n)",
-        "finish (v)",
-        "ahead of schedule"
+        "think about + V-ing",
+        "ask for (v)",
+        "raise (n)",
+        "finish (v)"
       ],
-      "en": "Effective teamwork helped us finish the project ahead of schedule."
+      "en": "I'm thinking about asking my boss for a raise after I finish this big project.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi không có đủ thời gian để chuẩn bị slide, nên tôi đã nhờ một đồng nghiệp giúp.",
+      "hints": [
+        "enough (adj)",
+        "prepare (v)",
+        "slide (n)",
+        "coworker (n)"
+      ],
+      "en": "I didn't have enough time to prepare the slides, so I asked a coworker to help me.",
+      "level": "B1"
+    },
+    {
+      "vi": "Cuộc họp dài và chán đến mức có hai người ngủ gục trên bàn.",
+      "hints": [
+        "so... that",
+        "meeting (n)",
+        "boring (adj)",
+        "fall asleep (v)"
+      ],
+      "en": "The meeting was so long and boring that two people fell asleep at the table.",
+      "level": "B1"
     },
     {
       "vi": "Nếu tôi kiểm tra kỹ lại các số liệu, sếp đã không phải sửa báo cáo vào phút chót.",

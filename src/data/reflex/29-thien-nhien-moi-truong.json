@@ -95,101 +95,117 @@
       "en": "Last year floods destroyed many houses in the central region."
     },
     {
-      "vi": "Mực nước biển đang dâng lên vì biến đổi khí hậu.",
+      "vi": "Gia đình tôi đã dùng tấm pin mặt trời trên mái nhà được hai năm, và hóa đơn tiền điện đã giảm đáng kể.",
       "hints": [
-        "sea level (n)",
-        "rise (v)",
-        "climate change (n)"
+        "present perfect",
+        "solar panel (n)",
+        "roof (n)",
+        "electricity bill (n)",
+        "drop (v)"
       ],
-      "en": "Sea levels are rising because of climate change."
+      "en": "Our family has used solar panels on the roof for two years, and our electricity bill has dropped a lot.",
+      "level": "B1"
     },
     {
-      "vi": "Mùa hè năm nay nóng hơn và khô hơn mọi năm.",
+      "vi": "Chúng tôi đang đi bộ gần thác nước thì nhìn thấy một gia đình khỉ trên cây.",
       "hints": [
-        "summer (n)",
-        "hotter (adj)",
-        "drier (adj)",
-        "usual (adj)"
+        "past continuous",
+        "hike (v)",
+        "waterfall (n)",
+        "monkey (n)"
       ],
-      "en": "This summer is hotter and drier than usual."
+      "en": "We were hiking near the waterfall when we saw a family of monkeys in the trees.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng ta nên dùng năng lượng mặt trời thay vì than đá.",
+      "vi": "Nếu chúng ta cứ tiếp tục chặt cây trên đồi, lũ lụt sẽ ngày càng tệ hơn mỗi năm.",
       "hints": [
-        "solar energy (n)",
-        "instead of (prep)",
-        "coal (n)"
+        "first conditional",
+        "keep + V-ing",
+        "cut down (v)",
+        "flood (n)",
+        "get worse (v)"
       ],
-      "en": "We should use solar energy instead of coal."
+      "en": "If we keep cutting down trees on the hills, the floods will get worse every year.",
+      "level": "B1"
     },
     {
-      "vi": "Nhiều loài động vật hoang dã đang có nguy cơ tuyệt chủng.",
+      "vi": "Vịnh Hạ Long là một trong những kỳ quan thiên nhiên đẹp nhất Việt Nam, nhưng nó đang ngày càng ô nhiễm hơn.",
       "hints": [
-        "wildlife (n)",
-        "species (n)",
-        "endangered (adj)"
+        "one of the most",
+        "natural wonder (n)",
+        "become (v)",
+        "polluted (adj)"
       ],
-      "en": "Many wildlife species are endangered."
+      "en": "Ha Long Bay is one of the most beautiful natural wonders in Vietnam, but it's becoming more polluted.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn đã bao giờ ngắm bình minh trên biển chưa?",
+      "vi": "Con sông này từng có rất nhiều cá, nhưng giờ hầu như chẳng còn con nào.",
       "hints": [
-        "ever (adv)",
-        "watch (v)",
-        "sunrise (n)",
-        "over the sea"
+        "used to",
+        "river (n)",
+        "full of (adj)",
+        "hardly (adv)"
       ],
-      "en": "Have you ever watched the sunrise over the sea?"
+      "en": "This river used to be full of fish, but now you can hardly find any.",
+      "level": "B1"
     },
     {
-      "vi": "Việc chặt phá rừng khiến đất bị xói mòn và gây sạt lở.",
+      "vi": "Nhìn những đám mây đen kia kìa! Trời sắp mưa rồi, chúng ta quay về khu cắm trại thôi.",
       "hints": [
-        "deforestation (n)",
-        "cause (v)",
-        "soil erosion (n)",
-        "landslide (n)"
+        "be going to",
+        "dark cloud (n)",
+        "head back (v)",
+        "campsite (n)"
       ],
-      "en": "Deforestation causes soil erosion and landslides."
+      "en": "Look at those dark clouds! It's going to rain, so let's head back to the campsite.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu mọi người đi xe đạp nhiều hơn, khí thải sẽ giảm đáng kể.",
+      "vi": "Du khách phải đi đúng các lối mòn đã được đánh dấu để không làm hư hại cây cối.",
       "hints": [
-        "cycle (v)",
-        "emission (n)",
-        "decrease (v)",
-        "significantly (adv)"
+        "have to",
+        "visitor (n)",
+        "marked trail (n)",
+        "damage (v)",
+        "plant (n)"
       ],
-      "en": "If people cycled more, emissions would decrease significantly."
+      "en": "Visitors have to stay on the marked trails so that they don't damage the plants.",
+      "level": "B1"
     },
     {
-      "vi": "Nhóm tình nguyện của chúng tôi dọn rác ở bãi biển mỗi cuối tuần.",
+      "vi": "Các con tôi thích nhặt chai nhựa ở công viên và mang chúng đến trung tâm tái chế.",
       "hints": [
-        "volunteer group (n)",
-        "clean up (v)",
-        "beach (n)",
-        "every weekend"
+        "enjoy + V-ing",
+        "collect (v)",
+        "plastic bottle (n)",
+        "recycling center (n)"
       ],
-      "en": "Our volunteer group cleans up the beach every weekend."
+      "en": "My kids enjoy collecting plastic bottles at the park and taking them to the recycling center.",
+      "level": "B1"
     },
     {
-      "vi": "Chính phủ sẽ cấm đồ nhựa dùng một lần trong vài năm tới.",
+      "vi": "Buổi trưa trời nóng quá không ra ngoài được, nên chúng tôi sẽ đi dạo vào buổi tối.",
       "hints": [
-        "government (n)",
-        "ban (v)",
-        "single-use plastic (n)",
-        "in the next few years"
+        "too... to",
+        "hot (adj)",
+        "at noon",
+        "go for a walk (v)"
       ],
-      "en": "The government will ban single-use plastics in the next few years."
+      "en": "It's too hot to go outside at noon, so we'll go for a walk in the evening.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng ta cần bảo vệ tài nguyên thiên nhiên cho các thế hệ tương lai.",
+      "vi": "Khói bụi trong thành phố dày đặc đến mức chúng tôi không nhìn thấy các tòa nhà bên kia đường.",
       "hints": [
-        "need (v)",
-        "protect (v)",
-        "natural resource (n)",
-        "future generation (n)"
+        "so... that",
+        "smog (n)",
+        "thick (adj)",
+        "across the street"
       ],
-      "en": "We need to protect natural resources for future generations."
+      "en": "The smog in the city was so thick that we couldn't see the buildings across the street.",
+      "level": "B1"
     },
     {
       "vi": "Nếu chính quyền hành động sớm hơn, nhiều loài động vật hoang dã đã không bị tuyệt chủng.",

@@ -97,102 +97,118 @@
       "en": "I have set a target to jog every morning."
     },
     {
-      "vi": "Bạn thấy mình sẽ ở đâu trong mười năm nữa?",
+      "vi": "Tôi đã muốn đến Nhật Bản từ hồi còn là thiếu niên, và tuần trước cuối cùng tôi cũng đặt vé.",
       "hints": [
-        "see yourself",
-        "where",
-        "in ten years"
-      ],
-      "en": "Where do you see yourself in ten years?"
-    },
-    {
-      "vi": "Có lẽ tôi sẽ chuyển đến Đà Nẵng để sống gần biển.",
-      "hints": [
-        "probably (adv)",
-        "move to (v)",
-        "live (v)",
-        "near the sea"
-      ],
-      "en": "I will probably move to Da Nang to live near the sea."
-    },
-    {
-      "vi": "Đừng bỏ cuộc chỉ vì bạn gặp vài khó khăn.",
-      "hints": [
-        "give up (v)",
-        "just because",
-        "face (v)",
-        "difficulty (n)"
-      ],
-      "en": "Don't give up just because you face a few difficulties."
-    },
-    {
-      "vi": "Tôi đang để dành tiền cho chuyến du lịch châu Âu.",
-      "hints": [
-        "put aside (v)",
-        "money (n)",
-        "trip (n)",
-        "Europe (n)"
-      ],
-      "en": "I'm putting aside money for a trip to Europe."
-    },
-    {
-      "vi": "Nếu có đủ thời gian, tôi sẽ học thêm tiếng Hàn.",
-      "hints": [
-        "enough (adj)",
-        "time (n)",
-        "learn (v)",
-        "Korean (n)"
-      ],
-      "en": "If I have enough time, I will learn Korean too."
-    },
-    {
-      "vi": "Cô ấy cuối cùng đã thực hiện được ước mơ cả đời là mở tiệm bánh.",
-      "hints": [
+        "present perfect",
+        "since (conj)",
+        "teenager (n)",
         "finally (adv)",
-        "achieve (v)",
-        "lifelong dream (n)",
-        "bakery (n)"
+        "book (v)"
       ],
-      "en": "She has finally achieved her lifelong dream of opening a bakery."
+      "en": "I have wanted to visit Japan since I was a teenager, and I finally booked my tickets last week.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi muốn khởi nghiệp nhưng vẫn chưa đủ kinh nghiệm.",
+      "vi": "Hồi đang làm bồi bàn, tôi quyết định đi học lại ngành thiết kế.",
       "hints": [
-        "start a business (v)",
-        "experience (n)",
-        "yet (adv)"
+        "past continuous",
+        "waiter (n)",
+        "decide (v)",
+        "go back to school (v)",
+        "design (n)"
       ],
-      "en": "I want to start a business, but I don't have enough experience yet."
+      "en": "I was working as a waiter when I decided to go back to school and study design.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn nên chia mục tiêu lớn thành những bước nhỏ.",
+      "vi": "Nếu tôi thi đậu IELTS vào mùa hè này, tôi sẽ nộp hồ sơ học thạc sĩ ở Úc.",
       "hints": [
-        "break down (v)",
-        "big (adj)",
-        "step (n)"
+        "first conditional",
+        "pass (v)",
+        "apply for (v)",
+        "master's program (n)"
       ],
-      "en": "You should break big goals down into small steps."
+      "en": "If I pass the IELTS exam this summer, I will apply for a master's program in Australia.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu tôi trúng xổ số, tôi sẽ mua một ngôi nhà cho bố mẹ.",
+      "vi": "Với tôi, được hạnh phúc quan trọng hơn kiếm được nhiều tiền.",
       "hints": [
-        "win (v)",
-        "lottery (n)",
-        "buy (v)",
-        "parents (n)"
+        "comparative",
+        "happy (adj)",
+        "important (adj)",
+        "earn (v)"
       ],
-      "en": "If I won the lottery, I would buy a house for my parents."
+      "en": "For me, being happy is more important than earning a lot of money.",
+      "level": "B1"
     },
     {
-      "vi": "Dù kế hoạch có thay đổi, tôi vẫn quyết tâm theo đuổi đam mê của mình.",
+      "vi": "Tôi từng mơ trở nên nổi tiếng, nhưng giờ tôi chỉ muốn một cuộc sống bình yên ở vùng quê.",
       "hints": [
-        "even if",
-        "change (v)",
-        "determined (adj)",
-        "pursue (v)",
-        "passion (n)"
+        "used to",
+        "dream about (v)",
+        "famous (adj)",
+        "peaceful (adj)",
+        "countryside (n)"
       ],
-      "en": "Even if my plans change, I'm determined to pursue my passion."
+      "en": "I used to dream about becoming famous, but now I just want a peaceful life in the countryside.",
+      "level": "B1"
+    },
+    {
+      "vi": "Năm sau tôi sẽ mở cửa hàng trực tuyến của riêng mình, và tôi nghĩ nó sẽ thành công.",
+      "hints": [
+        "be going to",
+        "will",
+        "online shop (n)",
+        "successful (adj)"
+      ],
+      "en": "I'm going to start my own online shop next year, and I think it will be successful.",
+      "level": "B1"
+    },
+    {
+      "vi": "Có thể bạn sẽ không đạt được mọi mục tiêu, nhưng bạn nên tiếp tục cố gắng và rút kinh nghiệm từ sai lầm.",
+      "hints": [
+        "might (modal)",
+        "should (modal)",
+        "reach (v)",
+        "goal (n)",
+        "mistake (n)"
+      ],
+      "en": "You might not reach every goal, but you should keep trying and learn from your mistakes.",
+      "level": "B1"
+    },
+    {
+      "vi": "Anh trai tôi đang cân nhắc chuyện ra nước ngoài để tìm công việc tốt hơn và tích lũy thêm kinh nghiệm.",
+      "hints": [
+        "consider + V-ing",
+        "move abroad (v)",
+        "better (adj)",
+        "gain experience (v)"
+      ],
+      "en": "My brother is considering moving abroad to find a better job and gain more experience.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi chưa đủ tự tin để phát biểu trước đám đông, nhưng tuần nào tôi cũng luyện tập.",
+      "hints": [
+        "enough (adv)",
+        "confident (adj)",
+        "give a speech (v)",
+        "in public"
+      ],
+      "en": "I'm not confident enough to give a speech in public yet, but I'm practicing every week.",
+      "level": "B1"
+    },
+    {
+      "vi": "Cô ấy hào hứng với kế hoạch mới đến mức cả đêm không ngủ được.",
+      "hints": [
+        "so... that",
+        "excited about (adj)",
+        "plan (n)",
+        "all night"
+      ],
+      "en": "She was so excited about her new plan that she couldn't sleep all night.",
+      "level": "B1"
     },
     {
       "vi": "Nếu hồi đó tôi theo học âm nhạc, có lẽ bây giờ tôi đã là một nhạc sĩ chuyên nghiệp.",

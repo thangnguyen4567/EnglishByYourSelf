@@ -92,99 +92,117 @@
       "en": "Last year we adopted a puppy from an animal shelter."
     },
     {
-      "vi": "Tuần tới tôi phải đưa mèo đến bác sĩ thú y để tiêm phòng.",
+      "vi": "Nhà tôi đã nuôi con rùa này được mười lăm năm, nên nó còn lớn tuổi hơn cả em gái tôi.",
       "hints": [
-        "take (v)",
-        "vet (n)",
-        "vaccination (n)"
+        "present perfect",
+        "turtle (n)",
+        "for fifteen years",
+        "older than"
       ],
-      "en": "I have to take my cat to the vet for vaccinations next week."
+      "en": "We've had this turtle for fifteen years, so it's older than my little sister.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đang dạy chó của mình ngồi và đưa chân.",
+      "vi": "Tôi đang dắt chó đi dạo thì nó đột nhiên đuổi theo một con mèo hoang.",
       "hints": [
-        "teach (v)",
-        "sit (v)",
-        "paw (n)"
+        "past continuous",
+        "walk a dog (v)",
+        "chase after (v)",
+        "stray cat (n)"
       ],
-      "en": "I'm teaching my dog to sit and give its paw."
+      "en": "I was walking my dog when it suddenly chased after a stray cat.",
+      "level": "B1"
     },
     {
-      "vi": "Con mèo của tôi rụng lông rất nhiều vào mùa hè.",
+      "vi": "Nếu bạn để sô-cô-la trên bàn, con chó có lẽ sẽ ăn nó và bị ốm.",
       "hints": [
-        "shed (v)",
-        "fur (n)",
-        "in the summer"
+        "first conditional",
+        "leave (v)",
+        "probably (adv)",
+        "get sick (v)"
       ],
-      "en": "My cat sheds a lot of fur in the summer."
+      "en": "If you leave chocolate on the table, the dog will probably eat it and get sick.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn đi du lịch, ai sẽ chăm sóc con vẹt của bạn?",
+      "vi": "Nuôi mèo dễ hơn nuôi chó vì mèo không cần được dắt đi dạo hằng ngày.",
       "hints": [
-        "go on vacation (v)",
-        "look after (v)",
-        "parrot (n)"
+        "easier than",
+        "keep (v)",
+        "daily (adj)",
+        "walk (n)"
       ],
-      "en": "If you go on vacation, who will look after your parrot?"
+      "en": "Keeping a cat is easier than keeping a dog because cats don't need daily walks.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi rất muốn nuôi chó nhưng chủ nhà không cho phép nuôi thú cưng.",
+      "vi": "Tôi từng bị dị ứng với mèo, nhưng bây giờ tôi nuôi hai con mà hoàn toàn không sao.",
       "hints": [
-        "get a dog (v)",
-        "landlord (n)",
-        "allow (v)"
+        "used to",
+        "allergic to (adj)",
+        "completely (adv)",
+        "fine (adj)"
       ],
-      "en": "I'd love to get a dog, but my landlord doesn't allow pets."
+      "en": "I used to be allergic to cats, but now I have two and feel completely fine.",
+      "level": "B1"
     },
     {
-      "vi": "Nuôi thú cưng là một trách nhiệm lớn, không chỉ để cho vui.",
+      "vi": "Cuối tuần này chúng tôi sẽ đưa bọn trẻ đến nông trại để cho dê và thỏ ăn.",
       "hints": [
-        "own (v)",
-        "responsibility (n)",
-        "not just",
-        "for fun"
+        "be going to",
+        "farm (n)",
+        "feed (v)",
+        "goat (n)",
+        "rabbit (n)"
       ],
-      "en": "Owning a pet is a big responsibility, not just for fun."
+      "en": "We're going to take the kids to a farm this weekend to feed the goats and rabbits.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng tôi phải tắm và cắt móng cho chó mỗi tháng một lần.",
+      "vi": "Bạn nên gắn thẻ tên vào vòng cổ của chó phòng khi nó bị lạc.",
       "hints": [
-        "bathe (v)",
-        "trim (v)",
-        "nail (n)",
-        "once a month"
+        "should",
+        "name tag (n)",
+        "collar (n)",
+        "in case (conj)",
+        "get lost (v)"
       ],
-      "en": "We have to bathe our dog and trim its nails once a month."
+      "en": "You should put a name tag on your dog's collar in case it gets lost.",
+      "level": "B1"
     },
     {
-      "vi": "Hổ là loài có nguy cơ tuyệt chủng, vì vậy chúng ta phải bảo vệ chúng.",
+      "vi": "Con vẹt của tôi đã học được cách nói \"xin chào\" và rất thích bắt chước tiếng chuông cửa.",
       "hints": [
-        "tiger (n)",
-        "endangered (adj)",
-        "species (n)",
-        "protect (v)"
+        "learn to (v)",
+        "enjoy + V-ing",
+        "parrot (n)",
+        "copy (v)",
+        "doorbell (n)"
       ],
-      "en": "Tigers are an endangered species, so we must protect them."
+      "en": "My parrot has learned to say \"hello\" and enjoys copying the sound of the doorbell.",
+      "level": "B1"
     },
     {
-      "vi": "Nhiều loài động vật hoang dã đang mất môi trường sống vì nạn phá rừng.",
+      "vi": "Chú chó con còn quá nhỏ để ra ngoài cho đến khi được tiêm phòng đầy đủ.",
       "hints": [
-        "wild (adj)",
-        "lose (v)",
-        "habitat (n)",
-        "deforestation (n)"
+        "too ... to",
+        "puppy (n)",
+        "until (conj)",
+        "shot (n)"
       ],
-      "en": "Many wild animals are losing their habitats because of deforestation."
+      "en": "The puppy is too young to go outside until it gets all its shots.",
+      "level": "B1"
     },
     {
-      "vi": "Từ khi có chú chó, tôi ra ngoài nhiều hơn và cảm thấy bớt cô đơn.",
+      "vi": "Con mèo nhà hàng xóm dễ thương đến mức bọn trẻ trong phố ngày nào cũng ghé qua chơi với nó.",
       "hints": [
-        "since",
-        "go out (v)",
-        "less",
-        "lonely (adj)"
+        "so ... that",
+        "cute (adj)",
+        "street (n)",
+        "visit (v)"
       ],
-      "en": "Since I got my dog, I've been going out more and feeling less lonely."
+      "en": "The neighbor's cat is so cute that the kids on our street visit it every day.",
+      "level": "B1"
     },
     {
       "vi": "Chú chó mà chúng tôi cứu về từ một năm trước đã trở thành một thành viên không thể thay thế trong gia đình.",

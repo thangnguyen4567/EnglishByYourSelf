@@ -97,102 +97,120 @@
       "en": "I usually book a ride through an app because it's more convenient."
     },
     {
-      "vi": "Xe buýt hôm nay đông quá, tôi phải đứng suốt đường.",
+      "vi": "Trời bắt đầu mưa như trút khi tôi đang chạy xe về nhà, nên tôi dừng lại dưới gầm cầu để mặc áo mưa.",
       "hints": [
-        "crowded (adj)",
-        "have to (v)",
-        "stand (v)",
-        "the whole way"
+        "past continuous",
+        "pour (v)",
+        "ride home (v)",
+        "put on (v)",
+        "raincoat (n)"
       ],
-      "en": "The bus was so crowded today that I had to stand the whole way."
+      "en": "It started to pour while I was riding home, so I stopped under a bridge to put on my raincoat.",
+      "level": "B1"
     },
     {
-      "vi": "Xe tôi bị xẹp lốp trên đường đi làm.",
+      "vi": "Bạn đã bao giờ đi xe giường nằm chuyến đêm từ TP. Hồ Chí Minh lên Đà Lạt chưa?",
       "hints": [
-        "get a flat tire (v)",
-        "on the way",
-        "work (n)"
+        "present perfect",
+        "ever (adv)",
+        "overnight (adj)",
+        "sleeper bus (n)"
       ],
-      "en": "I got a flat tire on the way to work."
+      "en": "Have you ever taken the overnight sleeper bus from Ho Chi Minh City to Da Lat?",
+      "level": "B1"
     },
     {
-      "vi": "Tôi cần ghé cây xăng để đổ đầy bình.",
+      "vi": "Nếu chúng ta không xuất phát trước năm giờ, chúng ta sẽ gặp kẹt xe nặng trên đường ra sân bay.",
       "hints": [
-        "stop at (v)",
-        "gas station (n)",
-        "fill up (v)",
-        "tank (n)"
+        "first conditional",
+        "leave (v)",
+        "hit traffic (v)",
+        "heavy (adj)",
+        "on the way"
       ],
-      "en": "I need to stop at the gas station to fill up the tank."
+      "en": "If we don't leave before five, we'll hit heavy traffic on the way to the airport.",
+      "level": "B1"
     },
     {
-      "vi": "Anh ấy bị cảnh sát phạt vì chạy quá tốc độ.",
+      "vi": "Với tôi, xe máy là cách nhanh nhất để đi lại trong thành phố, nhưng cũng là cách mệt nhất.",
       "hints": [
-        "police (n)",
-        "fine (v)",
-        "speeding (n)"
+        "superlative",
+        "fast (adj)",
+        "get around (v)",
+        "tiring (adj)"
       ],
-      "en": "The police fined him for speeding."
+      "en": "For me, the motorbike is the fastest way to get around the city, but it's also the most tiring.",
+      "level": "B1"
     },
     {
-      "vi": "Hãy thắt dây an toàn trước khi xe chạy.",
+      "vi": "Bố tôi từng chở tôi đi học mỗi sáng trước khi trường có dịch vụ xe đưa đón.",
       "hints": [
-        "fasten (v)",
-        "seat belt (n)",
-        "before (prep)",
-        "start moving (v)"
+        "used to",
+        "drive (v)",
+        "school bus (n)",
+        "service (n)"
       ],
-      "en": "Please fasten your seat belt before the car starts moving."
+      "en": "My father used to drive me to school every morning before the school bus service started.",
+      "level": "B1"
     },
     {
-      "vi": "Đi tàu điện nhanh hơn và rẻ hơn đi taxi.",
+      "vi": "Tôi định bán chiếc xe máy cũ để mua một chiếc xe điện vì giá xăng cứ tăng mãi.",
       "hints": [
-        "take the metro (v)",
-        "faster (adj)",
-        "cheaper (adj)",
-        "taxi (n)"
+        "be going to",
+        "sell (v)",
+        "electric (adj)",
+        "gas price (n)",
+        "keep + V-ing"
       ],
-      "en": "Taking the metro is faster and cheaper than taking a taxi."
+      "en": "I'm going to sell my old motorbike and buy an electric one because gas prices keep going up.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã đi chung xe với đồng nghiệp được ba tháng rồi.",
+      "vi": "Bạn phải xuất trình vé cho nhân viên soát vé, nếu không bạn có thể bị phạt.",
       "hints": [
-        "carpool (v)",
-        "coworker (n)",
-        "for three months"
+        "have to",
+        "show (v)",
+        "ticket (n)",
+        "inspector (n)",
+        "fine (n)"
       ],
-      "en": "I have carpooled with my coworker for three months."
+      "en": "You have to show your ticket to the inspector, or you might get a fine.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn không đổi tuyến ở trạm này, bạn sẽ đi lạc.",
+      "vi": "Tôi đã quyết định thôi lái xe đi làm và bắt đầu đi xe buýt để tiết kiệm tiền.",
       "hints": [
-        "transfer (v)",
-        "line (n)",
-        "station (n)",
-        "get lost (v)"
+        "decide + to V",
+        "stop + V-ing",
+        "take the bus (v)",
+        "save money (v)"
       ],
-      "en": "If you don't transfer lines at this station, you will get lost."
+      "en": "I've decided to stop driving to work and start taking the bus to save money.",
+      "level": "B1"
     },
     {
-      "vi": "Thành phố sẽ xây thêm làn đường dành riêng cho xe đạp vào năm sau.",
+      "vi": "Bãi đỗ xe ở trung tâm thương mại không đủ rộng cho tất cả xe vào cuối tuần.",
       "hints": [
-        "city (n)",
-        "build (v)",
-        "more (adj)",
-        "bike lane (n)",
-        "next year"
+        "enough (adv)",
+        "parking lot (n)",
+        "mall (n)",
+        "big (adj)",
+        "weekend (n)"
       ],
-      "en": "The city is going to build more bike lanes next year."
+      "en": "The parking lot at the mall isn't big enough for all the cars on weekends.",
+      "level": "B1"
     },
     {
-      "vi": "Nhiều người vẫn chưa quen dùng phương tiện công cộng vì lịch trình không đáng tin cậy.",
+      "vi": "Tài xế taxi thân thiện và nhiệt tình đến mức tôi đã boa cho anh ấy khá nhiều.",
       "hints": [
-        "get used to (v)",
-        "public transportation (n)",
-        "schedule (n)",
-        "reliable (adj)"
+        "so... that",
+        "taxi driver (n)",
+        "friendly (adj)",
+        "helpful (adj)",
+        "tip (n)"
       ],
-      "en": "Many people haven't gotten used to public transportation because the schedules aren't reliable."
+      "en": "The taxi driver was so friendly and helpful that I gave him a big tip.",
+      "level": "B1"
     },
     {
       "vi": "Nếu tôi rời nhà sớm hơn mười phút, sáng nay tôi đã không bị kẹt xe trên cầu.",

@@ -38,11 +38,9 @@ const STEPS = [
   {icon: '📝', title: 'Bài kiểm tra', to: '/docs/bai-kiem-tra',
     text: `${tests.length} bài test (${questionCount} câu) tự chấm điểm, có giải thích và gợi ý chủ đề cần ôn.`},
   {icon: '📒', title: 'Từ vựng đang học', to: '/docs/tra-cuu/tu-vung-dang-hoc',
-    text: 'Sổ từ vựng cá nhân: từ loại, phiên âm, nghĩa và câu ví dụ có phát âm.'},
+    text: 'Sổ từ vựng cá nhân qua đoạn văn đọc hiểu: từ in đậm, rê chuột xem nghĩa, có phát âm và bản dịch.'},
   {icon: '🗣️', title: 'Luyện nói', to: '/luyen-noi',
     text: '26 chủ đề theo 5 giai đoạn – gồm 10 chủ đề luyện phỏng vấn Fullstack Developer: từ vựng có phát âm, mẫu câu, câu trả lời mẫu có âm thanh.'},
-  {icon: '✍️', title: 'Luyện viết', to: '/luyen-viet',
-    text: '16 bài từ câu → đoạn văn → email → bài luận: bố cục, từ vựng, bài mẫu có phân tích và đề luyện tập.'},
   {icon: '⚡', title: 'Luyện phản xạ', to: '/luyen-phan-xa',
     text: '30 chủ đề đời sống × 30 câu (có 10 câu nâng cao): nhìn câu tiếng Việt + gợi ý từ vựng → nói & viết ra tiếng Anh → mở đáp án để so.'},
 ];

@@ -91,101 +91,115 @@
       "en": "I spend about an hour every evening playing video games."
     },
     {
-      "vi": "Đan len giúp tôi thư giãn sau một ngày dài.",
+      "vi": "Tôi đã theo học lớp nhảy salsa được sáu tháng, và giờ tôi có thể nhảy khá tự tin.",
       "hints": [
-        "knitting (n)",
-        "help (v)",
-        "relax (v)",
-        "after a long day"
+        "present perfect",
+        "take a class (v)",
+        "for six months",
+        "confidently (adv)"
       ],
-      "en": "Knitting helps me relax after a long day."
+      "en": "I've taken salsa classes for six months, and now I can dance quite confidently.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi sẽ đăng ký một lớp học làm gốm vào tháng tới.",
+      "vi": "Tôi đang đi dạo trong công viên thì để ý thấy một nhóm người đang chơi cờ tướng.",
       "hints": [
-        "sign up for (v)",
-        "pottery (n)",
-        "class (n)",
-        "next month"
+        "past continuous",
+        "notice (v)",
+        "a group of",
+        "Chinese chess (n)"
       ],
-      "en": "I'm going to sign up for a pottery class next month."
+      "en": "I was walking in the park when I noticed a group of people playing Chinese chess.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi chưa bao giờ thử đi bộ đường dài, nhưng tôi rất muốn thử.",
+      "vi": "Nếu cuối tuần này trời đẹp, chúng tôi sẽ đi thả diều ở bãi biển.",
       "hints": [
-        "never (adv)",
-        "try (v)",
-        "hiking (n)",
-        "would like to"
+        "first conditional",
+        "weather (n)",
+        "fly a kite (v)",
+        "beach (n)"
       ],
-      "en": "I have never tried hiking, but I'd really like to."
+      "en": "If the weather is nice this weekend, we'll go fly kites at the beach.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi thích các hoạt động ngoài trời hơn là ngồi trong nhà.",
+      "vi": "Với tôi, đọc sách giấy thú vị hơn nhiều so với đọc trên điện thoại.",
       "hints": [
-        "prefer (v)",
-        "outdoor (adj)",
-        "activity (n)",
-        "indoors (adv)"
+        "much more ... than",
+        "paper book (n)",
+        "enjoyable (adj)",
+        "phone (n)"
       ],
-      "en": "I prefer outdoor activities to staying indoors."
+      "en": "For me, reading paper books is much more enjoyable than reading on my phone.",
+      "level": "B1"
     },
     {
-      "vi": "Từ khi nghỉ hưu, ông tôi đi câu cá gần như mỗi ngày.",
+      "vi": "Hồi cấp ba tôi từng chơi đàn organ, nhưng bây giờ tôi không còn thời gian cho nó nữa.",
       "hints": [
-        "retire (v)",
-        "go fishing (v)",
-        "almost (adv)"
+        "used to",
+        "keyboard (n)",
+        "high school (n)",
+        "not anymore"
       ],
-      "en": "Since he retired, my grandfather has gone fishing almost every day."
+      "en": "I used to play the keyboard in high school, but I don't have time for it anymore.",
+      "level": "B1"
     },
     {
-      "vi": "Dạo gần đây tôi mê giải ô chữ, tối nào cũng làm một ô.",
+      "vi": "Tôi định học một khóa nấu món Ý vì tôi muốn tự làm pizza ở nhà.",
       "hints": [
-        "lately (adv)",
-        "be hooked on (v)",
-        "crossword puzzle (n)",
-        "every night"
+        "be going to",
+        "cooking course (n)",
+        "Italian (adj)",
+        "make pizza (v)"
       ],
-      "en": "Lately I've been hooked on crossword puzzles; I do one every night."
+      "en": "I'm going to take an Italian cooking course because I want to make pizza at home.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã bỏ viết blog vì công việc quá bận.",
+      "vi": "Bạn nên thử trồng rau thơm ngoài ban công nếu bạn muốn có một sở thích giúp thư giãn.",
       "hints": [
-        "give up (v)",
-        "blogging (n)",
-        "too busy"
+        "should",
+        "try + V-ing",
+        "herb (n)",
+        "balcony (n)",
+        "relaxing (adj)"
       ],
-      "en": "I gave up blogging because I got too busy at work."
+      "en": "You should try growing herbs on your balcony if you want a relaxing hobby.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu có nhiều thời gian hơn, tôi sẽ học thư pháp.",
+      "vi": "Năm ngoái tôi quyết định học làm bánh, và bây giờ tôi rất thích nướng bánh cho cả nhà.",
       "hints": [
-        "if I had",
-        "more time",
-        "calligraphy (n)"
+        "decide to (v)",
+        "baking (n)",
+        "love + V-ing",
+        "whole (adj)"
       ],
-      "en": "If I had more time, I would learn calligraphy."
+      "en": "Last year I decided to learn baking, and now I love baking cakes for my whole family.",
+      "level": "B1"
     },
     {
-      "vi": "Làm đồ thủ công là cách tuyệt vời để giảm thời gian dùng màn hình.",
+      "vi": "Bộ tranh ghép này quá khó để tôi hoàn thành trong một buổi tối.",
       "hints": [
-        "craft (n)",
-        "great way",
-        "cut down on (v)",
-        "screen time (n)"
+        "too ... to",
+        "jigsaw puzzle (n)",
+        "difficult (adj)",
+        "finish (v)"
       ],
-      "en": "Doing crafts is a great way to cut down on screen time."
+      "en": "This jigsaw puzzle is too difficult for me to finish in one evening.",
+      "level": "B1"
     },
     {
-      "vi": "Tham gia một nhóm chơi cờ bàn giúp tôi gặp gỡ những người cùng chí hướng.",
+      "vi": "Cuốn tiểu thuyết trinh thám đó hấp dẫn đến nỗi tôi đọc hết nó chỉ trong một đêm.",
       "hints": [
-        "join (v)",
-        "board game (n)",
-        "let (v)",
-        "like-minded (adj)"
+        "so ... that",
+        "detective novel (n)",
+        "exciting (adj)",
+        "finish (v)"
       ],
-      "en": "Joining a board game group lets me meet like-minded people."
+      "en": "The detective novel was so exciting that I finished it in just one night.",
+      "level": "B1"
     },
     {
       "vi": "Tôi đã chơi guitar được gần mười năm nhưng chưa bao giờ dám biểu diễn trước đám đông.",

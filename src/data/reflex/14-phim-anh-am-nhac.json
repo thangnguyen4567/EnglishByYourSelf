@@ -92,98 +92,117 @@
       "en": "The lead actor gave an amazing performance."
     },
     {
-      "vi": "Bạn đã xem phần tiếp theo của bộ phim đó chưa?",
+      "vi": "Tôi đã xem bộ phim này ba lần rồi, nhưng tôi vẫn muốn xem lại.",
       "hints": [
-        "see (v)",
-        "sequel (n)",
-        "yet (adv)"
+        "present perfect",
+        "three times",
+        "still (adv)",
+        "watch again (v)"
       ],
-      "en": "Have you seen the sequel to that movie yet?"
+      "en": "I've seen this movie three times, but I still want to watch it again.",
+      "level": "B1"
     },
     {
-      "vi": "Ban nhạc sẽ phát hành album mới vào tháng sau.",
+      "vi": "Chúng tôi đang xem đến đoạn gay cấn nhất của bộ phim thì đột nhiên bị cúp điện.",
       "hints": [
-        "band (n)",
-        "release (v)",
-        "album (n)"
+        "past continuous",
+        "exciting (adj)",
+        "power (n)",
+        "go out (v)"
       ],
-      "en": "The band is going to release a new album next month."
+      "en": "We were watching the most exciting part of the movie when the power suddenly went out.",
+      "level": "B1"
     },
     {
-      "vi": "Bộ phim có một cái kết bất ngờ khiến mọi người sửng sốt.",
+      "vi": "Nếu bạn thích nhạc jazz, cuối tuần này tôi sẽ dẫn bạn đến một quán cà phê có nhạc sống.",
       "hints": [
-        "unexpected (adj)",
-        "ending (n)",
-        "shock (v)"
+        "first conditional",
+        "jazz (n)",
+        "take someone to (v)",
+        "live music (n)"
       ],
-      "en": "The film has an unexpected ending that shocked everyone."
+      "en": "If you like jazz, I'll take you to a café with live music this weekend.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi thường tải danh sách phát về để nghe khi không có mạng.",
+      "vi": "Đây là bộ phim cảm động nhất mà tôi đã xem từ đầu năm đến giờ.",
       "hints": [
-        "download (v)",
-        "playlist (n)",
-        "offline (adv)"
+        "the most",
+        "touching (adj)",
+        "so far",
+        "present perfect"
       ],
-      "en": "I usually download playlists so I can enjoy them offline."
+      "en": "This is the most touching film that I have seen so far this year.",
+      "level": "B1"
     },
     {
-      "vi": "Bộ phim này được chuyển thể từ một cuốn sách bán chạy.",
+      "vi": "Hồi sinh viên tôi từng nghe nhạc rock suốt ngày, nhưng bây giờ tôi thích nhạc nhẹ hơn.",
       "hints": [
-        "be adapted from (v)",
-        "best-selling (adj)",
-        "book (n)"
+        "used to",
+        "rock music (n)",
+        "all the time",
+        "prefer (v)",
+        "soft music (n)"
       ],
-      "en": "This movie is adapted from a best-selling book."
+      "en": "I used to listen to rock music all the time in college, but now I prefer soft music.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã mở đi mở lại bài hát này cả tuần, nó cứ văng vẳng trong đầu tôi.",
+      "vi": "Tôi sẽ học đàn guitar để có thể đệm theo những bài hát mình yêu thích.",
       "hints": [
-        "on repeat",
-        "all week",
-        "be stuck in my head"
+        "be going to",
+        "so that (conj)",
+        "play along to (v)",
+        "favorite (adj)"
       ],
-      "en": "I've played this song on repeat all week; it's stuck in my head."
+      "en": "I'm going to learn the guitar so that I can play along to my favorite songs.",
+      "level": "B1"
     },
     {
-      "vi": "Theo tôi, cốt truyện hơi khó hiểu nhưng hiệu ứng đặc biệt thì tuyệt vời.",
+      "vi": "Bạn không nên đọc bài đánh giá trước khi xem phim vì chúng có thể tiết lộ cái kết.",
       "hints": [
-        "in my opinion",
-        "plot (n)",
-        "confusing (adj)",
-        "special effects (n)"
+        "shouldn't",
+        "review (n)",
+        "might",
+        "give away (v)",
+        "ending (n)"
       ],
-      "en": "In my opinion, the plot was a bit confusing, but the special effects were great."
+      "en": "You shouldn't read reviews before watching the movie because they might give away the ending.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn mê phim tài liệu, bộ phim này chắc chắn đáng xem.",
+      "vi": "Em trai tôi rất thích hát karaoke, nhưng cậu ấy luôn từ chối hát trước mặt người lạ.",
       "hints": [
-        "be into (v)",
-        "documentary (n)",
-        "definitely (adv)",
-        "worth watching"
+        "love + V-ing",
+        "refuse to (v)",
+        "in front of (prep)",
+        "stranger (n)"
       ],
-      "en": "If you're into documentaries, this one is definitely worth watching."
+      "en": "My younger brother loves singing karaoke, but he always refuses to sing in front of strangers.",
+      "level": "B1"
     },
     {
-      "vi": "Khán giả đã đứng dậy vỗ tay khi buổi biểu diễn kết thúc.",
+      "vi": "Vé xem buổi hòa nhạc quá đắt, nên chúng tôi quyết định xem bản phát trực tiếp trên mạng.",
       "hints": [
+        "too (adv)",
+        "expensive (adj)",
+        "decide to (v)",
+        "livestream (n)",
+        "instead (adv)"
+      ],
+      "en": "The concert tickets were too expensive, so we decided to watch the livestream instead.",
+      "level": "B1"
+    },
+    {
+      "vi": "Bộ phim dài đến nỗi một vài khán giả đã ngủ gật.",
+      "hints": [
+        "so ... that",
         "audience (n)",
-        "standing ovation (n)",
-        "show (n)",
-        "end (v)"
+        "fall asleep (v)",
+        "long (adj)"
       ],
-      "en": "The audience gave a standing ovation when the show ended."
-    },
-    {
-      "vi": "Tôi thích xem phim trực tuyến ở nhà hơn, nhưng luôn đọc bài đánh giá trên mạng trước.",
-      "hints": [
-        "would rather",
-        "stream (v)",
-        "online review (n)",
-        "first (adv)"
-      ],
-      "en": "I'd rather stream movies at home, but I always read online reviews first."
+      "en": "The movie was so long that some people in the audience fell asleep.",
+      "level": "B1"
     },
     {
       "vi": "Bộ phim mà tôi đã mong chờ suốt cả năm hóa ra lại khá đáng thất vọng.",

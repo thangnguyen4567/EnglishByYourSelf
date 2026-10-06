@@ -93,101 +93,118 @@
       "en": "I didn't understand today's lecture at all."
     },
     {
-      "vi": "Cô ấy học chuyên ngành kinh tế ở đại học.",
+      "vi": "Tôi đã học ở trường này từ năm sáu tuổi, nên tôi biết hết các thầy cô ở đây.",
       "hints": [
-        "major in (v)",
-        "economics (n)",
-        "university (n)"
+        "present perfect",
+        "since (conj)",
+        "know (v)",
+        "teacher (n)"
       ],
-      "en": "She majored in economics at university."
+      "en": "I have studied at this school since I was six years old, so I know every teacher here.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn không hiểu, cứ giơ tay và đặt câu hỏi.",
+      "vi": "Tôi đang ghi chép trong giờ giảng thì máy tính xách tay đột nhiên tắt ngúm.",
       "hints": [
-        "raise (v)",
-        "hand (n)",
-        "ask a question (v)"
+        "past continuous",
+        "take notes (v)",
+        "lecture (n)",
+        "shut down (v)"
       ],
-      "en": "If you don't understand, just raise your hand and ask a question."
+      "en": "I was taking notes during the lecture when my laptop suddenly shut down.",
+      "level": "B1"
     },
     {
-      "vi": "Học kỳ này tôi đăng ký thêm một khóa học tiếng Nhật.",
+      "vi": "Nếu các bạn không hoàn thành dự án nhóm trong cuối tuần này, các bạn sẽ bị trừ điểm vì nộp muộn.",
       "hints": [
+        "first conditional",
+        "group project (n)",
+        "lose points (v)",
+        "late (adj)"
+      ],
+      "en": "If you don't finish your group project this weekend, you'll lose points for being late.",
+      "level": "B1"
+    },
+    {
+      "vi": "Hóa học là môn khó nhất đối với tôi, nhưng thầy giáo giảng rất dễ hiểu.",
+      "hints": [
+        "superlative",
+        "chemistry (n)",
+        "difficult (adj)",
+        "explain (v)",
+        "clearly (adv)"
+      ],
+      "en": "Chemistry is the most difficult subject for me, but our teacher explains it very clearly.",
+      "level": "B1"
+    },
+    {
+      "vi": "Trước đây tôi rất ghét đọc sách, nhưng cô giáo dạy văn đã giúp tôi yêu thích tiểu thuyết.",
+      "hints": [
+        "used to",
+        "hate (v)",
+        "literature (n)",
+        "fall in love with (v)",
+        "novel (n)"
+      ],
+      "en": "I used to hate reading, but my literature teacher helped me fall in love with novels.",
+      "level": "B1"
+    },
+    {
+      "vi": "Học kỳ tới tôi định tham gia một câu lạc bộ nói tiếng Anh để luyện tập với các bạn khác.",
+      "hints": [
+        "be going to",
+        "join (v)",
+        "speaking club (n)",
         "semester (n)",
-        "sign up for (v)",
+        "practice (v)"
+      ],
+      "en": "I'm going to join an English speaking club next semester to practice with other students.",
+      "level": "B1"
+    },
+    {
+      "vi": "Bạn nên xem kỹ lịch thi vì một số bài thi có thể bị dời sang thứ Bảy.",
+      "hints": [
+        "should (modal)",
+        "might (modal)",
+        "exam schedule (n)",
+        "carefully (adv)"
+      ],
+      "en": "You should check the exam schedule carefully because some tests might be moved to Saturday.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi cứ quên mang thẻ sinh viên, nên thủ thư không cho tôi mượn sách.",
+      "hints": [
+        "keep + V-ing",
+        "forget + to V",
+        "student ID card (n)",
+        "librarian (n)",
+        "borrow (v)"
+      ],
+      "en": "I keep forgetting to bring my student ID card, so the librarian won't let me borrow books.",
+      "level": "B1"
+    },
+    {
+      "vi": "Phòng học quá nhỏ so với bốn mươi học sinh, nên một số bạn phải ngồi ghế kê thêm ở cuối lớp.",
+      "hints": [
+        "too (adv)",
+        "classroom (n)",
         "extra (adj)",
-        "course (n)"
+        "at the back"
       ],
-      "en": "This semester I signed up for an extra Japanese course."
+      "en": "The classroom is too small for forty students, so some of us have to sit on extra chairs at the back.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn tôi đã giành được học bổng toàn phần để du học Úc.",
+      "vi": "Bài thi khó đến mức không ai trong lớp tôi làm xong đúng giờ.",
       "hints": [
-        "win (v)",
-        "full scholarship (n)",
-        "study abroad (v)"
+        "so... that",
+        "exam (n)",
+        "nobody (pron)",
+        "on time"
       ],
-      "en": "My friend has won a full scholarship to study abroad in Australia."
-    },
-    {
-      "vi": "Đừng chép bài của bạn khác trong giờ kiểm tra.",
-      "hints": [
-        "copy (v)",
-        "classmate (n)",
-        "answer (n)",
-        "during (prep)",
-        "quiz (n)"
-      ],
-      "en": "Don't copy your classmates' answers during the quiz."
-    },
-    {
-      "vi": "Tôi thức khuya để học thuộc lòng từ vựng.",
-      "hints": [
-        "stay up late (v)",
-        "memorize (v)",
-        "vocabulary (n)"
-      ],
-      "en": "I stayed up late to memorize vocabulary."
-    },
-    {
-      "vi": "Năm sau tôi sẽ tốt nghiệp và nhận bằng cử nhân.",
-      "hints": [
-        "graduate (v)",
-        "earn (v)",
-        "bachelor's degree (n)"
-      ],
-      "en": "I'm going to graduate and earn my bachelor's degree next year."
-    },
-    {
-      "vi": "Học trực tuyến tiện hơn nhưng khó tập trung hơn học trên lớp.",
-      "hints": [
-        "online learning (n)",
-        "convenient (adj)",
-        "focus (v)",
-        "in class"
-      ],
-      "en": "Online learning is more convenient, but it's harder to focus than in class."
-    },
-    {
-      "vi": "Học sinh nên đi học đầy đủ nếu muốn đạt điểm cao.",
-      "hints": [
-        "student (n)",
-        "attend class (v)",
-        "regularly (adv)",
-        "high score (n)"
-      ],
-      "en": "Students should attend class regularly if they want to get high scores."
-    },
-    {
-      "vi": "Giáo sư đã đồng ý gia hạn thời hạn nộp luận văn của tôi thêm một tuần.",
-      "hints": [
-        "professor (n)",
-        "agree (v)",
-        "extend (v)",
-        "deadline (n)",
-        "thesis (n)"
-      ],
-      "en": "The professor agreed to extend the deadline for my thesis by one week."
+      "en": "The exam was so hard that nobody in my class finished it on time.",
+      "level": "B1"
     },
     {
       "vi": "Nếu hồi cấp ba tôi học chăm chỉ hơn, có lẽ tôi đã đỗ vào trường đại học mà mình mơ ước.",

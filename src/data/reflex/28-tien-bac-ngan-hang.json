@@ -94,102 +94,115 @@
       "en": "What is the exchange rate for the dollar today?"
     },
     {
-      "vi": "Tôi đang tiết kiệm tiền để mua một chiếc xe mới.",
+      "vi": "Tôi đã dùng ứng dụng ngân hàng này từ năm ngoái và chưa gặp vấn đề gì với nó.",
       "hints": [
-        "save up (v)",
-        "buy (v)",
-        "car (n)"
+        "present perfect",
+        "banking app (n)",
+        "since (prep)",
+        "problem (n)"
       ],
-      "en": "I'm saving up to buy a new car."
+      "en": "I have used this banking app since last year, and I haven't had any problems with it.",
+      "level": "B1"
     },
     {
-      "vi": "Ngân hàng tính phí cho mỗi lần rút tiền ở cây ATM khác.",
+      "vi": "Tôi đang xếp hàng ở ngân hàng thì nhận ra mình không mang theo căn cước.",
       "hints": [
-        "bank (n)",
-        "charge (v)",
-        "fee (n)",
-        "withdrawal (n)"
+        "past continuous",
+        "wait in line (v)",
+        "realize (v)",
+        "ID card (n)"
       ],
-      "en": "The bank charges a fee for every withdrawal at another bank's ATM."
+      "en": "I was waiting in line at the bank when I realized I didn't have my ID card.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã quét mã QR để trả tiền đồ đi chợ.",
+      "vi": "Nếu bạn tiết kiệm năm trăm nghìn mỗi tuần, đến mùa hè bạn sẽ có đủ tiền mua một chiếc laptop mới.",
       "hints": [
-        "scan (v)",
+        "first conditional",
+        "save (v)",
+        "every week",
+        "by summer"
+      ],
+      "en": "If you save 500,000 dong every week, you'll have enough money for a new laptop by summer.",
+      "level": "B1"
+    },
+    {
+      "vi": "Thanh toán bằng mã QR nhanh hơn và an toàn hơn so với mang theo nhiều tiền mặt.",
+      "hints": [
+        "comparative",
+        "pay by (v)",
         "QR code (n)",
-        "pay for (v)",
-        "groceries (n)"
+        "safe (adj)",
+        "cash (n)"
       ],
-      "en": "I scanned the QR code to pay for my groceries."
+      "en": "Paying by QR code is faster and safer than carrying a lot of cash around.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn nên lập ngân sách và ghi lại các khoản chi tiêu.",
+      "vi": "Hồi trước tôi để hết tiền tiết kiệm trong heo đất, nhưng giờ tôi gửi vào tài khoản ngân hàng.",
       "hints": [
-        "make a budget (v)",
-        "keep track of (v)",
-        "expense (n)"
-      ],
-      "en": "You should make a budget and keep track of your expenses."
-    },
-    {
-      "vi": "Số dư tài khoản của tôi không đủ để trả hóa đơn tiền điện.",
-      "hints": [
-        "account balance (n)",
-        "enough (adj)",
-        "cover (v)",
-        "electricity bill (n)"
-      ],
-      "en": "My account balance isn't enough to cover the electricity bill."
-    },
-    {
-      "vi": "Anh ấy đã vay ngân hàng để mua căn hộ.",
-      "hints": [
-        "take out (v)",
-        "loan (n)",
-        "apartment (n)"
-      ],
-      "en": "He took out a bank loan to buy an apartment."
-    },
-    {
-      "vi": "Lãi suất tiết kiệm năm nay thấp hơn năm ngoái.",
-      "hints": [
-        "interest rate (n)",
+        "used to",
         "savings (n)",
-        "lower (adj)",
-        "last year"
+        "piggy bank (n)",
+        "bank account (n)"
       ],
-      "en": "Savings interest rates this year are lower than last year."
+      "en": "I used to keep all my savings in a piggy bank, but now I put them in a bank account.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn làm mất thẻ tín dụng, hãy gọi ngân hàng để khóa thẻ ngay.",
+      "vi": "Tôi sẽ mở một tài khoản riêng cho quỹ du lịch để khỏi lỡ tay tiêu mất.",
       "hints": [
-        "lose (v)",
-        "credit card (n)",
-        "call (v)",
-        "freeze (v)",
-        "immediately (adv)"
+        "be going to",
+        "separate (adj)",
+        "travel fund (n)",
+        "by accident"
       ],
-      "en": "If you lose your credit card, call the bank to freeze it immediately."
+      "en": "I'm going to open a separate account for my travel fund so I don't spend it by accident.",
+      "level": "B1"
     },
     {
-      "vi": "Cuối cùng tôi đã trả hết nợ thẻ tín dụng vào tháng trước.",
+      "vi": "Bạn tuyệt đối không nên chia sẻ mã OTP cho bất kỳ ai, kể cả khi họ nói mình là nhân viên ngân hàng.",
       "hints": [
-        "finally (adv)",
-        "pay off (v)",
-        "debt (n)"
+        "should (modal)",
+        "share (v)",
+        "OTP code (n)",
+        "even if (conj)"
       ],
-      "en": "I finally paid off my credit card debt last month."
+      "en": "You should never share your OTP code with anyone, even if they say they work for the bank.",
+      "level": "B1"
     },
     {
-      "vi": "Đầu tư vào cổ phiếu có thể mang lại lợi nhuận cao nhưng cũng rất rủi ro.",
+      "vi": "Vợ chồng tôi đã thống nhất sẽ bớt đi ăn ngoài vì việc đó tốn kém quá.",
       "hints": [
-        "invest in (v)",
-        "stock (n)",
-        "bring (v)",
-        "high return (n)",
-        "risky (adj)"
+        "agree + to V",
+        "eat out (v)",
+        "less often (adv)",
+        "cost (v)"
       ],
-      "en": "Investing in stocks can bring high returns, but it's also very risky."
+      "en": "My wife and I have agreed to eat out less often because it's costing us too much.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi không kiếm đủ tiền để mua nhà trong thành phố, nên tạm thời tôi đang thuê một căn hộ nhỏ.",
+      "hints": [
+        "enough (adv)",
+        "earn (v)",
+        "rent (v)",
+        "for now"
+      ],
+      "en": "I don't earn enough to buy a house in the city, so I'm renting a small apartment for now.",
+      "level": "B1"
+    },
+    {
+      "vi": "Hóa đơn điện thoại cao đến mức tôi phải gọi cho nhà mạng để hỏi về các khoản phí phát sinh.",
+      "hints": [
+        "so... that",
+        "phone bill (n)",
+        "extra charge (n)",
+        "ask about (v)"
+      ],
+      "en": "The phone bill was so high that I called the phone company to ask about the extra charges.",
+      "level": "B1"
     },
     {
       "vi": "Nếu năm năm trước tôi đầu tư vào vàng, thì bây giờ tôi đã có một khoản lời đáng kể.",

@@ -94,102 +94,118 @@
       "en": "I forgot my email password, so I can't log in."
     },
     {
-      "vi": "Đừng bấm vào những đường link lạ trong tin nhắn.",
+      "vi": "Bạn đã cập nhật ứng dụng chưa? Phiên bản mới có rất nhiều tính năng hữu ích.",
       "hints": [
-        "click on (v)",
-        "strange (adj)",
-        "link (n)",
-        "message (n)"
+        "present perfect",
+        "yet (adv)",
+        "update (v)",
+        "version (n)",
+        "feature (n)"
       ],
-      "en": "Don't click on strange links in messages."
+      "en": "Have you updated the app yet? The new version has a lot of useful features.",
+      "level": "B1"
     },
     {
-      "vi": "Con trai tôi dành quá nhiều thời gian lướt mạng xã hội.",
+      "vi": "Tôi đang xem video trên điện thoại thì màn hình đột nhiên tối đen.",
       "hints": [
-        "spend (v)",
-        "too much time",
-        "scroll through (v)",
-        "social media (n)"
+        "past continuous",
+        "watch (v)",
+        "screen (n)",
+        "go black (v)"
       ],
-      "en": "My son spends too much time scrolling through social media."
+      "en": "I was watching a video on my phone when the screen suddenly went black.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn đã thử khởi động lại máy chưa?",
+      "vi": "Nếu bạn để điện thoại trong xe hơi nóng, pin sẽ bị hỏng.",
       "hints": [
-        "try (v)",
-        "restart (v)",
-        "device (n)"
+        "first conditional",
+        "leave (v)",
+        "battery (n)",
+        "get damaged (v)"
       ],
-      "en": "Have you tried restarting your device?"
+      "en": "If you leave your phone in a hot car, the battery will get damaged.",
+      "level": "B1"
     },
     {
-      "vi": "Wi-Fi ở quán này nhanh hơn ở nhà tôi.",
+      "vi": "Tai nghe không dây tiện hơn tai nghe có dây, nhưng lại dễ bị mất hơn nhiều.",
       "hints": [
-        "Wi-Fi (n)",
-        "café (n)",
-        "faster (adj)"
+        "comparative",
+        "wireless earbuds (n)",
+        "convenient (adj)",
+        "wired headphones (n)",
+        "lose (v)"
       ],
-      "en": "The Wi-Fi at this café is faster than at my house."
+      "en": "Wireless earbuds are more convenient than wired headphones, but they're much easier to lose.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi định đổi sang chiếc điện thoại có camera tốt hơn.",
+      "vi": "Hồi trước dì tôi thường gửi thư từ Canada về, nhưng giờ Chủ nhật nào dì cũng gọi video cho cả nhà.",
       "hints": [
-        "be going to (v)",
-        "switch to (v)",
-        "camera (n)",
-        "better (adj)"
+        "used to",
+        "send (v)",
+        "letter (n)",
+        "video call (v)"
       ],
-      "en": "I'm going to switch to a phone with a better camera."
+      "en": "My aunt used to send us letters from Canada, but now she video calls us every Sunday.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn bật chế độ tiết kiệm pin, điện thoại sẽ dùng được lâu hơn.",
+      "vi": "Tôi định mua một chiếc laptop mới trong đợt giảm giá cuối năm vì máy của tôi đã dùng năm năm rồi.",
       "hints": [
-        "turn on (v)",
-        "battery saver mode (n)",
-        "last (v)",
-        "longer (adv)"
+        "be going to",
+        "laptop (n)",
+        "year-end sale (n)",
+        "old (adj)"
       ],
-      "en": "If you turn on battery saver mode, your phone will last longer."
+      "en": "I'm going to buy a new laptop during the year-end sale because mine is five years old.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã chặn số điện thoại đó vì họ gọi quảng cáo suốt.",
+      "vi": "Bạn không nên dùng Wi-Fi công cộng để kiểm tra tài khoản ngân hàng vì tin tặc có thể đánh cắp thông tin của bạn.",
       "hints": [
-        "block (v)",
-        "number (n)",
+        "should (modal)",
+        "might (modal)",
+        "public Wi-Fi (n)",
+        "hacker (n)",
+        "steal (v)"
+      ],
+      "en": "You shouldn't use public Wi-Fi to check your bank account because hackers might steal your information.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi đã thôi dùng điện thoại trên giường vì nó khiến tôi mất ngủ.",
+      "hints": [
+        "stop + V-ing",
+        "in bed",
         "keep (v)",
-        "sales call (n)"
+        "awake (adj)"
       ],
-      "en": "I blocked that number because they kept making sales calls."
+      "en": "I've stopped using my phone in bed because it kept me awake at night.",
+      "level": "B1"
     },
     {
-      "vi": "Ứng dụng này yêu cầu quyền truy cập danh bạ và vị trí của bạn.",
+      "vi": "Điện thoại của tôi không đủ bộ nhớ để cài trò chơi này, nên tôi cần xóa bớt ảnh cũ.",
       "hints": [
-        "ask for (v)",
-        "access (n)",
-        "contacts (n)",
-        "location (n)"
+        "enough (adj)",
+        "storage (n)",
+        "install (v)",
+        "delete (v)"
       ],
-      "en": "This app asks for access to your contacts and location."
+      "en": "My phone doesn't have enough storage to install this game, so I need to delete some old photos.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn nên bật xác thực hai lớp để bảo vệ tài khoản.",
+      "vi": "Đồng hồ thông minh là một thiết bị hữu ích đến mức tôi đeo nó cả ngày, kể cả khi ngủ.",
       "hints": [
-        "enable (v)",
-        "two-factor authentication (n)",
-        "protect (v)",
-        "account (n)"
+        "such... that",
+        "smartwatch (n)",
+        "useful (adj)",
+        "device (n)",
+        "wear (v)"
       ],
-      "en": "You should enable two-factor authentication to protect your account."
-    },
-    {
-      "vi": "Từ khi có điện thoại thông minh, tôi hầu như không đọc sách giấy nữa.",
-      "hints": [
-        "since",
-        "smartphone (n)",
-        "hardly ever (adv)",
-        "printed book (n)"
-      ],
-      "en": "Since I got a smartphone, I hardly ever read printed books anymore."
+      "en": "My smartwatch is such a useful device that I wear it all day, even when I sleep.",
+      "level": "B1"
     },
     {
       "vi": "Nếu tôi lưu tệp vào ổ cứng ngoài, tôi đã không mất toàn bộ dữ liệu khi máy tính xách tay bị sập.",

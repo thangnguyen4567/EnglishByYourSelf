@@ -92,99 +92,116 @@
       "en": "After the workout, my muscles were really sore."
     },
     {
-      "vi": "Bạn nên khởi động kỹ trước khi chạy để tránh chấn thương.",
+      "vi": "Tôi đã chơi bóng chuyền từ năm lớp tám và đến giờ vẫn chơi mỗi tuần.",
       "hints": [
-        "warm up (v)",
-        "properly (adv)",
-        "avoid (v)",
-        "injury (n)"
+        "present perfect",
+        "volleyball (n)",
+        "since (prep)",
+        "eighth grade (n)"
       ],
-      "en": "You should warm up properly before running to avoid injuries."
+      "en": "I have played volleyball since eighth grade, and I still play every week.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi bị bong gân mắt cá chân khi chơi bóng rổ tuần trước.",
+      "vi": "Tôi đang chạy bộ quanh hồ thì trời đột nhiên đổ mưa như trút.",
       "hints": [
-        "sprain (v)",
-        "ankle (n)",
-        "basketball (n)"
+        "past continuous",
+        "run around (v)",
+        "suddenly (adv)",
+        "pour (v)"
       ],
-      "en": "I sprained my ankle while playing basketball last week."
+      "en": "I was running around the lake when it suddenly started to pour.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi chưa bao giờ xem một trận đấu trực tiếp ở sân vận động.",
+      "vi": "Nếu đội mình thắng trận này, chúng ta sẽ được vào vòng bán kết.",
       "hints": [
-        "live (adj)",
-        "game (n)",
-        "stadium (n)"
+        "first conditional",
+        "win (v)",
+        "make it to (v)",
+        "semifinal (n)"
       ],
-      "en": "I have never watched a live game at a stadium."
+      "en": "If our team wins this game, we will make it to the semifinals.",
+      "level": "B1"
     },
     {
-      "vi": "Đội tuyển quốc gia sẽ đối đầu với Thái Lan trong trận chung kết.",
+      "vi": "Bơi lội ít gây áp lực lên đầu gối hơn chạy bộ, nên nó phù hợp hơn với người lớn tuổi.",
       "hints": [
-        "national (adj)",
-        "play against (v)",
-        "final (n)"
+        "less ... than",
+        "put pressure on (v)",
+        "knee (n)",
+        "older people (n)"
       ],
-      "en": "The national team will play against Thailand in the final."
+      "en": "Swimming puts less pressure on your knees than running, so it's better for older people.",
+      "level": "B1"
     },
     {
-      "vi": "Tháng trước tôi đã tham gia một giải chạy 10 km và về đích sau 55 phút.",
+      "vi": "Hồi đi học tôi từng ghét giờ thể dục, nhưng bây giờ tôi đi tập gym năm ngày một tuần.",
       "hints": [
-        "take part in (v)",
-        "race (n)",
-        "finish (v)"
+        "used to",
+        "hate (v)",
+        "PE class (n)",
+        "go to the gym (v)"
       ],
-      "en": "I took part in a 10K race last month and finished in 55 minutes."
+      "en": "I used to hate PE class at school, but now I go to the gym five days a week.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu trời mưa, chúng tôi sẽ tập trong nhà thay vì ra sân.",
+      "vi": "Hè này tôi sẽ đi học tennis vì nhóm bạn của tôi đang cần thêm một người chơi.",
       "hints": [
-        "practice (v)",
-        "indoors (adv)",
-        "instead of (prep)",
-        "field (n)"
+        "be going to",
+        "take lessons (v)",
+        "tennis (n)",
+        "player (n)"
       ],
-      "en": "If it rains, we will practice indoors instead of on the field."
+      "en": "I'm going to take tennis lessons this summer because my group of friends needs another player.",
+      "level": "B1"
     },
     {
-      "vi": "Huấn luyện viên nói tôi phải tập chăm hơn nếu muốn được vào đội.",
+      "vi": "Bạn phải uống đủ nước khi tập luyện ngoài trời vào những ngày nắng nóng.",
       "hints": [
-        "coach (n)",
-        "train (v)",
-        "harder (adv)",
-        "make the team (v)"
+        "have to",
+        "enough (adj)",
+        "exercise (v)",
+        "outdoors (adv)",
+        "hot day (n)"
       ],
-      "en": "The coach said I have to train harder if I want to make the team."
+      "en": "You have to drink enough water when you exercise outdoors on hot days.",
+      "level": "B1"
     },
     {
-      "vi": "Nâng tạ giúp tôi khỏe hơn, nhưng tôi cần cải thiện sức bền.",
+      "vi": "Sau khi bị đau đầu gối, anh ấy quyết định chuyển sang đạp xe thay vì chạy bộ.",
       "hints": [
-        "lift weights (v)",
-        "stronger (adj)",
-        "improve (v)",
-        "stamina (n)"
+        "hurt (v)",
+        "decide to (v)",
+        "switch to (v)",
+        "instead of + V-ing"
       ],
-      "en": "Lifting weights makes me stronger, but I need to improve my stamina."
+      "en": "After he hurt his knee, he decided to switch to cycling instead of running.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã bỏ cuộc giữa chừng vì thể lực không đủ tốt.",
+      "vi": "Sân bóng gần nhà tôi quá nhỏ để hai đội mười một người thi đấu.",
       "hints": [
-        "quit (v)",
-        "halfway through",
-        "fit (adj)",
-        "enough (adv)"
+        "too ... for",
+        "field (n)",
+        "team (n)",
+        "player (n)"
       ],
-      "en": "I quit halfway through because I wasn't fit enough."
+      "en": "The field near my house is too small for two teams of eleven players.",
+      "level": "B1"
     },
     {
-      "vi": "Điều quan trọng không phải là thắng hay thua mà là tinh thần thể thao.",
+      "vi": "Trận đấu tối qua hấp dẫn đến mức cả khu phố đều hò reo sau mỗi bàn thắng.",
       "hints": [
-        "matter (v)",
-        "win or lose",
-        "sportsmanship (n)"
+        "so ... that",
+        "exciting (adj)",
+        "neighborhood (n)",
+        "cheer (v)",
+        "goal (n)"
       ],
-      "en": "What matters is not winning or losing but good sportsmanship."
+      "en": "The game last night was so exciting that the whole neighborhood cheered after every goal.",
+      "level": "B1"
     },
     {
       "vi": "Tôi đã tập luyện cho cuộc chạy marathon suốt ba tháng nay và sức bền của tôi đã tăng lên rõ rệt.",

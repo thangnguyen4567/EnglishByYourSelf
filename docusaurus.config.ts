@@ -39,8 +39,8 @@ const config: Config = {
       {
         hashed: true,
         indexBlog: false,
-        docsRouteBasePath: ['/docs', '/luyen-noi', '/luyen-viet', '/luyen-phan-xa'],
-        docsDir: ['docs', 'speaking', 'writing', 'reflex'],
+        docsRouteBasePath: ['/docs', '/luyen-noi', '/luyen-phan-xa'],
+        docsDir: ['docs', 'speaking', 'reflex'],
         highlightSearchTermsOnTargetPage: true,
         searchBarShortcutHint: false,
       },
@@ -51,10 +51,6 @@ const config: Config = {
     [
       '@docusaurus/plugin-content-docs',
       { id: 'speaking', path: 'speaking', routeBasePath: 'luyen-noi', sidebarPath: './sidebarsSkill.ts' },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      { id: 'writing', path: 'writing', routeBasePath: 'luyen-viet', sidebarPath: './sidebarsSkill.ts' },
     ],
     [
       '@docusaurus/plugin-content-docs',
@@ -104,7 +100,6 @@ const config: Config = {
         { to: '/docs/tra-cuu/bang-tra-cuu', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
         { to: '/docs/tra-cuu/tu-vung-dang-hoc', label: '📒 Từ vựng', position: 'left' },
         { to: '/luyen-noi', label: '🗣️ Luyện nói', position: 'left', activeBasePath: 'luyen-noi' },
-        { to: '/luyen-viet', label: '✍️ Luyện viết', position: 'left', activeBasePath: 'luyen-viet' },
         { to: '/luyen-phan-xa', label: '⚡ Phản xạ', position: 'left', activeBasePath: 'luyen-phan-xa' },
       ],
     },
@@ -131,7 +126,6 @@ const config: Config = {
   title: 'Kỹ năng',
     items: [
       { label: 'Luyện nói', to: '/luyen-noi' },
-      { label: 'Luyện viết', to: '/luyen-viet' },
       { label: 'Luyện phản xạ', to: '/luyen-phan-xa' },
     ],
         },

@@ -92,98 +92,114 @@
       "en": "We're going to watch the fireworks by the river at midnight."
     },
     {
-      "vi": "Đám cưới của anh họ tôi sẽ được tổ chức vào tháng Mười Hai.",
+      "vi": "Đã hai năm rồi tôi chưa về quê ăn Tết vì công việc ở nước ngoài.",
       "hints": [
-        "cousin (n)",
-        "wedding (n)",
-        "be held (v)"
+        "present perfect",
+        "go home (v)",
+        "in two years",
+        "abroad (adv)"
       ],
-      "en": "My cousin's wedding will be held in December."
+      "en": "I haven't gone home for Tet in two years because of my job abroad.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã được mời đến tiệc tân gia của một đồng nghiệp.",
+      "vi": "Cả nhà đang ăn bữa tối Giáng sinh thì ông già Noel bất ngờ gõ cửa.",
       "hints": [
-        "be invited to (v)",
-        "coworker (n)",
-        "housewarming party (n)"
+        "past continuous",
+        "Christmas dinner (n)",
+        "Santa Claus (n)",
+        "knock on (v)"
       ],
-      "en": "I was invited to my coworker's housewarming party."
+      "en": "We were having Christmas dinner when Santa Claus suddenly knocked on the door.",
+      "level": "B1"
     },
     {
-      "vi": "Vào dịp Trung thu, trẻ em rước đèn lồng và ăn bánh trung thu.",
+      "vi": "Nếu bạn đến nhà tôi vào mùng một Tết, mẹ tôi sẽ nấu cho bạn một bữa ăn truyền thống.",
       "hints": [
-        "Mid-Autumn Festival (n)",
-        "carry (v)",
-        "lantern (n)",
-        "mooncake (n)"
+        "first conditional",
+        "visit (v)",
+        "traditional (adj)",
+        "meal (n)"
       ],
-      "en": "During the Mid-Autumn Festival, children carry lanterns and eat mooncakes."
+      "en": "If you visit us on the first day of Tet, my mom will cook you a traditional meal.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn đã bao giờ đón năm mới ở nước ngoài chưa?",
+      "vi": "Tết là kỳ nghỉ dài nhất trong năm của tôi, nên tôi luôn mong chờ nó.",
       "hints": [
-        "ever (adv)",
-        "welcome (v)",
-        "in another country"
+        "the longest",
+        "holiday (n)",
+        "all year",
+        "look forward to (v)"
       ],
-      "en": "Have you ever welcomed the New Year in another country?"
+      "en": "Tet is the longest holiday I get all year, so I always look forward to it.",
+      "level": "B1"
     },
     {
-      "vi": "Mọi người thường tổng vệ sinh nhà cửa và tích trữ đồ ăn trước Tết.",
+      "vi": "Hồi còn nhỏ, sáng mùng một Tết nào tôi cũng được mặc quần áo mới.",
       "hints": [
-        "thorough (adj)",
-        "cleaning (n)",
-        "stock up on (v)"
+        "used to",
+        "wear (v)",
+        "new clothes (n)",
+        "first morning (n)"
       ],
-      "en": "People usually give their homes a thorough cleaning and stock up on food before Tet."
+      "en": "When I was little, I used to wear new clothes on the first morning of Tet.",
+      "level": "B1"
     },
     {
-      "vi": "Kỷ niệm 25 năm ngày cưới của bố mẹ tôi là vào tuần sau, nên chúng tôi sẽ tổ chức tiệc cho họ.",
+      "vi": "Anh họ tôi sẽ cưới vào mùa xuân này, nên cả gia đình đang rất háo hức.",
       "hints": [
-        "anniversary (n)",
-        "next week",
+        "be going to",
+        "get married (v)",
+        "spring (n)",
+        "excited (adj)"
+      ],
+      "en": "My cousin is going to get married this spring, so the whole family is really excited.",
+      "level": "B1"
+    },
+    {
+      "vi": "Theo phong tục, bạn không nên quét nhà vào ngày mùng một vì như vậy sẽ quét đi may mắn.",
+      "hints": [
+        "according to tradition",
+        "shouldn't",
+        "sweep (v)",
+        "good luck (n)"
+      ],
+      "en": "According to tradition, you shouldn't sweep the floor on New Year's Day because it sweeps away good luck.",
+      "level": "B1"
+    },
+    {
+      "vi": "Bố tôi rất thích đi chợ hoa ngày Tết, còn mẹ tôi lại thích ở nhà nấu nướng hơn.",
+      "hints": [
+        "enjoy + V-ing",
+        "flower market (n)",
+        "prefer to (v)",
+        "stay home (v)"
+      ],
+      "en": "My dad enjoys going to the flower market at Tet, but my mom prefers to stay home and cook.",
+      "level": "B1"
+    },
+    {
+      "vi": "Căn hộ của chúng tôi quá nhỏ để tổ chức tiệc cho cả họ hàng, nên chúng tôi đã đặt nhà hàng.",
+      "hints": [
+        "too ... to",
+        "host (v)",
+        "relative (n)",
+        "book (v)"
+      ],
+      "en": "Our apartment was too small to host a party for all our relatives, so we booked a restaurant.",
+      "level": "B1"
+    },
+    {
+      "vi": "Bữa tiệc Halloween năm ngoái vui đến nỗi năm nay chúng tôi quyết định tổ chức thêm một lần nữa.",
+      "hints": [
+        "so ... that",
+        "so much fun",
+        "decide to (v)",
         "throw a party (v)"
       ],
-      "en": "My parents' 25th anniversary is next week, so we're throwing them a party."
-    },
-    {
-      "vi": "Vào ngày Quốc khánh, đường phố rợp cờ đỏ sao vàng.",
-      "hints": [
-        "National Day (n)",
-        "be covered with (v)",
-        "flag (n)",
-        "star (n)"
-      ],
-      "en": "On National Day, the streets are covered with red flags with yellow stars."
-    },
-    {
-      "vi": "Theo truyền thống, chúng tôi đi thăm họ hàng và chúc Tết vào mùng hai.",
-      "hints": [
-        "traditionally (adv)",
-        "relative (n)",
-        "exchange (v)",
-        "greeting (n)"
-      ],
-      "en": "Traditionally, we visit our relatives and exchange New Year greetings on the second day."
-    },
-    {
-      "vi": "Nếu được nghỉ năm ngày, chúng tôi sẽ về quê thăm ông bà.",
-      "hints": [
-        "day off (n)",
-        "go back (v)",
-        "hometown (n)",
-        "grandparent (n)"
-      ],
-      "en": "If we get five days off, we will go back to our hometown to visit our grandparents."
-    },
-    {
-      "vi": "Dù bận đến đâu, tôi vẫn cố gắng về nhà ăn Tết cùng gia đình.",
-      "hints": [
-        "no matter how",
-        "busy (adj)",
-        "come home (v)"
-      ],
-      "en": "No matter how busy I am, I always try to come home for Tet."
+      "en": "Last year's Halloween party was so much fun that we've decided to throw another one this year.",
+      "level": "B1"
     },
     {
       "vi": "Khi tôi về đến nhà, gia đình tôi đã chuẩn bị đón Tết được mấy tuần rồi, dọn dẹp và sửa sang lại nhà cửa.",

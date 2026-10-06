@@ -93,95 +93,114 @@
       "en": "The nurse checked my blood pressure and temperature."
     },
     {
-      "vi": "Tôi bị dị ứng với hải sản và penicillin.",
+      "vi": "Bạn đã nhận được kết quả xét nghiệm máu chưa, hay vẫn đang chờ?",
       "hints": [
-        "allergic to (adj)",
-        "seafood (n)",
-        "penicillin (n)"
-      ],
-      "en": "I'm allergic to seafood and penicillin."
-    },
-    {
-      "vi": "Triệu chứng của bạn là gì, và chúng bắt đầu từ khi nào?",
-      "hints": [
-        "symptom (n)",
-        "start (v)",
-        "when"
-      ],
-      "en": "What are your symptoms, and when did they start?"
-    },
-    {
-      "vi": "Tôi đi khám sức khỏe tổng quát mỗi năm một lần.",
-      "hints": [
-        "get a check-up (v)",
-        "general (adj)",
-        "once a year"
-      ],
-      "en": "I get a general check-up once a year."
-    },
-    {
-      "vi": "Tôi đã bị chóng mặt và buồn nôn suốt cả buổi chiều.",
-      "hints": [
-        "dizzy (adj)",
-        "nauseous (adj)",
-        "all afternoon"
-      ],
-      "en": "I felt dizzy and nauseous all afternoon."
-    },
-    {
-      "vi": "Tôi đã phải nghỉ làm hai ngày vì bị cúm.",
-      "hints": [
-        "have to (v)",
-        "take days off (v)",
-        "flu (n)"
-      ],
-      "en": "I had to take two days off work because I had the flu."
-    },
-    {
-      "vi": "Bảo hiểm y tế của tôi có chi trả cho lần khám này không?",
-      "hints": [
-        "health insurance (n)",
-        "cover (v)",
-        "visit (n)"
-      ],
-      "en": "Does my health insurance cover this visit?"
-    },
-    {
-      "vi": "Bạn nên nghỉ ngơi và uống nhiều nước cho đến khi bình phục.",
-      "hints": [
-        "get some rest (v)",
-        "plenty of",
-        "fluid (n)",
-        "recover (v)"
-      ],
-      "en": "You should get some rest and drink plenty of fluids until you recover."
-    },
-    {
-      "vi": "Bác sĩ nói tôi cần xét nghiệm máu để tìm ra nguyên nhân.",
-      "hints": [
+        "present perfect",
         "blood test (n)",
-        "find out (v)",
-        "cause (n)"
+        "result (n)",
+        "yet (adv)"
       ],
-      "en": "The doctor said I need a blood test to find out the cause."
+      "en": "Have you gotten your blood test results yet, or are you still waiting?",
+      "level": "B1"
     },
     {
-      "vi": "Nếu cơn đau không đỡ sau ba ngày, hãy quay lại gặp tôi.",
+      "vi": "Tôi đang nấu bữa tối thì bị đứt tay khá sâu và phải đi khâu vết thương.",
       "hints": [
-        "pain (n)",
-        "get better (v)",
-        "come back (v)"
+        "past continuous",
+        "cut (v)",
+        "finger (n)",
+        "get stitches (v)"
       ],
-      "en": "If the pain doesn't get better in three days, come back and see me."
+      "en": "I was cooking dinner when I cut my finger badly and had to get stitches.",
+      "level": "B1"
     },
     {
-      "vi": "Dược sĩ dặn tôi không được uống thuốc này khi bụng đói.",
+      "vi": "Nếu tối nay con vẫn chưa hạ sốt, bố mẹ sẽ đưa con đến bệnh viện.",
       "hints": [
-        "pharmacist (n)",
-        "tell someone not to (v)",
-        "on an empty stomach"
+        "first conditional",
+        "fever (n)",
+        "go down (v)",
+        "take someone to (v)"
       ],
-      "en": "The pharmacist told me not to take this medicine on an empty stomach."
+      "en": "If your fever doesn't go down tonight, we'll take you to the hospital.",
+      "level": "B1"
+    },
+    {
+      "vi": "Phòng khám tư thường đắt hơn bệnh viện công, nhưng bạn không phải chờ lâu.",
+      "hints": [
+        "more expensive than",
+        "private clinic (n)",
+        "public hospital (n)",
+        "have to"
+      ],
+      "en": "Private clinics are usually more expensive than public hospitals, but you don't have to wait long.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi từng rất sợ kim tiêm, nhưng bây giờ tôi có thể đi hiến máu mà không lo lắng gì.",
+      "hints": [
+        "used to",
+        "terrified of (adj)",
+        "needle (n)",
+        "donate blood (v)"
+      ],
+      "en": "I used to be terrified of needles, but now I can donate blood without any worries.",
+      "level": "B1"
+    },
+    {
+      "vi": "Sáng mai tôi sẽ đi khám nha sĩ vì chiếc răng khôn của tôi đau quá.",
+      "hints": [
+        "be going to",
+        "dentist (n)",
+        "wisdom tooth (n)",
+        "hurt (v)"
+      ],
+      "en": "I'm going to see the dentist tomorrow morning because my wisdom tooth really hurts.",
+      "level": "B1"
+    },
+    {
+      "vi": "Có thể đây chỉ là cảm lạnh thông thường, nhưng bác sĩ muốn theo dõi thêm vài ngày.",
+      "hints": [
+        "might",
+        "common cold (n)",
+        "keep an eye on (v)",
+        "a few days"
+      ],
+      "en": "It might just be a common cold, but the doctor wants to keep an eye on it for a few days.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi cứ quên uống thuốc vào buổi trưa, nên tôi đã đặt báo thức để nhắc mình.",
+      "hints": [
+        "keep + V-ing",
+        "forget to (v)",
+        "set an alarm (v)",
+        "remind (v)"
+      ],
+      "en": "I keep forgetting to take my pills at noon, so I've set an alarm to remind me.",
+      "level": "B1"
+    },
+    {
+      "vi": "Cô ấy quá yếu để tự đi lại, nên y tá đã mang cho cô ấy một chiếc xe lăn.",
+      "hints": [
+        "too ... to",
+        "weak (adj)",
+        "on one's own",
+        "wheelchair (n)"
+      ],
+      "en": "She was too weak to walk on her own, so the nurse brought her a wheelchair.",
+      "level": "B1"
+    },
+    {
+      "vi": "Phòng chờ đông đến nỗi tôi phải đứng gần một tiếng đồng hồ.",
+      "hints": [
+        "so ... that",
+        "waiting room (n)",
+        "crowded (adj)",
+        "almost (adv)"
+      ],
+      "en": "The waiting room was so crowded that I had to stand for almost an hour.",
+      "level": "B1"
     },
     {
       "vi": "Tôi đã bị ho dai dẳng suốt hai tuần nay mà uống thuốc vẫn không đỡ chút nào.",

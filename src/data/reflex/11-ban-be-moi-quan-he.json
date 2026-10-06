@@ -95,101 +95,115 @@
       "en": "Have you ever lost touch with a childhood friend?"
     },
     {
-      "vi": "Bạn thân nhất của tôi sắp chuyển ra nước ngoài, tôi sẽ nhớ cô ấy lắm.",
+      "vi": "Tôi vẫn chưa gặp bạn trai mới của chị gái, nhưng mọi người nói anh ấy rất vui tính.",
       "hints": [
-        "best friend (n)",
-        "move abroad (v)",
-        "miss (v)",
-        "a lot"
+        "present perfect",
+        "yet (adv)",
+        "boyfriend (n)",
+        "funny (adj)"
       ],
-      "en": "My best friend is moving abroad, and I will miss her a lot."
+      "en": "I haven't met my sister's new boyfriend yet, but everyone says he's really funny.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng tôi đã hẹn hò được hai năm và sắp đính hôn.",
+      "vi": "Tôi đang chờ xe buýt thì tình cờ gặp lại một người bạn cũ thời đại học.",
       "hints": [
-        "date (v)",
-        "for two years",
-        "get engaged (v)",
-        "soon (adv)"
+        "past continuous",
+        "wait for (v)",
+        "run into (v)",
+        "college (n)"
       ],
-      "en": "We have been dating for two years and are getting engaged soon."
+      "en": "I was waiting for the bus when I ran into an old friend from college.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn cần ai đó để tâm sự, cứ gọi cho tôi.",
+      "vi": "Nếu tối thứ Sáu bạn rảnh, chúng ta sẽ đi ăn tối với nhóm bạn cũ nhé.",
       "hints": [
-        "need (v)",
-        "confide in (v)",
-        "just (adv)",
-        "call (v)"
+        "first conditional",
+        "free (adj)",
+        "have dinner (v)",
+        "group (n)"
       ],
-      "en": "If you need someone to confide in, just call me."
+      "en": "If you're free on Friday night, we'll have dinner with our old group of friends.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi không thích những người hay nói xấu sau lưng người khác.",
+      "vi": "Với tôi, vài người bạn thân quý giá hơn nhiều so với hàng trăm người quen trên mạng.",
       "hints": [
-        "gossip (v)",
-        "behind someone's back",
-        "others (n)"
+        "much more ... than",
+        "valuable (adj)",
+        "acquaintance (n)",
+        "online (adj)"
       ],
-      "en": "I don't like people who gossip behind others' backs."
+      "en": "For me, a few close friends are much more valuable than hundreds of online acquaintances.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã xin lỗi cô ấy và vài ngày sau chúng tôi làm lành.",
+      "vi": "Hồi nhỏ, tôi và anh họ từng chơi đá bóng cùng nhau mỗi buổi chiều sau giờ học.",
       "hints": [
-        "apologize to (v)",
-        "make up (v)",
-        "a few days later"
+        "used to",
+        "cousin (n)",
+        "play soccer (v)",
+        "after school"
       ],
-      "en": "I apologized to her, and we made up a few days later."
+      "en": "When we were kids, my cousin and I used to play soccer together every afternoon after school.",
+      "level": "B1"
     },
     {
-      "vi": "Họ chia tay vì không còn cùng quan điểm nữa.",
+      "vi": "Chúng tôi sẽ tổ chức một bữa tiệc chia tay cho Minh trước khi anh ấy chuyển ra Hà Nội.",
       "hints": [
-        "break up (v)",
-        "no longer (adv)",
-        "share (v)",
-        "view (n)"
+        "be going to",
+        "throw a party (v)",
+        "farewell (adj)",
+        "move to (v)"
       ],
-      "en": "They broke up because they no longer shared the same views."
+      "en": "We're going to throw a farewell party for Minh before he moves to Hanoi.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi nghĩ sự tôn trọng quan trọng hơn sự lãng mạn trong một mối quan hệ.",
+      "vi": "Bạn nên hỏi ý kiến bạn bè trước khi đưa ra một quyết định quan trọng như vậy.",
       "hints": [
-        "respect (n)",
-        "important (adj)",
-        "romance (n)",
-        "relationship (n)"
+        "should",
+        "ask for advice (v)",
+        "make a decision (v)",
+        "important (adj)"
       ],
-      "en": "I think respect is more important than romance in a relationship."
+      "en": "You should ask your friends for advice before you make such an important decision.",
+      "level": "B1"
     },
     {
-      "vi": "Một người bạn thật sự sẽ luôn ủng hộ bạn khi bạn gặp khó khăn.",
+      "vi": "Cô ấy thích gặp gỡ người mới, nên cô ấy đã quyết định tham gia một câu lạc bộ tiếng Anh.",
       "hints": [
-        "true (adj)",
-        "support (v)",
-        "go through (v)",
-        "hard times (n)"
+        "enjoy + V-ing",
+        "meet (v)",
+        "decide to (v)",
+        "join (v)",
+        "club (n)"
       ],
-      "en": "A true friend will always support you when you are going through hard times."
+      "en": "She enjoys meeting new people, so she decided to join an English club.",
+      "level": "B1"
     },
     {
-      "vi": "Kể từ khi đi làm, tôi ít có thời gian gặp gỡ bạn bè hơn trước.",
+      "vi": "Tôi quá ngại để xin lỗi trước, nên cả tuần chúng tôi không nói chuyện với nhau.",
       "hints": [
-        "start working (v)",
-        "less (adj)",
-        "catch up with (v)"
+        "too ... to",
+        "embarrassed (adj)",
+        "apologize (v)",
+        "each other"
       ],
-      "en": "Since I started working, I've had less time to catch up with friends."
+      "en": "I was too embarrassed to apologize first, so we didn't speak to each other for a week.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng tôi lớn lên cùng nhau nên hiểu nhau mà không cần nói một lời.",
+      "vi": "Bạn cùng lớp mới của tôi hài hước đến nỗi cả lớp ai cũng muốn ngồi cạnh cậu ấy.",
       "hints": [
-        "grow up (v)",
-        "together (adv)",
-        "understand each other (v)",
-        "without saying a word"
+        "so ... that",
+        "classmate (n)",
+        "funny (adj)",
+        "sit next to (v)"
       ],
-      "en": "We grew up together, so we understand each other without saying a word."
+      "en": "My new classmate is so funny that everyone in the class wants to sit next to him.",
+      "level": "B1"
     },
     {
       "vi": "Mặc dù chúng tôi sống cách xa nhau, chúng tôi vẫn cố gắng gọi video cho nhau ít nhất mỗi tháng một lần.",

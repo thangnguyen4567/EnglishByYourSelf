@@ -43,6 +43,10 @@
   background: var(--ifm-color-warning-darker);
 }
 
+.badgeMedium {
+  background: var(--ifm-color-info-darker);
+}
+
 .filter {
   font: inherit;
   font-size: 0.85rem;

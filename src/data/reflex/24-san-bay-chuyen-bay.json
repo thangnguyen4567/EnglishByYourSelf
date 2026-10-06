@@ -93,101 +93,116 @@
       "en": "You should arrive at the airport two hours early."
     },
     {
-      "vi": "Hãy bỏ chai nước ra trước khi qua cửa kiểm tra an ninh.",
+      "vi": "Năm nay tôi đã bay với hãng này ba lần, và lần nào chuyến bay cũng đúng giờ.",
       "hints": [
-        "throw away (v)",
-        "water bottle (n)",
-        "go through (v)",
-        "security check (n)"
-      ],
-      "en": "Please throw away your water bottle before you go through the security check."
-    },
-    {
-      "vi": "Tôi có một chuyến quá cảnh năm tiếng ở Singapore trước khi bay sang Paris.",
-      "hints": [
-        "layover (n)",
-        "five-hour (adj)",
-        "fly to (v)"
-      ],
-      "en": "I have a five-hour layover in Singapore before flying to Paris."
-    },
-    {
-      "vi": "Tiếp viên hàng không phát chăn và tai nghe cho hành khách.",
-      "hints": [
-        "flight attendant (n)",
-        "hand out (v)",
-        "blanket (n)",
-        "headphones (n)",
-        "passenger (n)"
-      ],
-      "en": "The flight attendants handed out blankets and headphones to the passengers."
-    },
-    {
-      "vi": "Máy bay sắp hạ cánh, xin vui lòng dựng thẳng lưng ghế.",
-      "hints": [
-        "be about to (v)",
-        "land (v)",
-        "seat back (n)",
-        "upright (adj)"
-      ],
-      "en": "The plane is about to land, so please put your seat back upright."
-    },
-    {
-      "vi": "Tôi đã đợi ở băng chuyền hành lý gần một tiếng rồi.",
-      "hints": [
-        "wait (v)",
-        "baggage claim (n)",
-        "almost (adv)",
-        "an hour"
-      ],
-      "en": "I have waited at baggage claim for almost an hour."
-    },
-    {
-      "vi": "Hãng hàng không đã làm thất lạc hành lý của tôi.",
-      "hints": [
+        "present perfect",
+        "fly (v)",
         "airline (n)",
-        "lose (v)",
-        "luggage (n)"
+        "on time"
       ],
-      "en": "The airline has lost my luggage."
+      "en": "I have flown with this airline three times this year, and the flights have always been on time.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn có gì cần khai báo hải quan không?",
+      "vi": "Tôi đang mua cà phê gần cổng thì họ thông báo lần gọi cuối cùng cho chuyến bay của tôi.",
       "hints": [
-        "anything",
-        "declare (v)",
-        "customs (n)"
+        "past continuous",
+        "gate (n)",
+        "announce (v)",
+        "last call (n)"
       ],
-      "en": "Do you have anything to declare at customs?"
+      "en": "I was buying a coffee near the gate when they announced the last call for my flight.",
+      "level": "B1"
     },
     {
-      "vi": "Vé khứ hồi thường rẻ hơn mua hai vé một chiều.",
+      "vi": "Nếu bạn làm thủ tục trực tuyến tối nay, ngày mai bạn sẽ không phải xếp hàng ở sân bay.",
       "hints": [
-        "round-trip ticket (n)",
-        "usually (adv)",
-        "cheaper (adj)",
-        "one-way ticket (n)"
+        "first conditional",
+        "check in online (v)",
+        "wait in line (v)",
+        "airport (n)"
       ],
-      "en": "A round-trip ticket is usually cheaper than two one-way tickets."
+      "en": "If you check in online tonight, you won't have to wait in line at the airport tomorrow.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu bạn lỡ chuyến bay nối chuyến, hãng sẽ đổi vé miễn phí cho bạn.",
+      "vi": "Bay hãng giá rẻ thì rẻ hơn nhiều, nhưng ghế ngồi nhỏ hơn và kém thoải mái hơn.",
       "hints": [
-        "miss (v)",
-        "connecting flight (n)",
-        "rebook (v)",
-        "free of charge"
+        "comparative",
+        "budget airline (n)",
+        "cheap (adj)",
+        "seat (n)",
+        "comfortable (adj)"
       ],
-      "en": "If you miss your connecting flight, the airline will rebook you free of charge."
+      "en": "Flying with a budget airline is much cheaper, but the seats are smaller and less comfortable.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi bị lệch múi giờ nặng sau chuyến bay dài mười bốn tiếng.",
+      "vi": "Trước đây tôi hay lo lắng khi máy bay cất cánh, nhưng giờ mỗi lần bay tôi đều hoàn toàn thoải mái.",
       "hints": [
-        "jet lag (n)",
-        "terrible (adj)",
-        "fourteen-hour (adj)"
+        "used to",
+        "nervous (adj)",
+        "takeoff (n)",
+        "relaxed (adj)"
       ],
-      "en": "I had terrible jet lag after the fourteen-hour flight."
+      "en": "I used to feel nervous during takeoff, but now I'm completely relaxed when I fly.",
+      "level": "B1"
+    },
+    {
+      "vi": "Chuyến bay của chúng tôi sẽ hạ cánh ở Tokyo lúc nửa đêm, nên chúng tôi sẽ bắt taxi về khách sạn.",
+      "hints": [
+        "be going to",
+        "land (v)",
+        "midnight (n)",
+        "take a taxi (v)"
+      ],
+      "en": "Our flight is going to land in Tokyo at midnight, so we'll take a taxi to the hotel.",
+      "level": "B1"
+    },
+    {
+      "vi": "Hành khách phải lấy máy tính xách tay ra khỏi túi khi đi qua cửa kiểm tra an ninh.",
+      "hints": [
+        "have to",
+        "passenger (n)",
+        "take out (v)",
+        "laptop (n)",
+        "security (n)"
+      ],
+      "en": "Passengers have to take their laptops out of their bags when they go through security.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi cố tránh đặt các chuyến bay đêm vì hôm sau tôi luôn thấy kiệt sức.",
+      "hints": [
+        "avoid + V-ing",
+        "book (v)",
+        "night flight (n)",
+        "exhausted (adj)"
+      ],
+      "en": "I try to avoid booking night flights because I always feel exhausted the next day.",
+      "level": "B1"
+    },
+    {
+      "vi": "Chúng tôi không có đủ thời gian để ăn ở sân bay, nên đã mua bánh mì kẹp để ăn trên máy bay.",
+      "hints": [
+        "enough (adj)",
+        "time (n)",
+        "sandwich (n)",
+        "on the plane"
+      ],
+      "en": "We didn't have enough time to eat at the airport, so we bought sandwiches to eat on the plane.",
+      "level": "B1"
+    },
+    {
+      "vi": "Hàng người ở quầy kiểm tra hộ chiếu dài đến mức chúng tôi suýt lỡ chuyến bay nối chuyến.",
+      "hints": [
+        "so... that",
+        "passport control (n)",
+        "almost (adv)",
+        "connecting flight (n)"
+      ],
+      "en": "The line at passport control was so long that we almost missed our connecting flight.",
+      "level": "B1"
     },
     {
       "vi": "Nếu chúng tôi không bị kẹt xe trên đường cao tốc, chúng tôi đã không phải trả một khoản phí đổi vé đắt đỏ.",

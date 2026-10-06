@@ -5,7 +5,13 @@ import styles from './styles.module.css';
 
 export type ReflexItem = {vi: string; hints: string[]; en: string; level?: string};
 
-type Filter = 'all' | 'basic' | 'advanced';
+type Filter = 'all' | 'basic' | 'medium' | 'advanced';
+
+/** Mức độ của câu: không có `level` = cơ bản, `B1` = trung bình, còn lại (B2…) = nâng cao. */
+const levelOf = (it: ReflexItem): Exclude<Filter, 'all'> =>
+  !it.level ? 'basic' : it.level === 'B1' ? 'medium' : 'advanced';
+
+const LEVEL_LABEL = {medium: 'Trung bình', advanced: 'Nâng cao'} as const;
 
 /**
  * Bài luyện phản xạ: nhìn câu tiếng Việt + gợi ý từ vựng → nói to và viết câu tiếng Anh ra vở → mở đáp án để so.
@@ -19,11 +25,11 @@ export default function ReflexDrill({items}: {items: ReflexItem[]}): ReactNode {
   const [order, setOrder] = useState<number[]>(() => items.map((_, i) => i));
   const [supported, setSupported] = useState(false);
   const [filter, setFilter] = useState<Filter>('all');
-  const hasAdvanced = items.some((it) => it.level);
+  const hasLevels = items.some((it) => it.level);
 
   useEffect(() => setSupported(canSpeak()), []);
 
-  const visible = order.filter((i) => filter === 'all' || (filter === 'advanced') === Boolean(items[i].level));
+  const visible = order.filter((i) => filter === 'all' || levelOf(items[i]) === filter);
   const allOpen = visible.every((i) => open.has(i));
   const toggle = (i: number) =>
     setOpen((prev) => {
@@ -59,10 +65,11 @@ export default function ReflexDrill({items}: {items: ReflexItem[]}): ReactNode {
         <button type="button" className="button button--sm button--secondary" onClick={() => setOrder(items.map((_, i) => i))}>
           ↺ Thứ tự gốc
         </button>
-        {hasAdvanced && (
+        {hasLevels && (
           <select aria-label="Mức độ" className={styles.filter} value={filter} onChange={(e) => setFilter(e.target.value as Filter)}>
             <option value="all">Tất cả câu</option>
             <option value="basic">Cơ bản</option>
+            <option value="medium">Trung bình</option>
             <option value="advanced">Nâng cao</option>
           </select>
         )}
@@ -77,7 +84,9 @@ export default function ReflexDrill({items}: {items: ReflexItem[]}): ReactNode {
               <div className={styles.head}>
                 <span className={styles.no}>{pos + 1}.</span>
                 <span className={styles.vi}>{it.vi}</span>
-                {it.level && <span className={styles.badge}>Nâng cao</span>}
+                {it.level && (
+                  <span className={`${styles.badge} ${levelOf(it) === 'medium' ? styles.badgeMedium : ''}`}>{LEVEL_LABEL[levelOf(it) as 'medium' | 'advanced']}</span>
+                )}
               </div>
               {showHints && (
                 <div className={styles.hints}>

@@ -94,102 +94,117 @@
       "en": "Last year my family stayed at a homestay in Da Lat."
     },
     {
-      "vi": "Hướng dẫn viên đưa chúng tôi đi tham quan phố cổ.",
+      "vi": "Tôi chưa bao giờ thử ở khách sạn con nhộng, nên tôi rất tò mò không biết nó như thế nào.",
       "hints": [
-        "tour guide (n)",
-        "take (v)",
-        "sightseeing (n)",
-        "old quarter (n)"
+        "present perfect",
+        "never (adv)",
+        "try (v)",
+        "capsule hotel (n)",
+        "curious (adj)"
       ],
-      "en": "The tour guide took us sightseeing in the old quarter."
+      "en": "I have never tried a capsule hotel before, so I'm curious about what it's like.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi định mua vài món quà lưu niệm cho đồng nghiệp.",
+      "vi": "Chúng tôi đang ăn tối ở nhà hàng của khách sạn thì đột nhiên mất điện.",
       "hints": [
-        "be going to (v)",
-        "buy (v)",
-        "souvenir (n)",
-        "coworker (n)"
+        "past continuous",
+        "hotel restaurant (n)",
+        "suddenly (adv)",
+        "go out (v)"
       ],
-      "en": "I'm going to buy some souvenirs for my coworkers."
+      "en": "We were having dinner at the hotel restaurant when the power suddenly went out.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn nên đặt phòng sớm vì đang là mùa cao điểm.",
+      "vi": "Nếu ngày mai trời mưa, chúng ta sẽ đi bảo tàng thay vì ra biển.",
       "hints": [
-        "reserve (v)",
-        "early (adv)",
-        "peak season (n)"
+        "first conditional",
+        "rain (v)",
+        "museum (n)",
+        "instead of (prep)"
       ],
-      "en": "You should reserve a room early because it's peak season."
+      "en": "If it rains tomorrow, we will visit the museum instead of going to the beach.",
+      "level": "B1"
     },
     {
-      "vi": "Chúng tôi có thể trả phòng muộn hơn một tiếng được không?",
+      "vi": "Đây là khách sạn sạch sẽ và thoải mái nhất mà chúng tôi từng ở tại Việt Nam.",
       "hints": [
-        "check out (v)",
-        "an hour",
-        "later (adv)"
+        "superlative",
+        "clean (adj)",
+        "comfortable (adj)",
+        "stay at (v)"
       ],
-      "en": "Can we check out an hour later?"
+      "en": "This is the cleanest and most comfortable hotel that we have stayed at in Vietnam.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã lên lịch trình chi tiết cho chuyến đi Huế.",
+      "vi": "Hồi trước bố mẹ tôi thường đưa chúng tôi đi cắm trại mỗi mùa hè thay vì ở khách sạn.",
       "hints": [
-        "plan (v)",
-        "detailed (adj)",
-        "itinerary (n)",
-        "trip (n)"
+        "used to",
+        "go camping (v)",
+        "every summer",
+        "instead of (prep)"
       ],
-      "en": "I have planned a detailed itinerary for the trip to Hue."
+      "en": "My parents used to take us camping every summer instead of staying in hotels.",
+      "level": "B1"
     },
     {
-      "vi": "Đừng quên mang theo kem chống nắng khi đi biển.",
+      "vi": "Chúng tôi định thuê xe máy để tự khám phá hòn đảo thay vì đặt tour.",
       "hints": [
-        "forget (v)",
-        "pack (v)",
-        "sunscreen (n)",
-        "seaside (n)"
-      ],
-      "en": "Don't forget to pack sunscreen when you go to the seaside."
-    },
-    {
-      "vi": "Nếu hủy phòng trước ba ngày, bạn sẽ được hoàn tiền đặt cọc.",
-      "hints": [
-        "cancel (v)",
-        "in advance",
-        "get back (v)",
-        "deposit (n)"
-      ],
-      "en": "If you cancel three days in advance, you will get your deposit back."
-    },
-    {
-      "vi": "Khu nghỉ dưỡng này đắt hơn nhưng dịch vụ tốt hơn nhiều.",
-      "hints": [
-        "resort (n)",
-        "expensive (adj)",
-        "service (n)",
-        "much better"
-      ],
-      "en": "This resort is more expensive, but the service is much better."
-    },
-    {
-      "vi": "Đi du lịch tự túc giúp tôi tiết kiệm tiền và khám phá ẩm thực địa phương.",
-      "hints": [
-        "travel independently (v)",
-        "save money (v)",
+        "be going to",
+        "rent (v)",
         "explore (v)",
-        "local food (n)"
+        "on our own",
+        "book (v)"
       ],
-      "en": "Traveling independently helps me save money and explore local food."
+      "en": "We're going to rent motorbikes and explore the island on our own instead of booking a tour.",
+      "level": "B1"
     },
     {
-      "vi": "Lễ tân đã gọi báo thức cho tôi lúc sáu giờ để tôi kịp chuyến tham quan.",
+      "vi": "Bạn nên cất hộ chiếu vào két sắt trong phòng để không bị mất.",
       "hints": [
-        "receptionist (n)",
-        "wake-up call (n)",
-        "in time for",
-        "tour (n)"
+        "should (modal)",
+        "passport (n)",
+        "room safe (n)",
+        "so that (conj)"
       ],
-      "en": "The receptionist gave me a wake-up call at six so I was in time for the tour."
+      "en": "You should keep your passport in the room safe so that you don't lose it.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi không ngại dùng chung phòng tắm nếu điều đó giúp chúng ta tiết kiệm được chút tiền chỗ ở.",
+      "hints": [
+        "don't mind + V-ing",
+        "share (v)",
+        "bathroom (n)",
+        "accommodation (n)"
+      ],
+      "en": "I don't mind sharing a bathroom if it means we can save some money on accommodation.",
+      "level": "B1"
+    },
+    {
+      "vi": "Phòng ồn quá không ngủ được, nên chúng tôi nhờ lễ tân chuyển sang tầng khác.",
+      "hints": [
+        "too... to",
+        "noisy (adj)",
+        "receptionist (n)",
+        "move (v)",
+        "floor (n)"
+      ],
+      "en": "The room was too noisy to sleep in, so we asked the receptionist to move us to another floor.",
+      "level": "B1"
+    },
+    {
+      "vi": "Cảnh nhìn từ ban công phòng chúng tôi đẹp đến mức tối nào chúng tôi cũng ra đó ngắm hoàng hôn.",
+      "hints": [
+        "so... that",
+        "view (n)",
+        "balcony (n)",
+        "sunset (n)"
+      ],
+      "en": "The view from our balcony was so amazing that we watched the sunset there every evening.",
+      "level": "B1"
     },
     {
       "vi": "Nếu chúng tôi đặt chỗ sớm hơn, chúng tôi đã có thể ở một phòng hướng biển với giá rẻ hơn nhiều.",

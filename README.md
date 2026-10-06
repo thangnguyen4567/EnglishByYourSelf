@@ -75,10 +75,10 @@ Kiểm tra định dạng: `python -X utf8 scripts/check_quiz.py` (hoặc `... c
 `"code": "G06"` (phải nằm trong phạm vi chủ đề của bài). Các câu này được nối sau các câu "Cơ bản" lấy từ Excel.
 Kiểm tra: `python -X utf8 scripts/check_quiz.py tuan-1 cuoi-khoa`.
 
-## Luyện nói & Luyện viết (menu riêng)
+## Luyện nói (menu riêng)
 
-Hai mục là 2 instance docs riêng (`speaking/` → `/luyen-noi`, `writing/` → `/luyen-viet`), mỗi mục có sidebar riêng
-(`sidebarsSkill.ts`) và mục menu riêng trên thanh điều hướng. Danh sách 26 chủ đề nói (giai đoạn 5 = phỏng vấn IT) + 16 chủ đề viết (id, slug, giai đoạn,
+Mục này là một instance docs riêng (`speaking/` → `/luyen-noi`), có sidebar riêng
+(`sidebarsSkill.ts`) và mục menu riêng trên thanh điều hướng. Danh sách 26 chủ đề nói (giai đoạn 5 = phỏng vấn IT) (id, slug, giai đoạn,
 ngữ pháp liên quan) nằm ở `src/data/skills.ts` – lộ trình, thanh thông tin đầu trang và tiến độ đều đọc từ đây.
 
 Component dùng trực tiếp trong MDX (đăng ký ở `src/theme/MDXComponents.tsx`, không cần import):
@@ -91,7 +91,7 @@ Component dùng trực tiếp trong MDX (đăng ký ở `src/theme/MDXComponents
 | `<SpeakText title="…">` nội dung `</SpeakText>` | Khung bài mẫu có nút 🔊 Nghe (bỏ qua phần `<details>` bản dịch) |
 
 Âm thanh dùng Web Speech API của trình duyệt – không cần file âm thanh hay API key.
-Trang mẫu: `speaking/01-ban-than/01-gioi-thieu-ban-than.mdx`, `writing/01-cau-doan-van/02-doan-van-gioi-thieu.mdx`.
+Trang mẫu: `speaking/01-ban-than/01-gioi-thieu-ban-than.mdx`.
 
 ## Triển khai lên GitHub Pages (user site)
 

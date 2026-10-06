@@ -92,101 +92,118 @@
       "en": "Walk two blocks and turn right at the traffic light."
     },
     {
-      "vi": "Tôi bị lạc rồi, tôi không biết mình đang ở đâu.",
+      "vi": "Tôi đã đi ngang qua hiệu sách này nhiều lần nhưng chưa bao giờ bước vào trong.",
       "hints": [
-        "lost (adj)",
-        "know (v)",
-        "where I am"
+        "present perfect",
+        "walk past (v)",
+        "bookstore (n)",
+        "never (adv)",
+        "go inside (v)"
       ],
-      "en": "I'm lost and I don't know where I am."
+      "en": "I have walked past this bookstore many times, but I've never gone inside.",
+      "level": "B1"
     },
     {
-      "vi": "Khu trung tâm thành phố lúc nào cũng đông đúc và ồn ào.",
+      "vi": "Tôi đang tìm hiệu thuốc thì một ông cụ tốt bụng ngỏ ý dẫn tôi đến đó.",
       "hints": [
-        "downtown (n)",
-        "always (adv)",
-        "crowded (adj)",
-        "noisy (adj)"
+        "past continuous",
+        "look for (v)",
+        "pharmacy (n)",
+        "offer (v)",
+        "kind (adj)"
       ],
-      "en": "Downtown is always crowded and noisy."
+      "en": "I was looking for the pharmacy when a kind old man offered to walk me there.",
+      "level": "B1"
     },
     {
-      "vi": "Có một lối tắt qua con hẻm phía sau chợ.",
+      "vi": "Nếu bạn rẽ vào lối ra thứ hai ở vòng xoay, bạn sẽ thấy bệnh viện bên tay trái.",
       "hints": [
-        "shortcut (n)",
-        "through (prep)",
-        "alley (n)",
-        "behind (prep)"
+        "first conditional",
+        "exit (n)",
+        "roundabout (n)",
+        "hospital (n)",
+        "on your left"
       ],
-      "en": "There's a shortcut through the alley behind the market."
+      "en": "If you take the second exit at the roundabout, you'll see the hospital on your left.",
+      "level": "B1"
     },
     {
-      "vi": "Khi bạn thấy cây cầu, quán cà phê nằm bên tay phải.",
+      "vi": "Từ đây đến chợ đêm thì đường nào nhanh nhất, đi xe buýt hay đi bộ?",
       "hints": [
-        "see (v)",
-        "bridge (n)",
-        "on your right"
+        "superlative",
+        "quick (adj)",
+        "get to (v)",
+        "night market (n)",
+        "on foot"
       ],
-      "en": "When you see the bridge, the café is on your right."
+      "en": "What's the quickest way to get to the night market from here, by bus or on foot?",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã sống ở khu phố này được năm năm.",
+      "vi": "Trước đây ở góc đường này có một rạp chiếu phim, nhưng giờ nó là một siêu thị lớn.",
       "hints": [
-        "live (v)",
+        "used to",
+        "cinema (n)",
+        "corner (n)",
+        "supermarket (n)"
+      ],
+      "en": "There used to be a cinema on this corner, but now it's a big supermarket.",
+      "level": "B1"
+    },
+    {
+      "vi": "Ngày mai tôi định đi chợ hoa, bạn có thể đánh dấu nó trên bản đồ giúp tôi không?",
+      "hints": [
+        "be going to",
+        "flower market (n)",
+        "mark (v)",
+        "map (n)"
+      ],
+      "en": "I'm going to visit the flower market tomorrow, so could you mark it on my map?",
+      "level": "B1"
+    },
+    {
+      "vi": "Bạn không nên đi bộ qua công viên đó vào đêm khuya vì đèn đường không sáng.",
+      "hints": [
+        "should (modal)",
+        "walk through (v)",
+        "late at night",
+        "street light (n)"
+      ],
+      "en": "You shouldn't walk through that park late at night because the street lights don't work.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi thích đi bộ khám phá những khu phố mới vì lúc nào cũng tìm thấy những cửa hàng nhỏ thú vị.",
+      "hints": [
+        "enjoy + V-ing",
+        "explore (v)",
         "neighborhood (n)",
-        "for five years"
+        "discover (v)"
       ],
-      "en": "I have lived in this neighborhood for five years."
+      "en": "I enjoy exploring new neighborhoods on foot because I always discover interesting little shops.",
+      "level": "B1"
     },
     {
-      "vi": "Bạn nên dùng tháp đồng hồ làm điểm mốc để không bị lạc.",
+      "vi": "Con phố này quá hẹp nên xe buýt không vào được, bạn sẽ phải xuống ở đường lớn rồi đi bộ vào.",
       "hints": [
-        "clock tower (n)",
-        "landmark (n)",
-        "get lost (v)"
-      ],
-      "en": "You should use the clock tower as a landmark so you don't get lost."
-    },
-    {
-      "vi": "Đi theo biển chỉ dẫn đến quảng trường chính.",
-      "hints": [
-        "follow (v)",
-        "sign (n)",
-        "main (adj)",
-        "square (n)"
-      ],
-      "en": "Follow the signs to the main square."
-    },
-    {
-      "vi": "Hồi trước khu này toàn ruộng, bây giờ có rất nhiều tòa nhà chọc trời.",
-      "hints": [
-        "used to (v)",
-        "rice field (n)",
-        "now (adv)",
-        "skyscraper (n)"
-      ],
-      "en": "This area used to be all rice fields, but now there are lots of skyscrapers."
-    },
-    {
-      "vi": "Vỉa hè ở đây quá hẹp nên người ta phải đi bộ dưới lòng đường.",
-      "hints": [
-        "sidewalk (n)",
+        "too (adv)",
         "narrow (adj)",
-        "have to (v)",
-        "road (n)"
+        "get off (v)",
+        "main road (n)"
       ],
-      "en": "The sidewalks here are so narrow that people have to walk in the road."
+      "en": "This street is too narrow for buses, so you'll have to get off on the main road and walk.",
+      "level": "B1"
     },
     {
-      "vi": "Sống ở ngoại ô yên tĩnh hơn, nhưng đi vào trung tâm mất nhiều thời gian hơn.",
+      "vi": "Khu trung tâm có những con đường rối rắm đến mức ngay cả người địa phương đôi khi cũng phải dùng GPS.",
       "hints": [
-        "outskirts (n)",
-        "quiet (adj)",
-        "city center (n)",
-        "take (v)",
-        "longer (adv)"
+        "such... that",
+        "confusing (adj)",
+        "local (n)",
+        "GPS (n)"
       ],
-      "en": "Living on the outskirts is quieter, but it takes longer to get to the city center."
+      "en": "The city center has such confusing streets that even locals sometimes need their GPS.",
+      "level": "B1"
     },
     {
       "vi": "Nếu tôi không hỏi đường người bán hàng rong, có lẽ tôi đã đi lòng vòng trong mấy con hẻm nhỏ đó cả buổi chiều.",

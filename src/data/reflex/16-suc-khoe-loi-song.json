@@ -95,99 +95,115 @@
       "en": "I'm cutting back on sugar and salt in my diet."
     },
     {
-      "vi": "Tôi hay bỏ bữa sáng nên thường thấy mệt vào khoảng giữa trưa.",
+      "vi": "Tôi đã không uống nước ngọt có ga suốt ba tháng nay, và da tôi trông đẹp hơn hẳn.",
       "hints": [
-        "skip (v)",
-        "breakfast (n)",
-        "tired (adj)",
-        "around noon"
+        "present perfect",
+        "soda (n)",
+        "for three months",
+        "skin (n)"
       ],
-      "en": "I skip breakfast too often, so I usually feel tired around noon."
+      "en": "I haven't had any soda for three months, and my skin looks much better.",
+      "level": "B1"
     },
     {
-      "vi": "Uống quá nhiều cà phê khiến tôi khó ngủ.",
+      "vi": "Tôi đang leo cầu thang lên tầng năm thì bắt đầu thấy thở không ra hơi.",
       "hints": [
-        "too much",
-        "make it hard (v)",
-        "fall asleep (v)"
+        "past continuous",
+        "climb the stairs (v)",
+        "floor (n)",
+        "out of breath"
       ],
-      "en": "Drinking too much coffee makes it hard for me to fall asleep."
+      "en": "I was climbing the stairs to the fifth floor when I started to feel completely out of breath.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đã tăng ba ký kể từ khi làm việc tại nhà.",
+      "vi": "Nếu bạn đi ngủ trước 11 giờ đêm, sáng hôm sau bạn sẽ thấy tỉnh táo hơn nhiều.",
       "hints": [
-        "gain (v)",
-        "kilo (n)",
-        "work from home (v)"
-      ],
-      "en": "I've gained three kilos since I started working from home."
-    },
-    {
-      "vi": "Thiền mười phút mỗi sáng giúp tôi bớt lo âu.",
-      "hints": [
-        "meditate (v)",
-        "less",
-        "anxious (adj)"
-      ],
-      "en": "Meditating for ten minutes every morning helps me feel less anxious."
-    },
-    {
-      "vi": "Từ khi đi ngủ sớm hơn, tôi cảm thấy tràn đầy năng lượng.",
-      "hints": [
+        "first conditional",
         "go to bed (v)",
-        "earlier (adv)",
-        "full of energy"
+        "alert (adj)",
+        "the next morning"
       ],
-      "en": "Since I started going to bed earlier, I've felt full of energy."
+      "en": "If you go to bed before 11 p.m., you'll feel much more alert the next morning.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi đang cố bỏ thói quen ăn vặt vào đêm khuya.",
+      "vi": "Nấu ăn ở nhà thường lành mạnh và rẻ hơn so với ăn ở nhà hàng.",
       "hints": [
-        "work on (v)",
-        "break a habit (v)",
-        "snack (v)",
-        "late at night"
+        "healthier (adj)",
+        "cheaper (adj)",
+        "than (conj)",
+        "eat out (v)"
       ],
-      "en": "I'm working on breaking the habit of snacking late at night."
+      "en": "Cooking at home is usually healthier and cheaper than eating out at restaurants.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi không uống nhiều rượu bia vì nó ảnh hưởng đến chất lượng giấc ngủ.",
+      "vi": "Tôi từng uống ba ly cà phê mỗi ngày, nhưng bây giờ tôi chỉ uống một ly vào buổi sáng.",
       "hints": [
-        "alcohol (n)",
-        "affect (v)",
-        "quality (n)"
+        "used to",
+        "cup (n)",
+        "a day",
+        "only (adv)"
       ],
-      "en": "I don't drink much alcohol because it affects the quality of my sleep."
+      "en": "I used to drink three cups of coffee a day, but now I only have one in the morning.",
+      "level": "B1"
     },
     {
-      "vi": "Nếu muốn giảm cân, bạn cần những bữa ăn cân bằng và tập thể dục đều đặn.",
+      "vi": "Tôi sẽ bắt đầu mang cơm trưa đi làm để tránh ăn đồ chiên rán.",
       "hints": [
-        "lose weight (v)",
-        "balanced (adj)",
-        "meal (n)",
-        "regular (adj)"
+        "be going to",
+        "bring lunch (v)",
+        "so that (conj)",
+        "avoid (v)",
+        "fried food (n)"
       ],
-      "en": "If you want to lose weight, you need balanced meals and regular exercise."
+      "en": "I'm going to start bringing lunch to work so that I can avoid fried food.",
+      "level": "B1"
     },
     {
-      "vi": "Lối sống ít vận động có thể dẫn đến nhiều vấn đề sức khỏe.",
+      "vi": "Bạn nên nghỉ giải lao năm phút sau mỗi giờ làm việc để cho mắt nghỉ ngơi và vươn vai.",
       "hints": [
-        "sedentary (adj)",
-        "lifestyle (n)",
-        "lead to (v)",
-        "health problem (n)"
+        "should",
+        "take a break (v)",
+        "rest (v)",
+        "stretch (v)"
       ],
-      "en": "A sedentary lifestyle can lead to many health problems."
+      "en": "You should take a five-minute break every hour to rest your eyes and stretch.",
+      "level": "B1"
     },
     {
-      "vi": "Cân bằng giữa công việc và cuộc sống rất quan trọng cho cả sức khỏe thể chất lẫn tinh thần.",
+      "vi": "Chị tôi đã quyết định bỏ ăn khuya vì nó khiến chị ấy bị khó tiêu.",
       "hints": [
-        "work-life balance (n)",
-        "both ... and",
-        "physical (adj)",
-        "mental (adj)"
+        "decide to (v)",
+        "stop + V-ing",
+        "late at night",
+        "indigestion (n)"
       ],
-      "en": "A good work-life balance is important for both physical and mental health."
+      "en": "My sister has decided to stop eating late at night because it gives her indigestion.",
+      "level": "B1"
+    },
+    {
+      "vi": "Tôi luôn nói rằng mình quá bận để tập thể dục, nhưng thật ra đó chỉ là cái cớ.",
+      "hints": [
+        "too ... to",
+        "exercise (v)",
+        "actually (adv)",
+        "excuse (n)"
+      ],
+      "en": "I always say I'm too busy to exercise, but that's actually just an excuse.",
+      "level": "B1"
+    },
+    {
+      "vi": "Công việc của tôi mệt đến nỗi tôi thường ngủ gục trên ghế sofa trước cả bữa tối.",
+      "hints": [
+        "so ... that",
+        "tiring (adj)",
+        "fall asleep (v)",
+        "couch (n)"
+      ],
+      "en": "My job is so tiring that I often fall asleep on the couch before dinner.",
+      "level": "B1"
     },
     {
       "vi": "Kể từ khi chuyển sang chế độ ăn dựa trên thực vật, tôi cảm thấy cơ thể nhẹ nhõm và tràn trề sinh lực hơn hẳn.",

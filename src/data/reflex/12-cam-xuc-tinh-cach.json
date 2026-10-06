@@ -93,99 +93,114 @@
       "en": "I was very surprised when my former teacher still remembered my name."
     },
     {
-      "vi": "Tôi đã cảm thấy thất vọng vì không đạt được mục tiêu của mình.",
+      "vi": "Bạn đã bao giờ cảm thấy cô đơn ngay cả khi xung quanh có rất nhiều người chưa?",
       "hints": [
-        "disappointed (adj)",
-        "reach (v)",
-        "goal (n)"
+        "present perfect",
+        "ever (adv)",
+        "lonely (adj)",
+        "surrounded by (adj)"
       ],
-      "en": "I felt disappointed because I didn't reach my goal."
+      "en": "Have you ever felt lonely even when you were surrounded by lots of people?",
+      "level": "B1"
     },
     {
-      "vi": "Bạn tôi rất hào phóng; anh ấy luôn sẵn lòng chia sẻ mọi thứ.",
+      "vi": "Tay tôi run lên khi tôi bước lên sân khấu cho bài thuyết trình đầu tiên.",
       "hints": [
-        "generous (adj)",
-        "willing (adj)",
-        "share (v)"
+        "past continuous",
+        "shake (v)",
+        "stage (n)",
+        "presentation (n)"
       ],
-      "en": "My friend is very generous; he is always willing to share everything."
+      "en": "My hands were shaking when I walked onto the stage for my first presentation.",
+      "level": "B1"
     },
     {
-      "vi": "Mẹ tôi rất chu đáo; bà luôn nghĩ đến cảm xúc của người khác.",
+      "vi": "Nếu bạn cứ giữ mọi lo lắng trong lòng, bạn sẽ càng thấy căng thẳng hơn.",
       "hints": [
-        "thoughtful (adj)",
-        "consider (v)",
-        "feeling (n)"
+        "first conditional",
+        "keep ... to oneself (v)",
+        "worry (n)",
+        "stressed out (adj)"
       ],
-      "en": "My mom is very thoughtful; she always considers other people's feelings."
+      "en": "If you keep all your worries to yourself, you will feel even more stressed out.",
+      "level": "B1"
     },
     {
-      "vi": "Khi buồn bực, tôi thường đi dạo để bình tĩnh lại.",
+      "vi": "Chị gái tôi là người lạc quan nhất mà tôi từng gặp.",
       "hints": [
+        "the most",
+        "optimistic (adj)",
+        "ever (adv)",
+        "meet (v)"
+      ],
+      "en": "My older sister is the most optimistic person I have ever met.",
+      "level": "B1"
+    },
+    {
+      "vi": "Hồi nhỏ tôi từng rất sợ bóng tối, nhưng giờ thì tôi không sợ nữa.",
+      "hints": [
+        "used to",
+        "afraid of (adj)",
+        "the dark (n)",
+        "not anymore"
+      ],
+      "en": "I used to be really afraid of the dark as a child, but I'm not anymore.",
+      "level": "B1"
+    },
+    {
+      "vi": "Có lẽ anh ấy hơi buồn vì chúng ta quên mời anh ấy đến bữa tiệc.",
+      "hints": [
+        "might",
         "upset (adj)",
-        "go for a walk (v)",
-        "calm down (v)"
+        "forget to (v)",
+        "invite (v)"
       ],
-      "en": "When I'm upset, I usually go for a walk to calm down."
+      "en": "He might be a little upset because we forgot to invite him to the party.",
+      "level": "B1"
     },
     {
-      "vi": "Tôi rất bực mình khi ai đó đến muộn mà không báo trước.",
+      "vi": "Tôi thích dành thời gian một mình để nạp lại năng lượng sau một tuần làm việc căng thẳng.",
       "hints": [
-        "annoyed (adj)",
-        "late (adj)",
-        "without (prep)",
-        "let someone know (v)"
+        "enjoy + V-ing",
+        "alone (adv)",
+        "recharge (v)",
+        "stressful (adj)"
       ],
-      "en": "I get really annoyed when someone is late without letting me know."
+      "en": "I enjoy spending time alone to recharge after a stressful week at work.",
+      "level": "B1"
     },
     {
-      "vi": "Một người có trách nhiệm luôn hoàn thành công việc đúng hạn.",
+      "vi": "Anh ấy không đủ kiên nhẫn để chờ ai quá mười phút.",
       "hints": [
-        "responsible (adj)",
-        "get things done (v)",
-        "on time"
+        "enough (adv)",
+        "patient (adj)",
+        "wait for (v)",
+        "longer than"
       ],
-      "en": "A responsible person always gets things done on time."
+      "en": "He isn't patient enough to wait for anyone longer than ten minutes.",
+      "level": "B1"
     },
     {
-      "vi": "Đồng nghiệp mới của tôi có vẻ hơi kiêu ngạo, nhưng thật ra anh ấy rất tốt bụng.",
+      "vi": "Cô ấy là một người vui vẻ đến mức ai cũng muốn ở gần cô ấy.",
       "hints": [
-        "coworker (n)",
-        "seem (v)",
-        "arrogant (adj)",
-        "actually (adv)",
-        "kind-hearted (adj)"
+        "such ... that",
+        "cheerful (adj)",
+        "be around (v)"
       ],
-      "en": "My new coworker seems a little arrogant, but he's actually very kind-hearted."
+      "en": "She is such a cheerful person that everyone wants to be around her.",
+      "level": "B1"
     },
     {
-      "vi": "Trước đây tôi rất nóng tính, nhưng bây giờ tôi dễ tính hơn nhiều.",
+      "vi": "Tôi sẽ cố gắng kiểm soát cơn giận vì nó thường làm tổn thương gia đình tôi.",
       "hints": [
-        "used to (v)",
-        "hot-tempered (adj)",
-        "much more",
-        "easygoing (adj)"
+        "be going to",
+        "work on (v)",
+        "control (v)",
+        "anger (n)",
+        "hurt (v)"
       ],
-      "en": "I used to be very hot-tempered, but now I'm much more easygoing."
-    },
-    {
-      "vi": "Tôi sợ rằng mình sẽ làm mọi người thất vọng nếu thất bại.",
-      "hints": [
-        "afraid (adj)",
-        "let someone down (v)",
-        "fail (v)"
-      ],
-      "en": "I'm afraid I will let everyone down if I fail."
-    },
-    {
-      "vi": "Tôi tự hào về bản thân vì đã vượt qua nỗi sợ độ cao.",
-      "hints": [
-        "proud of (adj)",
-        "overcome (v)",
-        "fear (n)",
-        "height (n)"
-      ],
-      "en": "I'm proud of myself for overcoming my fear of heights."
+      "en": "I'm going to work on controlling my anger because it often hurts my family.",
+      "level": "B1"
     },
     {
       "vi": "Tôi đã cảm thấy kiệt sức suốt mấy tuần nay vì liên tục phải làm thêm giờ.",
