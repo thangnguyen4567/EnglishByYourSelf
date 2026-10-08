@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const grammar = topicsData as Record<string, {short: string; path: string}>;
 
-/** Lộ trình 4 giai đoạn × 4 chủ đề của kỹ năng nói/viết, kèm tiến độ đã luyện. */
+/** Lộ trình các giai đoạn và chủ đề của kỹ năng nói/viết, kèm tiến độ đã luyện. */
 export default function SkillRoadmap({skill}: {skill: SkillKey}): ReactNode {
   const [progress] = useProgress();
   const s = SKILLS[skill];
@@ -33,11 +33,11 @@ export default function SkillRoadmap({skill}: {skill: SkillKey}): ReactNode {
             <br />
             📘 Ngữ pháp trọng tâm: {st.grammar}
           </p>
-          <ol className={styles.list} start={s.topics.find((t) => t.stage === st.no)?.no}>
+          <ol className={styles.list}>
             {s.topics
               .filter((t) => t.stage === st.no)
               .map((t) => (
-                <li key={t.id} className={progress.skills?.[t.id] ? styles.done : undefined}>
+                <li key={t.id} value={t.no} className={progress.skills?.[t.id] ? styles.done : undefined}>
                   <Link to={`${s.base}/${t.slug}`}>
                     {t.title} <span className={styles.en}>({t.en})</span>
                   </Link>

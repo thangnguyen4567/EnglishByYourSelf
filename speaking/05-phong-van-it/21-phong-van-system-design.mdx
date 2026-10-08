@@ -114,6 +114,14 @@ Xem lại: [G20 · Câu điều kiện loại 0, 1, 2](/docs/ngu-phap/g20-cau-di
 
 > **Design a notification system for an HR platform with 50,000 employees.** Employees and managers should be notified when a leave request is submitted or approved, when payslips are published, and when an appraisal is due. Notifications can be in-app, by email or by mobile push. Users can choose which channels they want. Walk me through your design.
 
+<Outline id="noi-21-p2" title="Design a notification system for an HR platform with 50,000 employees">
+  <Step label="Làm rõ yêu cầu" ask="Cần những kênh nào? Quy mô bao nhiêu (số thông báo mỗi ngày, giờ cao điểm)? Yêu cầu phi chức năng quan trọng nhất?" keys="three channels · 200,000 a day · payday peak · no notification lost" frame="Before I start, I'd like to clarify the requirements. Let's assume … – does that sound reasonable?" more="Thêm yêu cầu phi chức năng: The key non-functional requirements are … and …" />
+  <Step label="Thiết kế tổng quan" ask="Luồng đi từ module nghiệp vụ đến người nhận như thế nào? Dùng hàng đợi gì, vì sao?" keys="publishes an event · message queue · outbox pattern · notification service" frame="At a high level, the … modules shouldn't … Instead, when …, the … module publishes an event to …" more="Giải thích lý do: To avoid losing events, I'd use …, so the event is saved in …" />
+  <Step label="Thành phần chính" ask="Lưu thông báo ở đâu, với thông tin gì? Gửi in-app thời gian thực qua nhiều instance thế nào?" keys="PostgreSQL with status · channel workers · SignalR · Redis backplane" frame="For data, I'd store … with …, so that … For in-app delivery, we could use …" more="So sánh lựa chọn: … is simpler than …, but … is more reliable." />
+  <Step label="Mở rộng & xử lý lỗi" ask="Ngày cao điểm thì mở rộng thế nào? Nếu nhà cung cấp email chậm hoặc sập thì sao?" keys="stateless workers · retry with exponential backoff · dead-letter queue" frame="For scaling, the workers are …, so on … we can simply … If the … is slow or down, …" more="Chỉ ra điểm nghẽn: The first bottleneck would probably be … / If we had … users, we'd need …" />
+  <Step label="Đánh đổi" ask="Bạn chấp nhận đánh đổi gì để đổi lấy điều gì? Xử lý gửi trùng thế nào?" keys="eventual consistency · reliability · at-least-once · event ID" frame="The main trade-off is … in exchange for … And since delivery is …, each consumer …" more="Mời đào sâu: Would you like me to go deeper into …? / In our current system, we actually …" />
+</Outline>
+
 ### Câu hỏi đào sâu (follow-up)
 
 - What happens if the same event is delivered twice?
@@ -187,7 +195,7 @@ Trước tiên, tôi kiểm tra xem đó thật sự là vấn đề mở rộng
 ## 5. Bài tập tự luyện
 
 1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý *throughput, latency, replica, eventual consistency*.
-2. **Ngày 1:** Vẽ sơ đồ bài thiết kế thông báo trên giấy, rồi **nói to** theo 5 bước trong 10 phút, không nhìn bài mẫu.
+2. **Ngày 1:** Vẽ sơ đồ bài thiết kế thông báo trên giấy, rồi mở **🧭 Dàn ý** ngay dưới đề bài và **nói to** theo 3 cấp: **Cấp 1** (từ khóa, ~30 giây) → **Cấp 2** (câu khung, ~1 phút) → **Cấp 3** (mở rộng với số liệu & bài học, ~2 phút). Ghi âm mỗi cấp, thay số liệu mẫu bằng quy mô và công nghệ thật của hệ thống **bạn**; chỉ so với bài mẫu **sau khi** đã tự nói. Khi đã quen, nói lại bản đầy đủ trong 10 phút.
 3. **Ngày 2:** Chọn câu hỏi 2 hoặc 3 (leave workflow / payroll run) và thiết kế **cho hệ thống của bạn** – thay số liệu bằng quy mô thật của dự án bạn. Ghi âm.
 4. **Ngày 2:** Trả lời 3 câu follow-up, mỗi câu 60 giây, bắt buộc dùng một câu *If…* và một câu so sánh.
 5. **Nâng cao:** Nhờ bạn đóng vai interviewer và **thay đổi yêu cầu giữa chừng** (ví dụ: "now it's 500,000 users"); luyện nói *"In that case, the first thing I'd change is…"*.

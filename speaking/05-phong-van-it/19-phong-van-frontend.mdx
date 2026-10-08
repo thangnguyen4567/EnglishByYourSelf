@@ -111,6 +111,14 @@ Xem lại: [G02 · Hiện tại đơn](/docs/ngu-phap/g02-hien-tai-don) · [G19 
 9. How do you make a web application accessible?
 10. How do you test your frontend code?
 
+<Outline id="noi-19-p2" title="A page in your app is slow. How would you investigate and fix it?">
+  <Step label="Làm rõ vấn đề" ask="Trang chậm khi tải hay khi thao tác? Bạn sẽ hỏi lại người phỏng vấn câu gì trước khi trả lời?" keys="what kind of slow · slow to load · slow to interact" frame="First, I'd find out what kind of slow it is – is the page slow to …, or slow when …?" more="Nêu lý do: …because the fixes are very different. / Are you asking about … or …?" />
+  <Step label="Đo & tìm nguyên nhân" ask="Bạn dùng công cụ gì để đo? Trong dự án của bạn, trang nào từng chậm, mất bao lâu, nguyên nhân là gì?" keys="Chrome DevTools · Lighthouse · Performance tab · one big bundle" frame="I'd open … and check … In our system, the … page was taking about … The main reason was that …" more="Nhấn mạnh đo trước, sửa sau: Before changing anything, I'd measure …, so that …" />
+  <Step label="Cách sửa" ask="Bạn đã áp dụng kỹ thuật nào (lazy loading, OnPush, trackBy, virtual scrolling, phân trang…)? Mỗi kỹ thuật giải quyết điều gì?" keys="lazy-loaded routes · OnPush · trackBy · virtual scrolling" frame="We did three things. First, we … Second, we … And we also …" more="Thêm đánh đổi: The trade-off is that … (ví dụ OnPush buộc dữ liệu phải bất biến)." />
+  <Step label="Kết quả" ask="Con số trước và sau là gì (kích thước bundle, thời gian tải, số dòng hiển thị)?" keys="2.5 MB to under 1 MB · under two seconds · thirty visible rows" frame="As a result, the initial bundle went from … to …, and the page now loads in …" more="Thêm tác động tới người dùng: Users no longer … / Support tickets about … dropped by …" />
+  <Step label="Phòng ngừa" ask="Làm sao để vấn đề không âm thầm quay lại?" keys="performance budget · pipeline fails" frame="Finally, I'd add … to the build, so if …, the pipeline fails." more="Thêm bài học: If I did it again, I would … from the start." />
+</Outline>
+
 ### Câu hỏi đào sâu (follow-up)
 
 - You mentioned signals – how are they different from RxJS?
@@ -181,7 +189,7 @@ Chúng tôi có năm ứng dụng Angular – cổng tự phục vụ cho nhân 
 
 1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý phát âm *accessibility, debounce, micro-frontend*.
 2. **Ngày 1:** Chọn 5 câu hỏi chính, viết dàn ý 4 dòng cho mỗi câu: *định nghĩa → cơ chế → ví dụ từ dự án của bạn → trade-off*. Thay số liệu bằng dự án của bạn.
-3. **Ngày 2:** Shadowing bài mẫu "slow page" 2 lần, rồi tự nói phiên bản của bạn trong 2 phút, không nhìn giấy.
+3. **Ngày 2:** Mở **🧭 Dàn ý** dưới danh sách câu hỏi chính và trả lời câu "slow page" theo 3 cấp: **Cấp 1** (từ khóa, ~30 giây) → **Cấp 2** (câu khung, ~1 phút) → **Cấp 3** (mở rộng với số liệu & bài học, ~2 phút). Ghi âm mỗi cấp, thay chi tiết mẫu bằng một trang chậm trong dự án **của bạn**, nói không nhìn giấy. Chỉ **sau khi** đã tự nói mới shadowing bài mẫu 2 lần để so sánh.
 4. **Ngày 2:** Giải thích OnPush, lazy loading và Observable vs Promise **cho người không dùng Angular** (ví dụ dev React) – mỗi câu 60 giây, ghi âm.
 5. **Nâng cao:** Nhờ bạn hỏi 3 câu follow-up ngẫu nhiên; luyện dùng *"That's a good question – let me think…"* và *"I haven't used … in production, but…"* khi chưa chắc.
 

@@ -110,6 +110,14 @@ Xem lại: [G19 · Câu bị động](/docs/ngu-phap/g19-cau-bi-dong) · [G20 ·
 9. How do you implement pagination for a very large table?
 10. How is your backend structured – layers, modules, or services?
 
+<Outline id="noi-20-p2" title="How would you design a REST API for leave requests?">
+  <Step label="Tài nguyên & endpoint" ask="Tài nguyên chính là gì? Cần những endpoint nào để đọc, tạo và thực hiện hành động?" keys="leave request · GET /leave-requests · POST · approve and reject" frame="I'd start with the resource, which is … So the main endpoints would be … to …, … to …, and then actions like …" more="Nói cách đặt tên: I'd use plural nouns for resources, and … for actions like approve." />
+  <Step label="Danh sách & phân trang" ask="Dữ liệu trong hệ thống của bạn lớn cỡ nào? Cần lọc theo tiêu chí gì?" keys="pagination · filters for status, employee and date range · total count" frame="For the list, I'd always use …, with filters for …, because …" more="Đào sâu: Offset pagination gets slow on very large tables, so I'd consider …" />
+  <Step label="Tạo mới & validation" ask="Kiểm tra dữ liệu gì? Lỗi nghiệp vụ nào trả về mã HTTP nào?" keys="validated first · domain layer · 409 Conflict · 201 Created" frame="When a POST comes in, the payload is validated first – for example, … If …, the API returns …" more="Thêm câu điều kiện: If the employee doesn't have enough …, it returns 400 with …" />
+  <Step label="Nghiệp vụ phức tạp" ask="Thao tác nào thay đổi nhiều dữ liệu cùng lúc? Xử lý thế nào khi hai người sửa cùng một bản ghi?" keys="one transaction · row version · optimistic concurrency" frame="… is interesting, because it changes two things: … and … So both updates are saved in …" more="Thêm tình huống: If two managers approve at the same moment, the second one gets … instead of …" />
+  <Step label="Bảo mật & idempotency" ask="Ai được xem / làm gì? Client gửi lại request sau khi timeout thì chuyện gì xảy ra?" keys="authenticated user · authorization policies · idempotency key" frame="For security, every endpoint needs …, and authorization is done with … Finally, since POST isn't idempotent, I'd …" more="Nêu đánh đổi hoặc mời hỏi tiếp: It's a trade-off between … and … / Would you like me to go deeper into …?" />
+</Outline>
+
 ### Câu hỏi đào sâu (follow-up)
 
 - What happens if the client sends the same "create" request twice because of a network timeout?
@@ -183,7 +191,7 @@ Xác thực trả lời câu hỏi "Bạn là ai?", trong khi phân quyền tr�
 ## 5. Bài tập tự luyện
 
 1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), đặc biệt *idempotent, authorization, execution plan, deadlock*.
-2. **Ngày 1:** Viết lại bài "thiết kế API" cho **một tài nguyên trong dự án của bạn** (ví dụ: hợp đồng, bảng chấm công, phiếu đánh giá) – giữ khung 6 bước ở phần phân tích.
+2. **Ngày 1:** Chọn **một tài nguyên trong dự án của bạn** (ví dụ: hợp đồng, bảng chấm công, phiếu đánh giá), mở **🧭 Dàn ý** dưới danh sách câu hỏi chính và trình bày thiết kế API theo 3 cấp: **Cấp 1** (từ khóa, ~30 giây) → **Cấp 2** (câu khung, ~1 phút) → **Cấp 3** (mở rộng với số liệu & bài học, ~2 phút). Ghi âm mỗi cấp, thay chi tiết đơn nghỉ phép bằng tài nguyên **của bạn**; chỉ so với bài mẫu **sau khi** đã tự nói.
 3. **Ngày 2:** Shadowing bài N+1 và authentication/authorization, sau đó tự nói lại với ví dụ từ dự án của bạn, mỗi câu 60–90 giây.
 4. **Ngày 2:** Trả lời 10 câu hỏi chính. Với mỗi câu, dùng ít nhất **một câu điều kiện** và **một từ nối** (*however, whereas, as a result*).
 5. **Nâng cao:** Nhờ bạn hỏi 3 câu follow-up. Luyện trả lời *"It depends on…"* rồi nêu rõ **hai tình huống** và lựa chọn cho mỗi tình huống.

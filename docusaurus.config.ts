@@ -95,6 +95,7 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        { to: '/docs/lo-trinh-2-thang', label: '📅 Lộ trình', position: 'left' },
         { to: '/docs/ngu-phap', label: 'Ngữ pháp', position: 'left', activeBasePath: 'docs/ngu-phap' },
         { to: '/docs/bai-kiem-tra', label: 'Kiểm tra', position: 'left', activeBasePath: 'docs/bai-kiem-tra' },
         { to: '/docs/tra-cuu/bang-tra-cuu', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
@@ -111,6 +112,7 @@ const config: Config = {
           items: [
       { label: 'Giới thiệu', to: '/docs' },
       { label: 'Phương pháp học', to: '/docs/phuong-phap-hoc' },
+      { label: 'Lộ trình 2 tháng', to: '/docs/lo-trinh-2-thang' },
       { label: 'Từ vựng đang học', to: '/docs/tra-cuu/tu-vung-dang-hoc' },
           ],
   },

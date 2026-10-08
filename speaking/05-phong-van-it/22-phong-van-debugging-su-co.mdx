@@ -109,6 +109,14 @@ Xem lại: [G04 · Quá khứ đơn](/docs/ngu-phap/g04-qua-khu-don) · [G05 · 
 8. How do you debug a performance problem in a .NET API?
 9. How do you communicate with users or managers during an outage?
 
+<Outline id="noi-22-p2" title="Describe a production incident you were involved in. What did you do?">
+  <Step label="Situation – bối cảnh" ask="Sự cố xảy ra khi nào, ở hệ thống nào? Bao nhiêu người bị ảnh hưởng? Triệu chứng đo được là gì?" keys="last working day of the month · 3,000 employees · 300 milliseconds to 30 seconds" frame="It happened on … About … were …-ing, when the … started …" more="Dùng quá khứ tiếp diễn cho bối cảnh: HR was preparing … when …" />
+  <Step label="Task – vai trò của bạn" ask="Lúc đó bạn giữ vai trò gì? Ưu tiên số một là gì?" keys="on call · get the system back first" frame="I was … that week, so it was my job to … first, and then …" more="Nhấn mạnh thứ tự ưu tiên: My first priority was to restore the service, not to find the cause." />
+  <Step label="Action – khôi phục & thông báo" ask="Bạn xem gì đầu tiên? Khôi phục bằng cách nào, mất bao lâu? Bạn cập nhật cho ai, bao lâu một lần?" keys="monitoring dashboard · database CPU at 100% · rolled it back · updates every ten minutes" frame="I checked … and saw that … We had deployed …, so I … Within about …, …" more="Thêm phần giao tiếp: I posted short updates in … every …, so they knew …" />
+  <Step label="Action – nguyên nhân gốc & cách sửa" ask="Bạn tái hiện lỗi thế nào? Nguyên nhân gốc là gì? Sửa ra sao, số liệu trước và sau?" keys="reproduced on staging · execution plan · full scan · simple date range" frame="The next day, I … and reproduced the problem. It turned out that … had …, so … I rewrote it as …, and … went from … to …" more="Dùng quá khứ hoàn thành cho nguyên nhân: a new filter had … / I ruled out … and narrowed it down to …" />
+  <Step label="Result – kết quả & phòng ngừa" ask="Kết quả cuối cùng? Sau postmortem đội thay đổi quy trình gì?" keys="redeployed that evening · postmortem · alert at the 95th percentile · no month-end deploys" frame="We redeployed … In the postmortem, we agreed on … action items: … We haven't had a similar incident since." more="Thêm bài học: If the same thing happened tomorrow, we would detect it in … instead of …" />
+</Outline>
+
 ### Câu hỏi đào sâu (follow-up)
 
 - How long did it take to restore the service, and how did you measure the impact?
@@ -180,7 +188,7 @@ Thường thì điều đó nghĩa là có gì đó khác giữa máy tôi và p
 1. **Ngày 1:** Học 3 bảng từ vựng (bấm 🔊), chú ý *reproduce, intermittent, escalate, postmortem*.
 2. **Ngày 1:** Nhớ lại **một sự cố thật của bạn** và viết theo STAR 200–250 từ – thay bằng dự án của bạn, giữ thứ tự *khôi phục → tìm nguyên nhân → sửa → phòng ngừa*, có ít nhất 3 con số.
 3. **Ngày 2:** Shadowing bài mẫu 2 lần, gạch chân mọi động từ quá khứ tiếp diễn và quá khứ hoàn thành, rồi kiểm tra bài của bạn đã dùng đúng chưa.
-4. **Ngày 2:** Nói bài của bạn không nhìn giấy trong 2–3 phút, ghi âm. Sau đó trả lời câu 3, 4 và 5 (mỗi câu 60–90 giây).
+4. **Ngày 2:** Mở **🧭 Dàn ý** dưới danh sách câu hỏi chính và kể sự cố của bạn theo 3 cấp: **Cấp 1** (từ khóa, ~30 giây) → **Cấp 2** (câu khung, ~1 phút) → **Cấp 3** (mở rộng với số liệu & bài học, ~2 phút). Ghi âm mỗi cấp, thay chi tiết mẫu bằng sự cố **của bạn**, nói không nhìn giấy; chỉ so với bài mẫu **sau khi** đã tự nói. Sau đó trả lời câu 3, 4 và 5 (mỗi câu 60–90 giây).
 5. **Nâng cao:** Chuẩn bị câu *"Tell me about a bug you introduced"* – thừa nhận thẳng thắn, nói rõ cách bạn sửa và bài học, không đổ lỗi.
 
 ## 6. Tự đánh giá

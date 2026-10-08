@@ -1,0 +1,203 @@
+.wrap {
+  margin: 1rem 0 2rem;
+}
+
+.status {
+  position: sticky;
+  top: calc(var(--ifm-navbar-height) + 0.25rem);
+  z-index: 2;
+  padding: 0.6rem 0.9rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  background: var(--ifm-background-surface-color);
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.bar progress {
+  flex: 1;
+  height: 10px;
+  accent-color: var(--ifm-color-success);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+  font-size: 0.88rem;
+}
+
+.week {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  padding: 0.9rem 1rem 0.5rem;
+  margin-bottom: 1rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.week header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.weekNo {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.1rem 0.5rem;
+  border-radius: 6px;
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.wCount {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.goal {
+  margin: 0.35rem 0 0.6rem;
+  font-size: 0.88rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.day {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  margin: 0.4rem 0;
+  background: var(--ifm-background-color);
+}
+
+.day > summary {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.7rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.today {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 1px var(--ifm-color-primary);
+}
+
+.done > summary {
+  color: var(--ifm-color-emphasis-600);
+}
+
+.dayNo {
+  font-weight: 700;
+  min-width: 4.2rem;
+}
+
+.sun,
+.todayTag {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0 0.4rem;
+  border-radius: 5px;
+  color: #fff;
+  background: var(--ifm-color-warning-darker);
+}
+
+.todayTag {
+  background: var(--ifm-color-primary);
+}
+
+.focus {
+  flex: 1;
+  min-width: 10rem;
+}
+
+.min {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.check {
+  color: var(--ifm-color-success);
+  font-weight: 700;
+}
+
+.blocks {
+  list-style: none;
+  margin: 0;
+  padding: 0 0.7rem 0.2rem;
+}
+
+.blocks > li {
+  margin: 0.45rem 0;
+  padding: 0.45rem 0.6rem;
+  border-left: 3px solid var(--ifm-color-emphasis-300);
+  border-radius: 4px;
+  background: var(--ifm-background-surface-color);
+  font-size: 0.88rem;
+}
+
+.blocks > li.vocab,
+.blocks > li.prep {
+  border-left-color: var(--ifm-color-warning);
+}
+
+.blocks > li.grammar,
+.blocks > li.test {
+  border-left-color: var(--ifm-color-primary);
+}
+
+.blocks > li.speaking {
+  border-left-color: var(--ifm-color-success);
+}
+
+.blocks > li.reflex {
+  border-left-color: var(--ifm-color-danger);
+}
+
+.bHead {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.bMin {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin: 0.25rem 0;
+}
+
+.links a {
+  font-size: 0.8rem;
+  padding: 0 0.4rem;
+  border-radius: 5px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.how {
+  color: var(--ifm-color-emphasis-800);
+}
+
+.mark {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.7rem 0.6rem;
+  font-size: 0.88rem;
+  cursor: pointer;
+}

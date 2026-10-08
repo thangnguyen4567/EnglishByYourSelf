@@ -11,6 +11,10 @@ export type Progress = {
   tests: Record<string, TestState>;
   /** Chủ đề luyện nói / viết đã hoàn thành, vd. {'noi-01': true} */
   skills: Record<string, boolean>;
+  /** Lộ trình 60 ngày: ngày đã hoàn thành, vd. {1: true} */
+  plan60?: Record<number, boolean>;
+  /** Ngày bắt đầu lộ trình 60 ngày (YYYY-MM-DD) */
+  plan60Start?: string;
 };
 
 const EMPTY: Progress = {days: {}, tests: {}, skills: {}};

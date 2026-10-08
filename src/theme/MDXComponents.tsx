@@ -5,6 +5,7 @@ import SpeakText from '@site/src/components/SpeakText';
 import SkillMeta from '@site/src/components/SkillMeta';
 import SkillRoadmap from '@site/src/components/SkillRoadmap';
 import ReflexDrill from '@site/src/components/ReflexDrill';
+import {Outline, Step} from '@site/src/components/Outline';
 
 // Component dùng được trực tiếp trong mọi file .mdx mà không cần import.
 export default {
@@ -15,4 +16,6 @@ export default {
   SkillMeta,
   SkillRoadmap,
   ReflexDrill,
+  Outline,
+  Step,
 };
