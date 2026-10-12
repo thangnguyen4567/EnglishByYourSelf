@@ -1,7 +1,13 @@
-import React, {createContext, useContext, useEffect, useRef, useState} from 'react';
-import type {ReactNode} from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import React, {
+  createContext,
+  useContext,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
+import type { ReactNode } from "react";
+import clsx from "clsx";
+import styles from "./styles.module.css";
 
 /**
  * Dàn ý nói theo 3 cấp mở rộng. Dùng trong .mdx:
@@ -15,21 +21,36 @@ import styles from './styles.module.css';
 
 type Level = 1 | 2 | 3;
 
-const LEVELS: {no: Level; name: string; guide: string; seconds: number}[] = [
-  {no: 1, name: 'Dàn ý', guide: 'Ghi 2–4 từ khóa cho mỗi ý. Nói mỗi ý đúng 1 câu.', seconds: 30},
-  {no: 2, name: 'Câu khung', guide: 'Dùng câu khung, mỗi ý nói 2 câu: ý chính + 1 chi tiết.', seconds: 60},
-  {no: 3, name: 'Mở rộng', guide: 'Thêm lý do, ví dụ, cảm xúc – mỗi ý 3–4 câu. Nối các ý bằng từ nối.', seconds: 120},
+const LEVELS: { no: Level; name: string; guide: string; seconds: number }[] = [
+  {
+    no: 1,
+    name: "Dàn ý",
+    guide: "Ghi 2–4 từ khóa cho mỗi ý. Nói mỗi ý đúng 1 câu.",
+    seconds: 30,
+  },
+  {
+    no: 2,
+    name: "Câu khung",
+    guide: "Dùng câu khung, mỗi ý nói 2 câu: ý chính + 1 chi tiết.",
+    seconds: 60,
+  },
+  {
+    no: 3,
+    name: "Mở rộng",
+    guide: "Thêm lý do, ví dụ, cảm xúc – mỗi ý 3–4 câu. Nối các ý bằng từ nối.",
+    seconds: 120,
+  },
 ];
 
-const Ctx = createContext<{id: string; level: Level}>({id: '', level: 1});
+const Ctx = createContext<{ id: string; level: Level }>({ id: "", level: 1 });
 
 const storeKey = (id: string, i: number) => `outline:${id}:${i}`;
 
 function load(key: string): string {
   try {
-    return window.localStorage.getItem(key) ?? '';
+    return window.localStorage.getItem(key) ?? "";
   } catch {
-    return '';
+    return "";
   }
 }
 
@@ -43,18 +64,20 @@ function save(key: string, value: string) {
 }
 
 function fmt(s: number) {
-  return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
+  return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
 }
 
 /** Đồng hồ đếm ngược: chuẩn bị 1 phút, sau đó nói theo thời lượng của cấp đang chọn. */
-function Timer({speakSeconds}: {speakSeconds: number}) {
-  const [phase, setPhase] = useState<'idle' | 'prep' | 'speak' | 'done'>('idle');
+function Timer({ speakSeconds }: { speakSeconds: number }) {
+  const [phase, setPhase] = useState<"idle" | "prep" | "speak" | "done">(
+    "idle",
+  );
   const [left, setLeft] = useState(0);
   const timer = useRef<ReturnType<typeof setInterval>>(undefined);
 
   useEffect(() => () => clearInterval(timer.current), []);
 
-  const run = (p: 'prep' | 'speak', secs: number) => {
+  const run = (p: "prep" | "speak", secs: number) => {
     clearInterval(timer.current);
     setPhase(p);
     setLeft(secs);
@@ -62,8 +85,8 @@ function Timer({speakSeconds}: {speakSeconds: number}) {
       setLeft((x) => {
         if (x > 1) return x - 1;
         clearInterval(timer.current);
-        if (p === 'prep') setTimeout(() => run('speak', speakSeconds), 0);
-        else setPhase('done');
+        if (p === "prep") setTimeout(() => run("speak", speakSeconds), 0);
+        else setPhase("done");
         return 0;
       });
     }, 1000);
@@ -71,35 +94,55 @@ function Timer({speakSeconds}: {speakSeconds: number}) {
 
   const stop = () => {
     clearInterval(timer.current);
-    setPhase('idle');
+    setPhase("idle");
   };
 
   return (
     <div className={styles.timer}>
-      {phase === 'idle' && (
+      {phase === "idle" && (
         <>
-          <button type="button" className="button button--sm button--secondary" onClick={() => run('prep', 60)}>
+          <button
+            type="button"
+            className="button button--sm button--secondary"
+            onClick={() => run("prep", 60)}
+          >
             ⏱ Chuẩn bị 1' rồi nói
           </button>
-          <button type="button" className="button button--sm button--secondary" onClick={() => run('speak', speakSeconds)}>
+          <button
+            type="button"
+            className="button button--sm button--secondary"
+            onClick={() => run("speak", speakSeconds)}
+          >
             🎙 Nói ngay ({fmt(speakSeconds)})
           </button>
         </>
       )}
-      {(phase === 'prep' || phase === 'speak') && (
+      {(phase === "prep" || phase === "speak") && (
         <>
-          <span className={clsx(styles.clock, phase === 'speak' && styles.speaking)}>
-            {phase === 'prep' ? 'Chuẩn bị' : 'Đang nói'} · {fmt(left)}
+          <span
+            className={clsx(styles.clock, phase === "speak" && styles.speaking)}
+          >
+            {phase === "prep" ? "Chuẩn bị" : "Đang nói"} · {fmt(left)}
           </span>
-          <button type="button" className="button button--sm button--link" onClick={stop}>
+          <button
+            type="button"
+            className="button button--sm button--link"
+            onClick={stop}
+          >
             Dừng
           </button>
         </>
       )}
-      {phase === 'done' && (
+      {phase === "done" && (
         <>
-          <span className={styles.clock}>✔ Hết giờ – nghe lại bản ghi âm và nói lại lần 2</span>
-          <button type="button" className="button button--sm button--link" onClick={stop}>
+          <span className={styles.clock}>
+            ✔ Hết giờ – nghe lại bản ghi âm và nói lại lần 2
+          </span>
+          <button
+            type="button"
+            className="button button--sm button--link"
+            onClick={stop}
+          >
             Làm lại
           </button>
         </>
@@ -108,22 +151,34 @@ function Timer({speakSeconds}: {speakSeconds: number}) {
   );
 }
 
-export function Outline({id, title, children}: {id: string; title?: string; children: ReactNode}): ReactNode {
+export function Outline({
+  id,
+  title,
+  children,
+}: {
+  id: string;
+  title?: string;
+  children: ReactNode;
+}): ReactNode {
   const [level, setLevel] = useState<Level>(1);
   const current = LEVELS[level - 1];
   let i = 0;
   const steps = React.Children.map(children, (child) =>
-    React.isValidElement(child) ? React.cloneElement(child as React.ReactElement<{index?: number}>, {index: ++i}) : null,
+    React.isValidElement(child)
+      ? React.cloneElement(child as React.ReactElement<{ index?: number }>, {
+          index: ++i,
+        })
+      : null,
   );
 
   const clearNotes = () => {
-    if (!window.confirm('Xóa toàn bộ ý bạn đã ghi trong dàn ý này?')) return;
-    for (let n = 1; n <= i; n++) save(storeKey(id, n), '');
-    window.dispatchEvent(new CustomEvent('outline-clear', {detail: id}));
+    if (!window.confirm("Xóa toàn bộ ý bạn đã ghi trong dàn ý này?")) return;
+    for (let n = 1; n <= i; n++) save(storeKey(id, n), "");
+    window.dispatchEvent(new CustomEvent("outline-clear", { detail: id }));
   };
 
   return (
-    <Ctx.Provider value={{id, level}}>
+    <Ctx.Provider value={{ id, level }}>
       <div className={styles.box}>
         <div className={styles.head}>
           <span className={styles.badge}>🧭 Dàn ý</span>
@@ -137,18 +192,24 @@ export function Outline({id, title, children}: {id: string; title?: string; chil
               role="tab"
               aria-selected={level === l.no}
               className={clsx(styles.level, level === l.no && styles.active)}
-              onClick={() => setLevel(l.no)}>
+              onClick={() => setLevel(l.no)}
+            >
               Cấp {l.no} · {l.name}
             </button>
           ))}
         </div>
         <p className={styles.guide}>
-          <b>Cấp {level}:</b> {current.guide} Mục tiêu khoảng <b>{fmt(current.seconds)}</b>.
+          <b>Cấp {level}:</b> {current.guide} Mục tiêu khoảng{" "}
+          <b>{fmt(current.seconds)}</b>.
         </p>
         <ol className={styles.steps}>{steps}</ol>
         <div className={styles.foot}>
           <Timer key={level} speakSeconds={current.seconds} />
-          <button type="button" className={clsx('button button--sm button--link', styles.clear)} onClick={clearNotes}>
+          <button
+            type="button"
+            className={clsx("button button--sm button--link", styles.clear)}
+            onClick={clearNotes}
+          >
             Xóa ý của tôi
           </button>
         </div>
@@ -172,17 +233,17 @@ export function Step({
   more?: string;
   index?: number;
 }): ReactNode {
-  const {id, level} = useContext(Ctx);
+  const { id, level } = useContext(Ctx);
   const key = storeKey(id, index);
-  const [note, setNote] = useState('');
+  const [note, setNote] = useState("");
 
   useEffect(() => {
     setNote(load(key));
     const onClear = (e: Event) => {
-      if ((e as CustomEvent).detail === id) setNote('');
+      if ((e as CustomEvent).detail === id) setNote("");
     };
-    window.addEventListener('outline-clear', onClear);
-    return () => window.removeEventListener('outline-clear', onClear);
+    window.addEventListener("outline-clear", onClear);
+    return () => window.removeEventListener("outline-clear", onClear);
   }, [key, id]);
 
   return (
@@ -207,7 +268,11 @@ export function Step({
       <textarea
         className={styles.note}
         rows={level === 1 ? 1 : 2}
-        placeholder={level === 1 ? 'Từ khóa của tôi…' : 'Ý của tôi (tiếng Anh, viết tắt cũng được)…'}
+        placeholder={
+          level === 1
+            ? "Từ khóa của tôi…"
+            : "Ý của tôi (tiếng Anh, viết tắt cũng được)…"
+        }
         value={note}
         onChange={(e) => {
           setNote(e.target.value);

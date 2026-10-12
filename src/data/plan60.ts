@@ -15,17 +15,19 @@ export type PlanDay = {day: number; week: number; sunday: boolean; focus: string
 export type PlanWeek = {no: number; title: string; goal: string};
 
 export const WEEKS: PlanWeek[] = [
-  {no: 1, title: 'Vòng 1 · Nền tảng & thì hiện tại', goal: 'Học mới G01–G06. Nói về bản thân, gia đình, thói quen, nơi ở.'},
-  {no: 2, title: 'Vòng 1 · Thì hoàn thành, tương lai, modal', goal: 'Học mới G07–G13. Kể chuyện, trải nghiệm bằng thì quá khứ.'},
-  {no: 3, title: 'Vòng 1 · Danh từ, tính từ, câu điều kiện', goal: 'Học mới G14–G21. Nói về học tập, công việc, kế hoạch.'},
-  {no: 4, title: 'Vòng 1 · Câu phức & cấu trúc nâng cao', goal: 'Học mới G22–G29 – xong vòng 1. Nêu quan điểm về các vấn đề xã hội.'},
-  {no: 5, title: 'Vòng 2 · Ôn lần 2: G01–G16', goal: 'Làm quiz trước, chỉ đọc lại phần sai. Luyện phỏng vấn IT (17–22).'},
-  {no: 6, title: 'Vòng 2 · Ôn lần 2: G17–G29', goal: 'Hoàn thành vòng 2. Phỏng vấn IT & giao tiếp công việc (23–26, 35–36).'},
-  {no: 7, title: 'Vòng 3 · Ôn lần 3: G01–G13, G26–G27', goal: 'Tự viết lại công thức từ trí nhớ. Nói lại các chủ đề cũ ở cấp 3, không nhìn dàn ý.'},
-  {no: 8, title: 'Vòng 3 · Ôn lần 3: G14–G25, G28–G29 + tổng ôn', goal: 'Hoàn thành vòng 3. Phỏng vấn thử, bài kiểm tra cuối khóa.'},
+  {no: 1, title: 'Vòng 1 · Nền tảng & thì hiện tại', goal: 'Học mới G01–G06. Chủ đề nói xen kẽ: bản thân, sở thích, phỏng vấn, học tập, ẩm thực, stand-up.'},
+  {no: 2, title: 'Vòng 1 · Thì hoàn thành, tương lai, modal', goal: 'Học mới G07–G13. Chủ đề nói xen kẽ đời sống – kể chuyện – công việc – quan điểm – IT.'},
+  {no: 3, title: 'Vòng 1 · Danh từ, tính từ, câu điều kiện', goal: 'Học mới G14–G21. Mỗi tuần vẫn đủ 5 nhóm chủ đề nói, không học dồn một nhóm.'},
+  {no: 4, title: 'Vòng 1 · Câu phức & cấu trúc nâng cao', goal: 'Học mới G22–G29 – xong vòng 1. Thêm chủ đề quan điểm & phỏng vấn kỹ thuật.'},
+  {no: 5, title: 'Vòng 2 · Ôn lần 2 (trộn chủ đề)', goal: 'Mỗi buổi ôn 2–3 chủ đề ngữ pháp khác nhóm. Làm quiz trước, chỉ đọc lại phần sai.'},
+  {no: 6, title: 'Vòng 2 · Ôn lần 2 (trộn chủ đề)', goal: 'Hoàn thành vòng 2. Chủ đề nói cuối: system design, tiền bạc, AI, thỏa thuận lương.'},
+  {no: 7, title: 'Vòng 3 · Ôn lần 3 (trộn chủ đề)', goal: 'Tự viết lại công thức từ trí nhớ. Xen kẽ nói lại chủ đề cũ ở cấp 3 và phỏng vấn thử.'},
+  {no: 8, title: 'Vòng 3 · Ôn lần 3 (trộn chủ đề) + tổng ôn', goal: 'Hoàn thành vòng 3. Phỏng vấn thử xen kẽ nói lại, bài kiểm tra cuối khóa.'},
 ];
 
 // ---- Ngữ pháp: 3 vòng, mỗi mã xuất hiện đúng 3 lần ----
+// Vòng 1 giữ thứ tự vì bài sau dựa trên bài trước; vòng 2–3 trộn chủ đề khác nhóm trong cùng một buổi
+// cho đỡ ngán và để phải phân biệt các cấu trúc với nhau.
 const R1: string[][] = [
   ['G01'], ['G02'], ['G03'], ['G04'], ['G05'], ['G06'],
   ['G07'], ['G08'], ['G09', 'G10'], ['G11'], ['G12'], ['G13'],
@@ -33,12 +35,12 @@ const R1: string[][] = [
   ['G22'], ['G23'], ['G24'], ['G25'], ['G26', 'G27'], ['G28', 'G29'],
 ];
 const R2: string[][] = [
-  ['G01', 'G02', 'G03'], ['G04', 'G05'], ['G06', 'G07', 'G08'], ['G09', 'G10', 'G11'], ['G12', 'G13'], ['G14', 'G15', 'G16'],
-  ['G17', 'G18'], ['G19', 'G20'], ['G21', 'G22'], ['G23', 'G24'], ['G25', 'G26', 'G27'], ['G28', 'G29'],
+  ['G01', 'G14', 'G20'], ['G02', 'G03', 'G18'], ['G04', 'G05', 'G22'], ['G06', 'G07', 'G17'], ['G08', 'G23'], ['G09', 'G10', 'G24'],
+  ['G11', 'G19'], ['G12', 'G21'], ['G13', 'G15'], ['G16', 'G25'], ['G26', 'G27'], ['G28', 'G29'],
 ];
 const R3: string[][] = [
-  ['G01', 'G02', 'G03'], ['G04', 'G05', 'G26'], ['G06', 'G07', 'G08'], ['G09', 'G10'], ['G11', 'G12'], ['G13', 'G27'],
-  ['G14', 'G15'], ['G16', 'G17', 'G18'], ['G19', 'G29'], ['G20', 'G21'], ['G22', 'G23'], ['G24', 'G25', 'G28'],
+  ['G02', 'G19', 'G22'], ['G04', 'G06', 'G21'], ['G03', 'G13', 'G16'], ['G05', 'G08', 'G25'], ['G09', 'G17'], ['G01', 'G24'],
+  ['G07', 'G11', 'G27'], ['G10', 'G18'], ['G12', 'G20'], ['G14', 'G23'], ['G15', 'G28'], ['G26', 'G29'],
 ];
 
 const ROUND_HOW: Record<1 | 2 | 3, {title: string; how: string; minutes: number}> = {
@@ -60,16 +62,18 @@ const ROUND_HOW: Record<1 | 2 | 3, {title: string; how: string; minutes: number}
 };
 
 // ---- Luyện nói: mỗi ngày 1 chủ đề (new = học mới, review = nói lại cấp 3, mock = phỏng vấn thử) ----
+// Không theo thứ tự menu: mỗi tuần 1–6 xen kẽ đủ 5 nhóm (đời sống, kể chuyện, học tập/công việc, quan điểm, 2 chủ đề IT);
+// chủ đề ít ngữ pháp xếp tuần đầu, chủ đề cần câu điều kiện / bị động xếp sau.
 type Sp = [number, 'new' | 'review' | 'mock'];
 const SPEAKING: Sp[] = [
-  [1, 'new'], [2, 'new'], [3, 'new'], [4, 'new'], [27, 'new'], [28, 'new'], [1, 'review'],
-  [5, 'new'], [6, 'new'], [7, 'new'], [8, 'new'], [29, 'new'], [30, 'new'], [8, 'review'],
-  [9, 'new'], [10, 'new'], [11, 'new'], [12, 'new'], [31, 'new'], [32, 'new'], [11, 'review'],
-  [13, 'new'], [14, 'new'], [15, 'new'], [16, 'new'], [33, 'new'], [34, 'new'], [14, 'review'],
-  [17, 'new'], [18, 'new'], [19, 'new'], [20, 'new'], [21, 'new'], [22, 'new'], [18, 'review'],
-  [23, 'new'], [24, 'new'], [25, 'new'], [26, 'new'], [35, 'new'], [36, 'new'], [24, 'review'],
-  [1, 'review'], [6, 'review'], [29, 'review'], [11, 'review'], [33, 'review'], [16, 'review'], [12, 'review'],
-  [17, 'mock'], [18, 'mock'], [20, 'mock'], [22, 'mock'], [24, 'mock'], [35, 'mock'], [26, 'review'],
+  [1, 'new'], [7, 'new'], [17, 'new'], [9, 'new'], [15, 'new'], [35, 'new'], [1, 'review'],
+  [3, 'new'], [5, 'new'], [18, 'new'], [11, 'new'], [13, 'new'], [23, 'new'], [18, 'review'],
+  [2, 'new'], [6, 'new'], [22, 'new'], [10, 'new'], [16, 'new'], [36, 'new'], [6, 'review'],
+  [27, 'new'], [30, 'new'], [19, 'new'], [31, 'new'], [14, 'new'], [24, 'new'], [14, 'review'],
+  [4, 'new'], [8, 'new'], [20, 'new'], [12, 'new'], [34, 'new'], [25, 'new'], [8, 'review'],
+  [28, 'new'], [29, 'new'], [21, 'new'], [32, 'new'], [33, 'new'], [26, 'new'], [21, 'review'],
+  [17, 'mock'], [6, 'review'], [33, 'review'], [18, 'mock'], [29, 'review'], [16, 'review'], [12, 'review'],
+  [20, 'mock'], [11, 'review'], [22, 'mock'], [1, 'review'], [24, 'mock'], [35, 'mock'], [26, 'review'],
   [36, 'review'], [25, 'mock'], [21, 'mock'], [17, 'mock'],
 ];
 
@@ -93,6 +97,8 @@ const SPEAK_HOW: Record<Sp[1], {title: string; how: string; minutes: number}> = 
 
 // ---- Phản xạ: 30 chủ đề. Tuần 1–6: ngày 2, 4, 6 của tuần; tuần 7–8: mọi ngày học ----
 const REFLEX_DAYS = [2, 4, 6, 9, 11, 13, 16, 18, 20, 23, 25, 27, 30, 32, 34, 37, 39, 41, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55];
+// Thứ tự chủ đề phản xạ cũng trộn nhóm (bản thân – mua sắm – giải trí – đi lại – công việc…) thay vì 1 → 30.
+const REFLEX_ORDER = [2, 7, 13, 21, 10, 26, 1, 5, 9, 23, 14, 25, 3, 6, 12, 27, 19, 22, 4, 8, 15, 28, 17, 24, 11, 16, 18, 20, 29, 30];
 
 // ---- Chủ nhật & 4 ngày cuối ----
 type Extra = {focus: string; grammar: Block; reflex?: Block};
@@ -143,7 +149,7 @@ function build(): PlanDay[] {
   [...R1.map((c) => ({round: 1 as const, codes: c})), ...R2.map((c) => ({round: 2 as const, codes: c})), ...R3.map((c) => ({round: 3 as const, codes: c}))].forEach(
     (g, i) => grammarOf.set(learnDays[i], g),
   );
-  const reflexOf = new Map(REFLEX_DAYS.map((d, i) => [d, i + 1]));
+  const reflexOf = new Map(REFLEX_DAYS.map((d, i) => [d, REFLEX_ORDER[i]]));
 
   const days: PlanDay[] = [];
   for (let d = 1; d <= 60; d++) {
