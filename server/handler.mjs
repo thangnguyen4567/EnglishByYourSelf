@@ -69,7 +69,7 @@ export async function handle(req, res) {
   // Trên Vercel, vercel.json rewrite /api/* → /api?__path=* nên đường dẫn gốc nằm ở query.
   const pathname = url.searchParams.has('__path') ? `/api/${url.searchParams.get('__path')}` : url.pathname;
   const parts = pathname.split('/').filter(Boolean).map(decodeURIComponent);
-  if (parts[0] === 'health') return send(res, 200, {ok: true});
+  if (parts.join('/') === 'health' || parts.join('/') === 'api/health') return send(res, 200, {ok: true});
   if (parts[0] !== 'api' || parts[1] !== 'learners' || !UID.test(parts[2] ?? '')) {
     return send(res, 404, {error: 'Not found'});
   }
@@ -125,6 +125,7 @@ export async function handle(req, res) {
     return send(res, 404, {error: 'Not found'});
   } catch (err) {
     console.error(err);
-    return send(res, err.status ?? 500, {error: err.status ? err.message : 'Lỗi máy chủ'});
+    const config = /MONGODB_URI/.test(err.message);
+    return send(res, err.status ?? 500, {error: err.status || config ? err.message : 'Lỗi máy chủ'});
   }
 }
