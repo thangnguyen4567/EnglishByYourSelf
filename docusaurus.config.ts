@@ -16,6 +16,12 @@ const config: Config = {
   baseUrl: process.env.BASE_URL ?? '/',
   trailingSlash: false,
 
+  // API lưu tiến độ vào MongoDB (server/, trên Vercel là api/). API_URL ghi đè khi cần.
+  customFields: {
+    // Trên Vercel API chạy cùng domain (/api) nên để trống.
+    apiUrl: process.env.API_URL || (process.env.VERCEL ? '' : 'http://localhost:4000'),
+  },
+
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'warn',
 

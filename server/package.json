@@ -1,0 +1,16 @@
+{
+  "name": "ngu-phap-api",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env index.mjs",
+    "dev": "node --watch --env-file-if-exists=.env index.mjs"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

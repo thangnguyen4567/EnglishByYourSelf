@@ -8,6 +8,7 @@ import React, {
 import type { ReactNode } from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
+import { loadNotes, saveNote } from "@site/src/lib/store";
 
 /**
  * Dàn ý nói theo 3 cấp mở rộng. Dùng trong .mdx:
@@ -16,7 +17,7 @@ import styles from "./styles.module.css";
  *   <Step label="Mở bài" ask="Bạn là ai?" keys="Minh · 26 · Hai Phong" frame="Hi, I'm … I'm from …" more="Vì sao chuyển lên Hà Nội?" />
  * </Outline>
  *
- * Ý riêng của người học lưu trong localStorage theo `id` + thứ tự bước.
+ * Ý riêng của người học lưu trên MongoDB (qua API) theo `id` + thứ tự bước.
  */
 
 type Level = 1 | 2 | 3;
@@ -45,23 +46,6 @@ const LEVELS: { no: Level; name: string; guide: string; seconds: number }[] = [
 const Ctx = createContext<{ id: string; level: Level }>({ id: "", level: 1 });
 
 const storeKey = (id: string, i: number) => `outline:${id}:${i}`;
-
-function load(key: string): string {
-  try {
-    return window.localStorage.getItem(key) ?? "";
-  } catch {
-    return "";
-  }
-}
-
-function save(key: string, value: string) {
-  try {
-    if (value) window.localStorage.setItem(key, value);
-    else window.localStorage.removeItem(key);
-  } catch {
-    // storage bị chặn: ghi chú chỉ tồn tại trong phiên này
-  }
-}
 
 function fmt(s: number) {
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
@@ -173,7 +157,7 @@ export function Outline({
 
   const clearNotes = () => {
     if (!window.confirm("Xóa toàn bộ ý bạn đã ghi trong dàn ý này?")) return;
-    for (let n = 1; n <= i; n++) save(storeKey(id, n), "");
+    for (let n = 1; n <= i; n++) saveNote(storeKey(id, n), "");
     window.dispatchEvent(new CustomEvent("outline-clear", { detail: id }));
   };
 
@@ -238,12 +222,17 @@ export function Step({
   const [note, setNote] = useState("");
 
   useEffect(() => {
-    setNote(load(key));
+    let alive = true;
+    // Chỉ điền ý đã lưu nếu người học chưa gõ gì trong lúc chờ máy chủ.
+    void loadNotes().then((n) => alive && setNote((cur) => cur || (n[key] ?? "")));
     const onClear = (e: Event) => {
       if ((e as CustomEvent).detail === id) setNote("");
     };
     window.addEventListener("outline-clear", onClear);
-    return () => window.removeEventListener("outline-clear", onClear);
+    return () => {
+      alive = false;
+      window.removeEventListener("outline-clear", onClear);
+    };
   }, [key, id]);
 
   return (
@@ -276,7 +265,7 @@ export function Step({
         value={note}
         onChange={(e) => {
           setNote(e.target.value);
-          save(key, e.target.value);
+          saveNote(key, e.target.value);
         }}
       />
     </li>

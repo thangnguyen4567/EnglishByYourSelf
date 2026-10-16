@@ -44,8 +44,11 @@ jobs:
             echo "BASE_URL=/${REPO}/" >> "$GITHUB_ENV"
           fi
 
+      # URL của API (server/) – đặt tại Settings → Secrets and variables → Actions → Variables → API_URL
       - name: Build
         run: npm run build
+        env:
+          API_URL: ${{ vars.API_URL }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
