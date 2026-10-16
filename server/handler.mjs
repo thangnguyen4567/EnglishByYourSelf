@@ -1,8 +1,10 @@
 // Logic API lưu tiến độ học + ý dàn ý vào MongoDB (thay cho localStorage của trình duyệt).
 //
-//   GET    /api/learners/:uid            → {progress, notes}
-//   PUT    /api/learners/:uid/progress   body: Progress
-//   PUT    /api/learners/:uid/notes/:key body: {value}   (value rỗng = xóa)
+// Site chỉ có một người học nên mọi thiết bị dùng chung một bộ dữ liệu (OWNER).
+//
+//   GET    /api/data         → {progress, notes}
+//   PUT    /api/progress     body: Progress
+//   PUT    /api/notes/:key   body: {value}   (value rỗng = xóa)
 import {MongoClient} from 'mongodb';
 
 const {MONGODB_URI, MONGODB_DB = 'ngu-phap', CORS_ORIGIN = '*'} = process.env;
@@ -26,7 +28,7 @@ export function connect() {
 }
 
 const origins = CORS_ORIGIN.split(',').map((s) => s.trim());
-const UID = /^[A-Za-z0-9_-]{6,64}$/;
+const OWNER = 'me';
 const MAX_BODY = 256 * 1024;
 
 function cors(req, res) {
@@ -70,16 +72,14 @@ export async function handle(req, res) {
   const pathname = url.searchParams.has('__path') ? `/api/${url.searchParams.get('__path')}` : url.pathname;
   const parts = pathname.split('/').filter(Boolean).map(decodeURIComponent);
   if (parts.join('/') === 'health' || parts.join('/') === 'api/health') return send(res, 200, {ok: true});
-  if (parts[0] !== 'api' || parts[1] !== 'learners' || !UID.test(parts[2] ?? '')) {
-    return send(res, 404, {error: 'Not found'});
-  }
-  const uid = parts[2];
+  if (parts[0] !== 'api') return send(res, 404, {error: 'Not found'});
+  const uid = OWNER;
 
   try {
     const {progressCol, notesCol} = await connect();
 
-    // GET /api/learners/:uid
-    if (req.method === 'GET' && parts.length === 3) {
+    // GET /api/data
+    if (req.method === 'GET' && parts[1] === 'data' && parts.length === 2) {
       const [p, notes] = await Promise.all([
         progressCol.findOne({_id: uid}),
         notesCol.find({uid}, {projection: {key: 1, value: 1}}).toArray(),
@@ -90,8 +90,8 @@ export async function handle(req, res) {
       });
     }
 
-    // PUT /api/learners/:uid/progress
-    if (req.method === 'PUT' && parts[3] === 'progress' && parts.length === 4) {
+    // PUT /api/progress
+    if (req.method === 'PUT' && parts[1] === 'progress' && parts.length === 2) {
       const data = await readJson(req);
       if (typeof data !== 'object' || data === null || Array.isArray(data)) {
         return send(res, 400, {error: 'Progress phải là object'});
@@ -104,9 +104,9 @@ export async function handle(req, res) {
       return send(res, 204);
     }
 
-    // PUT /api/learners/:uid/notes/:key
-    if (req.method === 'PUT' && parts[3] === 'notes' && parts.length === 5) {
-      const key = parts[4];
+    // PUT /api/notes/:key
+    if (req.method === 'PUT' && parts[1] === 'notes' && parts.length === 3) {
+      const key = parts[2];
       const {value} = await readJson(req);
       if (typeof value !== 'string') return send(res, 400, {error: 'value phải là string'});
       const _id = `${uid}|${key}`;

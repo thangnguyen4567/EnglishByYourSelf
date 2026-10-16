@@ -1,41 +1,18 @@
 import siteConfig from '@generated/docusaurus.config';
 
-// Dữ liệu học được lưu trên MongoDB qua API (thư mục server/). Trình duyệt chỉ giữ
-// "mã học viên" để biết dữ liệu nào là của mình; mở trang với ?uid=<mã> trên máy khác
-// để dùng chung tiến độ.
+// Dữ liệu học được lưu trên MongoDB qua API (thư mục server/, trên Vercel là api/).
+// Site chỉ có một người học nên mọi thiết bị dùng chung một bộ dữ liệu.
 const API = String(siteConfig.customFields?.apiUrl ?? '').replace(/\/$/, '');
-const UID_KEY = 'ngu-phap-uid';
-const UID = /^[A-Za-z0-9_-]{6,64}$/;
 const DEBOUNCE_MS = 400;
 
-let uid: string | undefined;
-
-export function getUid(): string {
-  if (uid) return uid;
-  const fromUrl = new URLSearchParams(window.location.search).get('uid');
-  let stored: string | null = null;
-  try {
-    stored = window.localStorage.getItem(UID_KEY);
-  } catch {
-    // storage bị chặn: mã chỉ tồn tại trong phiên này
-  }
-  uid = fromUrl && UID.test(fromUrl) ? fromUrl : stored && UID.test(stored) ? stored : crypto.randomUUID();
-  try {
-    window.localStorage.setItem(UID_KEY, uid);
-  } catch {
-    // bỏ qua
-  }
-  return uid;
-}
-
-const base = () => `${API}/api/learners/${encodeURIComponent(getUid())}`;
+const base = () => `${API}/api`;
 
 type Remote = {progress: unknown | null; notes: Record<string, string>};
 let remote: Promise<Remote> | undefined;
 
-/** Tải dữ liệu của học viên một lần cho cả trang. */
+/** Tải dữ liệu một lần cho cả trang. */
 export function loadRemote(): Promise<Remote> {
-  remote ??= fetch(base()).then((r) => {
+  remote ??= fetch(`${base()}/data`).then((r) => {
     if (!r.ok) throw new Error(`API ${r.status}`);
     return r.json() as Promise<Remote>;
   });
@@ -78,7 +55,7 @@ export function saveProgress(p: unknown) {
 const LEGACY_NOTE_PREFIX = 'outline:';
 let notes: Promise<Record<string, string>> | undefined;
 
-/** Toàn bộ ý dàn ý của học viên; lần đầu chuyển dữ liệu cũ từ localStorage lên máy chủ. */
+/** Toàn bộ ý dàn ý; lần đầu chuyển dữ liệu cũ từ localStorage lên máy chủ. */
 export function loadNotes(): Promise<Record<string, string>> {
   notes ??= loadRemote()
     .then((r) => {
