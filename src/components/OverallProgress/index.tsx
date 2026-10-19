@@ -3,7 +3,7 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import {useProgress} from '@site/src/lib/progress';
-import {LEVELS, SECTIONS, hasLevels, isDone, isLevelDone, percent, setDone, setLevelDone, summarize, useLessons, type Lesson, type Section} from '@site/src/lib/completion';
+import {SECTIONS, credit, isDone, isLevelDone, levelSet, percent, setDone, setLevelDone, summarize, useLessons, type Lesson, type Section} from '@site/src/lib/completion';
 import styles from './styles.module.css';
 
 type Filter = 'all' | 'todo' | 'done';
@@ -39,9 +39,9 @@ export default function OverallProgress({detailed = false}: {detailed?: boolean}
         <div className={styles.totalText}>
           <b>Tổng tiến độ khóa học</b>
           <span>
-            Đã hoàn thành {overall.done}/{overall.total} bài
+            Đã xong {overall.done}/{overall.total} bài · bài ngữ pháp tính theo mức đã đạt (Dễ 20% · Trung bình 30% · Khó 50%)
           </span>
-          <progress value={overall.done} max={overall.total || 1} />
+          <progress value={overall.credit} max={overall.total || 1} />
         </div>
       </div>
       <div className={styles.grid}>
@@ -55,7 +55,7 @@ export default function OverallProgress({detailed = false}: {detailed?: boolean}
                   {st.done}/{st.total}
                 </span>
               </span>
-              <progress value={st.done} max={st.total || 1} />
+              <progress value={st.credit} max={st.total || 1} />
               <span className={styles.small}>
                 {percent(st)}% · còn {st.total - st.done} bài
               </span>
@@ -104,30 +104,41 @@ export default function OverallProgress({detailed = false}: {detailed?: boolean}
               <ul className={styles.list}>
                 {items.map((l) => {
                   const done = isDone(progress, l);
+                  const set = levelSet(l);
+                  const part = Math.round(credit(progress, l) * 100);
                   return (
                     <li key={l.pluginId + l.docId} className={clsx(done && styles.itemDone)}>
-                      <input
-                        type="checkbox"
-                        checked={done}
-                        aria-label={`Đánh dấu hoàn thành: ${l.title}`}
-                        onChange={(e) => update((p) => setDone(p, l, e.target.checked))}
-                      />
                       <Link to={l.path}>{l.title}</Link>
-                      {hasLevels(l) && (
+                      {set?.partial && !done && part > 0 && <span className={styles.part}>{part}%</span>}
+                      {set && (
                         <span className={styles.levels}>
-                          {LEVELS.map((lv) => (
-                            <label key={lv.key} title={lv.label}>
-                              <input
-                                type="checkbox"
-                                checked={isLevelDone(progress, l, lv.key)}
+                          {set.levels.map((lv) => {
+                            const on = isLevelDone(progress, l, lv.key);
+                            return (
+                              <button
+                                key={lv.key}
+                                type="button"
+                                className={clsx(styles.chip, on && styles.chipOn)}
+                                aria-pressed={on}
+                                title={set.partial ? `${lv.label} (+${Math.round(lv.weight * 100)}%)` : lv.label}
                                 aria-label={`${lv.label}: ${l.title}`}
-                                onChange={(e) => update((p) => setLevelDone(p, l, lv.key, e.target.checked))}
-                              />
-                              {lv.label[0]}
-                            </label>
-                          ))}
+                                onClick={() => update((p) => setLevelDone(p, l, lv.key, !on))}
+                              >
+                                {lv.label[0]}
+                              </button>
+                            );
+                          })}
                         </span>
                       )}
+                      <button
+                        type="button"
+                        className={clsx(styles.complete, done && styles.completeOn)}
+                        aria-pressed={done}
+                        aria-label={`${done ? 'Bỏ hoàn thành' : 'Hoàn thành'}: ${l.title}`}
+                        onClick={() => update((p) => setDone(p, l, !done))}
+                      >
+                        {done ? '✅ Xong' : 'Hoàn thành'}
+                      </button>
                     </li>
                   );
                 })}
@@ -135,7 +146,9 @@ export default function OverallProgress({detailed = false}: {detailed?: boolean}
             </div>
           ))}
           <p className={styles.hint}>
-            Tích ô để đánh dấu ngay tại đây, hoặc bấm <b>Đánh dấu hoàn thành</b> ở cuối mỗi bài. Bài đã xong có dấu ✔ trên thanh bên.
+            Bấm <b>Hoàn thành</b> để đánh dấu cả bài ngay tại đây (bấm lại để bỏ), hoặc dùng nút ở cuối mỗi bài. Các nút nhỏ = từng mức
+            (ngữ pháp: D / T / K = Dễ / Trung bình / Khó · phản xạ: C / T / N = Cơ bản / Trung bình / Nâng cao). Bài xong có ✔,
+            bài ngữ pháp đang học có ◐ trên thanh bên.
           </p>
         </div>
       ) : (

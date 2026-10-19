@@ -20,10 +20,29 @@
   min-width: 13rem;
 }
 
+.levelBox {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
 .levels {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+}
+
+.weight {
+  margin-left: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+.mine {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-700);
 }
 
 .stats {

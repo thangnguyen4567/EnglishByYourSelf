@@ -6,16 +6,17 @@ import type LinkType from '@theme/DocSidebarItem/Link';
 import type {WrapperProps} from '@docusaurus/types';
 import {useActivePlugin} from '@docusaurus/plugin-content-docs/client';
 import {useProgress} from '@site/src/lib/progress';
-import {classify, isDone} from '@site/src/lib/completion';
+import {classify, credit, isDone} from '@site/src/lib/completion';
 
 type Props = WrapperProps<typeof LinkType>;
 
-/** Thêm dấu ✔ cạnh bài đã hoàn thành trên thanh bên. */
+/** Thêm dấu ✔ cạnh bài đã hoàn thành trên thanh bên; ◐ cho bài ngữ pháp mới xong một phần các mức. */
 export default function LinkWrapper(props: Props): ReactNode {
   const [progress] = useProgress();
   const pluginId = useActivePlugin()?.pluginId ?? 'default';
   const {item} = props;
   const docId = item.docId;
-  const done = !!docId && !!classify(pluginId, docId) && isDone(progress, {pluginId, docId, path: item.href});
-  return <Link {...props} item={done ? {...item, className: clsx(item.className, 'sidebar-done')} : item} />;
+  const ref = docId && classify(pluginId, docId) ? {pluginId, docId, path: item.href} : null;
+  const state = !ref ? null : isDone(progress, ref) ? 'sidebar-done' : credit(progress, ref) > 0 ? 'sidebar-partial' : null;
+  return <Link {...props} item={state ? {...item, className: clsx(item.className, state)} : item} />;
 }
