@@ -69,3 +69,12 @@
     display: none;
   }
 }
+
+/* Bài đã đánh dấu hoàn thành trên thanh bên (src/theme/DocSidebarItem/Link) */
+.sidebar-done > .menu__link::after {
+  content: '✔';
+  margin-left: auto;
+  padding-left: 0.4rem;
+  color: var(--ifm-color-success);
+  font-weight: 700;
+}

@@ -1,0 +1,128 @@
+.box {
+  margin: 2.5rem 0 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: 12px;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.75rem;
+  margin-bottom: 0.6rem;
+}
+
+.badge {
+  font-weight: 700;
+}
+
+.sub {
+  font-size: 0.82rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.question,
+.text {
+  display: block;
+  width: 100%;
+  padding: 0.45rem 0.6rem;
+  font: inherit;
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
+.question {
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.text {
+  resize: vertical;
+  line-height: 1.6;
+}
+
+.question:focus,
+.text:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+}
+
+.foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.count {
+  flex: 1;
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.ok {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ifm-color-success-dark);
+}
+
+.history {
+  margin-top: 1rem;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+  padding-top: 0.75rem;
+}
+
+.histHead {
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.entry {
+  margin-bottom: 0.5rem;
+  padding: 0.4rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  background: var(--ifm-background-color);
+}
+
+.entry summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+  align-items: baseline;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.date {
+  font-variant-numeric: tabular-nums;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.q {
+  flex: 1;
+  font-weight: 600;
+}
+
+.wc {
+  font-size: 0.78rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.body {
+  margin: 0.5rem 0 0.25rem;
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}

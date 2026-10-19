@@ -1,6 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import lessonIndex from './plugins/lesson-index';
 
 const config: Config = {
   title: 'Ngữ pháp tiếng Anh',
@@ -54,6 +55,8 @@ const config: Config = {
   ],
 
   plugins: [
+    // Tiêu đề + nhóm của mọi trang bài học cho bảng tiến độ (src/components/OverallProgress)
+    lessonIndex,
     [
       '@docusaurus/plugin-content-docs',
       { id: 'speaking', path: 'speaking', routeBasePath: 'luyen-noi', sidebarPath: './sidebarsSkill.ts' },
@@ -104,7 +107,7 @@ const config: Config = {
         { to: '/docs/lo-trinh-2-thang', label: '📅 Lộ trình', position: 'left' },
         { to: '/docs/ngu-phap', label: 'Ngữ pháp', position: 'left', activeBasePath: 'docs/ngu-phap' },
         { to: '/docs/bai-kiem-tra', label: 'Kiểm tra', position: 'left', activeBasePath: 'docs/bai-kiem-tra' },
-        { to: '/docs/tra-cuu/bang-tra-cuu', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
+        { to: '/docs/tra-cuu/loi-thuong-gap', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
         { to: '/docs/tra-cuu/tu-vung-dang-hoc', label: '📒 Từ vựng', position: 'left' },
         { to: '/luyen-noi', label: '🗣️ Luyện nói', position: 'left', activeBasePath: 'luyen-noi' },
         { to: '/luyen-phan-xa', label: '⚡ Phản xạ', position: 'left', activeBasePath: 'luyen-phan-xa' },
@@ -127,7 +130,6 @@ const config: Config = {
     items: [
       { label: 'Bản đồ 29 chủ đề', to: '/docs/ngu-phap' },
       { label: 'Tổng hợp 12 thì', to: '/docs/ngu-phap/tong-hop-12-thi' },
-      { label: 'Bảng tra cứu nhanh', to: '/docs/tra-cuu/bang-tra-cuu' },
     ],
         },
 {

@@ -6,6 +6,7 @@ import SkillMeta from '@site/src/components/SkillMeta';
 import SkillRoadmap from '@site/src/components/SkillRoadmap';
 import ReflexDrill from '@site/src/components/ReflexDrill';
 import {Outline, Step} from '@site/src/components/Outline';
+import OverallProgress from '@site/src/components/OverallProgress';
 
 // Component dùng được trực tiếp trong mọi file .mdx mà không cần import.
 export default {
@@ -18,4 +19,5 @@ export default {
   ReflexDrill,
   Outline,
   Step,
+  OverallProgress,
 };

@@ -17,6 +17,8 @@ export type Progress = {
   plan60?: Record<number, boolean>;
   /** Ngày bắt đầu lộ trình 60 ngày (YYYY-MM-DD) */
   plan60Start?: string;
+  /** Trang bài học đã hoàn thành (ngữ pháp, phản xạ, kiểm tra), khóa "<pluginId>:<docId>" – xem src/lib/completion.ts */
+  done?: Record<string, boolean>;
 };
 
 const EMPTY: Progress = {days: {}, tests: {}, skills: {}};

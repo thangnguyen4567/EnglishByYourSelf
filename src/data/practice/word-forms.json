@@ -1,0 +1,593 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "G01",
+   "q": "Từ \"happiness\" thuộc từ loại nào?",
+   "options": {
+    "A": "Tính từ",
+    "B": "Danh từ",
+    "C": "Động từ",
+    "D": "Trạng từ"
+   },
+   "answer": "B",
+   "explain": "Hậu tố -ness biến tính từ thành danh từ: happy → happiness."
+  },
+  {
+   "no": 2,
+   "code": "G01",
+   "q": "Họ từ \"beauty\": từ nào là TÍNH TỪ?",
+   "options": {
+    "A": "beauty",
+    "B": "beautify",
+    "C": "beautiful",
+    "D": "beautifully"
+   },
+   "answer": "C",
+   "explain": "-ful tạo tính từ. beauty là danh từ, beautify là động từ (-ify), beautifully là trạng từ (-ly)."
+  },
+  {
+   "no": 3,
+   "code": "G01",
+   "q": "Họ từ \"modern\": từ nào là ĐỘNG TỪ?",
+   "options": {
+    "A": "modern",
+    "B": "modernity",
+    "C": "modernization",
+    "D": "modernize"
+   },
+   "answer": "D",
+   "explain": "-ize tạo động từ. modern là tính từ; -ity và -ation tạo danh từ."
+  },
+  {
+   "no": 4,
+   "code": "G01",
+   "q": "Họ từ \"care\": từ nào là TRẠNG TỪ?",
+   "options": {
+    "A": "carefully",
+    "B": "careful",
+    "C": "careless",
+    "D": "care"
+   },
+   "answer": "A",
+   "explain": "Tính từ + -ly → trạng từ: careful → carefully. careful/careless là tính từ, care là danh từ/động từ."
+  },
+  {
+   "no": 5,
+   "code": "G01",
+   "q": "Từ \"employee\" thuộc từ loại nào?",
+   "options": {
+    "A": "Động từ",
+    "B": "Danh từ",
+    "C": "Tính từ",
+    "D": "Trạng từ"
+   },
+   "answer": "B",
+   "explain": "-ee chỉ người được tác động (người được thuê). employ là động từ, employer là người thuê."
+  },
+  {
+   "no": 6,
+   "code": "G01",
+   "q": "Từ \"dangerous\" thuộc từ loại nào?",
+   "options": {
+    "A": "Danh từ",
+    "B": "Động từ",
+    "C": "Tính từ",
+    "D": "Trạng từ"
+   },
+   "answer": "C",
+   "explain": "-ous tạo tính từ: danger → dangerous. Tương tự: famous, nervous, various."
+  },
+  {
+   "no": 7,
+   "code": "G01",
+   "q": "Họ từ \"develop\": từ nào là DANH TỪ?",
+   "options": {
+    "A": "develop",
+    "B": "developmental",
+    "C": "developed",
+    "D": "development"
+   },
+   "answer": "D",
+   "explain": "-ment tạo danh từ từ động từ: develop → development. developmental (-al) và developed (-ed) là tính từ."
+  },
+  {
+   "no": 8,
+   "code": "G01",
+   "q": "Họ từ \"wide\": từ nào là ĐỘNG TỪ?",
+   "options": {
+    "A": "widen",
+    "B": "wide",
+    "C": "width",
+    "D": "widely"
+   },
+   "answer": "A",
+   "explain": "-en biến tính từ thành động từ: wide → widen (làm rộng ra). width là danh từ, widely là trạng từ."
+  },
+  {
+   "no": 9,
+   "code": "G01",
+   "q": "Họ từ \"science\": từ nào là DANH TỪ chỉ NGƯỜI?",
+   "options": {
+    "A": "science",
+    "B": "scientist",
+    "C": "scientific",
+    "D": "scientifically"
+   },
+   "answer": "B",
+   "explain": "-ist chỉ người: scientist. science là danh từ nhưng không chỉ người; scientific là tính từ (-ic)."
+  },
+  {
+   "no": 10,
+   "code": "G01",
+   "q": "Từ \"simplify\" thuộc từ loại nào?",
+   "options": {
+    "A": "Danh từ",
+    "B": "Tính từ",
+    "C": "Động từ",
+    "D": "Trạng từ"
+   },
+   "answer": "C",
+   "explain": "-ify tạo động từ: simple → simplify. Tương tự: classify, identify, purify."
+  },
+  {
+   "no": 11,
+   "code": "G01",
+   "q": "Họ từ \"comfort\": từ nào là TÍNH TỪ?",
+   "options": {
+    "A": "comfort",
+    "B": "comfortably",
+    "C": "discomfort",
+    "D": "comfortable"
+   },
+   "answer": "D",
+   "explain": "-able tạo tính từ. comfort/discomfort là danh từ, comfortably là trạng từ."
+  },
+  {
+   "no": 12,
+   "code": "G01",
+   "q": "Từ nào KHÔNG phải là danh từ?",
+   "options": {
+    "A": "active",
+    "B": "activity",
+    "C": "action",
+    "D": "actor"
+   },
+   "answer": "A",
+   "explain": "-ive tạo tính từ: active. activity (-ity), action (-ion), actor (-or) đều là danh từ."
+  },
+  {
+   "no": 13,
+   "code": "G01",
+   "q": "Họ từ \"child\": từ nào là DANH TỪ?",
+   "options": {
+    "A": "childish",
+    "B": "childhood",
+    "C": "childlike",
+    "D": "childless"
+   },
+   "answer": "B",
+   "explain": "-hood tạo danh từ chỉ giai đoạn/trạng thái: childhood. -ish, -like, -less đều tạo tính từ."
+  },
+  {
+   "no": 14,
+   "code": "G01",
+   "q": "Họ từ \"quick\": từ nào là TRẠNG TỪ?",
+   "options": {
+    "A": "quick",
+    "B": "quicken",
+    "C": "quickly",
+    "D": "quickness"
+   },
+   "answer": "C",
+   "explain": "quick + -ly → trạng từ. quicken là động từ (-en), quickness là danh từ (-ness)."
+  },
+  {
+   "no": 15,
+   "code": "G01",
+   "q": "Họ từ \"act\": từ nào là ĐỘNG TỪ?",
+   "options": {
+    "A": "active",
+    "B": "activity",
+    "C": "actively",
+    "D": "activate"
+   },
+   "answer": "D",
+   "explain": "-ate thường tạo động từ: activate, create, educate. active là tính từ, activity danh từ, actively trạng từ."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "G01",
+   "q": "The ___ of the new bridge took three years.",
+   "options": {
+    "A": "construction",
+    "B": "construct",
+    "C": "constructive",
+    "D": "constructively"
+   },
+   "answer": "A",
+   "explain": "Sau the và trước of cần danh từ → construction (-tion)."
+  },
+  {
+   "no": 2,
+   "code": "G01",
+   "q": "Please speak ___; the baby is sleeping.",
+   "options": {
+    "A": "quiet",
+    "B": "quietness",
+    "C": "quietly",
+    "D": "quieten"
+   },
+   "answer": "C",
+   "explain": "Bổ nghĩa cho động từ thường speak → trạng từ quietly."
+  },
+  {
+   "no": 3,
+   "code": "G01",
+   "q": "This medicine is very ___ for a sore throat.",
+   "options": {
+    "A": "effect",
+    "B": "effectively",
+    "C": "effectiveness",
+    "D": "effective"
+   },
+   "answer": "D",
+   "explain": "Sau is + very cần tính từ → effective (-ive)."
+  },
+  {
+   "no": 4,
+   "code": "G01",
+   "q": "We need to ___ the rules so that everyone can understand them.",
+   "options": {
+    "A": "simplify",
+    "B": "simple",
+    "C": "simplicity",
+    "D": "simply"
+   },
+   "answer": "A",
+   "explain": "Sau need to cần động từ nguyên mẫu → simplify (-ify). simply là trạng từ – bẫy thường gặp."
+  },
+  {
+   "no": 5,
+   "code": "G01",
+   "q": "She gave a very ___ speech at her best friend's wedding.",
+   "options": {
+    "A": "emotion",
+    "B": "emotional",
+    "C": "emotionally",
+    "D": "emote"
+   },
+   "answer": "B",
+   "explain": "Trước danh từ speech, sau very cần tính từ → emotional (-al). emotionally là trạng từ, emote là động từ."
+  },
+  {
+   "no": 6,
+   "code": "G01",
+   "q": "Our team's ___ depends on good communication.",
+   "options": {
+    "A": "succeed",
+    "B": "successful",
+    "C": "success",
+    "D": "successfully"
+   },
+   "answer": "C",
+   "explain": "Sau sở hữu cách team's cần danh từ → success."
+  },
+  {
+   "no": 7,
+   "code": "G01",
+   "q": "The teacher explained the lesson ___, so everyone understood it.",
+   "options": {
+    "A": "clear",
+    "B": "clarity",
+    "C": "clarify",
+    "D": "clearly"
+   },
+   "answer": "D",
+   "explain": "Bổ nghĩa cho động từ explained → trạng từ clearly."
+  },
+  {
+   "no": 8,
+   "code": "G01",
+   "q": "He is ___ about his job interview tomorrow.",
+   "options": {
+    "A": "nervous",
+    "B": "nerve",
+    "C": "nervously",
+    "D": "nervousness"
+   },
+   "answer": "A",
+   "explain": "Sau to be, mô tả chủ ngữ → tính từ nervous (-ous)."
+  },
+  {
+   "no": 9,
+   "code": "G01",
+   "q": "Regular exercise can ___ your heart.",
+   "options": {
+    "A": "strong",
+    "B": "strengthen",
+    "C": "strength",
+    "D": "strongly"
+   },
+   "answer": "B",
+   "explain": "Sau modal can cần động từ nguyên mẫu → strengthen (strength + -en)."
+  },
+  {
+   "no": 10,
+   "code": "G01",
+   "q": "The film was ___ boring, so we left early.",
+   "options": {
+    "A": "extreme",
+    "B": "extremity",
+    "C": "extremely",
+    "D": "extremist"
+   },
+   "answer": "C",
+   "explain": "Đứng trước tính từ boring để chỉ mức độ → trạng từ extremely."
+  },
+  {
+   "no": 11,
+   "code": "G01",
+   "q": "There is a big ___ between the two prices.",
+   "options": {
+    "A": "differ",
+    "B": "different",
+    "C": "differently",
+    "D": "difference"
+   },
+   "answer": "D",
+   "explain": "Sau a + tính từ big cần danh từ → difference (-ence)."
+  },
+  {
+   "no": 12,
+   "code": "G01",
+   "q": "Thanks to her ___, she finished the marathon.",
+   "options": {
+    "A": "determination",
+    "B": "determine",
+    "C": "determined",
+    "D": "determinedly"
+   },
+   "answer": "A",
+   "explain": "Sau tính từ sở hữu her cần danh từ → determination (-ation)."
+  },
+  {
+   "no": 13,
+   "code": "G01",
+   "q": "This website is very ___ for students who are learning English.",
+   "options": {
+    "A": "use",
+    "B": "useful",
+    "C": "usefully",
+    "D": "usefulness"
+   },
+   "answer": "B",
+   "explain": "Sau is + very cần tính từ → useful (-ful)."
+  },
+  {
+   "no": 14,
+   "code": "G01",
+   "q": "The city plans to ___ the airport next year to welcome more tourists.",
+   "options": {
+    "A": "large",
+    "B": "largely",
+    "C": "enlarge",
+    "D": "largeness"
+   },
+   "answer": "C",
+   "explain": "Sau plans to cần động từ. Tiền tố en- biến tính từ large thành động từ enlarge (mở rộng)."
+  },
+  {
+   "no": 15,
+   "code": "G01",
+   "q": "___, the rain stopped before the match started.",
+   "options": {
+    "A": "Lucky",
+    "B": "Luck",
+    "C": "Luckiness",
+    "D": "Luckily"
+   },
+   "answer": "D",
+   "explain": "Đứng đầu câu, có dấu phẩy, bổ nghĩa cho cả câu → trạng từ Luckily."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "G01",
+   "q": "Tìm lỗi sai: The waiter talked to us very (A) friendly and (B) patiently, so the dinner was (C) really (D) enjoyable.",
+   "options": {
+    "A": "friendly",
+    "B": "patiently",
+    "C": "really",
+    "D": "enjoyable"
+   },
+   "answer": "A",
+   "explain": "friendly đuôi -ly nhưng là TÍNH TỪ, không bổ nghĩa cho động từ talked được → in a very friendly way."
+  },
+  {
+   "no": 2,
+   "code": "G01",
+   "q": "It is ___ to drive without a licence – you can be fined.",
+   "options": {
+    "A": "unlegal",
+    "B": "illegal",
+    "C": "inlegal",
+    "D": "dislegal"
+   },
+   "answer": "B",
+   "explain": "Tiền tố phủ định il- đứng trước từ bắt đầu bằng l: legal → illegal (tương tự illogical)."
+  },
+  {
+   "no": 3,
+   "code": "G01",
+   "q": "The bus is always late. The service is completely ___.",
+   "options": {
+    "A": "disreliable",
+    "B": "inreliable",
+    "C": "irreliable",
+    "D": "unreliable"
+   },
+   "answer": "D",
+   "explain": "rely (v) + -able → reliable (adj); phủ định bằng un- → unreliable."
+  },
+  {
+   "no": 4,
+   "code": "G01",
+   "q": "I was really ___ by the ending of the film – I didn't expect it at all.",
+   "options": {
+    "A": "surprised",
+    "B": "surprising",
+    "C": "surprise",
+    "D": "surprisingly"
+   },
+   "answer": "A",
+   "explain": "Tính từ -ed mô tả cảm xúc của người (I); -ing mô tả tính chất của vật gây ra cảm xúc (a surprising ending)."
+  },
+  {
+   "no": 5,
+   "code": "G01",
+   "q": "Many animals are ___ because their forests are being cut down.",
+   "options": {
+    "A": "dangerous",
+    "B": "endangered",
+    "C": "danger",
+    "D": "endanger"
+   },
+   "answer": "B",
+   "explain": "en- + danger → endanger (v: gây nguy hiểm); endangered (adj) = bị đe dọa. dangerous = gây nguy hiểm, sai nghĩa."
+  },
+  {
+   "no": 6,
+   "code": "G01",
+   "q": "The story was ___ – nobody believed it.",
+   "options": {
+    "A": "believable",
+    "B": "unbelievably",
+    "C": "unbelievable",
+    "D": "disbelief"
+   },
+   "answer": "C",
+   "explain": "Sau was cần tính từ; nghĩa 'không ai tin' → tiền tố un- + believe + -able. unbelievably là trạng từ."
+  },
+  {
+   "no": 7,
+   "code": "G01",
+   "q": "She sang ___ well at the concert.",
+   "options": {
+    "A": "incredible",
+    "B": "credible",
+    "C": "incredibility",
+    "D": "incredibly"
+   },
+   "answer": "D",
+   "explain": "Đứng trước trạng từ well để chỉ mức độ → trạng từ incredibly (in- + credible + -ly)."
+  },
+  {
+   "no": 8,
+   "code": "G01",
+   "q": "Chọn câu ĐÚNG:",
+   "options": {
+    "A": "The baby is asleep in his room.",
+    "B": "She is holding an asleep baby.",
+    "C": "He spoke to me friendly.",
+    "D": "The soup tastes deliciously."
+   },
+   "answer": "A",
+   "explain": "Tính từ a- (asleep, awake, alive, afraid) đứng sau be, không đứng trước danh từ → a sleeping baby. friendly là tính từ; sau linking verb tastes dùng tính từ delicious."
+  },
+  {
+   "no": 9,
+   "code": "G01",
+   "q": "Our teacher always ___ us to ask questions in class.",
+   "options": {
+    "A": "courages",
+    "B": "encourages",
+    "C": "courageous",
+    "D": "encouragement"
+   },
+   "answer": "B",
+   "explain": "en- + courage (n) → encourage (v). Chủ ngữ ngôi 3 số ít + always → encourages."
+  },
+  {
+   "no": 10,
+   "code": "G01",
+   "q": "Many factory workers say they are ___ and overworked.",
+   "options": {
+    "A": "underpay",
+    "B": "underpayment",
+    "C": "underpaid",
+    "D": "payable"
+   },
+   "answer": "C",
+   "explain": "Sau are, nối với tính từ overworked → tính từ underpaid (under- = dưới mức, -ed = bị trả)."
+  },
+  {
+   "no": 11,
+   "code": "G01",
+   "q": "It was ___ of you to leave the front door unlocked.",
+   "options": {
+    "A": "carelessly",
+    "B": "carelessness",
+    "C": "care",
+    "D": "careless"
+   },
+   "answer": "D",
+   "explain": "Cấu trúc It was + TÍNH TỪ + of you + to V; -less mang nghĩa 'thiếu' → careless (bất cẩn)."
+  },
+  {
+   "no": 12,
+   "code": "G01",
+   "q": "The company is famous for its highly ___ products.",
+   "options": {
+    "A": "innovative",
+    "B": "innovate",
+    "C": "innovation",
+    "D": "innovatively"
+   },
+   "answer": "A",
+   "explain": "Trạng từ highly bổ nghĩa cho tính từ đứng trước danh từ products → innovative (-ive)."
+  },
+  {
+   "no": 13,
+   "code": "G01",
+   "q": "We had a long and ___ discussion about the project.",
+   "options": {
+    "A": "produce",
+    "B": "productive",
+    "C": "product",
+    "D": "productively"
+   },
+   "answer": "B",
+   "explain": "and nối hai từ cùng loại: long (adj) and productive (adj), cùng bổ nghĩa cho discussion."
+  },
+  {
+   "no": 14,
+   "code": "G01",
+   "q": "Từ nào vừa có tiền tố PHỦ ĐỊNH vừa có hậu tố tạo DANH TỪ?",
+   "options": {
+    "A": "agreeable",
+    "B": "disagree",
+    "C": "disagreement",
+    "D": "misunderstand"
+   },
+   "answer": "C",
+   "explain": "dis- (phủ định) + agree + -ment (danh từ). disagree là động từ, agreeable là tính từ, misunderstand là động từ."
+  },
+  {
+   "no": 15,
+   "code": "G01",
+   "q": "The ___ between the two companies created thousands of new jobs.",
+   "options": {
+    "A": "cooperate",
+    "B": "cooperative",
+    "C": "cooperatively",
+    "D": "cooperation"
+   },
+   "answer": "D",
+   "explain": "Sau the, trước between cần danh từ: co- (cùng) + operate + -ion → cooperation."
+  }
+ ]
+}

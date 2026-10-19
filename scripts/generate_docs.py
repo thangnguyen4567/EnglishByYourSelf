@@ -7,7 +7,7 @@ Các file sinh ra (sẽ bị ghi đè mỗi lần chạy):
   src/data/*.json              dữ liệu cho component React (Quiz, tiến độ...)
   docs/ngu-phap/**             29 trang chủ đề, nhóm theo phân loại ngữ pháp
   docs/bai-kiem-tra/*.mdx      5 bài kiểm tra tương tác
-  docs/tra-cuu/*.mdx           bảng tra cứu nhanh, sổ lỗi thường gặp
+  docs/tra-cuu/loi-thuong-gap.mdx  sổ lỗi thường gặp
 Các trang viết tay (intro, tong-hop-12-thi...) không bị động tới.
 """
 import json
@@ -539,25 +539,6 @@ import Quiz from '@site/src/components/Quiz';
 # Tra cứu
 # ---------------------------------------------------------------------------
 TC = DOCS / "tra-cuu"
-rows = []
-for g in GROUPS:
-    for t in (x for x in pages if x["group"] == g["key"]):
-        first = t["structure"][0] if t["structure"] else ""
-        rows.append(f"| {t['label']} | {g['label'][3:]} | [{esc_cell(t['short'])}]({t['path']}) | `{first.replace('|', '/')}` |")
-write(TC / "bang-tra-cuu.mdx", f"""---
-title: Bảng tra cứu nhanh 29 chủ đề
-sidebar_label: Bảng tra cứu nhanh
-sidebar_position: 1
----
-
-# Bảng tra cứu nhanh
-
-Toàn bộ 29 chủ đề với công thức cốt lõi. Bấm vào tên chủ đề để xem chi tiết.
-
-| Mã | Nhóm | Chủ đề | Công thức chính |
-|---|---|---|---|
-""" + "\n".join(rows))
-
 mk = []
 for g in GROUPS:
     members = [t for t in pages if t["group"] == g["key"] and t["mistakes"]]
@@ -567,7 +548,7 @@ for g in GROUPS:
 write(TC / "loi-thuong-gap.mdx", """---
 title: Sổ tay lỗi thường gặp
 sidebar_label: Sổ tay lỗi thường gặp
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Sổ tay lỗi thường gặp

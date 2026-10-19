@@ -8,6 +8,7 @@ import topicsData from '@site/src/data/topics.json';
 import pagesData from '@site/src/data/pages.json';
 import tests from '@site/src/data/tests.json';
 
+import OverallProgress from '@site/src/components/OverallProgress';
 import styles from './index.module.css';
 
 type Topic = {code: string; short: string; group: string; path: string};
@@ -74,6 +75,17 @@ export default function Home(): ReactNode {
       </header>
 
       <main className="container margin-vert--xl">
+        <section className={styles.progress}>
+          <Heading as="h2" id="tien-do" className={styles.progressTitle}>
+            Tiến độ của bạn
+          </Heading>
+          <p>
+            Tổng hợp từ nút <b>Đánh dấu hoàn thành</b> ở cuối mỗi bài ngữ pháp, luyện nói, phản xạ và kiểm tra. Chọn
+            một phần để xem <b>bài nào đã xong / chưa xong</b>.
+          </p>
+          <OverallProgress detailed />
+        </section>
+
         <section className={styles.steps}>
           {STEPS.map((s) => (
             <Link key={s.to} to={s.to} className={styles.card}>
