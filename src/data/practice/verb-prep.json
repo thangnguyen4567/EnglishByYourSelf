@@ -1,0 +1,424 @@
+{
+  "easy": [
+    {
+      "no": 1,
+      "code": "G18",
+      "q": "Can you wait ___ me outside the bank?",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "at",
+        "D": "on"
+      },
+      "answer": "B",
+      "explain": "wait for sb/sth = chờ ai/cái gì."
+    },
+    {
+      "no": 2,
+      "code": "G18",
+      "q": "I'm listening ___ my favourite podcast.",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "to",
+        "D": "on"
+      },
+      "answer": "C",
+      "explain": "listen to = lắng nghe. Không nói 'listen my podcast'."
+    },
+    {
+      "no": 3,
+      "code": "G18",
+      "q": "It all depends ___ the weather.",
+      "options": {
+        "A": "of",
+        "B": "in",
+        "C": "at",
+        "D": "on"
+      },
+      "answer": "D",
+      "explain": "depend on = phụ thuộc vào (tương tự rely on)."
+    },
+    {
+      "no": 4,
+      "code": "G18",
+      "q": "Who does this umbrella belong ___?",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "with",
+        "D": "of"
+      },
+      "answer": "A",
+      "explain": "belong to = thuộc về."
+    },
+    {
+      "no": 5,
+      "code": "G18",
+      "q": "I agree ___ you completely.",
+      "options": {
+        "A": "to",
+        "B": "on",
+        "C": "for",
+        "D": "with"
+      },
+      "answer": "D",
+      "explain": "agree with + người / ý kiến."
+    },
+    {
+      "no": 6,
+      "code": "G18",
+      "q": "He apologised ___ being late.",
+      "options": {
+        "A": "for",
+        "B": "about",
+        "C": "of",
+        "D": "to"
+      },
+      "answer": "A",
+      "explain": "apologise (to sb) for + V-ing/N."
+    },
+    {
+      "no": 7,
+      "code": "G18",
+      "q": "My little sister believes ___ ghosts.",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "to"
+      },
+      "answer": "C",
+      "explain": "believe in = tin vào sự tồn tại / giá trị của điều gì."
+    },
+    {
+      "no": 8,
+      "code": "G18",
+      "q": "My father suffers ___ back pain.",
+      "options": {
+        "A": "of",
+        "B": "by",
+        "C": "at",
+        "D": "from"
+      },
+      "answer": "D",
+      "explain": "suffer from + bệnh, vấn đề."
+    },
+    {
+      "no": 9,
+      "code": "G18",
+      "q": "Please look ___ the board.",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "on",
+        "D": "for"
+      },
+      "answer": "B",
+      "explain": "look at = nhìn vào. look for = tìm."
+    },
+    {
+      "no": 10,
+      "code": "G18",
+      "q": "You need to concentrate ___ your work.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "to",
+        "D": "on"
+      },
+      "answer": "D",
+      "explain": "concentrate / focus on = tập trung vào."
+    }
+  ],
+  "normal": [
+    {
+      "no": 1,
+      "code": "G18",
+      "q": "The police accused him ___ stealing the car.",
+      "options": {
+        "A": "of",
+        "B": "for",
+        "C": "about",
+        "D": "with"
+      },
+      "answer": "A",
+      "explain": "accuse sb of + V-ing = buộc tội ai đã làm gì."
+    },
+    {
+      "no": 2,
+      "code": "G18",
+      "q": "Don't blame me ___ your mistakes.",
+      "options": {
+        "A": "of",
+        "B": "for",
+        "C": "on",
+        "D": "about"
+      },
+      "answer": "B",
+      "explain": "blame sb FOR sth = đổ lỗi cho ai về việc gì."
+    },
+    {
+      "no": 3,
+      "code": "G18",
+      "q": "They blamed the accident ___ the bad weather.",
+      "options": {
+        "A": "for",
+        "B": "of",
+        "C": "on",
+        "D": "to"
+      },
+      "answer": "C",
+      "explain": "blame sth ON sb/sth = đổ lỗi việc gì cho ai/cái gì (đảo vị trí so với blame sb for sth)."
+    },
+    {
+      "no": 4,
+      "code": "G18",
+      "q": "The heavy rain prevented us ___ going out.",
+      "options": {
+        "A": "of",
+        "B": "to",
+        "C": "against",
+        "D": "from"
+      },
+      "answer": "D",
+      "explain": "prevent/stop sb from + V-ing = ngăn ai làm gì."
+    },
+    {
+      "no": 5,
+      "code": "G18",
+      "q": "This photo reminds me ___ my holiday in Da Lat.",
+      "options": {
+        "A": "of",
+        "B": "about",
+        "C": "for",
+        "D": "with"
+      },
+      "answer": "A",
+      "explain": "remind sb of sth = gợi cho ai nhớ đến. remind sb about = nhắc ai (đừng quên) việc gì."
+    },
+    {
+      "no": 6,
+      "code": "G18",
+      "q": "The school provides students ___ free textbooks.",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "to",
+        "D": "by"
+      },
+      "answer": "B",
+      "explain": "provide sb WITH sth; hoặc provide sth FOR sb."
+    },
+    {
+      "no": 7,
+      "code": "G18",
+      "q": "I'm thinking ___ moving to Da Nang next year.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "about",
+        "D": "at"
+      },
+      "answer": "C",
+      "explain": "think about/of + V-ing = đang cân nhắc làm gì."
+    },
+    {
+      "no": 8,
+      "code": "G18",
+      "q": "I've never heard ___ that band. Who are they?",
+      "options": {
+        "A": "from",
+        "B": "by",
+        "C": "at",
+        "D": "of"
+      },
+      "answer": "D",
+      "explain": "hear of = biết đến (sự tồn tại). hear from = nhận tin tức từ ai."
+    },
+    {
+      "no": 9,
+      "code": "G18",
+      "q": "After a long discussion, we finally agreed ___ a date for the wedding.",
+      "options": {
+        "A": "on",
+        "B": "with",
+        "C": "to",
+        "D": "for"
+      },
+      "answer": "A",
+      "explain": "agree on = thống nhất về (một quyết định chung). agree with + người; agree to + đề nghị."
+    },
+    {
+      "no": 10,
+      "code": "G18",
+      "q": "The manager agreed ___ our request for a day off.",
+      "options": {
+        "A": "with",
+        "B": "to",
+        "C": "on",
+        "D": "for"
+      },
+      "answer": "B",
+      "explain": "agree to + đề nghị / kế hoạch = chấp thuận."
+    },
+    {
+      "no": 11,
+      "code": "G18",
+      "q": "She spends too much money ___ clothes.",
+      "options": {
+        "A": "for",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "answer": "C",
+      "explain": "spend money/time on sth. 'spend for' là lỗi thường gặp."
+    },
+    {
+      "no": 12,
+      "code": "G18",
+      "q": "Our team consists ___ five engineers and two designers.",
+      "options": {
+        "A": "in",
+        "B": "from",
+        "C": "with",
+        "D": "of"
+      },
+      "answer": "D",
+      "explain": "consist of = gồm có; không dùng bị động 'is consisted of'."
+    }
+  ],
+  "hard": [
+    {
+      "no": 1,
+      "code": "G18",
+      "q": "Tìm lỗi sai: We (A) discussed about the plan and (B) agreed on a date, then I (C) thanked him (D) for his help.",
+      "options": {
+        "A": "discussed about",
+        "B": "agreed on",
+        "C": "thanked him",
+        "D": "for his help"
+      },
+      "answer": "A",
+      "explain": "discuss là ngoại động từ, KHÔNG có giới từ: discuss the plan (nhưng talk about the plan)."
+    },
+    {
+      "no": 2,
+      "code": "G18",
+      "q": "Chọn câu ĐÚNG:",
+      "options": {
+        "A": "She married with a doctor last year.",
+        "B": "She married a doctor last year.",
+        "C": "He entered into the room quietly.",
+        "D": "Please answer to my question."
+      },
+      "answer": "B",
+      "explain": "marry, enter, answer đi thẳng với tân ngữ, không có giới từ. Lưu ý: be married TO sb."
+    },
+    {
+      "no": 3,
+      "code": "G18",
+      "q": "I'm looking forward ___ you next week.",
+      "options": {
+        "A": "to see",
+        "B": "for seeing",
+        "C": "seeing",
+        "D": "to seeing"
+      },
+      "answer": "D",
+      "explain": "look forward to: to là GIỚI TỪ nên theo sau là V-ing."
+    },
+    {
+      "no": 4,
+      "code": "G18",
+      "q": "She insisted ___ paying for dinner.",
+      "options": {
+        "A": "on",
+        "B": "to",
+        "C": "in",
+        "D": "for"
+      },
+      "answer": "A",
+      "explain": "insist on + V-ing = khăng khăng đòi làm gì."
+    },
+    {
+      "no": 5,
+      "code": "G18",
+      "q": "The new tax will result ___ higher prices.",
+      "options": {
+        "A": "from",
+        "B": "to",
+        "C": "in",
+        "D": "of"
+      },
+      "answer": "C",
+      "explain": "result IN = dẫn đến (kết quả). result FROM = bắt nguồn từ (nguyên nhân)."
+    },
+    {
+      "no": 6,
+      "code": "G18",
+      "q": "Many health problems result ___ a lack of sleep.",
+      "options": {
+        "A": "in",
+        "B": "of",
+        "C": "by",
+        "D": "from"
+      },
+      "answer": "D",
+      "explain": "result FROM + nguyên nhân. Mẹo: A results in B = B results from A."
+    },
+    {
+      "no": 7,
+      "code": "G18",
+      "q": "Chọn câu ĐÚNG (chú ý to là giới từ):",
+      "options": {
+        "A": "He objected to working at weekends.",
+        "B": "He objected to work at weekends.",
+        "C": "He is used to work at weekends.",
+        "D": "He is capable to work at weekends."
+      },
+      "answer": "A",
+      "explain": "object to / be used to: to là giới từ → V-ing. capable đi với of + V-ing."
+    },
+    {
+      "no": 8,
+      "code": "G18",
+      "q": "My parents congratulated me ___ passing the exam.",
+      "options": {
+        "A": "for",
+        "B": "about",
+        "C": "on",
+        "D": "with"
+      },
+      "answer": "C",
+      "explain": "congratulate sb ON sth / V-ing = chúc mừng ai về việc gì."
+    },
+    {
+      "no": 9,
+      "code": "G18",
+      "q": "The teacher divided the class ___ three groups.",
+      "options": {
+        "A": "in",
+        "B": "to",
+        "C": "by",
+        "D": "into"
+      },
+      "answer": "D",
+      "explain": "divide/split sth INTO + số phần; tương tự translate into, turn into."
+    },
+    {
+      "no": 10,
+      "code": "G18",
+      "q": "Tìm lỗi sai: She (A) mentioned (B) about the problem when we (C) contacted (D) the client.",
+      "options": {
+        "A": "mentioned",
+        "B": "about",
+        "C": "contacted",
+        "D": "the client"
+      },
+      "answer": "B",
+      "explain": "mention sth (không giới từ). contact sb cũng không giới từ."
+    }
+  ]
+}
