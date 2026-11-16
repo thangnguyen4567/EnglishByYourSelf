@@ -201,3 +201,19 @@
   font-size: 0.88rem;
   cursor: pointer;
 }
+
+.locked {
+  opacity: 0.55;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.lockedRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.7rem;
+  font-size: 0.9rem;
+  cursor: not-allowed;
+}
+

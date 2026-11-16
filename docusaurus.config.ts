@@ -1,4 +1,4 @@
-import { themes as prismThemes } from 'prism-react-renderer';
+﻿import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import lessonIndex from './plugins/lesson-index';
@@ -105,6 +105,7 @@ const config: Config = {
       },
       items: [
         { to: '/docs/lo-trinh-2-thang', label: '📅 Lộ trình', position: 'left' },
+        { to: '/tong-quan', label: '📊 Tiến độ', position: 'left' },
         { to: '/docs/ngu-phap', label: 'Ngữ pháp', position: 'left', activeBasePath: 'docs/ngu-phap' },
         { to: '/docs/bai-kiem-tra', label: 'Kiểm tra', position: 'left', activeBasePath: 'docs/bai-kiem-tra' },
         { to: '/docs/tra-cuu/loi-thuong-gap', label: 'Tra cứu', position: 'left', activeBasePath: 'docs/tra-cuu' },
@@ -157,3 +158,4 @@ prism: {
 };
 
 export default config;
+
