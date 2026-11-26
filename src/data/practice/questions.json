@@ -1,0 +1,788 @@
+{
+  "easy": [
+    {
+      "no": 1,
+      "code": "G25",
+      "q": "___ you a student?",
+      "options": {
+        "A": "Are",
+        "B": "Do",
+        "C": "Does",
+        "D": "Is"
+      },
+      "answer": "A",
+      "explain": "Câu có 'be' → đảo 'be' lên trước chủ ngữ: Are you…? Không dùng do với be."
+    },
+    {
+      "no": 2,
+      "code": "G25",
+      "q": "___ she speak French?",
+      "options": {
+        "A": "Do",
+        "B": "Is",
+        "C": "Does",
+        "D": "Has"
+      },
+      "answer": "C",
+      "explain": "Động từ thường, hiện tại đơn, chủ ngữ ngôi 3 số ít → Does she speak…?"
+    },
+    {
+      "no": 3,
+      "code": "G25",
+      "q": "Did you ___ the news yesterday?",
+      "options": {
+        "A": "watched",
+        "B": "watching",
+        "C": "watches",
+        "D": "watch"
+      },
+      "answer": "D",
+      "explain": "Sau did, động từ chính về nguyên mẫu: Did you watch…? (thì chỉ đánh dấu một lần)."
+    },
+    {
+      "no": 4,
+      "code": "G25",
+      "q": "___ do you live? – In Da Nang.",
+      "options": {
+        "A": "When",
+        "B": "Where",
+        "C": "What",
+        "D": "Who"
+      },
+      "answer": "B",
+      "explain": "Câu trả lời là nơi chốn → Where."
+    },
+    {
+      "no": 5,
+      "code": "G25",
+      "q": "Can you swim? – Yes, I ___.",
+      "options": {
+        "A": "do",
+        "B": "am",
+        "C": "swim",
+        "D": "can"
+      },
+      "answer": "D",
+      "explain": "Câu trả lời ngắn lặp lại trợ động từ của câu hỏi: Can → Yes, I can."
+    },
+    {
+      "no": 6,
+      "code": "G25",
+      "q": "Are you hungry? – Yes, ___.",
+      "options": {
+        "A": "I am",
+        "B": "I'm",
+        "C": "I do",
+        "D": "I'm hungry not"
+      },
+      "answer": "A",
+      "explain": "Trả lời ngắn khẳng định không viết tắt: Yes, I am (không nói 'Yes, I'm')."
+    },
+    {
+      "no": 7,
+      "code": "G25",
+      "q": "___ brothers and sisters do you have?",
+      "options": {
+        "A": "How much",
+        "B": "How many",
+        "C": "How long",
+        "D": "How often"
+      },
+      "answer": "B",
+      "explain": "brothers and sisters là danh từ đếm được số nhiều → How many."
+    },
+    {
+      "no": 8,
+      "code": "G25",
+      "q": "___ is this umbrella? – It's Minh's.",
+      "options": {
+        "A": "Who",
+        "B": "Whom",
+        "C": "Whose",
+        "D": "Which"
+      },
+      "answer": "C",
+      "explain": "Hỏi sở hữu → Whose (umbrella)."
+    },
+    {
+      "no": 9,
+      "code": "G25",
+      "q": "What ___ they doing now?",
+      "options": {
+        "A": "do",
+        "B": "are",
+        "C": "does",
+        "D": "is"
+      },
+      "answer": "B",
+      "explain": "Hiện tại tiếp diễn, chủ ngữ they → What are they doing?"
+    },
+    {
+      "no": 10,
+      "code": "G25",
+      "q": "___ do you go to the gym? – Three times a week.",
+      "options": {
+        "A": "How much",
+        "B": "How long",
+        "C": "When",
+        "D": "How often"
+      },
+      "answer": "D",
+      "explain": "Câu trả lời là tần suất → How often."
+    },
+    {
+      "no": 11,
+      "code": "G25",
+      "q": "___ your parents at home now?",
+      "options": {
+        "A": "Do",
+        "B": "Is",
+        "C": "Are",
+        "D": "Does"
+      },
+      "answer": "C",
+      "explain": "Không có động từ thường, chỉ có 'be' + nơi chốn; chủ ngữ số nhiều → Are your parents…?"
+    },
+    {
+      "no": 12,
+      "code": "G25",
+      "q": "Where ___ your brother work?",
+      "options": {
+        "A": "does",
+        "B": "do",
+        "C": "is",
+        "D": "are"
+      },
+      "answer": "A",
+      "explain": "work là động từ thường, chủ ngữ 'your brother' = he → does."
+    },
+    {
+      "no": 13,
+      "code": "G25",
+      "q": "___ you finish your homework last night?",
+      "options": {
+        "A": "Have",
+        "B": "Do",
+        "C": "Were",
+        "D": "Did"
+      },
+      "answer": "D",
+      "explain": "Quá khứ đơn (last night) + động từ thường finish → Did you finish…?"
+    },
+    {
+      "no": 14,
+      "code": "G25",
+      "q": "___ it rain tomorrow?",
+      "options": {
+        "A": "Does",
+        "B": "Will",
+        "C": "Do",
+        "D": "Is"
+      },
+      "answer": "B",
+      "explain": "Tương lai (tomorrow) → Will it rain? Sau will là động từ nguyên mẫu."
+    },
+    {
+      "no": 15,
+      "code": "G25",
+      "q": "Does he play the guitar? – No, he ___.",
+      "options": {
+        "A": "doesn't",
+        "B": "isn't",
+        "C": "don't",
+        "D": "not"
+      },
+      "answer": "A",
+      "explain": "Câu hỏi dùng Does → trả lời ngắn: No, he doesn't."
+    },
+    {
+      "no": 16,
+      "code": "G25",
+      "q": "___ is your birthday? – In May.",
+      "options": {
+        "A": "Where",
+        "B": "What",
+        "C": "When",
+        "D": "Which"
+      },
+      "answer": "C",
+      "explain": "Câu trả lời là thời gian → When."
+    },
+    {
+      "no": 17,
+      "code": "G25",
+      "q": "___ do you feel today? – Much better, thanks.",
+      "options": {
+        "A": "How",
+        "B": "What",
+        "C": "Why",
+        "D": "Who"
+      },
+      "answer": "A",
+      "explain": "Hỏi tình trạng, cảm giác → How."
+    },
+    {
+      "no": 18,
+      "code": "G25",
+      "q": "___ is this jacket? – 500,000 dong.",
+      "options": {
+        "A": "How many",
+        "B": "How long",
+        "C": "How much",
+        "D": "What"
+      },
+      "answer": "C",
+      "explain": "Hỏi giá tiền → How much is…?"
+    },
+    {
+      "no": 19,
+      "code": "G25",
+      "q": "___ you tired after the trip?",
+      "options": {
+        "A": "Do",
+        "B": "Have",
+        "C": "Does",
+        "D": "Are"
+      },
+      "answer": "D",
+      "explain": "tired là tính từ, không phải động từ hành động → dùng be: Are you tired? (không 'Do you tired')."
+    },
+    {
+      "no": 20,
+      "code": "G25",
+      "q": "Why ___ you late this morning?",
+      "options": {
+        "A": "did",
+        "B": "were",
+        "C": "was",
+        "D": "do"
+      },
+      "answer": "B",
+      "explain": "late là tính từ → dùng be; quá khứ, chủ ngữ you → were."
+    }
+  ],
+  "normal": [
+    {
+      "no": 21,
+      "code": "G25",
+      "q": "Who ___ the window? – Tom broke it.",
+      "options": {
+        "A": "did break",
+        "B": "breaks",
+        "C": "did broke",
+        "D": "broke"
+      },
+      "answer": "D",
+      "explain": "Hỏi chủ ngữ (Tom) → không dùng did, động từ chia như câu kể: Who broke…?"
+    },
+    {
+      "no": 22,
+      "code": "G25",
+      "q": "Who ___ at the party? – I met Lan.",
+      "options": {
+        "A": "did you meet",
+        "B": "you met",
+        "C": "met you",
+        "D": "did you met"
+      },
+      "answer": "A",
+      "explain": "Hỏi tân ngữ (Lan) → đảo trợ động từ: Who did you meet? Sau did dùng nguyên mẫu."
+    },
+    {
+      "no": 23,
+      "code": "G25",
+      "q": "Who are you waiting ___?",
+      "options": {
+        "A": "(không cần từ)",
+        "B": "for",
+        "C": "to",
+        "D": "at"
+      },
+      "answer": "B",
+      "explain": "wait for sb → giới từ đứng cuối câu hỏi: Who are you waiting for?"
+    },
+    {
+      "no": 24,
+      "code": "G25",
+      "q": "Chọn câu hỏi đúng cho phần gạch chân: 'They have lived here FOR TEN YEARS.'",
+      "options": {
+        "A": "How long they have lived here?",
+        "B": "How long did they live here?",
+        "C": "How long have they lived here?",
+        "D": "How many years they lived here?"
+      },
+      "answer": "C",
+      "explain": "Câu gốc có trợ động từ have (HTHT) → How long + have + they + lived…?"
+    },
+    {
+      "no": 25,
+      "code": "G25",
+      "q": "Chọn câu hỏi đúng cho phần gạch chân: 'She goes to work BY MOTORBIKE.'",
+      "options": {
+        "A": "How she goes to work?",
+        "B": "How does she go to work?",
+        "C": "How does she goes to work?",
+        "D": "What does she go to work?"
+      },
+      "answer": "B",
+      "explain": "Cách thức → How; HTĐ, she → does; động từ về nguyên mẫu go."
+    },
+    {
+      "no": 26,
+      "code": "G25",
+      "q": "___ music do you like? – Mostly jazz.",
+      "options": {
+        "A": "Who",
+        "B": "How",
+        "C": "Which of",
+        "D": "What kind of"
+      },
+      "answer": "D",
+      "explain": "Từ để hỏi + danh từ giữ cả cụm ở đầu câu: What kind of music do you like?"
+    },
+    {
+      "no": 27,
+      "code": "G25",
+      "q": "___ is the post office from here? – About 2 km.",
+      "options": {
+        "A": "How long",
+        "B": "How much",
+        "C": "How far",
+        "D": "Where"
+      },
+      "answer": "C",
+      "explain": "Hỏi khoảng cách → How far."
+    },
+    {
+      "no": 28,
+      "code": "G25",
+      "q": "___ do you prefer, the red one or the blue one?",
+      "options": {
+        "A": "Which",
+        "B": "Who",
+        "C": "What",
+        "D": "How"
+      },
+      "answer": "A",
+      "explain": "Lựa chọn trong nhóm giới hạn, đã biết (red / blue) → Which."
+    },
+    {
+      "no": 29,
+      "code": "G25",
+      "q": "___ there any milk in the fridge?",
+      "options": {
+        "A": "Are",
+        "B": "Does",
+        "C": "Has",
+        "D": "Is"
+      },
+      "answer": "D",
+      "explain": "milk không đếm được → there is → câu hỏi: Is there any milk…?"
+    },
+    {
+      "no": 30,
+      "code": "G25",
+      "q": "Chọn câu hỏi đúng cho phần gạch chân: 'THREE PEOPLE were injured in the accident.'",
+      "options": {
+        "A": "How many people did injure in the accident?",
+        "B": "How many people were injured in the accident?",
+        "C": "How many people were they injured in the accident?",
+        "D": "How much people were injured in the accident?"
+      },
+      "answer": "B",
+      "explain": "Phần gạch chân là chủ ngữ → thay bằng How many people, giữ nguyên phần còn lại."
+    },
+    {
+      "no": 31,
+      "code": "G25",
+      "q": "What ___ you do last weekend?",
+      "options": {
+        "A": "did",
+        "B": "do",
+        "C": "were",
+        "D": "have"
+      },
+      "answer": "A",
+      "explain": "Quá khứ (last weekend), do là động từ thường → What did you do?"
+    },
+    {
+      "no": 32,
+      "code": "G25",
+      "q": "Who ___ in the flat next to yours?",
+      "options": {
+        "A": "do live",
+        "B": "does live",
+        "C": "lives",
+        "D": "is live"
+      },
+      "answer": "C",
+      "explain": "Who là chủ ngữ → câu hỏi chủ ngữ, động từ chia ngôi 3 số ít: Who lives…?"
+    },
+    {
+      "no": 33,
+      "code": "G25",
+      "q": "What are you looking ___? – A photo of my grandparents.",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "on",
+        "D": "to"
+      },
+      "answer": "A",
+      "explain": "look at sth = nhìn vào → What are you looking at?"
+    },
+    {
+      "no": 34,
+      "code": "G25",
+      "q": "Where does your new classmate come ___?",
+      "options": {
+        "A": "to",
+        "B": "in",
+        "C": "from",
+        "D": "(không cần từ)"
+      },
+      "answer": "C",
+      "explain": "come from = đến từ → giới từ from đứng cuối câu hỏi."
+    },
+    {
+      "no": 35,
+      "code": "G25",
+      "q": "Chọn câu hỏi đúng cho phần gạch chân: 'I bought THREE books yesterday.'",
+      "options": {
+        "A": "How many books you bought yesterday?",
+        "B": "How many did you buy books yesterday?",
+        "C": "How much books did you buy yesterday?",
+        "D": "How many books did you buy yesterday?"
+      },
+      "answer": "D",
+      "explain": "Số lượng, danh từ đếm được → How many books (giữ cả cụm); QKĐ → did + buy; I → you."
+    },
+    {
+      "no": 36,
+      "code": "G25",
+      "q": "Chọn câu hỏi đúng cho phần gạch chân: 'This is MY SISTER'S car.'",
+      "options": {
+        "A": "Who car is this?",
+        "B": "Whose car is this?",
+        "C": "Whose is this car of?",
+        "D": "Whom car is this?"
+      },
+      "answer": "B",
+      "explain": "Hỏi sở hữu → Whose + danh từ: Whose car is this?"
+    },
+    {
+      "no": 37,
+      "code": "G25",
+      "q": "___ have you been waiting? – For about 20 minutes.",
+      "options": {
+        "A": "What time",
+        "B": "How often",
+        "C": "When",
+        "D": "How long"
+      },
+      "answer": "D",
+      "explain": "Câu trả lời là khoảng thời gian (for 20 minutes) → How long."
+    },
+    {
+      "no": 38,
+      "code": "G25",
+      "q": "Would you like tea or coffee? – ___",
+      "options": {
+        "A": "Coffee, please.",
+        "B": "Yes, I would.",
+        "C": "Yes, please.",
+        "D": "No, I wouldn't."
+      },
+      "answer": "A",
+      "explain": "Câu hỏi lựa chọn (A or B, xuống giọng ở B) → trả lời bằng phương án, không trả lời Yes/No."
+    },
+    {
+      "no": 39,
+      "code": "G25",
+      "q": "___ time does the last train leave?",
+      "options": {
+        "A": "When",
+        "B": "What",
+        "C": "Which",
+        "D": "How"
+      },
+      "answer": "B",
+      "explain": "Hỏi giờ cụ thể → What time."
+    },
+    {
+      "no": 40,
+      "code": "G25",
+      "q": "Chọn câu đúng:",
+      "options": {
+        "A": "Is there any students in the room?",
+        "B": "Do there any students in the room?",
+        "C": "Are there any students in the room?",
+        "D": "Are any students there in the room are?"
+      },
+      "answer": "C",
+      "explain": "students số nhiều → there are → Are there any students…?"
+    }
+  ],
+  "hard": [
+    {
+      "no": 41,
+      "code": "G25",
+      "q": "'Didn't you go to the meeting?' – (Bạn CÓ đi.) Trả lời đúng là:",
+      "options": {
+        "A": "No, I did.",
+        "B": "Yes, I did.",
+        "C": "Yes, I didn't.",
+        "D": "No, I didn't."
+      },
+      "answer": "B",
+      "explain": "Câu hỏi phủ định trả lời theo sự thật: có đi → Yes, I did."
+    },
+    {
+      "no": 42,
+      "code": "G25",
+      "q": "How come ___ so late last night?",
+      "options": {
+        "A": "did you get home",
+        "B": "got you home",
+        "C": "you did get home",
+        "D": "you got home"
+      },
+      "answer": "D",
+      "explain": "How come + trật tự câu kể (không đảo, không did): How come you got home so late?"
+    },
+    {
+      "no": 43,
+      "code": "G25",
+      "q": "Would you mind ___ the music down?",
+      "options": {
+        "A": "to turn",
+        "B": "turn",
+        "C": "turning",
+        "D": "turned"
+      },
+      "answer": "C",
+      "explain": "mind + V-ing → Would you mind turning…?"
+    },
+    {
+      "no": 44,
+      "code": "G25",
+      "q": "'Would you mind closing the door?' – Bạn đồng ý đóng cửa. Trả lời đúng:",
+      "options": {
+        "A": "No, not at all.",
+        "B": "Yes, I mind.",
+        "C": "Yes, I would.",
+        "D": "No, I wouldn't close it."
+      },
+      "answer": "A",
+      "explain": "mind = phiền → 'No, not at all' (không phiền) mới là đồng ý."
+    },
+    {
+      "no": 45,
+      "code": "G25",
+      "q": "'What's your new teacher like?' hỏi về:",
+      "options": {
+        "A": "Cô giáo thích gì",
+        "B": "Cô giáo muốn gì",
+        "C": "Cô giáo trông giống ai",
+        "D": "Cô giáo là người như thế nào"
+      },
+      "answer": "D",
+      "explain": "What is sb like? = người đó như thế nào (tính cách, đặc điểm). 'What does she like?' mới là 'thích gì'."
+    },
+    {
+      "no": 46,
+      "code": "G25",
+      "q": "Câu hỏi đúng của 'She has been studying English for two years' là:",
+      "options": {
+        "A": "Has been she studying English for two years?",
+        "B": "Has she been studying English for two years?",
+        "C": "Does she has been studying English for two years?",
+        "D": "Is she been studying English for two years?"
+      },
+      "answer": "B",
+      "explain": "Nhiều trợ động từ → chỉ đưa trợ động từ đầu tiên (has) lên trước chủ ngữ."
+    },
+    {
+      "no": 47,
+      "code": "G25",
+      "q": "Tìm câu SAI:",
+      "options": {
+        "A": "What did happen at the meeting?",
+        "B": "Who did you talk to?",
+        "C": "What happened to your car?",
+        "D": "Who lives next door?"
+      },
+      "answer": "A",
+      "explain": "What là chủ ngữ của happen → câu hỏi chủ ngữ, không dùng did: What happened at the meeting?"
+    },
+    {
+      "no": 48,
+      "code": "G25",
+      "q": "Chọn câu trang trọng và đúng ngữ pháp:",
+      "options": {
+        "A": "To whom did you send the letter to?",
+        "B": "To who did you send the letter?",
+        "C": "To whom did you send the letter?",
+        "D": "Whom did you send the letter?"
+      },
+      "answer": "C",
+      "explain": "Giới từ đứng đầu + whom, và không lặp giới từ ở cuối câu."
+    },
+    {
+      "no": 49,
+      "code": "G25",
+      "q": "Tìm câu SAI:",
+      "options": {
+        "A": "Did you used to live in Hanoi?",
+        "B": "Do you have a pen?",
+        "C": "Have you got a pen?",
+        "D": "Did you use to live in Hanoi?"
+      },
+      "answer": "A",
+      "explain": "Sau did, động từ về nguyên mẫu: Did you use to…? (không 'used')."
+    },
+    {
+      "no": 50,
+      "code": "G25",
+      "q": "Tìm câu SAI:",
+      "options": {
+        "A": "Can you tell me where the nearest ATM is?",
+        "B": "What if it rains tomorrow?",
+        "C": "Could you tell me what time does the bank open?",
+        "D": "Where does your sister work?"
+      },
+      "answer": "C",
+      "explain": "Câu hỏi gián tiếp dùng trật tự câu kể, bỏ does: …what time the bank opens?"
+    },
+    {
+      "no": 51,
+      "code": "G25",
+      "q": "'Haven't you finished your report yet?' – (Bạn CHƯA xong.) Trả lời đúng là:",
+      "options": {
+        "A": "Yes, I haven't.",
+        "B": "No, I have.",
+        "C": "Yes, I have.",
+        "D": "No, I haven't."
+      },
+      "answer": "D",
+      "explain": "Trả lời theo sự thật: chưa xong → No, I haven't (tiếng Việt nói 'Ừ, chưa' nhưng tiếng Anh không dùng Yes)."
+    },
+    {
+      "no": 52,
+      "code": "G25",
+      "q": "Tìm câu SAI:",
+      "options": {
+        "A": "How come you didn't call me?",
+        "B": "How come didn't you call me?",
+        "C": "Why didn't you call me?",
+        "D": "What if he doesn't call?"
+      },
+      "answer": "B",
+      "explain": "How come không đảo trợ động từ: How come you didn't call me?"
+    },
+    {
+      "no": 53,
+      "code": "G25",
+      "q": "Do you mind if I ___ the window?",
+      "options": {
+        "A": "opening",
+        "B": "to open",
+        "C": "will open",
+        "D": "open"
+      },
+      "answer": "D",
+      "explain": "Do you mind if + S + V hiện tại đơn: Do you mind if I open…? (Would you mind if I opened… với quá khứ)."
+    },
+    {
+      "no": 54,
+      "code": "G25",
+      "q": "'What does your brother look like?' – Câu trả lời phù hợp:",
+      "options": {
+        "A": "He's tall with short black hair.",
+        "B": "He likes football.",
+        "C": "He's an engineer.",
+        "D": "He's fine, thanks."
+      },
+      "answer": "A",
+      "explain": "What does sb look like? hỏi về ngoại hình."
+    },
+    {
+      "no": 55,
+      "code": "G25",
+      "q": "Câu hỏi đúng của 'The bridge will have been completed by June' là:",
+      "options": {
+        "A": "Will have the bridge been completed by June?",
+        "B": "Will the bridge have been completed by June?",
+        "C": "Will the bridge has been completed by June?",
+        "D": "Does the bridge will have been completed by June?"
+      },
+      "answer": "B",
+      "explain": "Chỉ đưa trợ động từ đầu tiên (will) lên trước; 'have been completed' giữ nguyên sau chủ ngữ."
+    },
+    {
+      "no": 56,
+      "code": "G25",
+      "q": "Who ___ you this book? – My uncle gave it to me.",
+      "options": {
+        "A": "did give",
+        "B": "did gave",
+        "C": "gave",
+        "D": "does give"
+      },
+      "answer": "C",
+      "explain": "Who thay cho chủ ngữ 'my uncle' → câu hỏi chủ ngữ: Who gave you this book?"
+    },
+    {
+      "no": 57,
+      "code": "G25",
+      "q": "Tìm câu SAI:",
+      "options": {
+        "A": "What kind of films do you like?",
+        "B": "How many money do you need?",
+        "C": "Which of these bags is yours?",
+        "D": "Whose turn is it?"
+      },
+      "answer": "B",
+      "explain": "money không đếm được → How much money do you need?"
+    },
+    {
+      "no": 58,
+      "code": "G25",
+      "q": "Cách nhờ giúp đỡ LỊCH SỰ NHẤT với người lạ là:",
+      "options": {
+        "A": "Help me, please.",
+        "B": "Can you help me?",
+        "C": "Will you help me?",
+        "D": "I was wondering if you could help me."
+      },
+      "answer": "D",
+      "explain": "Câu càng dài và gián tiếp càng lịch sự; 'I was wondering if you could…' ở mức trang trọng."
+    },
+    {
+      "no": 59,
+      "code": "G25",
+      "q": "Who did she go to the cinema ___? – With her cousin.",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "with",
+        "D": "(không cần từ)"
+      },
+      "answer": "C",
+      "explain": "go with sb → giới từ with đứng cuối câu hỏi: Who did she go to the cinema with?"
+    },
+    {
+      "no": 60,
+      "code": "G25",
+      "q": "Tìm câu SAI:",
+      "options": {
+        "A": "Does she has a car?",
+        "B": "Have you got a car?",
+        "C": "Do you have a car?",
+        "D": "Did she have a car?"
+      },
+      "answer": "A",
+      "explain": "Sau does dùng nguyên mẫu have: Does she have a car? (thì chỉ đánh dấu một lần)."
+    }
+  ]
+}
