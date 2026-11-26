@@ -1,0 +1,1685 @@
+{
+ "easy": [
+  {
+   "no": 1,
+   "code": "S5",
+   "q": "'relentless' (adj) nghĩa là gì?",
+   "options": {
+    "A": "hào phóng, rộng rãi",
+    "B": "trong nước, nội địa; (thuộc) gia đình",
+    "C": "không ngừng nghỉ, bền bỉ, không buông",
+    "D": "mở, không có đáp án cố định"
+   },
+   "answer": "C",
+   "explain": "relentless (adj) = không ngừng nghỉ, bền bỉ, không buông. Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 2,
+   "code": "S1",
+   "q": "'stale' (adj) nghĩa là gì?",
+   "options": {
+    "A": "ở xa nhất, ngoài cùng",
+    "B": "cũ, lỗi thời (dữ liệu chưa được cập nhật)",
+    "C": "cong queo, xiêu vẹo",
+    "D": "bắt buộc"
+   },
+   "answer": "B",
+   "explain": "stale (adj) = cũ, lỗi thời (dữ liệu chưa được cập nhật). Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 3,
+   "code": "S3",
+   "q": "'streak' (n) nghĩa là gì?",
+   "options": {
+    "A": "vệt, sọc",
+    "B": "trực giác",
+    "C": "chuyến tham quan, dã ngoại",
+    "D": "sự cô lập, tách biệt"
+   },
+   "answer": "A",
+   "explain": "streak (n) = vệt, sọc. Xem lại trong câu chuyện 3."
+  },
+  {
+   "no": 4,
+   "code": "S5",
+   "q": "'take after' (phr. v) nghĩa là gì?",
+   "options": {
+    "A": "thật sự, thật lòng",
+    "B": "đều, đồng đều",
+    "C": "tuy nhiên, dù vậy",
+    "D": "giống (bố mẹ, người thân)"
+   },
+   "answer": "D",
+   "explain": "take after (phr. v) = giống (bố mẹ, người thân). Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 5,
+   "code": "S7",
+   "q": "'backslide' (v) nghĩa là gì?",
+   "options": {
+    "A": "truyền đạt, chuyển tải",
+    "B": "tăng vọt đột ngột",
+    "C": "tái phạm, quay lại thói cũ",
+    "D": "thả neo"
+   },
+   "answer": "C",
+   "explain": "backslide (v) = tái phạm, quay lại thói cũ. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 6,
+   "code": "S2",
+   "q": "'rigid' (adj) nghĩa là gì?",
+   "options": {
+    "A": "cứng nhắc",
+    "B": "cơ bản, nền tảng, cốt lõi",
+    "C": "trong nước, nội địa; (thuộc) gia đình",
+    "D": "bắt buộc"
+   },
+   "answer": "A",
+   "explain": "rigid (adj) = cứng nhắc. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 7,
+   "code": "S5",
+   "q": "'elementary' (adj) nghĩa là gì?",
+   "options": {
+    "A": "cứng nhắc",
+    "B": "hào phóng, rộng rãi",
+    "C": "sơ đẳng, ở mức nhập môn",
+    "D": "mơ hồ, hiểu được nhiều nghĩa"
+   },
+   "answer": "C",
+   "explain": "elementary (adj) = sơ đẳng, ở mức nhập môn. Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 8,
+   "code": "S3",
+   "q": "'excursion' (n) nghĩa là gì?",
+   "options": {
+    "A": "chuyến tham quan, dã ngoại",
+    "B": "Giáo hoàng",
+    "C": "(fault tolerance) khả năng chịu lỗi",
+    "D": "sầu riêng"
+   },
+   "answer": "A",
+   "explain": "excursion (n) = chuyến tham quan, dã ngoại. Xem lại trong câu chuyện 3."
+  },
+  {
+   "no": 9,
+   "code": "S5",
+   "q": "'get along with' (phr. v) nghĩa là gì?",
+   "options": {
+    "A": "ví dụ như",
+    "B": "quá hăng say, bị cuốn theo",
+    "C": "thật sự, thật lòng",
+    "D": "hợp với, hoà thuận với ai"
+   },
+   "answer": "D",
+   "explain": "get along with (phr. v) = hợp với, hoà thuận với ai. Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 10,
+   "code": "S3",
+   "q": "'amble' (v) nghĩa là gì?",
+   "options": {
+    "A": "đi thong thả",
+    "B": "tuân thủ (adhere to)",
+    "C": "tái phạm, quay lại thói cũ",
+    "D": "sải bước"
+   },
+   "answer": "A",
+   "explain": "amble (v) = đi thong thả. Xem lại trong câu chuyện 3."
+  },
+  {
+   "no": 11,
+   "code": "S2",
+   "q": "'for instance' (phrase) nghĩa là gì?",
+   "options": {
+    "A": "hầu như không, vừa đủ",
+    "B": "thích, quý mến",
+    "C": "ví dụ như",
+    "D": "qua lại, tới lui"
+   },
+   "answer": "C",
+   "explain": "for instance (phrase) = ví dụ như. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 12,
+   "code": "S5",
+   "q": "'consultant' (n) nghĩa là gì?",
+   "options": {
+    "A": "cơ chế dự phòng, sự dư thừa",
+    "B": "đợt triển khai, ra mắt (sản phẩm, tính năng)",
+    "C": "chuyên gia tư vấn",
+    "D": "sầu riêng"
+   },
+   "answer": "C",
+   "explain": "consultant (n) = chuyên gia tư vấn. Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 13,
+   "code": "S1",
+   "q": "'recap' (n) nghĩa là gì?",
+   "options": {
+    "A": "sự đầu tư",
+    "B": "sự cố, vụ việc",
+    "C": "phần tóm tắt lại",
+    "D": "nỗ lực, việc khó cần cố gắng"
+   },
+   "answer": "C",
+   "explain": "recap (n) = phần tóm tắt lại. Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 14,
+   "code": "S6",
+   "q": "'durian' (n) nghĩa là gì?",
+   "options": {
+    "A": "sầu riêng",
+    "B": "sự xao nhãng, thứ làm phân tâm",
+    "C": "sống núi, dải đồi",
+    "D": "phần tóm tắt lại"
+   },
+   "answer": "A",
+   "explain": "durian (n) = sầu riêng. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 15,
+   "code": "S3",
+   "q": "'stride (strode)' (v) nghĩa là gì?",
+   "options": {
+    "A": "cứu vãn, cứu được (thứ sắp hỏng)",
+    "B": "sải bước",
+    "C": "lường trước, dự đoán trước",
+    "D": "điều tra, tìm hiểu kỹ"
+   },
+   "answer": "B",
+   "explain": "stride (strode) (v) = sải bước. Xem lại trong câu chuyện 3."
+  },
+  {
+   "no": 16,
+   "code": "S6",
+   "q": "'crouch' (v) nghĩa là gì?",
+   "options": {
+    "A": "bổ sung, làm tôn lên",
+    "B": "ngồi xổm, cúi khom người",
+    "C": "giảm nhẹ, giảm thiểu",
+    "D": "kêu cót két, kêu chít chít"
+   },
+   "answer": "B",
+   "explain": "crouch (v) = ngồi xổm, cúi khom người. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 17,
+   "code": "S6",
+   "q": "'manifest' (adj) nghĩa là gì?",
+   "options": {
+    "A": "rõ ràng, hiển nhiên",
+    "B": "kinh ngạc",
+    "C": "theo trình tự thời gian",
+    "D": "bền vững"
+   },
+   "answer": "A",
+   "explain": "manifest (adj) = rõ ràng, hiển nhiên. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 18,
+   "code": "S7",
+   "q": "'disguise' (v) nghĩa là gì?",
+   "options": {
+    "A": "thả neo",
+    "B": "truyền đạt, chuyển tải",
+    "C": "cải trang, ngụy trang",
+    "D": "đi thong thả"
+   },
+   "answer": "C",
+   "explain": "disguise (v) = cải trang, ngụy trang. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 19,
+   "code": "S1",
+   "q": "'outage' (n) nghĩa là gì?",
+   "options": {
+    "A": "sống núi, dải đồi",
+    "B": "(fault tolerance) khả năng chịu lỗi",
+    "C": "sự đầu tư",
+    "D": "sự cố ngừng hoạt động (mất điện, sập hệ thống)"
+   },
+   "answer": "D",
+   "explain": "outage (n) = sự cố ngừng hoạt động (mất điện, sập hệ thống). Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 20,
+   "code": "S7",
+   "q": "'rive (riven)' (v) nghĩa là gì?",
+   "options": {
+    "A": "sải bước",
+    "B": "xé toạc, chia rẽ",
+    "C": "ngồi xổm, cúi khom người",
+    "D": "đi thong thả"
+   },
+   "answer": "B",
+   "explain": "rive (riven) (v) = xé toạc, chia rẽ. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 21,
+   "code": "S7",
+   "q": "'Pope' (n) nghĩa là gì?",
+   "options": {
+    "A": "sự can thiệp",
+    "B": "đại dịch",
+    "C": "sự hoảng loạn",
+    "D": "Giáo hoàng"
+   },
+   "answer": "D",
+   "explain": "Pope (n) = Giáo hoàng. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 22,
+   "code": "S6",
+   "q": "'be fond of' (phrase) nghĩa là gì?",
+   "options": {
+    "A": "thích, quý mến",
+    "B": "giống (bố mẹ, người thân)",
+    "C": "thật sự, thật lòng",
+    "D": "quá hăng say, bị cuốn theo"
+   },
+   "answer": "A",
+   "explain": "be fond of (phrase) = thích, quý mến. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 23,
+   "code": "S1",
+   "q": "'redundancy' (n) nghĩa là gì?",
+   "options": {
+    "A": "cơ chế dự phòng, sự dư thừa",
+    "B": "sự đầu tư",
+    "C": "nỗ lực, việc khó cần cố gắng",
+    "D": "phiên dịch viên"
+   },
+   "answer": "A",
+   "explain": "redundancy (n) = cơ chế dự phòng, sự dư thừa. Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 24,
+   "code": "S1",
+   "q": "'isolation' (n) nghĩa là gì?",
+   "options": {
+    "A": "chuyến tham quan, dã ngoại",
+    "B": "sự cô lập, tách biệt",
+    "C": "phần tóm tắt lại",
+    "D": "sự xao nhãng, thứ làm phân tâm"
+   },
+   "answer": "B",
+   "explain": "isolation (n) = sự cô lập, tách biệt. Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 25,
+   "code": "S6",
+   "q": "'roast' (v) nghĩa là gì?",
+   "options": {
+    "A": "sụp đổ",
+    "B": "lật đổ",
+    "C": "truyền đạt, chuyển tải",
+    "D": "quay, nướng (thịt)"
+   },
+   "answer": "D",
+   "explain": "roast (v) = quay, nướng (thịt). Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 26,
+   "code": "S2",
+   "q": "'interpreter' (n) nghĩa là gì?",
+   "options": {
+    "A": "cách khắc phục, phương thuốc",
+    "B": "sự can thiệp",
+    "C": "sự hoảng loạn",
+    "D": "phiên dịch viên"
+   },
+   "answer": "D",
+   "explain": "interpreter (n) = phiên dịch viên. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 27,
+   "code": "S2",
+   "q": "'fight over' (phr. v) nghĩa là gì?",
+   "options": {
+    "A": "tranh giành, cãi nhau vì",
+    "B": "qua lại, tới lui",
+    "C": "thật sự, thật lòng",
+    "D": "quá hăng say, bị cuốn theo"
+   },
+   "answer": "A",
+   "explain": "fight over (phr. v) = tranh giành, cãi nhau vì. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 28,
+   "code": "S1",
+   "q": "'provision' (v) nghĩa là gì?",
+   "options": {
+    "A": "hấp thụ, tiếp thu",
+    "B": "sải bước",
+    "C": "lôi kéo, hấp dẫn",
+    "D": "cấp phát, chuẩn bị sẵn (tài nguyên)"
+   },
+   "answer": "D",
+   "explain": "provision (v) = cấp phát, chuẩn bị sẵn (tài nguyên). Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 29,
+   "code": "S5",
+   "q": "'genuinely' (adv) nghĩa là gì?",
+   "options": {
+    "A": "giống (bố mẹ, người thân)",
+    "B": "hợp với, hoà thuận với ai",
+    "C": "khá, tương đối",
+    "D": "thật sự, thật lòng"
+   },
+   "answer": "D",
+   "explain": "genuinely (adv) = thật sự, thật lòng. Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 30,
+   "code": "S6",
+   "q": "'fairly' (adv) nghĩa là gì?",
+   "options": {
+    "A": "khá, tương đối",
+    "B": "giống (bố mẹ, người thân)",
+    "C": "qua lại, tới lui",
+    "D": "trong khi (chỉ sự đối lập)"
+   },
+   "answer": "A",
+   "explain": "fairly (adv) = khá, tương đối. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 31,
+   "code": "S3",
+   "q": "'ridge' (n) nghĩa là gì?",
+   "options": {
+    "A": "sự hoảng loạn",
+    "B": "phiên dịch viên",
+    "C": "việc gộp nhiều request giống nhau thành một",
+    "D": "sống núi, dải đồi"
+   },
+   "answer": "D",
+   "explain": "ridge (n) = sống núi, dải đồi. Xem lại trong câu chuyện 3."
+  },
+  {
+   "no": 32,
+   "code": "S7",
+   "q": "'overthrow' (v) nghĩa là gì?",
+   "options": {
+    "A": "lật đổ",
+    "B": "trợ giá, bao cấp",
+    "C": "xé toạc, chia rẽ",
+    "D": "quay, nướng (thịt)"
+   },
+   "answer": "A",
+   "explain": "overthrow (v) = lật đổ. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 33,
+   "code": "S1",
+   "q": "'spike' (v) nghĩa là gì?",
+   "options": {
+    "A": "sải bước",
+    "B": "tăng vọt đột ngột",
+    "C": "quay, nướng (thịt)",
+    "D": "kêu cót két, kêu chít chít"
+   },
+   "answer": "B",
+   "explain": "spike (v) = tăng vọt đột ngột. Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 34,
+   "code": "S2",
+   "q": "'back and forth' (phrase) nghĩa là gì?",
+   "options": {
+    "A": "đều, đồng đều",
+    "B": "khá, tương đối",
+    "C": "trong khi (chỉ sự đối lập)",
+    "D": "qua lại, tới lui"
+   },
+   "answer": "D",
+   "explain": "back and forth (phrase) = qua lại, tới lui. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 35,
+   "code": "S6",
+   "q": "'squeak' (v) nghĩa là gì?",
+   "options": {
+    "A": "tăng vọt đột ngột",
+    "B": "kêu cót két, kêu chít chít",
+    "C": "cứu vãn, cứu được (thứ sắp hỏng)",
+    "D": "truyền đạt, chuyển tải"
+   },
+   "answer": "B",
+   "explain": "squeak (v) = kêu cót két, kêu chít chít. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 36,
+   "code": "S1",
+   "q": "'tolerance' (n) nghĩa là gì?",
+   "options": {
+    "A": "cách khắc phục, phương thuốc",
+    "B": "cơ chế dự phòng, sự dư thừa",
+    "C": "(fault tolerance) khả năng chịu lỗi",
+    "D": "sầu riêng"
+   },
+   "answer": "C",
+   "explain": "tolerance (n) = (fault tolerance) khả năng chịu lỗi. Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 37,
+   "code": "S2",
+   "q": "'chronological' (adj) nghĩa là gì?",
+   "options": {
+    "A": "ngắn gọn, súc tích",
+    "B": "mơ hồ, hiểu được nhiều nghĩa",
+    "C": "bực bội, nản lòng",
+    "D": "theo trình tự thời gian"
+   },
+   "answer": "D",
+   "explain": "chronological (adj) = theo trình tự thời gian. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 38,
+   "code": "S1",
+   "q": "'coalescing' (n) nghĩa là gì?",
+   "options": {
+    "A": "sự cố ngừng hoạt động (mất điện, sập hệ thống)",
+    "B": "việc gộp nhiều request giống nhau thành một",
+    "C": "sự hoảng loạn",
+    "D": "vệt, sọc"
+   },
+   "answer": "B",
+   "explain": "coalescing (n) = việc gộp nhiều request giống nhau thành một. Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 39,
+   "code": "S2",
+   "q": "'concentration' (n) nghĩa là gì?",
+   "options": {
+    "A": "sự phân biệt, khác biệt",
+    "B": "(fault tolerance) khả năng chịu lỗi",
+    "C": "sự tập trung",
+    "D": "phiên dịch viên"
+   },
+   "answer": "C",
+   "explain": "concentration (n) = sự tập trung. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 40,
+   "code": "S2",
+   "q": "'open-ended' (adj) nghĩa là gì?",
+   "options": {
+    "A": "thờ ơ, dửng dưng",
+    "B": "mở, không có đáp án cố định",
+    "C": "rõ ràng, hiển nhiên",
+    "D": "không khả thi"
+   },
+   "answer": "B",
+   "explain": "open-ended (adj) = mở, không có đáp án cố định. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 41,
+   "code": "S6",
+   "q": "'anchor' (v) nghĩa là gì?",
+   "options": {
+    "A": "sụp đổ",
+    "B": "thả neo",
+    "C": "ngồi xổm, cúi khom người",
+    "D": "cứu vãn, cứu được (thứ sắp hỏng)"
+   },
+   "answer": "B",
+   "explain": "anchor (v) = thả neo. Xem lại trong câu chuyện 6."
+  },
+  {
+   "no": 42,
+   "code": "S2",
+   "q": "'get carried away' (idiom) nghĩa là gì?",
+   "options": {
+    "A": "quá hăng say, bị cuốn theo",
+    "B": "đều, đồng đều",
+    "C": "thật sự, thật lòng",
+    "D": "hầu như không, vừa đủ"
+   },
+   "answer": "A",
+   "explain": "get carried away (idiom) = quá hăng say, bị cuốn theo. Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 43,
+   "code": "S5",
+   "q": "'ambition' (n) nghĩa là gì?",
+   "options": {
+    "A": "vệt, sọc",
+    "B": "Giáo hoàng",
+    "C": "đợt triển khai, ra mắt (sản phẩm, tính năng)",
+    "D": "hoài bão, tham vọng"
+   },
+   "answer": "D",
+   "explain": "ambition (n) = hoài bão, tham vọng. Xem lại trong câu chuyện 5."
+  },
+  {
+   "no": 44,
+   "code": "S4",
+   "q": "'investment' (n) nghĩa là gì?",
+   "options": {
+    "A": "chuyến tham quan, dã ngoại",
+    "B": "sự cố ngừng hoạt động (mất điện, sập hệ thống)",
+    "C": "sự đầu tư",
+    "D": "vệt, sọc"
+   },
+   "answer": "C",
+   "explain": "investment (n) = sự đầu tư. Xem lại trong câu chuyện 4."
+  },
+  {
+   "no": 45,
+   "code": "S2",
+   "q": "'whereas' (conj) nghĩa là gì?",
+   "options": {
+    "A": "giống (bố mẹ, người thân)",
+    "B": "trong khi (chỉ sự đối lập)",
+    "C": "hợp với, hoà thuận với ai",
+    "D": "đều, đồng đều"
+   },
+   "answer": "B",
+   "explain": "whereas (conj) = trong khi (chỉ sự đối lập). Xem lại trong câu chuyện 2."
+  },
+  {
+   "no": 46,
+   "code": "S7",
+   "q": "'prologue' (n) nghĩa là gì?",
+   "options": {
+    "A": "cơ chế dự phòng, sự dư thừa",
+    "B": "đại dịch",
+    "C": "lời mở đầu, đoạn mở màn",
+    "D": "sự cô lập, tách biệt"
+   },
+   "answer": "C",
+   "explain": "prologue (n) = lời mở đầu, đoạn mở màn. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 47,
+   "code": "S7",
+   "q": "'haggle' (v) nghĩa là gì?",
+   "options": {
+    "A": "mặc cả, trả giá",
+    "B": "tuân thủ (adhere to)",
+    "C": "xé toạc, chia rẽ",
+    "D": "tái phạm, quay lại thói cũ"
+   },
+   "answer": "A",
+   "explain": "haggle (v) = mặc cả, trả giá. Xem lại trong câu chuyện 7."
+  },
+  {
+   "no": 48,
+   "code": "S4",
+   "q": "'pandemic' (n) nghĩa là gì?",
+   "options": {
+    "A": "chuyên gia tư vấn",
+    "B": "đại dịch",
+    "C": "lời mở đầu, đoạn mở màn",
+    "D": "trực giác"
+   },
+   "answer": "B",
+   "explain": "pandemic (n) = đại dịch. Xem lại trong câu chuyện 4."
+  },
+  {
+   "no": 49,
+   "code": "S1",
+   "q": "'rollout' (n) nghĩa là gì?",
+   "options": {
+    "A": "sự cố, vụ việc",
+    "B": "hoài bão, tham vọng",
+    "C": "đợt triển khai, ra mắt (sản phẩm, tính năng)",
+    "D": "sự xao nhãng, thứ làm phân tâm"
+   },
+   "answer": "C",
+   "explain": "rollout (n) = đợt triển khai, ra mắt (sản phẩm, tính năng). Xem lại trong câu chuyện 1."
+  },
+  {
+   "no": 50,
+   "code": "S5",
+   "q": "'intuition' (n) nghĩa là gì?",
+   "options": {
+    "A": "lời mở đầu, đoạn mở màn",
+    "B": "trực giác",
+    "C": "phiên dịch viên",
+    "D": "sự hoảng loạn"
+   },
+   "answer": "B",
+   "explain": "intuition (n) = trực giác. Xem lại trong câu chuyện 5."
+  }
+ ],
+ "normal": [
+  {
+   "no": 1,
+   "code": "S5",
+   "q": "Climbing Everest is a dangerous ___ that needs years of training.",
+   "options": {
+    "A": "endeavour",
+    "B": "remedy",
+    "C": "recap",
+    "D": "durian"
+   },
+   "answer": "A",
+   "explain": "endeavour (endeavour, n) = nỗ lực, việc khó cần cố gắng."
+  },
+  {
+   "no": 2,
+   "code": "S6",
+   "q": "We were ___ to hear that the quiet boy had won the singing contest.",
+   "options": {
+    "A": "generous",
+    "B": "indifferent",
+    "C": "astonished",
+    "D": "crooked"
+   },
+   "answer": "C",
+   "explain": "astonished (astonished, adj) = kinh ngạc."
+  },
+  {
+   "no": 3,
+   "code": "S2",
+   "q": "Finishing the whole project in one day is ___ – we need at least a week.",
+   "options": {
+    "A": "infeasible",
+    "B": "genuine",
+    "C": "domestic",
+    "D": "cordial"
+   },
+   "answer": "A",
+   "explain": "infeasible (infeasible, adj) = không khả thi."
+  },
+  {
+   "no": 4,
+   "code": "S3",
+   "q": "The government ___ electric cars, so they are cheaper to buy.",
+   "options": {
+    "A": "subsidises",
+    "B": "deduces",
+    "C": "anchors",
+    "D": "overthrows"
+   },
+   "answer": "A",
+   "explain": "subsidises (subsidise, v) = trợ giá, bao cấp."
+  },
+  {
+   "no": 5,
+   "code": "S1",
+   "q": "Bitcoin prices are very ___ – they can rise or fall 10% in a single day.",
+   "options": {
+    "A": "concise",
+    "B": "rigid",
+    "C": "stale",
+    "D": "volatile"
+   },
+   "answer": "D",
+   "explain": "volatile (volatile, adj) = dễ biến động, thất thường."
+  },
+  {
+   "no": 6,
+   "code": "S5",
+   "q": "It's important to make a clear ___ between facts and opinions.",
+   "options": {
+    "A": "concentration",
+    "B": "interference",
+    "C": "distinction",
+    "D": "incident"
+   },
+   "answer": "C",
+   "explain": "distinction (distinction, n) = sự phân biệt, khác biệt. Cụm: make a distinction between A and B = phân biệt A với B."
+  },
+  {
+   "no": 7,
+   "code": "S5",
+   "q": "We need ___ energy sources such as solar and wind power.",
+   "options": {
+    "A": "frustrated",
+    "B": "ambiguous",
+    "C": "rigid",
+    "D": "sustainable"
+   },
+   "answer": "D",
+   "explain": "sustainable (sustainable, adj) = bền vững."
+  },
+  {
+   "no": 8,
+   "code": "S4",
+   "q": "The police are ___ the cause of the fire.",
+   "options": {
+    "A": "haggling",
+    "B": "investigating",
+    "C": "subsidising",
+    "D": "emulating"
+   },
+   "answer": "B",
+   "explain": "investigating (investigate, v) = điều tra, tìm hiểu kỹ."
+  },
+  {
+   "no": 9,
+   "code": "S7",
+   "q": "The police are investigating a serious ___ at the stadium last night.",
+   "options": {
+    "A": "disguise",
+    "B": "Pope",
+    "C": "incident",
+    "D": "prologue"
+   },
+   "answer": "C",
+   "explain": "incident (incident, n) = sự cố, vụ việc."
+  },
+  {
+   "no": 10,
+   "code": "S6",
+   "q": "The fisherman ___ his net into the river and waited.",
+   "options": {
+    "A": "anchored",
+    "B": "roasted",
+    "C": "crouched",
+    "D": "cast"
+   },
+   "answer": "D",
+   "explain": "cast (cast, v) = quăng, thả (lưới, cần câu). cast – cast – cast (bất quy tắc, ba dạng giống nhau)."
+  },
+  {
+   "no": 11,
+   "code": "S1",
+   "q": "The first test failed, but all ___ tests were successful.",
+   "options": {
+    "A": "elementary",
+    "B": "outermost",
+    "C": "subsequent",
+    "D": "crooked"
+   },
+   "answer": "C",
+   "explain": "subsequent (subsequent, adj) = tiếp theo, sau đó."
+  },
+  {
+   "no": 12,
+   "code": "S2",
+   "q": "All staff must ___ to the safety rules.",
+   "options": {
+    "A": "entice",
+    "B": "adhere",
+    "C": "convey",
+    "D": "absorb"
+   },
+   "answer": "B",
+   "explain": "adhere (adhere, v) = tuân thủ (adhere to). Cụm cố định: adhere to + quy định = tuân thủ."
+  },
+  {
+   "no": 13,
+   "code": "S6",
+   "q": "The new hotel can ___ up to 500 guests.",
+   "options": {
+    "A": "contest",
+    "B": "accommodate",
+    "C": "emulate",
+    "D": "crouch"
+   },
+   "answer": "B",
+   "explain": "accommodate (accommodate, v) = cho ở, có sức chứa; đáp ứng."
+  },
+  {
+   "no": 14,
+   "code": "S6",
+   "q": "The weather was terrible. ___, we enjoyed the trip.",
+   "options": {
+    "A": "Whereas",
+    "B": "For instance",
+    "C": "Barely",
+    "D": "Nevertheless"
+   },
+   "answer": "D",
+   "explain": "Nevertheless (nevertheless, adv) = tuy nhiên, dù vậy. 'Whereas' là liên từ nối hai vế trong cùng một câu, không đứng đầu câu như 'Nevertheless,'."
+  },
+  {
+   "no": 15,
+   "code": "S5",
+   "q": "Honey and lemon is a popular home ___ for a sore throat.",
+   "options": {
+    "A": "outage",
+    "B": "remedy",
+    "C": "prologue",
+    "D": "obstacle"
+   },
+   "answer": "B",
+   "explain": "remedy (remedy, n) = cách khắc phục, phương thuốc."
+  },
+  {
+   "no": 16,
+   "code": "S6",
+   "q": "Turn off your phone – it's a big ___ when you're studying.",
+   "options": {
+    "A": "distraction",
+    "B": "endeavour",
+    "C": "investment",
+    "D": "distinction"
+   },
+   "answer": "A",
+   "explain": "distraction (distraction, n) = sự xao nhãng, thứ làm phân tâm. Đừng nhầm distraction (sự xao nhãng) với distinction (sự phân biệt)."
+  },
+  {
+   "no": 17,
+   "code": "S6",
+   "q": "He is completely ___ to other people's problems – he never helps anyone.",
+   "options": {
+    "A": "indifferent",
+    "B": "fond",
+    "C": "generous",
+    "D": "cordial"
+   },
+   "answer": "A",
+   "explain": "indifferent (indifferent, adj) = thờ ơ, dửng dưng. be indifferent to = thờ ơ với."
+  },
+  {
+   "no": 18,
+   "code": "S4",
+   "q": "She hates any ___ from her parents in her personal life.",
+   "options": {
+    "A": "investment",
+    "B": "interference",
+    "C": "intuition",
+    "D": "ambition"
+   },
+   "answer": "B",
+   "explain": "interference (interference, n) = sự can thiệp."
+  },
+  {
+   "no": 19,
+   "code": "S3",
+   "q": "The old man walked slowly down the narrow, ___ street.",
+   "options": {
+    "A": "crooked",
+    "B": "concise",
+    "C": "volatile",
+    "D": "mandatory"
+   },
+   "answer": "A",
+   "explain": "crooked (crooked, adj) = cong queo, xiêu vẹo."
+  },
+  {
+   "no": 20,
+   "code": "S7",
+   "q": "Doctors recommend ___ exercise, such as walking for 30 minutes a day.",
+   "options": {
+    "A": "cordial",
+    "B": "concise",
+    "C": "moderate",
+    "D": "domestic"
+   },
+   "answer": "C",
+   "explain": "moderate (moderate, adj) = vừa phải, phải chăng; ôn hoà."
+  },
+  {
+   "no": 21,
+   "code": "S2",
+   "q": "There are many health risks ___ with smoking.",
+   "options": {
+    "A": "fond",
+    "B": "riven",
+    "C": "associated",
+    "D": "enticed"
+   },
+   "answer": "C",
+   "explain": "associated (associated, adj) = liên quan, gắn liền (associated with). Cụm cố định: be associated with = gắn liền với."
+  },
+  {
+   "no": 22,
+   "code": "S2",
+   "q": "Wearing a helmet on a motorbike is ___ in Vietnam – you'll be fined if you don't.",
+   "options": {
+    "A": "mandatory",
+    "B": "generous",
+    "C": "open-ended",
+    "D": "volatile"
+   },
+   "answer": "A",
+   "explain": "mandatory (mandatory, adj) = bắt buộc."
+  },
+  {
+   "no": 23,
+   "code": "S3",
+   "q": "Shops use free gifts to ___ customers inside.",
+   "options": {
+    "A": "adhere",
+    "B": "entice",
+    "C": "contest",
+    "D": "crouch"
+   },
+   "answer": "B",
+   "explain": "entice (entice, v) = lôi kéo, hấp dẫn."
+  },
+  {
+   "no": 24,
+   "code": "S1",
+   "q": "Small companies can ___ social media to reach customers for free.",
+   "options": {
+    "A": "leverage",
+    "B": "crouch",
+    "C": "salvage",
+    "D": "haggle"
+   },
+   "answer": "A",
+   "explain": "leverage (leverage, v) = tận dụng."
+  },
+  {
+   "no": 25,
+   "code": "S1",
+   "q": "We build the app in an ___ way: release, get feedback, improve, and repeat.",
+   "options": {
+    "A": "indifferent",
+    "B": "ambiguous",
+    "C": "infeasible",
+    "D": "iterative"
+   },
+   "answer": "D",
+   "explain": "iterative (iterative, adj) = lặp theo từng vòng, cải tiến dần."
+  },
+  {
+   "no": 26,
+   "code": "S5",
+   "q": "Freedom of speech is a ___ human right.",
+   "options": {
+    "A": "stale",
+    "B": "fundamental",
+    "C": "volatile",
+    "D": "crooked"
+   },
+   "answer": "B",
+   "explain": "fundamental (fundamental, adj) = cơ bản, nền tảng, cốt lõi."
+  },
+  {
+   "no": 27,
+   "code": "S7",
+   "q": "When the fire alarm went off, people ran out of the building in ___.",
+   "options": {
+    "A": "disguise",
+    "B": "incident",
+    "C": "prologue",
+    "D": "panic"
+   },
+   "answer": "D",
+   "explain": "panic (panic, n) = sự hoảng loạn."
+  },
+  {
+   "no": 28,
+   "code": "S2",
+   "q": "The message 'Meet me after lunch' is ___ – it could mean 1 p.m. or 4 p.m.",
+   "options": {
+    "A": "cordial",
+    "B": "concise",
+    "C": "sustainable",
+    "D": "ambiguous"
+   },
+   "answer": "D",
+   "explain": "ambiguous (ambiguous, adj) = mơ hồ, hiểu được nhiều nghĩa."
+  },
+  {
+   "no": 29,
+   "code": "S2",
+   "q": "The losing team decided to ___ the referee's decision.",
+   "options": {
+    "A": "accommodate",
+    "B": "convey",
+    "C": "contest",
+    "D": "complement"
+   },
+   "answer": "C",
+   "explain": "contest (contest, v) = phản đối, tranh cãi (một quyết định)."
+  },
+  {
+   "no": 30,
+   "code": "S6",
+   "q": "A glass of white wine will ___ the fish perfectly.",
+   "options": {
+    "A": "accommodate",
+    "B": "convey",
+    "C": "compliment",
+    "D": "complement"
+   },
+   "answer": "D",
+   "explain": "complement (complement, v) = bổ sung, làm tôn lên. complement = bổ sung, làm tôn lên; compliment = khen ngợi. Hai từ phát âm gần giống nhau."
+  },
+  {
+   "no": 31,
+   "code": "S1",
+   "q": "Planting more trees can help ___ the effects of air pollution.",
+   "options": {
+    "A": "contest",
+    "B": "mitigate",
+    "C": "emulate",
+    "D": "anticipate"
+   },
+   "answer": "B",
+   "explain": "mitigate (mitigate, v) = giảm nhẹ, giảm thiểu."
+  },
+  {
+   "no": 32,
+   "code": "S5",
+   "q": "This bag is made of ___ leather, not plastic.",
+   "options": {
+    "A": "stale",
+    "B": "elementary",
+    "C": "cordial",
+    "D": "genuine"
+   },
+   "answer": "D",
+   "explain": "genuine (genuine, adj) = thật, chân thành."
+  },
+  {
+   "no": 33,
+   "code": "S6",
+   "q": "I was so tired that I could ___ keep my eyes open.",
+   "options": {
+    "A": "genuinely",
+    "B": "evenly",
+    "C": "fairly",
+    "D": "barely"
+   },
+   "answer": "D",
+   "explain": "barely (barely, adv) = hầu như không, vừa đủ."
+  },
+  {
+   "no": 34,
+   "code": "S5",
+   "q": "It was very ___ of you to pay for everyone's dinner.",
+   "options": {
+    "A": "crooked",
+    "B": "generous",
+    "C": "frustrated",
+    "D": "indifferent"
+   },
+   "answer": "B",
+   "explain": "generous (generous, adj) = hào phóng, rộng rãi."
+  },
+  {
+   "no": 35,
+   "code": "S3",
+   "q": "Lack of money was the biggest ___ to his plan to study abroad.",
+   "options": {
+    "A": "recap",
+    "B": "durian",
+    "C": "obstacle",
+    "D": "remedy"
+   },
+   "answer": "C",
+   "explain": "obstacle (obstacle, n) = chướng ngại vật, trở ngại."
+  },
+  {
+   "no": 36,
+   "code": "S1",
+   "q": "From the muddy shoes, the detective ___ that the man had walked through the garden.",
+   "options": {
+    "A": "deduced",
+    "B": "leveraged",
+    "C": "absorbed",
+    "D": "enticed"
+   },
+   "answer": "A",
+   "explain": "deduced (deduce, v) = suy ra, luận ra."
+  },
+  {
+   "no": 37,
+   "code": "S7",
+   "q": "I'm really ___ because my laptop keeps crashing.",
+   "options": {
+    "A": "cordial",
+    "B": "concise",
+    "C": "moderate",
+    "D": "frustrated"
+   },
+   "answer": "D",
+   "explain": "frustrated (frustrated, adj) = bực bội, nản lòng."
+  },
+  {
+   "no": 38,
+   "code": "S1",
+   "q": "The old bridge ___ after three days of heavy rain.",
+   "options": {
+    "A": "provisioned",
+    "B": "collapsed",
+    "C": "spiked",
+    "D": "deduced"
+   },
+   "answer": "B",
+   "explain": "collapsed (collapse, v) = sụp đổ."
+  },
+  {
+   "no": 39,
+   "code": "S2",
+   "q": "The teacher used a simple drawing to ___ how the heart works.",
+   "options": {
+    "A": "backslide",
+    "B": "illustrate",
+    "C": "adhere",
+    "D": "overthrow"
+   },
+   "answer": "B",
+   "explain": "illustrate (illustrate, v) = minh hoạ, làm rõ."
+  },
+  {
+   "no": 40,
+   "code": "S3",
+   "q": "Pluto was once called the ___ planet of our solar system.",
+   "options": {
+    "A": "subsequent",
+    "B": "stale",
+    "C": "outermost",
+    "D": "elementary"
+   },
+   "answer": "C",
+   "explain": "outermost (outermost, adj) = ở xa nhất, ngoài cùng."
+  },
+  {
+   "no": 41,
+   "code": "S7",
+   "q": "Please keep your answer ___ – no more than 50 words.",
+   "options": {
+    "A": "frustrated",
+    "B": "concise",
+    "C": "domestic",
+    "D": "cordial"
+   },
+   "answer": "B",
+   "explain": "concise (concise, adj) = ngắn gọn, súc tích."
+  },
+  {
+   "no": 42,
+   "code": "S7",
+   "q": "___ flights inside Vietnam are usually cheaper than international ones.",
+   "options": {
+    "A": "Concise",
+    "B": "Cordial",
+    "C": "Domestic",
+    "D": "Frustrated"
+   },
+   "answer": "C",
+   "explain": "Domestic (domestic, adj) = trong nước, nội địa; (thuộc) gia đình."
+  },
+  {
+   "no": 43,
+   "code": "S2",
+   "q": "Plants ___ water through their roots.",
+   "options": {
+    "A": "emulate",
+    "B": "absorb",
+    "C": "salvage",
+    "D": "haggle"
+   },
+   "answer": "B",
+   "explain": "absorb (absorb, v) = hấp thụ, tiếp thu."
+  },
+  {
+   "no": 44,
+   "code": "S1",
+   "q": "Cut the cake so that it is shared ___ among the ten children.",
+   "options": {
+    "A": "evenly",
+    "B": "genuinely",
+    "C": "nevertheless",
+    "D": "barely"
+   },
+   "answer": "A",
+   "explain": "evenly (evenly, adv) = đều, đồng đều."
+  },
+  {
+   "no": 45,
+   "code": "S5",
+   "q": "Firefighters managed to ___ some old photos from the burning house.",
+   "options": {
+    "A": "leverage",
+    "B": "deduce",
+    "C": "salvage",
+    "D": "illustrate"
+   },
+   "answer": "C",
+   "explain": "salvage (salvage, v) = cứu vãn, cứu được (thứ sắp hỏng)."
+  },
+  {
+   "no": 46,
+   "code": "S1",
+   "q": "We didn't ___ so many visitors, so we ran out of food.",
+   "options": {
+    "A": "deduce",
+    "B": "anticipate",
+    "C": "mitigate",
+    "D": "leverage"
+   },
+   "answer": "B",
+   "explain": "anticipate (anticipate, v) = lường trước, dự đoán trước."
+  },
+  {
+   "no": 47,
+   "code": "S7",
+   "q": "The two leaders had a ___ meeting and promised to work closely together.",
+   "options": {
+    "A": "domestic",
+    "B": "cordial",
+    "C": "concise",
+    "D": "frustrated"
+   },
+   "answer": "B",
+   "explain": "cordial (cordial, adj) = thân mật, thân thiện (lịch sự)."
+  },
+  {
+   "no": 48,
+   "code": "S7",
+   "q": "Young footballers often try to ___ their heroes, like Messi or Ronaldo.",
+   "options": {
+    "A": "emulate",
+    "B": "rive",
+    "C": "haggle",
+    "D": "overthrow"
+   },
+   "answer": "A",
+   "explain": "emulate (emulate, v) = noi gương, bắt chước để được bằng."
+  },
+  {
+   "no": 49,
+   "code": "S2",
+   "q": "It is hard to ___ your feelings in a short text message.",
+   "options": {
+    "A": "rive",
+    "B": "roast",
+    "C": "contest",
+    "D": "convey"
+   },
+   "answer": "D",
+   "explain": "convey (convey, v) = truyền đạt, chuyển tải."
+  }
+ ],
+ "hard": [
+  {
+   "no": 1,
+   "code": "S2",
+   "q": "Reviewing every line of code twice is ___ – we simply don't have enough people.",
+   "options": {
+    "A": "infeasible",
+    "B": "feasibly",
+    "C": "unfeasible to",
+    "D": "infeasibility"
+   },
+   "answer": "A",
+   "explain": "Sau is cần tính từ: infeasible = không khả thi (feasible + tiền tố in-)."
+  },
+  {
+   "no": 2,
+   "code": "S2",
+   "q": "We decided to adhere ___ the new rule.",
+   "options": {
+    "A": "on",
+    "B": "to",
+    "C": "for",
+    "D": "with"
+   },
+   "answer": "B",
+   "explain": "Cụm cố định: adhere to = tuân thủ."
+  },
+  {
+   "no": 3,
+   "code": "S7",
+   "q": "Trong câu 'Mr Nam will moderate the panel discussion', 'moderate' nghĩa là:",
+   "options": {
+    "A": "lật đổ",
+    "B": "hủy bỏ",
+    "C": "che giấu",
+    "D": "điều phối, chủ trì"
+   },
+   "answer": "D",
+   "explain": "moderate (v) = điều phối, chủ trì buổi thảo luận; người điều phối = moderator."
+  },
+  {
+   "no": 4,
+   "code": "S7",
+   "q": "The thief escaped from the hotel disguised ___ a waiter.",
+   "options": {
+    "A": "with",
+    "B": "for",
+    "C": "as",
+    "D": "like"
+   },
+   "answer": "C",
+   "explain": "Cụm cố định: disguised as = cải trang thành."
+  },
+  {
+   "no": 5,
+   "code": "S2",
+   "q": "Chọn câu dùng 'get carried away' ĐÚNG nghĩa:",
+   "options": {
+    "A": "He got carried away to the hospital by car.",
+    "B": "The box got carried away by two men.",
+    "C": "I got carried away and spent all my money at the sale.",
+    "D": "Please get carried away your books."
+   },
+   "answer": "C",
+   "explain": "get carried away (idiom) = quá hăng, bị cuốn theo đến mức mất kiểm soát. B, C hiểu theo nghĩa đen \"bị khiêng đi\"."
+  },
+  {
+   "no": 6,
+   "code": "S2",
+   "q": "Chọn từ TRÁI NGHĨA với 'ambiguous':",
+   "options": {
+    "A": "clear",
+    "B": "vague",
+    "C": "confusing",
+    "D": "unclear"
+   },
+   "answer": "A",
+   "explain": "ambiguous = mơ hồ ↔ clear = rõ ràng. Ba từ còn lại đều gần nghĩa với ambiguous."
+  },
+  {
+   "no": 7,
+   "code": "S7",
+   "q": "Chọn câu gần nghĩa nhất với 'concise':",
+   "options": {
+    "A": "confused and unclear",
+    "B": "brief and clear",
+    "C": "long and detailed",
+    "D": "rude and unfriendly"
+   },
+   "answer": "B",
+   "explain": "concise = ngắn gọn nhưng rõ ý."
+  },
+  {
+   "no": 8,
+   "code": "S7",
+   "q": "Trong câu 'Domestic violence is a serious problem', 'domestic' nghĩa là:",
+   "options": {
+    "A": "trong gia đình",
+    "B": "trong nước",
+    "C": "nơi công cộng",
+    "D": "quốc tế"
+   },
+   "answer": "A",
+   "explain": "domestic có 2 nghĩa: trong nước (domestic flight) và trong gia đình (domestic violence, domestic chores)."
+  },
+  {
+   "no": 9,
+   "code": "S1",
+   "q": "Trong 'Some users still saw stale prices', 'stale' nghĩa là:",
+   "options": {
+    "A": "quá đắt",
+    "B": "cũ, chưa được cập nhật",
+    "C": "bị ẩn đi",
+    "D": "đang giảm giá"
+   },
+   "answer": "B",
+   "explain": "stale = cũ, lỗi thời (dữ liệu, bánh mì…). stale data = dữ liệu cũ trong cache."
+  },
+  {
+   "no": 10,
+   "code": "S6",
+   "q": "My aunt is very fond ___ guests.",
+   "options": {
+    "A": "to",
+    "B": "with",
+    "C": "of",
+    "D": "about"
+   },
+   "answer": "C",
+   "explain": "Cụm cố định: be fond of + N/V-ing = thích, quý mến."
+  },
+  {
+   "no": 11,
+   "code": "S7",
+   "q": "He promised to stop gambling, but last month he ___ into his old habits.",
+   "options": {
+    "A": "backslid",
+    "B": "backslide",
+    "C": "backslided",
+    "D": "backslidden"
+   },
+   "answer": "A",
+   "explain": "backslide chia như slide: quá khứ đơn backslid. backslidden chỉ là một dạng V3."
+  },
+  {
+   "no": 12,
+   "code": "S2",
+   "q": "Chọn từ TRÁI NGHĨA với 'mandatory':",
+   "options": {
+    "A": "compulsory",
+    "B": "optional",
+    "C": "necessary",
+    "D": "required"
+   },
+   "answer": "B",
+   "explain": "mandatory = bắt buộc ↔ optional = tuỳ chọn. compulsory, required là đồng nghĩa."
+  },
+  {
+   "no": 13,
+   "code": "S6",
+   "q": "We were ___ by how sweet the durian was.",
+   "options": {
+    "A": "astonishment",
+    "B": "astonish",
+    "C": "astonished",
+    "D": "astonishing"
+   },
+   "answer": "C",
+   "explain": "Người cảm thấy kinh ngạc → tính từ -ed: astonished. -ing dùng cho thứ gây kinh ngạc: an astonishing result."
+  },
+  {
+   "no": 14,
+   "code": "S5",
+   "q": "Her interest in our team was ___, not just part of the job.",
+   "options": {
+    "A": "genuined",
+    "B": "genuineness",
+    "C": "genuinely",
+    "D": "genuine"
+   },
+   "answer": "D",
+   "explain": "Sau động từ to be (was) cần tính từ → genuine. genuinely là trạng từ (I was genuinely sad)."
+  },
+  {
+   "no": 15,
+   "code": "S2",
+   "q": "Chọn từ TRÁI NGHĨA với 'rigid' (về quy định, kế hoạch):",
+   "options": {
+    "A": "strict",
+    "B": "firm",
+    "C": "fixed",
+    "D": "flexible"
+   },
+   "answer": "D",
+   "explain": "rigid = cứng nhắc ↔ flexible = linh hoạt."
+  },
+  {
+   "no": 16,
+   "code": "S1",
+   "q": "Chọn cụm đồng nghĩa với 'leverage' trong 'We leveraged a free tool':",
+   "options": {
+    "A": "make use of",
+    "B": "build from scratch",
+    "C": "get rid of",
+    "D": "pay for"
+   },
+   "answer": "A",
+   "explain": "leverage (v) = tận dụng ≈ make use of / take advantage of."
+  },
+  {
+   "no": 17,
+   "code": "S7",
+   "q": "Chọn từ TRÁI NGHĨA với 'cordial':",
+   "options": {
+    "A": "friendly",
+    "B": "hostile",
+    "C": "polite",
+    "D": "warm"
+   },
+   "answer": "B",
+   "explain": "cordial = thân mật ↔ hostile = thù địch."
+  },
+  {
+   "no": 18,
+   "code": "S6",
+   "q": "Chọn từ TRÁI NGHĨA với 'indifferent':",
+   "options": {
+    "A": "cold",
+    "B": "uninterested",
+    "C": "concerned",
+    "D": "careless"
+   },
+   "answer": "C",
+   "explain": "indifferent = thờ ơ ↔ concerned / interested = quan tâm."
+  },
+  {
+   "no": 19,
+   "code": "S2",
+   "q": "Lan likes coffee, ___ her sister prefers tea.",
+   "options": {
+    "A": "for instance",
+    "B": "whereas",
+    "C": "nevertheless",
+    "D": "barely"
+   },
+   "answer": "B",
+   "explain": "whereas nối hai vế đối lập trong cùng một câu. Nevertheless đứng đầu câu mới: \"… Nevertheless, …\"."
+  },
+  {
+   "no": 20,
+   "code": "S1",
+   "q": "Chọn từ đồng nghĩa với 'mitigate':",
+   "options": {
+    "A": "predict",
+    "B": "ignore",
+    "C": "increase",
+    "D": "reduce"
+   },
+   "answer": "D",
+   "explain": "mitigate = giảm nhẹ, giảm thiểu ≈ reduce / lessen."
+  },
+  {
+   "no": 21,
+   "code": "S7",
+   "q": "The ___ of the king led to years of chaos.",
+   "options": {
+    "A": "overthrew",
+    "B": "overthrowing",
+    "C": "overthrown",
+    "D": "overthrow"
+   },
+   "answer": "D",
+   "explain": "Sau \"The … of\" cần danh từ; overthrow vừa là động từ vừa là danh từ (sự lật đổ)."
+  },
+  {
+   "no": 22,
+   "code": "S5",
+   "q": "'I take after my father' nghĩa là:",
+   "options": {
+    "A": "Tôi chăm sóc bố tôi.",
+    "B": "Tôi giống bố tôi.",
+    "C": "Tôi hợp tính với bố tôi.",
+    "D": "Tôi đi theo sau bố tôi."
+   },
+   "answer": "B",
+   "explain": "take after = giống (người thân lớn tuổi). Chăm sóc = look after; hợp tính = get along with."
+  },
+  {
+   "no": 23,
+   "code": "S3",
+   "q": "Chọn từ đồng nghĩa với 'entice':",
+   "options": {
+    "A": "force",
+    "B": "tempt",
+    "C": "warn",
+    "D": "forbid"
+   },
+   "answer": "B",
+   "explain": "entice = lôi kéo, hấp dẫn ≈ tempt / attract."
+  },
+  {
+   "no": 24,
+   "code": "S5",
+   "q": "Chọn câu dùng 'relentless' ĐÚNG:",
+   "options": {
+    "A": "He is a relentlessly man.",
+    "B": "They relentlessed the project.",
+    "C": "The relentless rain lasted for a whole week.",
+    "D": "She relentless worked all night."
+   },
+   "answer": "C",
+   "explain": "relentless là tính từ (đứng trước danh từ): relentless rain = mưa không ngớt. Trạng từ: relentlessly."
+  },
+  {
+   "no": 25,
+   "code": "S6",
+   "q": "'I barely slept last night' nghĩa là:",
+   "options": {
+    "A": "Tối qua tôi ngủ quá giờ.",
+    "B": "Tối qua tôi ngủ rất ngon.",
+    "C": "Tối qua tôi ngủ đủ giấc.",
+    "D": "Tối qua tôi gần như không ngủ."
+   },
+   "answer": "D",
+   "explain": "barely = hầu như không, rất ít (≈ hardly)."
+  },
+  {
+   "no": 26,
+   "code": "S7",
+   "q": "When she saw the snake, she ___ and screamed.",
+   "options": {
+    "A": "panics",
+    "B": "panicked",
+    "C": "panicking",
+    "D": "paniced"
+   },
+   "answer": "B",
+   "explain": "Động từ tận cùng -ic thêm 'k' trước -ed/-ing: panicked, panicking."
+  },
+  {
+   "no": 27,
+   "code": "S7",
+   "q": "For years, the party has been ___ by internal conflicts.",
+   "options": {
+    "A": "rives",
+    "B": "riving",
+    "C": "rived up",
+    "D": "riven"
+   },
+   "answer": "D",
+   "explain": "Bị động has been + V3; rive – rived – riven → riven by = bị chia rẽ bởi."
+  },
+  {
+   "no": 28,
+   "code": "S7",
+   "q": "Waiting two hours for a delayed flight is very ___.",
+   "options": {
+    "A": "frustrating",
+    "B": "frustrate",
+    "C": "frustration",
+    "D": "frustrated"
+   },
+   "answer": "A",
+   "explain": "Sự việc gây bực bội → -ing: frustrating. Người cảm thấy bực → -ed: I am frustrated."
+  },
+  {
+   "no": 29,
+   "code": "S6",
+   "q": "Chọn câu ĐÚNG:",
+   "options": {
+    "A": "The spicy sauce compliments the grilled fish well.",
+    "B": "She complemented his new haircut.",
+    "C": "My boss complemented me on my report.",
+    "D": "The spicy sauce complements the grilled fish well."
+   },
+   "answer": "D",
+   "explain": "complement = bổ sung, làm tôn lên (món ăn, màu sắc); compliment = khen. Các câu B, C, D đã nhầm nghĩa hai từ."
+  },
+  {
+   "no": 30,
+   "code": "S3",
+   "q": "Yesterday, the guide ___ quickly up the hill.",
+   "options": {
+    "A": "stridden",
+    "B": "strode",
+    "C": "strid",
+    "D": "strided"
+   },
+   "answer": "B",
+   "explain": "stride – strode – stridden (bất quy tắc). Quá khứ đơn là strode."
+  }
+ ]
+}
